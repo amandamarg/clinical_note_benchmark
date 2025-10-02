@@ -1,0 +1,21 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient, a female, presented with complaints of worsening pain in the lower extremities with activity and sometimes at rest. The pain has been ongoing for a few months. The patient has a history of peripheral vascular disease diagnosed 9 years ago and a history of hypertension, for which she has been non-compliant with her medication. She has been smoking cigarettes for 11 years, consuming approximately 1 pack per day. The patient also reports a strong family history of coronary artery disease.
+
+**Objective:**  
+A catheter arteriogram was conducted, revealing significant occlusion of the left iliac artery, the right iliac artery, and the distal abdominal aorta. Numerous collateral vessels were noted, indicating long-standing proximal stenosis.
+
+**Assessment/Plan:**  
+The decision was made to perform angioplasty to address the areas of stenosis. An 8 mm × 40 mm Passeo balloon was advanced from the right femoral artery into the left iliac artery and insufflated to 6 mmHg, remaining expanded for 1 minute before deflation. The distal aorta was similarly treated, with the balloon insufflated to 12 mmHg and expanded for 90 seconds. The right iliac artery was treated using the same method. Post-procedure catheter arteriogram showed almost complete restoration of the diameter of both left and right iliac arteries, and improved diameter of the distal aorta. An angiogram of both lower extremities was performed, with the catheter passed distal to the previous stenosis in the left iliac artery to visualize perfusion of its distal branches.
+
+**Follow-up:**  
+The patient reported feeling a little better post-procedure. A follow-up appointment will be scheduled in a few weeks to monitor the patient's condition. 
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

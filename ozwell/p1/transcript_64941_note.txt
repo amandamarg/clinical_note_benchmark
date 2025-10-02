@@ -1,0 +1,39 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:03:05 PM  
+**Physician:** Dr. Smith  
+**Patient:** [Patient's Name]
+
+**Chief Complaint:**  
+Chest pain and shortness of breath for the past week.
+
+**History of Present Illness:**  
+The patient presents to the emergency department with substernal chest pain associated with dizziness, occurring once to two times a week. The patient has a history of coronary artery disease, having undergone coronary artery bypass graft in 2009 and percutaneous coronary intervention and stenting in 2008 to the left anterior descending artery and right coronary artery. The patient reports that the chest pain initially improved with the use of nitroglycerin, as recommended by their cardiologist one month ago, but has been increasing in severity over the past week and is now radiating to the left shoulder. The patient denies any nausea, vomiting, sweating, or loss of consciousness. The chest pain does not get worse or better with position or medication.
+
+**Past Medical History:**  
+- Coronary artery disease  
+- Hypercholesterolemia  
+- Hypothyroidism
+
+**Recent Medical History:**  
+The patient underwent a cardiac catheterization which showed no narrowing or disease of vessels. The ejection fraction was 65%, and previous grafts and stents were patent. The patient was scheduled for discharge but developed sudden left-sided weakness and facial droop.
+
+**Physical Examination:**  
+Vital signs are within normal limits. The physical examination, including cardiac and neurological exams, was normal.
+
+**Diagnostic Studies:**  
+- CT scan with no contrast showed no evidence of any acute or significant intracranial abnormality and no bleeding.  
+- Initial aPTT was higher than the upper normal limit due to recent use of unfractionated heparin for cardiac catheterization. Repeat aPTT after one hour was within the normal limit.
+
+**Consultations:**  
+The neurology team was consulted and recommended the use of tPA. However, due to the elevated aPTT, the primary team decided to recheck the aPTT after one hour, which then returned to normal limits.
+
+**Plan:**  
+The patient will be kept in the ICU for observation, and their condition will be monitored closely. The patient has been advised to report any changes or discomfort.
+
+**Instructions to Patient:**  
+The patient has been instructed to notify the medical team of any changes or discomfort. 
+
+**Follow-Up:**  
+Continue monitoring in the ICU. Further management will be based on the patient's clinical progress.

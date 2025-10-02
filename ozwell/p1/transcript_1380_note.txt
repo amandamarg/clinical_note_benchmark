@@ -1,0 +1,36 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 6:59:30 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Swelling in the right jaw.  
+- **History of Present Illness:** The patient reports a swelling in the right jaw, which developed three months ago due to an infection. The patient was treated with antibiotics, but the treatment was ineffective.  
+
+**Medical History:**  
+- No past or congenital diseases specified in the medical history.  
+
+**Clinical Examination:**  
+- Severe swelling in the right jaw without fluctuation upon palpation.  
+- Submandibular lymphadenopathy in the right mandibular region.  
+- Normal skin color and appearance.  
+
+**Oral Examination:**  
+- Right mandibular first molar tooth has a deep caries cavity and is not mobile.  
+
+**Radiographic Examination:**  
+- Deep caries cavity and a radiolucent area in the apical region of the right mandibular first molar tooth.  
+- Lamellar appearance on the external cortical surface of the mandible and at the lower edge of the mandibular corpus, showing focal new bone formation.  
+
+**Cone-Beam Computed Tomography:**  
+- Tunnel-like defect in the cortical bone in the vestibule surface of the inflamed bone, starting from the apical region of the right mandibular first molar tooth.  
+- Bone deposition at the radiolucent area in the center at the lower edge of the mandible and the vestibule surface in this region.  
+
+**Diagnosis:**  
+- Garre's osteomyelitis due to the periapical infection of the right mandibular first molar tooth.  
+
+**Treatment Plan:**  
+- Endodontic treatment was considered primarily to retain the infected tooth in the mouth. However, due to the patient's location in a remote rural area and the prohibitive cost of such treatment, the patient was transferred to the surgical clinic. The most appropriate treatment method was considered to be dental extraction.  
+
+**Physician:** [Physician's Name]  
+**Clinic:** [Clinic's Name]

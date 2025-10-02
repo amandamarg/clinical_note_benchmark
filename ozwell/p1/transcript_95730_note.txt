@@ -1,0 +1,28 @@
+**Clinical Note**
+
+**Patient Name:** [Not Provided]  
+**Date:** 10/1/2025  
+**Physician:** Dr. Johnson  
+
+**Chief Complaint:**  
+Referred for emergency treatment following syncope and haemorrhagic shock secondary to massive haemetemesis.
+
+**History of Present Illness:**  
+The patient experienced syncope and haemorrhagic shock due to massive haemetemesis. The patient has a history of gastric ulcers from eight years ago, presenting a similar clinical picture at a different surgical unit. At that time, the patient showed signs of haemorrhagic shock with a haemoglobin level of 7 g/dL. An upper GI endoscopy was performed but was unable to identify the source of bleeding due to large volumes of blood in the stomach. Surgical treatment with a laparotomy was decided, revealing an acute gastric hemorrhage secondary to a massive propyloric ulcerative lesion. Resection of the lesion was performed with a distal gastrectomy and Billroth II reconstruction. Histology revealed a <2 cm gastrointestinal stromal tumour, with a mitotic rate of < 5 mitosis/50 per HPF, lacking necrosis and localized to the gastric mucosa. The patient made an uneventful recovery and was discharged eleven days post-surgery. Follow-up over the next two years with repeat endoscopies showed no signs of recurrence, but the patient declined further surveillance and follow-up.
+
+**Past Medical History:**  
+- Gastric ulcers (8 years ago)
+- Gastrointestinal stromal tumour (<2 cm, mitotic rate < 5 mitosis/50 per HPF, no necrosis, localized to gastric mucosa)
+
+**Surgical History:**  
+- Distal gastrectomy and Billroth II reconstruction
+- Completion gastrectomy with regional lymphadenectomy and Roux-en-Y reconstruction
+
+**Readmission in 2009:**  
+The patient was treated conservatively due to hemodynamic instability. After successful resuscitation, an emergency upper GI endoscopy revealed an irregularly shaped elevated lesion on the gastrojejunostomy line with a thrombus at the center. The hemorrhagic lesion was along the posterior anastomotic suture line. Multiple biopsies were performed, and definitive endoscopic haemostasis was obtained. Preoperative staging CT showed no lymphadenopathy or hepatic metastasis. Given the excellent performance status, a second operation was deemed favorable, leading to a successful completion gastrectomy with regional lymphadenectomy and Roux-en-Y reconstruction.
+
+**Assessment and Plan:**  
+The patient has a complex history of gastric issues, including a gastrointestinal stromal tumour and multiple surgeries. The patient is currently stable post-surgery with no signs of recurrence. Continued monitoring and follow-up are recommended, although the patient has previously declined further surveillance.
+
+**Notes:**  
+Lymphadenectomy is not routinely performed in GI. Further questions or concerns should be addressed promptly.

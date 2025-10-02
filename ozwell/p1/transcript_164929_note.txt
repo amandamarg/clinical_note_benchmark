@@ -1,0 +1,40 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:43:47 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports being referred to the department for heart problems. The patient has a history of two incidents of sudden cardiac death after physical activity. The first incident occurred after heavy exercise, and the second incident occurred after boxing.
+
+**Objective:**  
+- **First Incident:**  
+  - Emergency room resuscitation after basic life support.  
+  - Treated with hypothermic treatment and fully recovered.  
+  - Initial ECG showed pulseless electrical activity.  
+  - Echocardiography showed no structural heart disease and a normal left ventricular ejection fraction.  
+  - Cardiac computed tomography revealed anomalous origin of the RCA.  
+  - Follow-up ECGs showed a sinus rhythm with an inverted T wave and a prolonged QT interval.  
+  - Laboratory findings showed no electrolyte abnormalities.  
+
+- **Surgery:**  
+  - Successful re-implantation of the anomalous RCA.  
+  - Patient was doing well before the second incident.  
+
+- **Second Incident:**  
+  - Coronary angiogram with a provocation test using ergonovine showed no significant abnormalities, and the re-implantation site of the RCA ostium was intact.  
+  - Electrophysiologic study showed no other arrhythmias.  
+
+**Assessment:**  
+Based on the information provided, the anomalous origin of the RCA was likely the cause of the aborted cardiac arrest.
+
+**Plan:**  
+- Monitor heart function.  
+- Schedule a follow-up appointment in a few weeks.  
+- Advise the patient to contact the office if any symptoms occur or if there are any concerns to discuss.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

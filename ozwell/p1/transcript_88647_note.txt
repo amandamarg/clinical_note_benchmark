@@ -1,0 +1,40 @@
+**Clinical Note**
+
+**Patient Name:** Jane  
+**Date:** 10/1/2025  
+**Attending Physician:** Dr. Smith  
+**Location:** Obstetrics Ward  
+
+**Chief Complaint:** Adjustment of anticoagulation regimen during pregnancy.
+
+**History of Present Illness:**  
+Jane, gravida 2, with a history of a previous miscarriage and a metallic mitral valve prosthesis due to a childhood episode of rheumatic fever, was admitted to the obstetrics ward at 25 weeks of gestation for adjustment of her anticoagulation regimen. She discovered her pregnancy in the first trimester and discontinued her anticoagulants without consulting her physician. She was late in starting antenatal care and was referred to a specialized clinic.
+
+**Current Medications:**  
+- Unfractionated heparin, 10,000 units twice a day.
+
+**Symptoms Post-Medication:**  
+After 72 hours of subcutaneous heparin administration, the patient developed headache, nausea, vomiting, and mental confusion.
+
+**Physical Examination:**  
+- Stiff neck observed.
+- No focal neurological deficits noted.
+- Pupils: Isocoria and reactive to light.
+- Glasgow Coma Score: 11.
+- Blood pressure and pulse: Within normal range.
+
+**Laboratory and Imaging Studies:**  
+- APTT: 57 seconds.
+- Tomography scan: Intraparenchymatous haematoma with bloody obliteration of the ventricles.
+
+**Interventions:**  
+The patient underwent neurosurgical drainage of the lesion and was admitted to the obstetrical intensive care unit for postoperative care and ventilatory support.
+
+**Progression:**  
+The patient's neurological status deteriorated progressively, leading to a non-reactive coma with no sign of brainstem activity. Maternal brain death was confirmed by a transcranial Doppler scan of the cerebral arteries.
+
+**Fetal Assessment:**  
+Ultrasound evaluation estimated the fetal weight at 660 g.
+
+**Plan:**  
+Further discussions with family members are necessary to determine the next steps in care.

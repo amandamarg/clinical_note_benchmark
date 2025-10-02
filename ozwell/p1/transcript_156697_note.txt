@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with a palpable mass in the right lateral aspect of the neck, which has been present for 2 years. The patient denies any past history of irradiation or trauma in the head and neck region. The mass is described as firm and non-tender, measuring 3.0 cm at the level of the cricoid cartilage. There is no associated cervical lymphadenopathy. The patient has undergone laboratory investigations, all of which were normal, including thyroid function tests.
+
+**Objective:**  
+- **Ultrasonography:** Revealed a cystic mass in the right lateral aspect of the neck.  
+- **Computed Tomography (CT):** Showed a mixed solid and cystic lesion associated with punctate calcification.  
+- **Fine Needle Aspiration Cytology (FNAC):** Confirmed a follicular cell proliferative lesion in the thyroid gland. The right lateral neck mass was suggestive of metastatic papillary carcinoma.  
+
+**Assessment:**  
+- Presumed metastatic papillary thyroid carcinoma in the right lateral neck.  
+- Occult papillary thyroid carcinoma in the right thyroid gland.  
+
+**Plan:**  
+The patient underwent a right lateral neck dissection followed by a total thyroidectomy. Intraoperative findings included a 3.0 cm dark brown fluid-filled cystic mass lateral to the internal jugular vein, confirmed as papillary carcinoma in a BCC. Histopathologic examination of the thyroid gland revealed nodular hyperplasia of the right lobe without evidence of malignancy. The patient is scheduled for a follow-up visit in 6 weeks.  
+
+**Follow-up:**  
+The patient is advised to return for a follow-up visit in 6 weeks to monitor recovery and discuss further management.  
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

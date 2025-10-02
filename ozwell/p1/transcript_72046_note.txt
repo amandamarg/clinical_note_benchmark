@@ -1,0 +1,28 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+**Subject:** Central Venous Line Placement for Chemotherapy
+
+**History:**
+The patient, recently diagnosed with leukemia, was hospitalized for treatment. The patient reports no other significant medical history.
+
+**Procedure:**
+The patient and their parents were thoroughly informed about the central venous (CV) line placement procedure, and consent was obtained from the parents. The patient was transferred to the dedicated CV line room located in the operating room. Standard monitoring, including electrocardiogram (ECG), noninvasive blood pressure, and pulse-oximetry, was initiated.
+
+A 20-gauge cannula was inserted into the vein on the dorsum of the patient's left hand. The right internal jugular vein was selected for CV cannulation. Propofol was administered for sedation. After achieving adequate sedation, a single-lumen 14-gauge catheter was inserted into the right internal jugular vein using ultrasound sonography under sterile conditions by an experienced anesthesiologist. The procedure was completed without any complications.
+
+After blood aspiration, the catheter was fixed at 13 cm, and normal saline infusion was initiated through the CV. Central venous waveforms were not used for catheter position confirmation. A chest radiograph was immediately arranged to confirm the catheter position. The radiograph showed the catheter looping back and going upward at the junction of the right internal jugular vein and the right subclavian vein.
+
+Ultrasonography was used to verify the catheter's position in the jugular vein and ensure it had not punctured the dorsal wall of the vein. During scanning, only a single lumen of the catheter was visible until the bottom third of the jugular vein was scanned. The decision was made to pull back the catheter under ultrasonography guidance until only one lumen was visualized, and then a guidewire was passed over the catheter to reposition it.
+
+**Conclusion:**
+The procedure was completed successfully with no complications. The patient was alert and cooperative throughout the process. Regular monitoring and follow-up will be conducted to ensure the patient's progress.
+
+**Plan:**
+Continue monitoring the patient's condition and provide necessary support and care. The patient is advised to communicate any concerns or questions to the medical team.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

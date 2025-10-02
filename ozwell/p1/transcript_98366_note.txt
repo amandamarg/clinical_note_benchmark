@@ -1,0 +1,25 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:03:10 PM  
+
+**Patient Name:** [Patient's Name]  
+**Patient ID:** [Patient's ID]  
+**Age:** [Patient's Age]  
+**Gender:** [Patient's Gender]  
+
+**Chief Complaint:**  
+Swelling in the left wrist.
+
+**History of Present Illness:**  
+The patient was referred to the orthopedic clinic for an abnormal ultrasound finding on the left wrist. The ultrasound, performed 10 days ago, revealed a mass on the left wrist. The patient reported swelling in the left wrist but denied any pain. There was no evidence of a focal mass or fluid collection according to the ultrasound report. The increased echogenicity within the musculature of the left distal wrist was suggested to be related to mild non-specific myositis. An MRI was conducted to rule out a neoplasm.
+
+**Past Medical History:**  
+Unremarkable past medical or surgical history.
+
+**Diagnostic Studies:**  
+- **Ultrasound (10 days ago):** Showed a mass on the left wrist with increased echogenicity within the musculature, no evidence of a focal mass or fluid collection.
+- **MRI (10 days ago):** Revealed the abnormality was due to a congenital variation consisting of a PL muscle variant. The variant was not painful and did not limit functional outcomes.
+
+**Assessment/Plan:**  
+The MRI findings indicate a congenital variation of the PL muscle, which is not causing pain or functional limitations. The patient is advised to follow up as needed. No immediate intervention is required at this time.

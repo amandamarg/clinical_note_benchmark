@@ -1,0 +1,51 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:27:37 PM  
+
+**Patient Information:**  
+- **Weight:** 53 kg  
+- **Height:** 172 cm  
+
+**Chief Complaint:**  
+- Shortness of breath and chest pain.
+
+**History of Present Illness:**  
+The patient reports experiencing shortness of breath during daily activities for an extended period. Additionally, the patient had a syncope episode 2 months ago and has been experiencing chest pain for 2 weeks prior to admission.
+
+**Past Medical History:**  
+- Hypertension  
+- Chronic Obstructive Pulmonary Disease (COPD)  
+- Moderate Aortic Stenosis (AS) diagnosed 4 years ago  
+
+**Medications:**  
+- Irbesartan  
+- Amlodipine  
+- Hydrochlorothiazide  
+- Atorvastatin  
+
+**Vital Signs on Admission:**  
+- Blood Pressure: 150/70 mm Hg  
+- Pulse Rate: 78/min  
+
+**Diagnostic Findings:**  
+- **12-lead Electrocardiogram:** Sinus rhythm with intermittent premature atrial complexes; findings suggestive of left ventricular hypertrophy with strain signs on lateral leads.  
+- **Chest X-ray:** Cardiomegaly.  
+- **Echocardiography:** Severe degenerative change of aortic valve with heavy calcification. Aortic valve area was 0.76 cm² with a mean systolic pressure gradient of 43 mm Hg and peak systolic pressure gradient of 79 mm Hg, compatible with severe AS. Aorta diameter was 21 mm at the aortic annulus, 32 mm at the sinus of Valsalva, and 36 mm in the ascending aorta. Left ventricular end diastolic diameter was 52 mm and ejection fraction was 67%.  
+- **Pulmonary Hypertension:** Mild, with an estimated right ventricular systolic pressure of 38 mm Hg.  
+- **Coronary Angiography:** Mild coronary artery disease with 50% stenosis at the mid left anterior descending segment.  
+- **Computed Tomography:** Diffuse atherosclerotic change of aorta and both external iliac arteries with calcification. Minimal lumen diameter of right and left external iliac arteries was 6 mm and 7 mm, respectively.  
+- **Pulmonary Function Test:** Mild obstructive airway disease.  
+
+**Procedure:**  
+A Transcatheter Aortic Valve Implantation (TAVI) procedure was performed under general anesthesia. Vascular access for the CoreValve delivery catheter was obtained at the right common femoral.
+
+**Plan:**  
+The patient will continue to be monitored post-procedure. Further follow-up and management will be based on the patient's recovery and any arising concerns.
+
+**Discussion:**  
+The patient was informed about the findings and the procedure. No further questions or concerns were raised by the patient at this time.  
+
+**Physician:**  
+[Physician's Name]  
+[Physician's Signature]

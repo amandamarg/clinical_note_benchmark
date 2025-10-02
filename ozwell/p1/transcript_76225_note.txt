@@ -1,0 +1,46 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Patient reports a half-hour visual loss in the left eye one day ago.
+
+**Medical History:**  
+Previously diagnosed with left ICA occlusion at another medical center.
+
+**Examination:**  
+- Clinical examination of both eyes shows full vision.  
+- Microscopic fundus examinations reveal no pathological conditions.  
+
+**Investigations:**  
+- **Doppler Ultrasound Examination:**  
+  - Right CCA diameter: 8 mm  
+  - Left CCA diameter: 4 mm  
+  - Right CCA bifurcation, ICA, and ECA are normal.  
+  - No Doppler signal or gray-scale findings for the left ICA.  
+  - Left CCA is hypoplastic.  
+  - No atherosclerotic plaques in other arterial segments.  
+  - Suggests left ICA agenesis rather than occlusion.  
+
+- **Computed Tomographic Examination:**  
+  - CT images show a normally appearing right carotid canal.  
+  - No clear image of the left carotid canal.  
+  - Previous angiographic images show well-visible left ECA and its branches.  
+  - Left ICA and its branches do not fill with contrast.  
+  - Filling of the left anterior and medial cerebral arteries is sustained by the patent anterior communicating artery (following contrast injection into the right carotid artery) and via the posterior communicating artery (following injection into the vertebrobasilar system).  
+
+**Assessment:**  
+Findings are consistent with ICA agenesis.
+
+**Plan:**  
+- Regular check-ups are recommended.  
+- Follow a healthy lifestyle to prevent complications.  
+- Patient advised to return if any symptoms occur.
+
+**Follow-up:**  
+Patient instructed to schedule regular follow-up appointments and report any new symptoms immediately.  
+
+**Physician's Signature:**  
+[Doctor's Signature]

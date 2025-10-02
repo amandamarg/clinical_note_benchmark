@@ -1,0 +1,47 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:25:09 PM  
+
+**Patient Information:**  
+- **Body Mass Index (BMI):** 28.5 m2/kg  
+- **Medical History:** End-stage renal failure secondary to chronic pyelonephritis  
+
+**Procedure:** Kidney Transplant  
+
+**Donor Information:**  
+- **Type of Donation:** Donation after brain death  
+- **Cause of Donor Death:** Intracerebral haemorrhage  
+
+**Donor Kidney Details:**  
+- **Renal Artery:** Single renal artery with a patch  
+- **Ureter:** Single ureter  
+- **Veins:** Main hilar renal vein diameter 12 mm, lower polar vein diameter 8 mm, separated by a distance of 4 cm  
+- **Vein Division:** Divided at the level of the inferior vena cava, no caval tube provided  
+
+**Transplant Details:**  
+- **Implantation Site:** Right iliac fossa  
+- **Anastomosis:**  
+  - Main hilar renal vein anastomosed end to side to the external iliac vein using 5/0 polypropylene  
+  - Renal arterial patch anastomosed end to side to the external iliac artery using 5/0 polypropylene  
+  - Lower polar vein initially controlled with a fine atraumatic vascular clamp, not anastomosed initially  
+
+**Intraoperative Findings:**  
+- On release of arterial and venous clamps, kidney appeared globally well perfused with some urine production observed  
+- Both main hilar and lower polar veins distended and felt congested  
+- On-table Doppler ultrasound confirmed global perfusion but showed reversal of flow in diastole throughout the kidney  
+
+**Intervention:**  
+- External iliac vein clamped inferior to the upper renal vein anastomosis and at the inguinal ligament  
+- Lower polar vein anastomosed end to side to the external iliac vein using 5/0 prolene  
+
+**Post-Intervention Findings:**  
+- On clamp release, kidney's appearance improved immediately, both renal veins became soft and easily compressible  
+- Repeat intraoperative Doppler ultrasound demonstrated excellent perfusion of the whole kidney and a triphasic waveform with forward flow in diastole  
+- Findings confirmed in the recovery room by an experienced radiologist  
+
+**Conclusion:**  
+The patient is doing well after the transplant. Further monitoring and follow-up will be conducted to ensure continued recovery and function of the transplanted kidney.  
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

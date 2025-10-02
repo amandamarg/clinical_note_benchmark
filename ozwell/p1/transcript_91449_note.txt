@@ -1,0 +1,51 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. Smith  
+
+**Chief Complaint:**  
+Abdominal pain and distension.
+
+**History of Present Illness:**  
+The patient presented with severe abdominal pain that had been worsening over the past 12 hours. The patient reported abdominal distension but denied any recent trauma. Upon arrival, the patient was in shock with cool, clammy extremities, tachycardia with a heart rate of 135 bpm, and hypotension with a blood pressure of 80/50 mm Hg.
+
+**Past Medical History:**  
+- Stroke 1 year ago.
+
+**Medications:**  
+- Warfarin
+- Clopidogrel
+
+**Allergies:**  
+- Unknown allergy status to aspirin.
+
+**Physical Examination:**  
+- Cool, clammy extremities.
+- Tachycardia.
+- Hypotension.
+
+**Initial Management:**  
+- Intravenous fluids administered.
+- Nasal oxygen initiated.
+- Patient placed on a monitor.
+- Cultures and blood samples collected for complete blood count, differential, electrolytes, type and cross, renal and liver profile.
+- INR and Prothrombin time tests ordered.
+
+**Laboratory Findings:**  
+- Hemoglobin: 4 gm%
+- Normal white count and platelet count.
+- INR: 8 (elevated).
+
+**Imaging:**  
+- Bedside ultrasound showed free fluid in the abdomen.
+- CT scan of the abdomen and pelvis revealed free fluid in the sub diaphragmatic spaces with a CT attenuation value of 30, suggesting hemoperitoneum. A segment of grossly thickened bowel loop was also noted.
+
+**Assessment:**  
+The findings were suggestive of internal hemorrhage, likely secondary to warfarin toxicity, with hemoperitoneum and a thickened bowel segment.
+
+**Plan:**  
+The patient was stabilized with intravenous normal saline boluses of 2 L. An exploratory laparotomy was performed, during which more than 2 L of blood was suctioned from the abdomen. Two feet of small bowel and its mesentery were found to be hemorrhagic and severely congested. No active sites of bleeding were identified, but the source was likely mesenteric vessels. The affected bowel segment was resected, and an end-to-end anastomosis was performed.
+
+**Follow-Up:**  
+The patient will be closely monitored post-operatively to assess recovery and ensure stability. Further management will be guided by the patient's progress.

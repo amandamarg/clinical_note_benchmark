@@ -1,0 +1,46 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:38:55 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Persistent vomiting for several days.  
+- **Medical History:** Dyslipidemia.  
+
+**Presenting Symptoms:**  
+- Vomiting almost every hour.  
+- Distended stomach with mild abdominal pain.  
+- Pale face and weak radial artery.  
+
+**Vital Signs:**  
+- Blood Pressure on arrival: 62/37 mm Hg.  
+
+**Laboratory Findings:**  
+- Hemoglobin level on admission: 12.4 g/dL.  
+
+**Interventions and Procedures:**  
+- Patient admitted to critical care center.  
+- Venous sheath inserted in left femoral vein.  
+- Infusion of 1000 mL crystalloid fluid initiated.  
+- Enhanced computed tomography scan performed, revealing ruptured PDA aneurysm and celiac axis stenosis.  
+- Decision made to perform transarterial embolization as endovascular treatment.  
+- Patient prepared for oral intubation and transfer to emergency angiography room.  
+
+**Complications:**  
+- Sudden drop in blood pressure leading to hemodynamic shock.  
+- Hemoglobin level dropped to 7.3 g/dL.  
+- Difficulty securing right femoral artery due to obesity, weak pulse, and collapsed artery from hemorrhagic shock.  
+- Subcutaneous hematoma developed after several attempts to puncture the artery, with suspected local arterial dissection.  
+
+**Surgical Intervention:**  
+- Switched to surgical treatment.  
+- Surgical exposure of left femoral artery performed to insert aortic balloon occlusion catheter.  
+- Celiac artery arteriography conducted to confirm point of rupture.  
+- Aortic balloon position confirmed using fluoroscopy and balloon inflation.  
+
+**Plan:**  
+- Continue monitoring and supportive care in critical care setting.  
+- Further evaluation and management of ruptured PDA aneurysm and celiac axis stenosis.  
+
+**Physician:** [Physician's Name]  
+**Signature:** [Physician's Signature]

@@ -1,0 +1,20 @@
+**Clinical Note**
+
+**Patient Name:** [Redacted]  
+**Date:** 10/1/2025  
+**Physician:** [Redacted]  
+
+**Chief Complaint:**  
+Headache persisting since being tackled during exercise several weeks ago.
+
+**History of Present Illness:**  
+The patient reports experiencing a headache following a tackle during exercise several weeks ago. Initial management was conservative following a diagnosis of simple traumatic hemorrhage. A Brain CT scan performed at a local hospital revealed a small subdural hematoma on the left cerebral convexity and calcified nodules at the left frontotemporal cortex. Despite conservative management, the headache worsened, and the patient experienced a generalized partial seizure. An MRI scan showed an increase in the size of the hematoma and cerebral edema, along with a small enhancing mass at the left cerebral convexity. A subsequent Magnetic Resonance Angiography (MRA) test revealed a 4 mm aneurysmal dilatation of the cortical branch of the MCA, supplying the superior temporal region.
+
+**Surgical Intervention:**  
+An emergency craniotomy was performed to eliminate the aneurysm and reduce elevated intracranial pressure by removing the hematoma. A large craniotomy was conducted, and the subdural hematoma was removed through repeated gentle irrigation and suction following a small dural incision. During the procedure, several irregularly shaped, hard subdural nodules were encountered, tightly adhered to the dura and underlying brain. These nodules were carefully dissected, found to be buried in the sulcus, and severely adhered to the brain cortex and cortical arteries. The organizing hematoma was removed, exposing a pseudoaneurysm of the cortical MCA branch. The involved MCA branch was dissected and trapped with clips at the proximal and distal portions of the severely injured and adherent segment, along with the pseudoaneurysm. The aneurysm and calcified nodules were excised.
+
+**Outcome:**  
+The patient recovered without sequelae due to collateral flow retrogradely supplying the distal part of the occluded artery, minimizing ischemic injury. The patient was discharged after a short while.
+
+**Plan:**  
+Continue monitoring for any signs of neurological deficits or complications. Follow-up appointments to assess recovery and ensure no recurrence of symptoms.

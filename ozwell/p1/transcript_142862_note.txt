@@ -1,0 +1,37 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:20:59 PM  
+
+**Patient Name:** [Patient's Name]  
+**Age:** [Patient's Age]  
+**Gender:** [Patient's Gender]  
+
+**Chief Complaint:**  
+Urinary incontinence and lower abdominal discomfort.
+
+**History of Present Illness:**  
+The patient presents with urinary incontinence and lower abdominal discomfort. A previous CT scan showed a heterogeneously enhanced mass measuring 8 cm near the uterus and right ovary, though it was not precisely detected. The patient underwent laparoscopic exploration, which revealed no definite abnormality on both adnexae and uterus, but a retroperitoneal mass on the right side of the uterus was detected in the operative field. The patient was referred to our institution for further evaluation and definitive treatment of the right retroperitoneal pelvic mass.
+
+**Past Medical History:**  
+- No previous medical illnesses.
+- Surgical history of appendectomy 22 years ago.
+
+**Physical Examination:**  
+Abdominal and vaginal examination revealed non-specific findings without palpation of an abdominal mass. Laboratory findings are within normal limits.
+
+**Imaging Studies:**  
+- **Abdominal Ultrasonography:** Revealed a right adnexal mass with echogenicity abutting the uterus.
+- **MRI:** Demonstrated an 8 cm-sized, enhancing mass attached to the right adnexa and uterus. The mass had low signal intensity on T1-weighted images and heterogeneous, high signal intensity on T2-weighted images.
+
+**Diagnosis:**  
+Preoperative diagnosis of mesenchymal sarcoma in the pelvic cavity.
+
+**Plan:**  
+An exploratory laparotomy was planned for the removal of the pelvic mass. During the laparotomy via a lower midline incision, a careful examination of the pelvic cavity was performed. The uterus was found to be normal size with a smooth contour, and there was no abnormal finding on both ovaries and fallopian tubes. The retroperitoneal tumor of size 8 × 6 cm was palpated beneath the right broad ligament of the uterus.
+
+**Follow-up:**  
+The patient has no questions or concerns at this time. A follow-up appointment will be scheduled in a few weeks.
+
+**Physician:** [Physician's Name]  
+**Signature:** [Physician's Signature]

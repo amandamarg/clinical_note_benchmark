@@ -1,0 +1,42 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:32:28 PM  
+
+**Patient:** [Patient's Name]  
+**Age:** [Patient's Age]  
+**Gender:** [Patient's Gender]  
+
+**Chief Complaint:**  
+Severe pain in the right thigh.
+
+**History of Present Illness:**  
+The patient reports experiencing severe pain in the right thigh for several months. The pain is described as severe and has been persistent.
+
+**Past Medical History:**  
+- Diagnosed with a bone tumor of the right proximal femur at age 20.
+- Underwent surgery for tumor removal, followed by one cycle of postoperative chemotherapy and local irradiation.
+- Two years post-operation, developed severe right thigh pain after braking hard while driving, requiring open reduction and internal fixation with intramedullary nails.
+- Subsequent incident of severe right thigh pain after stubbing toe, treated conservatively, with roentgenograms demonstrating bone union.
+
+**Current Evaluation:**  
+- Radiographs revealed a lytic lesion from the trochanteric area to the proximal diaphysis.
+- MRI showed an intramedullary lesion with an extraskeletal mass.
+- Metastatic work-up was negative.
+- Open biopsy from the intertrochanteric lesion performed.
+
+**Pathology Findings:**  
+- Microscopic findings: Malignant small round cell neoplasm with regular nuclear contours and finely dispersed chromatin without prominent nucleoli, similar to findings from the initial surgery at age 20.
+- Immunohistochemical and histochemical staining: Neoplasm positive for glycogen (PAS).
+
+**Assessment:**  
+The findings indicate a malignant neoplasm similar to the one diagnosed 20 years ago.
+
+**Plan:**  
+Discuss further treatment options with the patient and develop a treatment plan. Schedule a follow-up appointment in a few weeks to monitor progress.
+
+**Follow-up:**  
+A follow-up appointment will be scheduled to assess the patient's progress and discuss treatment options.
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

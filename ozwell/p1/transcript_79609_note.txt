@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:22:06 PM  
+
+**Patient Information:**  
+- **Age:** Not specified  
+- **Gender:** Male  
+
+**Chief Complaint:**  
+Referred by pediatric cardiologist for evaluation of lung condition.
+
+**History of Present Illness:**  
+The patient's mother reports that her son has been experiencing vague upper respiratory symptoms, food regurgitation, and frequent vomiting over the past seven months. There is no history of solid food dysphagia, but increased drooling has been noted recently.
+
+**Diagnostic Findings:**  
+- **Chest Radiograph:** Revealed a round metallic object in the topography of the upper esophagus with an irregular contour, causing a mild mass effect on the left aspect of the trachea.
+- **Barium Swallow:** Showed that the patient was swallowing without difficulty, and the foreign body is separate from the esophageal tract.
+
+**Surgical Intervention:**  
+An esophagoscopy was performed in the operating room. The patient was hemodynamically stable and not in distress, with normal oxygen saturation. Lung examination revealed mild crackles over the lung bases, with no evidence of stridor or hoarseness. Intraoperatively, the foreign body was not visualized, but a hard mass was palpated at the lateral esophageal wall, covered by granulation tissue. Multiple attempts to remove the foreign body were unsuccessful, leading to the decision to abort the surgery and proceed with an external approach.
+
+**Postoperative Care:**  
+The patient has been transferred to the pediatric intensive care unit for close monitoring and necessary care.
+
+**Plan:**  
+- Monitor the patient's condition in the pediatric intensive care unit.
+- Update the patient's mother on his progress.
+
+**Physician:**  
+[Doctor's Name]  
+[Doctor's Signature]  
+[Medical Facility Name]

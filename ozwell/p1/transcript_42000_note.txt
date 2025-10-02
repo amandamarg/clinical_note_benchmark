@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:06:19 PM  
+
+**Patient Information:**  
+- **History:** Coronary artery disease, paroxysmal atrial fibrillation (on anticoagulation), chronic obstructive bronchitis, hypertension, dyslipidemia.  
+- **Social History:** Quit smoking 3 years ago. No history of alcoholism or illegal drug use.  
+
+**Chief Complaint:**  
+- Difficulty breathing and rapid swelling of the legs over the past week.
+
+**Vital Signs:**  
+- Stable at presentation. Afebrile and not in respiratory distress.
+
+**Physical Examination:**  
+- Generalized oedema associated with ascites and hepatomegaly.  
+- Jugular veins not distended.
+
+**Imaging and Diagnostic Studies:**  
+- **Chest X-ray:** Right-sided pleural effusion and a 1 cm sized nodule in the right lower lobe.  
+- **Contrast Enhanced CT Scan (Chest, Abdomen, Pelvis):**  
+  - Abdominal CT: Heterogeneous liver with multiple ill-defined hypodensities of different sizes, suggesting an advanced neoplastic process. Doubt of a hypodense lesion inside the inferior vena cava. Hepatic lesions associated with moderate ascites, no splenomegaly.  
+  - Chest CT: Large right-sided pleural effusion and a 1 cm sized nodule in the anterior part of the right lower lung lobe.  
+- **Transthoracic Echocardiography:** Well-defined, immobile oval mass with a smooth surface in the right atrium, extending to the inferior vena cava, reaching a size of 34 mm × 25 mm, creating a subtotal occlusion with a pressure gradient of 13 mmHg between the inferior vena cava and the right atrium.
+
+**Assessment and Plan:**  
+- The patient presents with serious conditions including a mass in the right atrium causing a subtotal occlusion of the inferior vena cava.  
+- Plan to admit the patient to the hospital for further tests and treatment.  
+
+**Physician:**  
+[Doctor's Name]  
+[Doctor's Signature]

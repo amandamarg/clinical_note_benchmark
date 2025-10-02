@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:29:37 PM  
+
+**Patient Name:** [Patient's Name]  
+**Chief Complaint:** Persistent right cheek pain  
+
+**History of Present Illness:**  
+The patient presents with persistent right cheek pain. The pain has been ongoing for a while and has not resolved. The patient has a history of allergic rhinitis and chronic sinusitis, which was treated a few months ago. Initially, the patient presented with high fever, sore throat, and swelling in the right cheek. A dental clinic visit prior to the initial presentation did not reveal any abnormalities. A rapid antigen test for group A streptococcal infection was positive, and the patient was diagnosed with streptococcal infection and facial cellulitis, treated with amoxicillin, which improved the symptoms. However, the facial pain recurred four weeks later with mild tenderness and swelling in the right cheek. A head CT showed mild mucous membrane swelling and effusion in both sinuses, and the patient was treated with cefditoren pivoxil for suspected recurrence of cellulitis with sinusitis. The pain has persisted, leading to today's visit.
+
+**Physical Examination:**  
+- Tenderness in the right cheek, corresponding with the region supplied by the second branch of the trigeminal nerve.  
+- No hyperalgesia (light touch does not elicit severe pain).  
+- No facial paralysis or oral disorders observed.
+
+**Laboratory and Imaging Studies:**  
+- Blood examination conducted.  
+- Brain MRI showed no neurovascular compression, ruling out idiopathic, classical trigeminal neuralgia (TN).
+
+**Assessment:**  
+The patient was clinically diagnosed with trigeminal neuralgia (TN). Oral clarithromycin was started for sinusitis that might have caused or exacerbated TN, but it was not effective for the facial pain.
+
+**Plan:**  
+- Continue monitoring the patient's response to clarithromycin.  
+- Schedule a follow-up appointment in one week to assess the effectiveness of the treatment and make further management decisions.
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

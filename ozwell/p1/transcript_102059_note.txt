@@ -1,0 +1,31 @@
+**Clinical Note**
+
+**Patient Name:** Mr. [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. [Doctor's Name]  
+
+**Subjective:**  
+Mr. [Patient's Name] presented to the clinic with sudden onset back pain, weakness in both legs, and sensory changes. The patient reported experiencing mid-thoracic back pain for the past 5 days, which worsens with movement. The weakness in both legs and sensory changes began the day after the onset of back pain. The patient is currently able to walk with the aid of a cane. He has been taking anti-arrhythmic medications for a year and has no other significant past medical history.
+
+**Objective:**  
+- Neurologic examination revealed grade IV motor power in both legs and hypoesthesia below the level of the xiphoid process.  
+- Radiographs and MRI indicated a T8 acute compression fracture with cord compression.  
+- Laboratory tests, including tumor markers, were within normal limits.  
+- Chest and abdominal CT scans showed no mass lesions in solid organs.  
+
+**Assessment:**  
+The patient presents with neurologic symptoms in both lower extremities and imaging findings suggestive of spinal metastasis. However, the primary origin of the metastasis is not identified through initial tests.
+
+**Plan:**  
+- Early spine surgery for T8 decompression and stabilization is planned, with pathologic diagnosis to be made through tumor tissue removed during surgery.  
+- Further systemic workups, such as whole body positron emission tomography, will be planned post pathologic confirmation.  
+- No steroid therapy will be administered during the preoperative period.  
+- Spinal embolization was performed prior to the operation, with embolization of the right T8 segmental artery due to visualization of a small ASA on the left T8 segmental artery angiography.  
+- A total laminectomy of T8 and pedicle screw fixation from T6 to T10 was performed. Tumors at the ventral side of the dura sac were partially removed for circumferential decompression of the spinal cord. Both T8 roots were resected during the procedure.  
+- The operation was uneventful with no significant changes observed on neurophysiologic intraoperative monitoring.  
+
+**Follow-up:**  
+The patient will be monitored for progress, and any follow-up requirements will be communicated. The patient is advised to reach out with any questions or concerns.  
+
+**Signature:**  
+Dr. [Doctor's Name]

@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:00:26 PM  
+
+**Patient:** [Patient's Name]  
+**Reason for Visit:** Periodontal bleeding  
+
+**History of Present Illness:**  
+The patient presented to the emergency room with a complaint of slight periodontal bleeding persisting for 5 days, accompanied by gum pain. An orthopantomography was performed, revealing a dubious periapical image compatible with a small cyst of dental origin. The maxillofacial surgery department was consulted, and a new clinical examination showed spontaneous alveolar bleeding and high mobility of the first and second molars in the fourth mandibular quadrant. The patient denied any history of cervicofacial trauma or coagulation system pathologies.
+
+**Diagnostic Tests and Findings:**  
+- **CT Scan:** Revealed a large high-flow intraosseous arteriovenous malformation extending from the right mandibular body to the homolateral pterygoid region and the infratemporal fossa.
+- **Selective Arteriography and MRI of Head and Neck:** Conducted to identify the limits of the malformation and the key vessel.
+- **Radiological Tests:** Identified a very large drainage vein.
+
+**Treatment Plan:**  
+After consultation with the interventional radiology unit, it was decided to treat the patient solely with an endovascular approach. The treatment involved embolization of the identified vein and selective embolization of the main arterial vessels. The patient was maintained intubated and sedated for 24 hours and extubated once the bleeding had completely stopped.
+
+**Hospital Course:**  
+The patient was discharged from the hospital 7 days post-procedure. A control arteriography performed 5 days after embolization showed a significant reduction in the size of the lesion. A follow-up MRI conducted three months post-procedure indicated complete regression of the lesion. At an 18-month follow-up, the patient reported no clinical symptoms.
+
+**Plan:**  
+Continue regular follow-up to monitor for any recurrence of symptoms or complications.  
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

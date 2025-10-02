@@ -1,0 +1,41 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:19:30 PM  
+
+**Patient Information:**  
+- **Medical History:**  
+  - Childbirth eight months ago.  
+  - Deep Vein Thrombosis (DVT) in the left common femoral vein during the 36th week of pregnancy.  
+  - An Inferior Vena Cava (IVC) filter was inserted due to high risk of bleeding during pregnancy.  
+  - Postpartum anticoagulation therapy was initiated.  
+  - The IVC filter was recommended for removal one month after insertion, but the patient refused for personal reasons.  
+
+**Current Symptoms:**  
+- Epigastric pain, nausea, and vomiting for one day.  
+
+**Vital Signs and Laboratory Results:**  
+- Vital signs stable.  
+- Laboratory examination showed mild leukocytosis.  
+- Prothrombin time international normalized ratio (INR) value at the emergency room was 1.31.  
+- Patient did not take warfarin regularly.  
+
+**Imaging and Procedures:**  
+- CT scan revealed one of the IVC filter legs had penetrated the IVC wall, causing a duodenal perforation. No evidence of thrombi in the lower IVC.  
+- Endoscopy showed a protruding IVC filter leg in the lumen of the third portion of the duodenum. The duodenum mucous membrane on the opposite side showed erythema, erosion, and nodular changes, resembling chronically progressing penetration.  
+
+**Surgical Intervention:**  
+- An emergency laparotomy was performed to remove the IVC filter and repair the duodenum.  
+- Due to concerns of possible IVC rupture during surgery, a cannula was placed in the superior vena cava to provide extracorporeal circulation if needed.  
+- The femoral artery and femoral vein were isolated for cannulation.  
+- Portions of the IVC and the duodenum, including the penetrations, were isolated behind the colon.  
+- The IVC filter leg was cut and removed from the duodenum portion, and the duodenal perforation was repaired directly.  
+
+**Plan:**  
+- Continue monitoring post-surgical recovery.  
+- Evaluate the need for ongoing anticoagulation therapy.  
+- Follow-up on the patient's adherence to medication and any further complications.  
+
+**Physician:**  
+[Physician's Name]  
+[Physician's Signature]

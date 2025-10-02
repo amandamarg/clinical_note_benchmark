@@ -1,0 +1,36 @@
+**Clinical Note:**
+
+**Date:** 10/1/2025  
+**Time:** 8:12:36 PM  
+
+**Patient Information:**  
+- **Condition:** Morbid Obesity  
+- **BMI at Intake:** 57.6 kg/m²  
+- **Predominant Abdominal Obesity**  
+
+**Medical History:**  
+- Struggled with weight since childhood  
+- Normal birth weight with large head circumference  
+- Recurrent nasal polyps treated  
+- Family history includes:  
+  - Mother with morbid obesity and thyroid cancer  
+  - Maternal aunt diagnosed with breast cancer before age 50  
+  - Grandmother died from breast cancer at a young age  
+
+**Previous Treatments:**  
+- Various coaching programs for weight loss (unsuccessful)  
+- Sleeve gastrectomy in 2014 (without complications)  
+
+**Current Status:**  
+- Patient reports feeling better post-surgery and has lost some weight  
+- No weight loss reported since intake  
+- Biochemical analysis showed no abnormalities, including endocrine hormonal disorders such as hypothyroidism  
+- Fasting glucose level: 5.9 mM  
+
+**Assessment and Plan:**  
+- Suspected genetic cause for early onset morbid obesity  
+- Patient interested in diagnostic genetic analysis of 52 obesity-associated genes  
+- Continue monitoring progress and follow-up to ensure health and well-being  
+
+**Physician:** [Doctor's Name]  
+**Clinic:** [Clinic Name]

@@ -1,0 +1,36 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:29:06 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Severe stabbing pain in the right side of the mandible radiating to the right ear, occurring for the past 5 months.
+
+**History of Present Illness:**  
+The patient reports experiencing severe stabbing pain on the right side of the mandible that radiates to the right ear. The pain occurs spontaneously or is triggered by activities such as chewing and tooth brushing, lasting for a few seconds per attack. The patient was previously diagnosed with trigeminal neuralgia (TN) at another hospital and was prescribed carbamazepine, which provided only partial relief. The patient experienced a pain-free period for about 1 month before presenting to our clinic. However, the condition worsened in the days leading up to admission, with increased frequency and severity of pain. The patient discontinued the medication independently.
+
+**Review of Systems:**  
+- **Neurological:** Normal findings on examination.  
+- **Nasopharyngeal:** Normal findings on examination.  
+
+**Diagnostic Tests:**  
+- Laboratory tests: Normal  
+- Electrocardiogram: Normal  
+- Computed tomography of the neck: Normal  
+- Magnetic resonance imaging of the brain: Normal  
+- Electroencephalogram: No abnormalities detected
+
+**Procedures:**  
+The patient underwent a mandibular nerve block with alcohol following a test block with 1% mepivacaine. Despite the right V3 innervated area being anesthetized and pain-free after the V3 alcohol block, the patient continued to experience right ear pain. Ten minutes post-procedure, the patient developed paroxysmal pain in the right ear, followed by faintness and loss of consciousness with convulsive movement lasting approximately 1 minute.
+
+**Consultations:**  
+- Neurology: Consulted to exclude seizure disorders.  
+- Cardiology: Consultation requested for further evaluation.
+
+**Plan:**  
+- Continue monitoring the patient's condition.  
+- Follow-up instructions provided to the patient.  
+- Await cardiology consultation results for further management.
+
+**Physician:** [Doctor's Name]  
+**Signature:** [Doctor's Signature]

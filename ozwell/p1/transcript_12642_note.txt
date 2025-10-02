@@ -1,0 +1,30 @@
+**Clinical Note**
+
+**Patient Information:**
+- **Condition:** Tetraplegia following neck spinal manipulation
+- **Symptoms:** Initial pain and numbness in lower limbs, symptoms worsened and spread upwards
+
+**History:**
+- **Previous Neck Pain:** Several mild episodes, relieved by manipulation treatment
+- **Medication:** No aspirin or anticoagulant use
+
+**Examination Findings:**
+- **Neck:** Tenderness present
+- **Upper Limbs:** Increased muscle tension, superficial sensation absent, deep sensation intact
+- **Lower Extremity Power:** 0/5 on both sides
+
+**Imaging Examinations:**
+- **Cervical Vertebral X-ray and Brain CT:** No abnormal findings
+- **Cervical MRI:** Acute posterior epidural hematoma from C3 to T3, large heterogeneous collection in right lateral epidural space from C4 to T1, consistent with hyperacute epidural hematoma, cord edema at the same level
+- **Spinal Stenosis:** Narrowest at C5 and C6 levels
+- **No Evidence of:** Vertebral body fracture or subluxation
+
+**Laboratory Results:**
+- **Clinical Laboratory Results:** Normal
+- **Blood Investigations:** Normal platelet counts, normal coagulation profile
+
+**Plan:**
+- **Further Testing:** Scheduled to exclude vascular malformations
+
+**Discussion:**
+The patient developed tetraplegia following neck spinal manipulation, with imaging revealing an acute posterior epidural hematoma causing spinal stenosis. Further testing is planned to exclude vascular malformations.

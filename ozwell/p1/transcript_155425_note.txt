@@ -1,0 +1,37 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. X  
+
+**Chief Complaint:**  
+Decreased visual acuity in the left eye.
+
+**History of Present Illness:**  
+The patient was referred from a local clinic due to decreased visual acuity in the left eye. Two hours prior to the onset of symptoms, the patient underwent an autologous fat injection in the periocular area under intravenous anesthesia. Upon the effect of the anesthesia wearing off, the patient reported a loss of vision in the left eye. The best corrected visual acuity was 1.0 in the right eye and no light perception in the left eye. The patient also experienced dysarthria and a change in skin color of the nose to purple.
+
+**Physical Examination:**  
+- Left pupil: Dilated with a relative afferent pupillary defect.
+- Right fundus: Normal.
+- Left fundus: Cherry red spot with visible emboli in several retinal arteries.
+
+**Diagnostic Tests:**  
+- Neurological examination, blood tests, and MRI scan of the brain were conducted.
+- Fluorescein angiography of the left eye revealed markedly prolonged choroidal filling around the optic disc and a delay in retinal arterial filling. The right eye showed no abnormalities.
+- Laboratory examinations: Normal.
+- MRI scan: Ill-defined hyperintense lesion at the left insular cortex.
+
+**Diagnosis:**  
+- Ophthalmic artery obstruction.
+- Left middle cerebral artery infarction.
+
+**Treatment Administered:**  
+- Ocular massage.
+- Intravenous mannitolization.
+- Oxygen and carbon dioxide therapy.
+
+**Follow-Up:**  
+24 hours post-injection, the left fundus exhibited marked retinal edema and multiple fat emboli, with visual acuity in the left eye remaining at no light perception. At 2 months post-injection, the patient had no perception of light in the left eye, and the left fundus showed optic atrophy, multiple retinal hemorrhages, and fibrous change on its posterior pole.
+
+**Plan:**  
+Continue monitoring the patient's condition and provide supportive care as needed. Further interventions will be considered based on the patient's progress and response to treatment.

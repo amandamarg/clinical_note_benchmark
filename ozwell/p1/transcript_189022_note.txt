@@ -1,0 +1,43 @@
+**Clinical Note**
+
+**Patient Name:** Mr. Johnson  
+**Date:** 10/1/2025  
+**Physician:** Dr. Smith  
+
+**Chief Complaint:**  
+Bilateral axillary masses and numbness in the right hand.
+
+**Medical History:**  
+- Hypertension for 4 years  
+- No history of trauma  
+
+**Physical Examination:**  
+- Palpable pulsatile masses in both axillae  
+
+**Ultrasound Findings:**  
+- Right axillary artery: Aneurysm in a 12-cm segment measuring 67 x 45 mm with a thrombus at the edge of the aneurysm lumen.  
+- Left axillary artery: Aneurysm in a 9-cm segment with a thrombus surrounding the lumen and a turbulent, pulsatile flow in the center.  
+- Hyperechogenic mass adjacent to the right aneurysm.  
+
+**Doppler Examination:**  
+- Thrombus surrounding the lumen with turbulent, pulsatile flow in the center.  
+- Aneurysmal segment continuous with the brachial artery.  
+
+**CT Angiography Findings:**  
+- Giant fusiform aneurysms detected:  
+  - Right axillary artery: 140 x 77 mm  
+  - Left axillary artery: 93 x 45 mm  
+- Thrombi present in both aneurysms, allowing flow in the lumen.  
+
+**Assessment:**  
+The patient has giant fusiform aneurysms in both axillary arteries with a high risk of aneurysm rupture. The patient is symptomatic, and endovascular closure was initially planned. However, appropriate-sized stents could not be found for the large and tortuous aneurysms.
+
+**Plan:**  
+- Close monitoring of the patient's condition.  
+- Regular check-ups to ensure stability and prevent complications.  
+
+**Family Communication:**  
+The patient's family was informed about the findings and the plan for close monitoring. They expressed appreciation for the care and attention provided.  
+
+**Signature:**  
+Dr. Smith

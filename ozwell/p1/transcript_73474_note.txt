@@ -1,0 +1,42 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. X  
+
+**Chief Complaint:**  
+The patient was admitted to the emergency unit with symptoms of dyspnoea, multiple episodes of vomiting, productive cough, and fever for the past three days.
+
+**Medical History:**  
+- Right mastectomy due to breast cancer followed by chemoradiotherapy.  
+- Laparoscopic cholecystectomy for cholelithiasis ten months ago.  
+- During the initial cholecystectomy operation, the patient developed pneumothorax after anesthesia and endotracheal intubation, leading to postponement of the procedure.  
+- Pneumothorax was treated with thoracic drainage tube insertion. Subsequent chest X-ray and CT scan showed no diaphragm defect or herniation.  
+- Laparoscopic cholecystectomy was successfully performed four months later under general anesthesia with no complications.
+
+**Symptoms on Admission:**  
+- Febrile, pale, significant use of accessory respiratory muscles, and abdominal distention.
+
+**Physical Examination:**  
+- Decreased sounds in the right lung during inspiration.  
+- Abdominal distention with diminished bowel sounds and peritonism.
+
+**Laboratory Results:**  
+- Blood exams within normal values.  
+- Arterial blood analysis showed increased lactic acid levels and compromised pO2 values.
+
+**Imaging Studies:**  
+- Chest X-ray: Right lung suppressed by the intestine, suggesting functional right pneumonectomy due to intestinal transposition to the thoracic cavity.  
+- CT scan of thorax and abdomen: Detected right diaphragm defect and herniation of the small intestine, which was ischaemic due to venous circulation occlusion.
+
+**Surgical Intervention:**  
+- An urgent exploratory laparotomy was performed.  
+- Findings: Diaphragm defect of 10 × 2 cm extending from the anterior side of the right diaphragm to the posterolateral side. Almost all the small intestine and part of the transverse colon were herniated into the right thoracic cavity, ischaemic, and immobilized due to venous stasis.  
+- Treatment: Herniated small intestine and transverse colon were separated from the lung and retracted into the abdominal cavity. The diaphragmatic defect was closed by direct suturing with Prolene 2-0.
+
+**Plan:**  
+- Close monitoring of the patient's condition.  
+- Follow-up appointment scheduled in one week.
+
+**Signature:**  
+Dr. X

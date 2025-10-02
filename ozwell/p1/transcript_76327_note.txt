@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:02:29 PM  
+
+**Patient Complaint:**  
+The patient reports feeling tired and experiencing shortness of breath for a couple of months, particularly during physical activities. The patient denies any chest pain, heart palpitations, or fainting spells.
+
+**Vital Signs:**  
+- Blood Pressure: 148/66 mmHg  
+- Pulse: 48 beats per minute  
+
+**Physical Examination:**  
+- Heart auscultation revealed an S4 sound.  
+- Jugular vein examination showed cannon A waves.  
+
+**Diagnostic Tests:**  
+- **12-lead Electrocardiogram:** Complete heart block with a junctional escape rhythm at 49 beats per minute and a right bundle branch block.  
+- **Previous Electrocardiogram (3 months ago):** Underlying conduction disease with a prolonged PR interval and right bundle branch block while in sinus rhythm.  
+- **Trans-thoracic Echocardiography:** Normal heart size and function with mild degenerative changes in the mitral and aortic valves, consistent with age.  
+- **Lab Results:** No evidence of metabolic or ischemic problems.  
+
+**Assessment:**  
+The patient likely has age-related degenerative conduction disease, given the symptoms, age, and examination results. There is a possibility of coronary artery disease, but it is considered unlikely due to the absence of chest pain and other risk factors.
+
+**Plan:**  
+- Recommend implantation of a permanent pacemaker to address symptomatic complete heart block.  
+- Post-implantation evaluation for possible coronary artery disease.  
+- Informed consent obtained for the procedure.  
+- Note: Potential difficulty in delivering the pacemaker lead into the right ventricular cavity due to a persistent left superior vena cava, but alternative access methods will be considered.
+
+**Follow-up:**  
+Schedule the pacemaker implantation surgery as soon as possible.

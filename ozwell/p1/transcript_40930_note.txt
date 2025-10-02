@@ -1,0 +1,22 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. John  
+
+**Chief Complaint:**  
+Acute eye pain and headache with visual disturbances.
+
+**History of Present Illness:**  
+The patient, [Patient's Name], presents with acute eye pain in one eye, generalized headache, fatigue, and weakness in the legs, persisting for two days. The patient was previously examined by a neurologist at a local community hospital. The physical examination revealed exaggerated deep tendon reflexes and sustained clonus of extensor plantar responses, while the ophthalmologic examination was normal. A spinal tap was performed using a 22 gauge Quincke spinal needle to analyze the fluid for IgG, albumin, and oligoclonal banding, confirming the diagnosis of multiple sclerosis. An MRI of the brain was also conducted.
+
+The patient developed a severe headache 10 hours after returning home, localized to the back of the head and worsened with ambulation. The patient returned to the neurologist the next day and was prescribed acetaminophen with bed rest. However, the headache persisted, accompanied by dizziness and neck stiffness for the next 7 days. Follow-up evaluations and repeat physical examinations were similar to the initial findings.
+
+The patient's family decided to travel to the USA for additional treatment and consultation. During the 18-hour flight in a sitting position, the patient experienced severe occipital and frontal headache, nausea, vomiting, neck stiffness, and back pain, with increased pain intensity during aircraft takeoff. Upon landing, the patient required wheelchair assistance to reach the car.
+
+The following day, the patient was seen by another neurologist in the USA, diagnosed with post-dural puncture headache (PDPH), and a repeat MRI of the brain was completed.
+
+**Assessment/Plan:**  
+- Diagnosis: Post-dural puncture headache (PDPH) following spinal tap.
+- Treatment: Prescribed complete bed rest.
+- Follow-up: Schedule a follow-up appointment in one week. The patient is advised to adhere to the prescribed treatment and rest as much as possible.

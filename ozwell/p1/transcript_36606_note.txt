@@ -1,0 +1,16 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:16:36 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling okay today. He recently underwent a radiofrequency catheter ablation procedure due to recurrent shocks from his implantable defibrillator, which were caused by frequent ventricular tachycardia. The patient has a history of coronary artery disease and severe left ventricular dysfunction.
+
+**Objective:**  
+The procedure was performed using the CARTO XP mapping system through a retrograde aortic approach. During the procedure, a monomorphic ventricular tachycardia with a cycle length of 410 ms, right bundle branch block morphology, superior axis of QRS in the frontal plane, and positive concordance of QRS in the precordial leads was easily and repeatedly inducible. An activation map of the VT was created in the left ventricle, and entrainment was attempted from an area on the anterolateral wall near the mitral annulus. Pacing was performed from the ablation catheter at 380 ms during VT. Entrainment with concealed fusion was achieved with an identical QRS morphology during pacing, with an apparent post pacing interval (PPI) of 290 ms and stimulus to QRS of 330 ms. The cycle length of the tachycardia shortened to 380 ms during attempted entrainment with an identical QRS morphology. The electrogram in the ablation catheter used to measure PPI was present earlier than the pacing stimulus and was not altered during pacing, indicating it is a far field signal and not a true near field electrogram. The large amplitude of this electrogram, possibly due to neighboring anterolateral papillary muscle, does not exclude the possibility of it being a far field signal. The near field electrogram could not be discerned in the ablation catheter due to artifacts after pacing was stopped. Radiofrequency ablation at this site resulted in termination of the tachycardia.
+
+**Assessment/Plan:**  
+The procedure successfully terminated the tachycardia. Continued monitoring and follow-up tests are necessary to ensure the patient's condition remains stable. The patient understands the need for ongoing monitoring and follow-up.

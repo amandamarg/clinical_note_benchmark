@@ -1,0 +1,25 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Time:** 7:35 PM  
+
+**Chief Complaint:**  
+Persistent right cheek pain.
+
+**History of Present Illness:**  
+The patient presents with complaints of persistent right cheek pain. The patient has a history of allergic rhinitis and chronic sinusitis, which was treated until 3 months ago by an otolaryngologist. Symptoms began 6 weeks ago with high fever, sore throat, and comorbid right cheek pain and mild swelling. The patient had a dental checkup the day before the initial visit, which showed no abnormal findings. Initially diagnosed with a streptococcal infection and suspected facial cellulitis, the patient was treated with amoxicillin, which improved symptoms. However, the facial pain recurred within 4 weeks. The patient then visited another department, where recurrence of cellulitis with sinusitis was suspected, and cefditoren pivoxil treatment was initiated, but the pain persisted.
+
+**Family History:**  
+The patient's father had severe hearing impairment.
+
+**Diagnosis:**  
+Based on physical examination and laboratory tests, the patient has been clinically diagnosed with trigeminal neuralgia (TN).
+
+**Plan:**  
+Prescribe oral clarithromycin to address the sinusitis that might have caused or exacerbated the TN. If clarithromycin does not alleviate symptoms, consider other treatment options.
+
+**Physician:**  
+[Doctor's Name]  
+[Doctor's Signature]  
+[Medical Facility Name]

@@ -1,0 +1,37 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:34:21 PM  
+
+**Patient Name:** [Patient's Name]  
+**Patient ID:** [Patient's ID]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports persistent and severe pain in the right shoulder and chest following a one-rep max bench press incident, during which they felt a pop in the right upper arm. The patient denies any history of anabolic steroid use.
+
+**Objective:**  
+- Initial treatment involved ice application and a sling provided by the trainer. The patient was evaluated in the emergency department, where x-rays were negative for fracture or dislocation, and the patient was noted to be neurovascularly intact.  
+- Upon presentation to the orthopedic clinic, significant swelling and bruising were observed in the right upper arm and chest, with a bulge in the anterior chest area and loss of contour in the axillary fold.  
+- The patient did not experience any numbness or paresthesia. Full range of motion was noted in the elbow, wrist, and fingers. Sensory response was intact, and a 2+ radial pulse was present in the right upper extremity.  
+- MRI findings indicated avulsion of the pectoralis major tendon from its insertion on the humerus with retraction and strain of the anterior deltoid.  
+- The patient was scheduled for surgery in five days. Medications prescribed included oxycodone and valium for pain management.  
+
+**Assessment:**  
+- Avulsion of the pectoralis major tendon with retraction and anterior deltoid strain.  
+- Compartment syndrome confirmed with intracompartmental pressure readings in the anterior compartment of the arm.  
+
+**Plan:**  
+- The patient was scheduled for surgical intervention to address the tendon avulsion.  
+- Due to severe worsening pain in the right upper arm two days post-initial evaluation, the patient underwent emergency fasciotomy to relieve compartment syndrome.  
+
+**Family Communication:**  
+The patient's family was informed about the emergency surgical intervention following the confirmation of compartment syndrome.  
+
+**Follow-Up:**  
+- Monitor post-operative recovery and pain management.  
+- Schedule follow-up appointments to assess healing and rehabilitation progress.  
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

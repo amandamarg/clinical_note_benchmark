@@ -1,0 +1,18 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. Smith  
+
+**Chief Complaint:**  
+Patient presented with multiple episodes of angina on exertion and severe resting chest pain associated with nausea, vomiting, and diaphoresis.
+
+**History of Present Illness:**  
+The patient was initially admitted to the hospital with typical angina and an impression of acute coronary syndrome. The patient has a history of hypertension. An electrocardiogram (ECG) previously showed 2 mm T inversion in V1-V3 leads, biphasic T waves in I, aVL, and QT prolongation. During the initial hospital admission, a coronary angiography revealed two-vessel disease, and a successful percutaneous coronary intervention was performed on the left anterior descending artery (LAD) and right coronary artery (RCA). The patient was discharged the following day.
+
+Approximately one month post-discharge, the patient experienced multiple episodes of angina on exertion, leading to a second hospital admission. During this admission, cardiac enzymes were within normal limits, and there were no new ECG changes. Echocardiography showed a left ventricular ejection fraction of 55% without any resting wall motion abnormalities. The patient continued to experience occasional angina pain until developing severe resting chest pain with associated symptoms.
+
+Upon transfer to our center for urgent coronary angiography, the patient's angina pain score had decreased to 3 out of 10. The ECG showed ST depression in V2-V5 leads. During catheterization, a foreign body material, identified as the tip of a guiding catheter, was found lodged in the left main coronary artery. Coronary angiography showed patent RCA and LAD stents but revealed significant thrombotic narrowing of the distal left main artery with thrombus extension to the proximal parts of both LAD and left circumflex arteries.
+
+**Assessment and Plan:**  
+The patient was immediately sent to the operating room for coronary artery bypass grafting, which was performed successfully. The patient is advised to continue monitoring and follow-up care to ensure recovery and prevent future complications.

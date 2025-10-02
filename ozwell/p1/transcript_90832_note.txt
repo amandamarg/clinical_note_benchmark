@@ -1,0 +1,38 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:22:12 PM  
+
+**Patient Information:**  
+- **Occupation:** Farmer  
+
+**Chief Complaint:**  
+- Management of abnormal ECG changes following an electric burn injury.
+
+**History of Present Illness:**  
+The patient, a farmer, was referred for management of abnormal ECG changes. Two hours prior to admission, the patient sustained an electric burn injury while performing work at home. The patient was electrocuted, thrown to the ground, and experienced a brief loss of consciousness for a few seconds, followed by spontaneous recovery. The patient reported no chest pain, palpitations, or neurological deficits. There is no history of cardiac illness or sudden or premature cardiac death in the family. The patient was not taking any medications prior to the injury.
+
+**Physical Examination:**  
+- Conscious and alert.  
+- Deep electric burn entry wound over the dorsum of the left hand and an exit wound over the left ankle.  
+- Arterial blood pressure: 120/80 mmHg.  
+- Heart rate: 78 beats per minute.  
+- Cardiovascular assessment: Normal.  
+- Other systemic examinations: Normal.
+
+**Investigations:**  
+- **Initial ECG:** Sinus rhythm with RBBB, coved ST segment elevation with negative T wave in V1 mimicking type 1 Brugada pattern, and saddle back ST segment with upright T wave in V2 mimicking type 2 Brugada pattern with early repolarisation.  
+- **Echocardiogram:** Normal left ventricular size and function, no valvular pathology.  
+- **Routine Laboratory Tests:** Blood urea, serum creatinine, and serum electrolytes were normal.  
+- **Repeat ECG at 2 hours:** Disappearance of the Brugada type pattern with persistent early repolarisation.  
+- **Repeat ECG after 24 hours in ICU:** Normal pattern.
+
+**Assessment and Plan:**  
+The patient experienced ECG changes following an electric burn injury, which resolved over time. Given the absence of a family history of sudden cardiac death and the presence of a clear precipitating event, no further evaluation was deemed necessary. The patient is advised to follow up if any concerns or symptoms arise in the future.  
+
+**Follow-Up:**  
+The patient is advised to monitor for any symptoms and follow up as needed.  
+
+**Physician:**  
+[Doctor's Name]  
+[Doctor's Signature]

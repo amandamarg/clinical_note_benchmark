@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:43:24 PM  
+
+**Patient Name:** [Patient's Name]  
+**Age:** [Patient's Age]  
+**Gender:** [Patient's Gender]  
+
+**Chief Complaint:**  
+Otorrhea in the right ear and recurrent meningitis.
+
+**History of Present Illness:**  
+The patient presents with otorrhea in the right ear and a history of recurrent meningitis. The patient reports having a fever and seizures two weeks ago. The patient has a significant history of multiple surgeries for cholesteatoma and was treated for severe otitis media at the age of 2. The patient has experienced recurrent meningitis and has undergone several brain abscess drainage procedures. 
+
+**Past Medical History:**  
+- Severe otitis media at age 2.
+- Multiple surgeries for cholesteatoma.
+- Recurrent meningitis.
+- Brain abscess drainage procedures.
+- Right temporal bone surgery at age 10.
+- Diagnosed with cholesteatoma at age 16, underwent radical mastoidectomy.
+- First visit to our department at age 17 for controlling cholesteatoma, recurrent meningitis, and otalgia.
+- Underwent tympanoplasty to assess disease and remove residual cholesteatoma from the middle ear, diagnosis confirmed by histopathological analysis.
+- Meningitis and otalgia were controlled post-tympanoplasty, but another episode of meningitis occurred six months later, along with an epidural abscess, leading to hospitalization.
+- Attended our department until age 19, then discontinued hospital visits.
+
+**Assessment/Plan:**  
+The patient's history suggests a complex case of recurrent cholesteatoma and meningitis, with previous surgical interventions. The etiology of the cholesteatoma remains unclear, whether residual congenital or secondary due to osteolysis. Further tests are necessary to evaluate the current condition and determine the appropriate management plan.

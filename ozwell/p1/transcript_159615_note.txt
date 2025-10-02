@@ -1,0 +1,43 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:38:47 PM  
+
+**Patient Name:** [Patient's Name]  
+**Patient ID:** [Patient's ID]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling okay today. They have a history of working in a moving company and no notable findings in their past medical history. The patient experienced neck and shoulder pain, for which they received a cervical massage in March 2008. During the massage, the patient felt a sensation of paralysis in the right upper and lower extremities, though it was not severely notable. Later that evening, the patient experienced weakness in all extremities and visited an emergency care center.
+
+**Objective:**  
+- **Emergency Care Center Findings:**  
+  - Cervical CT: OPLL in the fifth cervical spine.  
+  - Cervical MRI: Acute herniated nucleus pulposus between C5 and C6.  
+  - T2-weighted images: High signal intensity indicative of myelopathy around the sixth cervical spine.
+
+- **Surgical Interventions:**  
+  - Sixth cervical corpectomy.  
+  - Anterior cervical fusion and device fixation for C5 to C7.  
+  - Posterior cervical fusion and device fixation for C3 to C7.  
+  - Posterior laminectomy for C4 to C6.
+
+- **Rehabilitation:**  
+  - Referred to the department of rehabilitation medicine for comprehensive rehabilitative treatment four months post-trauma.
+
+- **Tests:**  
+  - Manual muscle test and sensation test results provided by the patient.
+
+**Assessment:**  
+The patient is diagnosed with an incomplete spinal cord injury with a neurologic level of injury at C4 and an ASIA Impairment Scale of D.
+
+**Plan:**  
+- Continue to monitor the patient's progress and follow up as instructed.  
+- Ensure all information is included in the patient's file for future reference.
+
+**Follow-up:**  
+The patient is advised to follow up as instructed.  
+
+**Signature:**  
+[Doctor's Signature]  
+[Doctor's Contact Information]

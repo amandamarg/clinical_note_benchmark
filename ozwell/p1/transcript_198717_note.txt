@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+**Location:** [Clinic/Hospital Name]  
+
+**Subjective:**  
+The patient presented with complaints of constant and unbearable pain. Symptoms first appeared approximately 10 months ago, when the patient visited the emergency department with pain and swelling in the right arm. A computed tomography of the neck with contrast revealed masses in the right axillary and right supraclavicular regions. The patient was diagnosed with primary mammary carcinoma of the axilla with metastasis. The patient has undergone multiple rounds of chemotherapy and radiation therapy, experiencing thrombocytopenia and metastatic disease progression. Surgery was not an option as the patient was determined to be a nonsurgical candidate. The patient reports worsening pain, especially in the right upper extremity, and has been started on opioid therapy, but pain control remains suboptimal. The patient describes the pain as dull, aching, burning, and electric in nature, worsened by passive and active range of motion. The patient also reports worsening weakness in the entire right upper extremity.
+
+**Objective:**  
+On presentation, the patient reported a constant 10/10 pain in the right proximal humerus, right anterior and posterior shoulder, and right supraclavicular region. Magnetic resonance imaging of the brachial plexus revealed a mass encasing the right brachial plexus. A diagnostic brachial plexus block was performed due to functional decline and acute worsening of pain, but the brachial plexus was unable to be visualized using ultrasonography in the classic supraclavicular area due to the tumor effect.
+
+**Assessment:**  
+The patient is experiencing intractable pain due to metastatic disease progression, with a mass encasing the right brachial plexus contributing to the pain and functional decline.
+
+**Plan:**  
+- Continue to titrate oral medications, including extended release morphine, immediate release morphine, methadone, and gabapentin.
+- Discuss interventional pain management techniques, such as nerve blocks or spinal cord stimulation.
+- Schedule a follow-up appointment to evaluate the effectiveness of the pain management plan and make necessary adjustments.
+
+**Family Discussion:**  
+A family member was informed that despite our best efforts, the patient eventually passed away due to complications of metastatic disease progression. We did everything possible to manage her pain and provide comfort in her final days. Our thoughts are with the family during this difficult time.

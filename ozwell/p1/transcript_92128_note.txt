@@ -1,0 +1,30 @@
+**Clinical Note**
+
+**Patient:** [Name Redacted]
+
+**Date:** 10/1/2025
+
+**Physician:** Dr. X
+
+**Chief Complaint:** Neck pain and headache
+
+**History of Present Illness:** The patient reports a history of neck pain and headache for several years, with a change in the nature of the pain approximately 2 months ago. The neck pain is described as constant and boring, not affected by activity or rest, and worsening at night and in the early morning.
+
+**Physical Examination:** Previous physical examination revealed painful neck with limited motion. No sensory or motor deficits were found in the upper limbs. General physical examination and lab results were normal.
+
+**Medical History:** The patient has a history of a heart attack 28 years ago and a smoking history of 40 pack years. The patient is not on any regular medications.
+
+**Imaging and Tests:**
+- X-ray: Multi-level degeneration of the cervical spine.
+- MRI (7 months ago): Disc protrusion from C4 to C7 and neuroforaminal stenosis with compression of the C6 nerve root.
+- New MRI: Osteolysis of the odontoid process, highly suspicious for metastasis.
+- CT scan: No compromise of the odontoid process stability.
+- Complete tumor staging: Coin lesion suspicious of bronchial carcinoma in the right lung, with further pancreatic and adrenal lesions consistent with metastases.
+
+**Treatment History:** Conservative treatment was ineffective. Spondylodesis and spinal decompression from C5 to C7 were recommended. The patient was treated with palliative radiochemotherapy following the interdisciplinary tumor board's decision.
+
+**Outcome:** The treatment relieved the patient's neck pain and headache.
+
+**Discharge:** The patient was discharged from the hospital on [Date Redacted]. 
+
+**Plan:** Continue monitoring the patient's condition and manage symptoms as needed. Follow up on the effectiveness of palliative care and adjust treatment as necessary.

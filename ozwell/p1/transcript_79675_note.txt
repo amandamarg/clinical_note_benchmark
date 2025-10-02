@@ -1,0 +1,24 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** [Date of Note]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with complaints of neck and back pain persisting for a couple of weeks. The neck pain was accompanied by radicular-like pains extending into the right arm. The patient had undergone a CT scan of the cervical spine, which revealed multilevel intervertebral disc and facet joint degenerative changes resulting in neural exit foraminal narrowing. Additionally, the patient reported significant lower back pain, and a CT of the lumbar spine was performed, which did not show any convincing evidence of an infective process. However, the scan revealed a 47 × 31 mm solid upper pole mass with an irregular periphery and internal calcification in the left kidney, suspicious for renal cell carcinoma. Blood tests showed raised inflammatory markers, and S. aureus was isolated on a blood culture. The patient was started on IV antibiotics, but symptoms did not improve.
+
+**Objective:**  
+A triple phase abdominal CT scan confirmed a 4 × 4.9 × 4.5 cm heterogeneous mass in the upper pole of the left kidney, with no evidence of left renal vein involvement or radiologically significant lymphadenopathy. A core biopsy of the left kidney was performed, and the results indicated a Fuhrman grade 1, clear cell renal cell carcinoma, specifically a clear cell papillary carcinoma.
+
+**Assessment:**  
+1. Clear cell papillary carcinoma of the left kidney.
+2. Multilevel intervertebral disc and facet joint degenerative changes with neural exit foraminal narrowing.
+3. S. aureus bacteremia with raised inflammatory markers.
+
+**Plan:**  
+- The patient underwent a laparoscopic left radical nephrectomy to remove the renal tumor. The macroscopic examination of the surgical specimen revealed a tumor in the mid portion of the kidney located superior to the renal hilum, measuring 48 mm × 40 mm × 46 mm. The procedure was successful with no complications.
+- The patient had an uneventful postoperative course and was discharged home on day four.
+- Continue monitoring for any signs of infection or complications post-surgery.
+
+**Follow-up:**  
+The patient is advised to follow up for postoperative evaluation and further management of neck and back pain as needed.

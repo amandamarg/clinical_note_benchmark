@@ -1,0 +1,32 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:22:51 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Severe headache  
+- **History of Present Illness:**  
+  The patient presented to the emergency department with a sudden onset of a severe headache that began this morning. The headache is localized on the left side of the head, behind the eye, and is associated with blurry vision in the left eye. The intensity of the headache has remained constant since its onset. Approximately two hours after the headache began, the patient experienced altered sensation throughout the right lower extremity, but no focal weakness was reported. The patient has a history of depression and daily tobacco use but no prior history of headaches or trauma.
+
+**Vital Signs on Arrival:**  
+- Blood Pressure: 125/95 mmHg  
+
+**Initial Evaluation:**  
+- No focal deficits were noted at triage.  
+- Approximately 20 minutes after arrival, the patient was evaluated and noted to have an NIH stroke scale score of three, with slight flattening of the left nasolabial fold, drift in the right leg, and altered sensation in the right leg. Sensation testing revealed a dull perception of sharp stimuli throughout the right lower extremity compared to the left, in a non-dermatomal pattern.
+
+**Imaging and Consultations:**  
+- Emergent non-contrast CT of the head and CT angiograms of the neck and brain were performed.  
+- The on-call neurologist was consulted, and no focal deficits were noted on exam, with an NIH stroke scale of zero approximately 40 minutes after the exam by the emergency physician.  
+- Imaging studies revealed bilateral internal carotid artery dissections with pseudoaneurysm formation on the left, creating a relative stenosis.
+
+**Treatment and Hospital Course:**  
+- After discussion with the neurosurgical service, the patient was started on a heparin drip and admitted to the ICU for monitoring.  
+- The patient underwent cerebral angiography, which showed good flow distal to the dissections and pseudoaneurysm, and no intervention was required at the time.  
+- The patient was discharged home three days later.
+
+**Plan:**  
+- Follow-up appointment to monitor the patient's condition will be scheduled.
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

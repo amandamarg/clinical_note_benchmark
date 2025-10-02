@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. Brown  
+
+**Subjective:**  
+The patient, a [age not specified] year-old, presents with low back pain following two falls. The pain has been ongoing for the last 2 years, initially starting as acute pain when sitting on the floor for extended periods and has now progressed to chronic low back pain. The patient reports that the pain worsens with certain activities, leading to avoidance of sports, although daily activities are still manageable but increasingly difficult. The patient has a history of multiple GP visits over the past 24 months for symptoms including low back pain, sciatica, and later, lower limb numbness and weakness. The patient's father, who has downplayed the symptoms, usually provided the history during these visits. The patient first sought medical attention for low back pain at age 12, with a diagnosis of nonspecific low back pain, and was prescribed paracetamol and a topical ointment.
+
+**Objective:**  
+- No physical examination findings documented in the conversation.
+
+**Assessment:**  
+Chronic low back pain with a history of sciatica and lower limb numbness and weakness. The patient's symptoms have been persistent and progressive over the last 2 years.
+
+**Plan:**  
+1. Schedule an X-ray and MRI to investigate the underlying cause of the low back pain.
+2. Conduct a physical examination and nerve tests.
+3. Advise the patient to avoid activities that exacerbate the pain.
+4. Instruct the patient to take paracetamol as prescribed if the pain becomes unbearable.
+5. Follow-up appointment scheduled for next week to review test results and further evaluate the patient's condition.
+
+**Follow-up:**  
+The patient will return next week for scheduled tests and further evaluation. 
+
+**Notes:**  
+The patient's father brought them to the clinic due to concerns about the increasing pain and suspicion of school avoidance. The patient has expressed understanding and agreement with the proposed plan.

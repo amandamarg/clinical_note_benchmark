@@ -1,0 +1,21 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with a complaint of a mass in the posterior thigh, which has been present for more than a year. The patient has a significant past medical history of renal cell carcinoma (RCC), stage II, diagnosed 11 years ago, for which a left nephrectomy was performed. Six years ago, the patient experienced metastasis to the pancreas and spleen, leading to a total resection of both organs. The last follow-up for RCC was two years ago, with a PET/CT scan showing a slightly increased hypermetabolic area in the biceps femoris muscle, initially interpreted as a muscle injury. The patient developed a large mass in the posterior thigh, initially diagnosed as a blood clot on a venous doppler and treated with warfarin for over six months. The mass increased in size, but the patient reported no other symptoms.
+
+**Objective:**  
+On physical examination, a painless, tense mass was found along the length of the biceps femoris muscle, measuring more than 25 cm in the posterior aspect of the left thigh, with varicosities on the surface. An FDG-PET/CT scan showed hypermetabolic activity with an uptake value of 3.8 to 4.1 in the biceps femoris muscle, with multiple serpiginous vessels throughout the tumor, suggesting a large cavernous hemangioma or an angiosarcoma. An MRI revealed a mesenchymal component in an encapsulated mass, raising the possibility of a liposarcoma or an angiosarcoma. A core tissue biopsy demonstrated well-defined adipose tissue.
+
+**Assessment:**  
+Given the high suspicion for malignancy, the patient underwent preembolization followed by surgical resection. The resected mass was determined to be metastasis from the primary RCC.
+
+**Plan:**  
+The patient was informed of the findings and the advanced nature of the metastasis. Unfortunately, despite treatment efforts, the mass was too advanced, leading to the patient's passing. The family was informed and provided with support and the opportunity to ask questions or express concerns.
+
+**Signature:**  
+[Doctor's Signature]  
+[Doctor's Contact Information]

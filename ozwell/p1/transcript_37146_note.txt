@@ -1,0 +1,19 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:08:02 PM  
+
+**Patient:** [Patient's Name]  
+**Chief Complaint:** Chronic left hip and groin pain for the past three years.
+
+**History of Present Illness:**  
+The patient presents with a history of chronic left hip and groin pain persisting for three years. An MRI study previously conducted revealed distention of the left common and external iliac veins. The patient reported no symptoms of leg pain or swelling at the time of the MRI study. There is no personal or family history of prior thrombotic events. The patient has not taken any prolonged flights recently. At the time of the MRI study, the patient was on oral contraceptives, which have since been discontinued. No other medications were being taken at that time. The patient is a lifetime nonsmoker and reported no symptoms suggestive of concurrent pulmonary embolism. A prior hand surgery was noted, but there were no perioperative complications.
+
+**Physical Examination:**  
+No evidence of leg swelling, asymmetry, or postthrombotic syndrome was observed during the examination.
+
+**Diagnostic Studies and Treatment:**  
+The patient was started on anticoagulation therapy. An ultrasound of the left lower limb conducted three weeks later showed no evidence of deep vein thrombosis, including the common femoral and external iliac veins. However, it was difficult to exclude a clot proximal to the iliac vein, leading to the continuation of warfarin for six months. A subsequent MR angiogram and venogram showed no evidence of deep vein thrombosis but revealed significant narrowing of the upper aspect of the left common iliac vein as it passed under the right common iliac artery before joining with the right iliac vein. There was no associated dilation of the peripheral left iliac veins, and the remaining veins were unremarkable for compression or malformation. These findings were highly suggestive of iliac vein compression. A thrombophilia screen conducted after anticoagulation therapy indicated that the patient is heterozygous for Factor V Leiden mutation. A pelvic venogram illustrated stenosis of the left common iliac vein consistent with external compression, with some collateral veins. Pressure measurements across the stenosis showed a mean pressure gradient.
+
+**Assessment/Plan:**  
+The findings are suggestive of iliac vein compression, likely contributing to the patient's chronic pain. The patient will continue to be monitored, and further management will be based on the progression of symptoms and response to ongoing treatment.

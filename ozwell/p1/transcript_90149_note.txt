@@ -1,0 +1,24 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 6:59:41 PM  
+
+**Patient History:**  
+The patient has a significant past medical history of malignant melanoma diagnosed 20 years ago on the right loin, which was excised. Subsequently, the patient developed lymph node metastasis in the left groin and underwent chemotherapy. The patient later experienced haematuria and was diagnosed with renal cell carcinoma in the right kidney and a metastasis of the melanoma in the left kidney, leading to a partial nephrectomy on the right and a complete nephrectomy on the left.
+
+**Current Presentation:**  
+The patient presented to the hospital following a recent chest X-ray that showed a suspicious shadow in the right lower lobe of the lung. Two computer tomography examinations of the chest were inconclusive in ruling out metastasis, initially diagnosing the shadow as an inflammatory process. Due to the shadow's persistence, further investigations revealed a tumour in the right atrium.
+
+**Diagnostic Imaging and Findings:**  
+- **Magnetic Resonance Imaging (MRI):** Showed a spherical tumour attached to the wall of the right atrium. The T1 weighted image revealed homogenous signal intensity and a loss of signal due to fat tissue. The tumour did not show any signs of contrast medium uptake.
+- **Preoperative Diagnosis:** Benign lipoma.
+- **Echocardiography:** Transthoracic echocardiography excluded heart valve dysfunction and confirmed the presence of a mass in the right atrium.
+
+**Plan and Procedures:**  
+Given the criteria and absence of melanoma metastasis, excision of the lipoma and a biopsy of the mass in the right lower lobe were planned. The patient's heart rate, blood pressure, ECG, and lab results were normal, except for urea and electrolytes.
+
+**Surgical Intervention:**  
+The lipoma excision was performed through an incision of the right atrium with the patient supported by cardiopulmonary bypass. The tumour was described as walnut-sized, yellow, and with a smooth surface.
+
+**Conclusion:**  
+The patient underwent successful excision of the right atrial lipoma. Further management will depend on the biopsy results of the lung mass and ongoing monitoring of the patient's condition.

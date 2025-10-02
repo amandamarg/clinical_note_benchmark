@@ -1,0 +1,36 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:23:26 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Pain in the thoracolumbar area for a few months.  
+
+**History of Present Illness:**  
+The patient reports experiencing pain in the thoracolumbar area for several months. The patient has been taking NSAIDs, specifically diclofenac, for pain relief. A bone scintigraphy was performed to rule out possible micro fractures, with the patient receiving an injection of technetium 99m methylene diphosphonate and images obtained using a high-resolution collimator. The bone scan showed no significant activities indicating micro fractures, but there was a diffuse uptake of technetium in the kidneys.
+
+**Medical History:**  
+- No history of oncologic or chronic disease.  
+- No history of chemotherapy, radiation therapy, or antibiotherapy.  
+- No complaints of urinary tract obstruction or symptoms of urinary tract infection.  
+- Normotensive.  
+
+**Medications:**  
+- Diclofenac (NSAID)  
+
+**Diagnostic Tests and Results:**  
+- **Bone Scintigraphy:** No significant activities indicating micro fractures; diffuse uptake of technetium in the kidneys.  
+- **Renal Function Tests:** Elevated blood urea nitrogen and creatinine values.  
+- **Urine Microscopy:** Presence of squamous epithelial cells, some reactive urothelial cells, and a few cellular casts; no signs of inflammation or eosinophilia.  
+
+**Assessment:**  
+The diffuse renal uptake of technetium is likely due to acute kidney injury, potentially caused by the intake of NSAIDs. There is no known underlying renal disease or signs of dehydration to explain the increased values detected on renal function tests.
+
+**Plan:**  
+- Discontinue NSAID (diclofenac) use.  
+- Follow-up appointment scheduled in one week to assess progress.  
+- Patient advised to return with the results of the tests.  
+
+**Physician:**  
+[Doctor's Name]  
+[Doctor's Signature]

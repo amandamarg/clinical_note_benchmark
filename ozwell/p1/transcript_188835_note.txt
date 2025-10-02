@@ -1,0 +1,39 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:28:52 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Sensitive mass on right wrist  
+- **History of Present Illness:**  
+  The patient presented to the orthopedic hand clinic with a sensitive mass on the right wrist, which has been present for approximately three years. The mass has increased in size over time, and the associated pain has worsened. The patient reports significant sensitivity to light contact on the area but denies any cold sensitivity. There is no recollection of trauma to the area.
+
+- **Past Medical History:**  
+  The patient has a history of squamous cell carcinoma on the dorsal-radial aspect of the hand, which was treated. Post-treatment, the patient developed reflex sympathetic dystrophy (RSD), leading to difficulty in hand movement. A stellate ganglion block was attempted for RSD without relief. The patient has been performing home exercises to improve range of motion.
+
+- **Physical Examination:**  
+  A small round nodule measuring approximately 5mm x 5mm was palpated on the wrist. The nodule was very tender and painful to touch, but the pain did not radiate, and no Tinel's sign was observed.
+
+- **Imaging:**  
+  Imaging studies revealed no abnormalities except for some osteopenia.
+
+- **Assessment/Plan:**  
+  Based on the symptoms and examination, the mass was suspected to be a neuroma, possibly evolving from a cutaneous nerve or the dorsal sensory branch of the ulnar nerve. Surgical intervention was planned to excise the mass and send it for histopathological review.
+
+- **Surgical Findings:**  
+  During the operation, a maroon-colored mass connected to a cutaneous nerve branch was identified and excised. The ulnar nerve and dorsal sensory branch were confirmed not to be involved.
+
+- **Postoperative Course:**  
+  At the first postoperative visit, the patient reported being pain-free and expressed satisfaction with the surgical outcome.
+
+- **Pathology Results:**  
+  Diagnostic pathological stains confirmed the presence of a glomus tumor, with strong reactivity to immunostaining of type IV collagen and smooth muscle actin.
+
+- **Follow-up:**  
+  The tumor was successfully removed, and it is not expected to cause further issues. Regular follow-up appointments are necessary for close monitoring.
+
+**Family Acknowledgment:**  
+The patient's family expressed gratitude for the care provided.
+
+**Physician:** [Physician's Name]  
+**Signature:** [Physician's Signature]

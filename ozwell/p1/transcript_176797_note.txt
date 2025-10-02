@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient Information:**
+- **Diagnosis:** Sepsis, Acute Cholecystitis
+- **History:** Diabetes, Previous sigmoid resection for diverticulitis, ERCP for choledocholithiasis
+
+**Clinical Findings:**
+- **Symptoms:** Cough, Diffuse abdominal pain
+- **Blood Sample Investigation:** Mild leucocytosis with PRC augmentation, Normal AST, ALT, and bilirubin levels
+- **Preoperative Ultrasound:** Thickened gallbladder wall suggestive of acute cholecystitis
+- **Intraoperative Findings:** Incidental finding of a left-sided gallbladder
+
+**Surgical Procedure:**
+- **Procedure:** Laparoscopic cholecystectomy
+- **Details:** Careful dissection of Calot’s triangle, identification and isolation of the cystic duct and artery, safe clipping and transection of the cystic duct and artery, gallbladder extracted in an endobag
+
+**Postoperative Course:**
+- **Complications:** Aggravation of diabetes, Basal pneumonia
+- **Management:** Controlled postoperatively in the intensive care unit
+- **Discharge:** Postoperative day 16, in good condition
+
+**Retrospective Analysis:**
+- **CT Scan Reevaluation:** Unable to demonstrate attachment of the gallbladder to the left side of the liver due to hypertrophic left lobe mimicking contiguity
+- **Vascular and Biliary Reconstruction:** Evidence of agenesis of the right anterior sector of the liver, absence of the right hepatic duct, intrahepatic variation with insertion of the right inferior sectorial duct into the left common duct as type A3 of Huang Classification
+
+**Family Discussion:**
+- Explained the anatomical variation and surgical findings to the patient's family.

@@ -1,0 +1,50 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:34:08 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Patient was found unresponsive in the field with a history of chronic cocaine abuse.
+
+**History of Present Illness:**  
+The patient was found unresponsive and was administered multiple doses of naloxone with no improvement in mental status. Upon arrival at the emergency department, the patient was unresponsive to questions and unable to follow commands but was withdrawing to painful stimuli. The Glasgow Coma Score was 8, and the patient was tachypneic.
+
+**Vital Signs:**  
+- Respiratory rate: 38 breaths per minute  
+- Oxygen saturation: 90% on 6 liters of nasal cannula  
+
+**Physical Examination:**  
+- No tracheal deviation  
+- No jugular venous distention  
+- Uneven chest rise and fall on the right side  
+- Absent breath sounds in the right lung fields  
+- Normal cardiac heart sounds  
+
+**Diagnostic Studies:**  
+- Chest X-ray: Extensive lucency in the right hemithorax, suggestive of a large pneumothorax or an air-filled cyst.  
+- CT scan of the chest: Extensive pneumothorax of the right lung without mediastinal shift.  
+
+**Interventions:**  
+- Intubation for airway protection in the ED.  
+- Emergent 24 French chest tube placed in the right 6th intercostal space, which failed to expand the lung.  
+- Exchanged for a 32 French tube, which also failed to expand the lung. No air drainage from either tube, suggesting no pneumothorax.  
+
+**Procedures:**  
+- Bronchoscopy with right chest VATS revealed a giant bulla encasing the entire right pleural cavity, originating from the right upper lobe at the apex.  
+- Bulla extraction and pleurodesis performed by mechanical and chemical means.  
+
+**Outcome:**  
+Post-procedure, the patient's respiratory condition improved. The patient was stabilized and admitted to the intensive care unit for further management.
+
+**Plan:**  
+The patient will remain under observation for a few more days to ensure stability. If the condition remains stable, discharge planning will be initiated.
+
+**Follow-up:**  
+The patient will be monitored closely, and any questions or concerns will be addressed promptly.  
+
+**Physician's Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]
