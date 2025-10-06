@@ -8,7 +8,7 @@ import json
 
 def generate(idx, transcript, generator, overwrite=False):
     assert generator.prompt_name[0] == 'g'
-    path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name, idx)
+    path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name, str(idx))
     if not os.path.exists(path):
         os.makedirs(path)
     path = os.path.join(path, "gen_note.txt")
@@ -80,11 +80,44 @@ def generate_and_eval(df, generator, evaluators, overwrite=False):
 if __name__ == '__main__':
     load_dotenv()
     api_key = os.getenv("OZWELL_SECRET_KEY")
+    print("Loading data frame...")
     df = pd.read_json("hf://datasets/AGBonnet/augmented-clinical-notes/augmented_notes_30K.jsonl", lines=True)
-    req = requester.OzwellRequester("g1", api_key)
-    path = os.path.join(req.root_dir, req.model_name, req.prompt_name)
-    df.set_index('idx')
-    generate_all(df, req, False)
-    path = os.path.join(req.model_name, req.prompt_name)
-    req.set_prompt('s1')
-    write_eval_reports(path, df, [req], False)
+    print("Done loading data frame")
+    #Ozwell
+    # req = requester.OzwellRequester("g1", api_key)
+    # path = os.path.join(req.root_dir, req.model_name, req.prompt_name)
+    # df.set_index('idx')
+    # generate_all(df, req, False)
+    # path = os.path.join(req.model_name, req.prompt_name)
+    # req.set_prompt('s1')
+    # write_eval_reports(path, df, [req], False)
+
+    #Gemma3
+    # req = requester.OllamaRequester("gemma3", "g1")
+    # path = os.path.join(req.root_dir, req.model_name, req.prompt_name)
+    # df.set_index('idx')
+    # generate_all(df, req, False)
+    # path = os.path.join(req.model_name, req.prompt_name)
+    # req.set_prompt('s1')
+    # write_eval_reports(path, df, [req], False)
+
+    # df_subset = df[df['idx'].astype('string').isin(os.listdir('ozwell/g1'))]
+    # ol_gen = requester.OllamaRequester("gemma3", "g1")
+    # ol_sim = requester.OllamaRequester("gemma3", "s1")
+    # generate_and_eval(df_subset, ol_gen, [ol_sim])
+
+    # add Gemma3 s1 eval to existing Ozwell eval reports
+    # req = requester.OllamaRequester("gemma3", "s1")
+    # for f in os.scandir("ozwell/g1"):
+    #     idx = int(f.name)
+    #     eval_report_path = os.path.join(f.path, "eval_report.json")
+    #     if os.path.exists(eval_report_path):
+    #         with open(eval_report_path, 'r') as file:
+    #             eval_report = json.load(file)
+    #     if not req.model_name in eval_report.keys() or not "s1" in eval_report[req.model_name].keys():
+    #         with open(os.path.join(f.path, "gen_note.txt"), 'r') as file:
+    #             gen_note = file.read()
+    #         ref_note = df[df['idx'] == idx]['full_note']
+    #         eval_report['gemma3']['s1'] == eval(gen_note, ref_note, req, eval_report)
+    #         with open(eval_report_path, '1') as file:
+    #             json.dump(eval_report, file)

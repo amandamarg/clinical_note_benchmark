@@ -3,6 +3,8 @@ import requests
 from abc import ABC, abstractmethod
 from ollama import Client
 import re
+from dotenv import load_dotenv
+import pandas as pd
 
 class Requester(ABC):
     def __init__(self, model_name, prompt_name, api_key, root_dir='./'):
@@ -69,9 +71,16 @@ class OllamaRequester(Requester):
             return {"Authorization": f"{api_key}", "Content-Type": "application/json"}
         else:
             return {"Content-Type": "application/json"}
+    
+    def format_tuple(self, tuple_data):
+        formatted_data = ''
+        for i,x in enumerate(tuple_data):
+            formatted_data += f'* Text {i+1}:\n"""\n{x}\n"""\n\n'
+        return formatted_data
 
     def send(self, data):
+        if isinstance(data, tuple):
+            data = self.format_tuple(data)
         response = self.client.generate(model=self.model_name, system=self.prompt, prompt=data, stream=False)
         return response.response
-
 
