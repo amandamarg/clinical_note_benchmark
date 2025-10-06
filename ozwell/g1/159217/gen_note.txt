@@ -1,0 +1,40 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Pain in the left hip for the past three months.
+
+**History of Present Illness:**  
+The patient reports experiencing pain in the left hip for the past three months. There is no history of recent trauma or injury to the hip. The patient denies smoking and is currently taking medication for hypertension.
+
+**Medical History:**  
+- Total hysterectomy for uterine MMMT one and a half years ago.
+- Recurrence of MMMT confirmed by surgical biopsy six months post-hysterectomy with multiple pelvic lymph node enlargements.
+- No small cell carcinoma component in uterine cancer pathologically.
+- No further treatment for MMMT was given.
+
+**Recent Diagnostic Findings:**  
+- Hip MRI: Fracture of the left femoral head and enlarged right inguinal and left iliac lymph nodes.
+- Chest X-ray: Multiple bilateral lung masses.
+- Chest CT: Lung mass surrounding the left lower lobar bronchus, multiple peripheral lung masses, and lymph node enlargements in the mediastinal areas.
+- Bronchoscopy: Protruding mass lesion on the orifice of the left lower lobe basal segment biopsied, showing typical small cell lung carcinoma rather than metastatic MMMT from the uterus.
+
+**Current Symptoms:**  
+- Mild dry cough.
+- Pain in the left hip.
+
+**Treatment and Progress:**  
+- The patient was referred to the pulmonology department based on chest X-ray findings.
+- Treatment initiated for small cell lung cancer with etoposide plus cisplatin.
+- Radiation delivered to the femur for palliation of pain.
+- After two cycles of chemotherapy, central lesions (mediastinal lymph nodes and mass around the left lower lobar bronchus) slightly decreased, but peripheral masses increased.
+- Hemiarthroplasty performed due to the condition of the femur.
+
+**Plan:**  
+Monitor the patient's condition closely and schedule a follow-up appointment in a few weeks.
+
+**Notes:**  
+The patient's condition is being managed with ongoing treatment for small cell lung cancer, and the response to chemotherapy is being evaluated. Further monitoring and adjustments to the treatment plan will be made as necessary.

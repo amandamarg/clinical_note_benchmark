@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:31:53 PM  
+**Physician:** Dr. Smith  
+**Patient:** [Patient Name]
+
+**Chief Complaint:** Motorcycle accident resulting in severe injury to the right leg.
+
+**History of Present Illness:** The patient was involved in a motorcycle accident where their right leg was run over by a truck. They were transported to the emergency department for evaluation and treatment.
+
+**Physical Examination:** Examination of the right leg reveals a traumatic near total amputation of the right distal tibia. The distal portion of the leg is severely crushed with only a small portion remaining. The amputation site is contaminated. There is a comminuted fracture of the tibia and fibula at the distal portions, along with damage to the ankle joint. Despite the severity of the injury, the patient's general condition remains fairly stable.
+
+**Procedures Performed:**
+1. Application of an external fixator to the open tibial fracture.
+2. Internal fixation for the fibula.
+3. Wound exploration was conducted, revealing thrombosis of the anterior tibial artery and a 20-cm-long segment of the artery's crushed intimal structure, along with a similarly damaged vein.
+4. Harvesting of a lesser saphenous vein graft from the contralateral leg in a 12 cm segment for arterial reconstruction.
+5. After resumption of blood flow, 400 mL of blood was drained before repairing the ruptured vein. The vein with a 7 cm gap was repaired with an 8 cm strip of arterial graft from a non-thrombosed segment at the middle portion of the thrombosed anterior tibial artery.
+6. Posterior tibial vessels were used for reconstruction, as the healthy vein graft was considered more reliable for arterial reconstruction than the arterial graft from the damaged anterior tibial artery.
+
+**Plan:** Close monitoring of the patient's progress is necessary. The patient is advised to get plenty of rest and engage in physical therapy as part of the recovery process. 
+
+**Patient Instructions:** The patient understands the severity of the injury and the importance of following the recommended care plan. 
+
+**Follow-Up:** Regular follow-up appointments will be scheduled to monitor the healing process and adjust the treatment plan as necessary.

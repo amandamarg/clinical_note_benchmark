@@ -1,0 +1,21 @@
+**Patient Name:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Subject:** Acute Abdominal Pain & Diagnostic Findings
+
+**History of Presenting Illness:** Patient presented to the emergency department complaining of severe upper abdominal pain.
+
+**Past Medical History:** Patient reports a significant past medical history including hypertension, diabetes mellitus, coronary heart disease, atrial fibrillation, chronic obstructive pulmonary disease (COPD), and a prior omphalocele repair twenty years ago. Patient reports monitoring a pancreatic serous cystadenoma for ten years, with regular follow-up scans for six years, but discontinued attendance for the last four years.
+
+**Exam Findings & Diagnostic Testing:**
+
+*   Upon presentation, chest and abdominal x-rays were performed, yielding inconclusive results.
+*   Routine laboratory studies revealed marked leukocytosis, severe anemia, and markedly elevated blood glucose levels (over 500 mg/dl).
+*   An intravenous contrast CT scan revealed a large amount of free peritoneal air and free fluid, along with a 17 cm large mass originating from the stomach in the left upper quadrant, with secondary liver lesions.
+*   An urgent laparotomy was performed, revealing a prepyloric ulcer perforation and a large, inoperable mass arising from the pancreatic body, largely invading the posterior wall of the stomach, occupying the upper abdomen, with multiple hepatic secondary lesions. A liver biopsy was taken, the stomach perforation was sutured closed, and a washout was performed.
+*   Liver biopsy findings revealed small and medium size cystic lesions surrounded and divided by hyalloid collagenous matrix. The cysts were lined by cuboidal epithelial cells with clear cytoplasm and round nuclei without atypical or mitotic activity as demonstrated by pathology. The glycogen content was documented by PAS positive reaction.
+
+**Diagnosis:** Serous microcystic adenoma of the pancreas with confirmation of malignant nature due to extensive invasive pancreatic mass with hepatic invasion.
+
+**Plan:** Patient will be scheduled for a follow-up appointment with a specialist for ongoing monitoring. 
+
+**Physician Signature:** [Physician Signature - *Information Missing from Dialogue*]

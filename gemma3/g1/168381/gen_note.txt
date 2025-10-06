@@ -1,0 +1,28 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be completed*]
+**Date:** [Date - *To be completed*]
+**Subject:** Facial Swelling & Mandibular Caries
+
+**Chief Complaint:** Patient reports persistent swelling and asymmetry on the right side of the face, developed approximately three months ago following a periapical infection.
+
+**History of Present Illness:** Patient presents with a three-month history of swelling and asymmetry on the right side of the face, initially following an infection. Patient reports previous antibiotic treatment was unsuccessful. Referred to clinic due to the ongoing swelling.
+
+**Physical Examination:**
+* **General:** Patient appeared as stated.
+* **Facial Examination:** Severe swelling noted without fluctuation upon palpation of the right mandibular region, accompanied by submandibular lymphadenopathy. Skin color and appearance were normal.
+* **Oral Examination:** Deep caries cavity identified in the right mandibular first molar tooth. Tooth was not mobile. No other damage to the oral mucosa was observed.
+
+**Diagnostic Findings:**
+* Radiographic examination revealed a tunnel-like defect in the cortical bone in the vestibule surface of the inflamed bone, indicative of Garre’s osteomyelitis secondary to periapical infection of the right mandibular first molar tooth.
+
+**Plan:**
+Due to limited financial resources and the patient’s location, endodontic treatment is not a feasible option. The patient will be referred to the surgical clinic for dental extraction of the right mandibular first molar tooth. 
+
+**Family Discussion:** The family expressed concerns regarding the cost of treatment. 
+
+**Physician:** [Doctor’s Name - *To be completed*]
+
+---
+
+**Note:** *Please complete the bracketed information with the corresponding details.*

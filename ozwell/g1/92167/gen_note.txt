@@ -1,0 +1,20 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. [Doctor's Name]  
+
+**Chief Complaint:**  
+Episodes of intermittent gross hematuria.
+
+**History of Present Illness:**  
+The patient presents with episodes of gross hematuria. The patient has a history of colorectal carcinoma treated with rectum and ileum segment resection, chemotherapy, and radiotherapy four years ago. Post-radiotherapy, the patient developed ureteric strictures on both sides and had ureteric stents placed. Upon admission, the urine specimen showed a few red blood cells and white blood cells, but the culture was sterile. During the change of the ureteric stents, a retrograde pyelography and cystoscopy were performed, revealing mild gross hematuria from the right ureteric orifice with no further pathological findings. Initially, the hematuria cleared up after the stent change, but recurred one day later with blood clots in the bladder. A transurethral catheter was placed, and a multiphase CT of the abdomen and pelvis was performed, which did not detect a source of bleeding. Ureteroscopy on both ureteric sides, with emphasis on the right ureter, found nothing suspicious. Another episode of gross hematuria with massive hemorrhage occurred, and an arteriography was performed, but no underlying reason for the bleeding was found. Two days later, another episode of gross hematuria with massive hemorrhage led to hemodynamic instability, necessitating a blood transfusion of 6 units. A nephrectomy of the suspicious right side was performed, during which the ureteric stent was removed and the hematuria stopped. Postoperatively, a massive hemorrhage occurred within the bladder catheter. An arteriography identified the region of the fistula at the distal common iliac artery, and a stent graft was deployed across the fistula. A postoperative angiogram showed complete closure of the fistula. After adequate blood transfusion and fluid replacement, the patient made a rapid and unremarkable recovery. Twelve months later, the patient remains well, the stent graft is patent, but the patient lost the right kidney.
+
+**Plan:**  
+Review the patient's medical history and test results to determine the next steps in management. Continue monitoring the patient's recovery and the status of the stent graft.  
+
+**Follow-Up:**  
+The patient will be monitored for any further complications or recurrence of symptoms. Regular follow-up appointments will be scheduled to ensure ongoing health and stability.  
+
+**Signature:**  
+Dr. [Doctor's Name]

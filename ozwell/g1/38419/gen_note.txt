@@ -1,0 +1,32 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:35:31 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Pain in the right arm following a road traffic accident.
+
+**History of Present Illness:**  
+The patient was involved in a road traffic accident while riding a motorcycle, where a truck hit them at approximately 50 miles per hour. The patient reports pain in the right arm and an inability to move it.
+
+**Physical Examination:**  
+- **Right Arm:** Contusions present, marked swelling, and tenderness in the mid-shaft region. No evidence of penetrating injury.  
+- **Neurological Examination:** Cranial nerves intact, no neurological deficits present.
+
+**Investigations:**  
+- **Radiograph of Right Upper Limb:** Comminuted fracture of the mid-shaft of the humerus.  
+- **CT Scan of Head:** No abnormalities detected.  
+- **Laboratory Results:** Normal, with liver and kidney function tests within normal range.  
+- **Electrocardiogram:** No abnormal features.
+
+**Additional Findings:**  
+The patient reported tingling and numbness in the right little and ring fingers. Examination revealed hyperextension at the metacarpophalangeal joints and flexion at the proximal and distal interphalangeal joints, with an inability to move the little and ring fingers.
+
+**Electrodiagnostic Evaluation:**  
+Nerve conduction studies of the right upper arm nerves demonstrated a severe ulnar nerve conduction block.
+
+**Diagnosis:**  
+Ulnar nerve injury following a fracture of the shaft of the humerus.
+
+**Plan:**  
+The patient has been given first aid in the form of a U-slab and transferred to the orthopedic ward for further evaluation. A follow-up with the orthopedic specialist is recommended for further evaluation and treatment.

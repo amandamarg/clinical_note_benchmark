@@ -1,0 +1,23 @@
+## Clinical Note
+
+**Patient:** [Patient's Name]
+**Date:** [Current Date]
+**Subject:** Post-Aortic Stent Procedure – Respiratory Distress
+
+**History of Presenting Illness:** Patient presented to the hospital today with a history of recent admission for severe chest pain and shortness of breath. Patient reports experiencing these symptoms for the past few days, secondary to a road traffic accident sustained 18 months prior, involving a severe head injury and pelvic fracture. Patient reports prior episodes of anterior chest pain and dyspnea on moderate exertion following the initial injury.
+
+**Hospital Course:** Patient was admitted to the emergency department recently with similar symptoms. A CT chest with intravenous contrast revealed a large aneurysm of the descending thoracic aorta causing compression on the origin of the left main bronchus and the right and left pulmonary arteries. The patient was subsequently referred to the vascular surgical unit. 
+
+Following a procedure involving endoluminal thoracic aortic stenting under general anesthesia, the patient developed severe dyspnea and desaturation. A subsequent post-procedure chest X-ray revealed complete collapse of the left lung. A CT chest with intravenous contrast confirmed the aneurysm completely occluding the left main bronchus with complete collapse of the left lung, but with adequate perfusion. The aneurysmal sac also had a mass compression on the adjacent right main pulmonary artery. 
+
+Hemodynamically, the patient remained stable with acceptable arterial blood gases. Close monitoring was initiated with consideration for an endobronchial stent, however, given the potential for increased pressure and occlusion of the compressed right pulmonary artery, a conservative management plan was adopted. 
+
+Radiologically, the apex of the left lung began to open after 18 hours. 
+
+**Vitals:** (Note: Specific vital signs would be documented here – e.g., BP, HR, RR, SpO2) – Within normal limits prior to intervention, acceptable arterial blood gases post-intervention.
+
+**Investigations:** CT Chest with IV Contrast (Initial & Post-Procedure), Chest X-Ray (Initial & Post-Procedure).
+
+**Plan:** Continued close monitoring and observation. Patient will be kept updated on any further developments. 
+
+**Physician:** [Doctor's Name] 

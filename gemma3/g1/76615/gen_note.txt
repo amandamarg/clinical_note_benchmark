@@ -1,0 +1,28 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Left Eye Growth & Vision Loss
+
+**History of Presenting Illness:** Patient presents today complaining of a large, ulcerative growth over the left eye accompanied by progressive vision loss. The growth was initially noted approximately 2 years ago and has been steadily growing. There was no associated pain or fever.
+
+**Exam Findings:**
+*   **Growth:** Large, ulcerative growth extending from the forehead to the nose, measuring approximately 6 x 5 cm.
+*   **Palpation:** No palpable superficial cervical nodes noted.
+*   **Right Eye:** Visual acuity normal in the right eye.
+*   **CT Scan:** CT scan revealed a large, homogenous mass covering the entire left orbit, with no erosive damage to bony structures.
+
+**Medical History:** Patient reports no detrimental habits.
+
+**Diagnosis:** Provisional diagnosis of Carcinoma of the Left Lower Eyelid. Final histopathological report confirms Squamous Cell Carcinoma of the Lower Eyelid involving the entire eye.
+
+**Treatment Plan:**  Patient has undergone an incisional biopsy.  We have performed necessary blood investigations.  Patient advised to rest and take it easy.  Scheduling for further treatment will be arranged. 
+
+**Follow-Up:**  I will be in touch shortly to schedule the next steps in treatment.
+
+**Physician:** [Doctor's Name - *To be filled in*]
+[Signature] 
+
+---
+
+**Note:** *Please replace the bracketed information with the appropriate details.*

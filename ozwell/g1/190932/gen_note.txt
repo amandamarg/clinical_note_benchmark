@@ -1,0 +1,40 @@
+**Clinical Note:**
+
+**Date:** 10/1/2025  
+**Time:** 7:25:46 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling okay but expresses nervousness about the test results.
+
+**Objective:**  
+- Abdominal ultrasound results indicate a right adrenal lesion measuring 9 cm in diameter.  
+- The lesion is described as a soft tissue encapsulated mass of 10 x 9 cm in the right adrenal gland.  
+- The patient is asymptomatic, and the physical examination was normal.
+
+**Assessment:**  
+- Right adrenal lesion identified.  
+- Further evaluation is necessary to determine the nature of the lesion.
+
+**Plan:**  
+1. Conduct an endocrinological evaluation to assess the hypothalamic-pituitary-adrenal axis function and check for hypersecretion of catecholamines.
+2. Based on the endocrinological evaluation results:
+   - If the mass is non-secreting, proceed with an adrenal scan for further information.
+   - If the mass is secreting, perform additional tests to identify the specific hormones being secreted and determine the appropriate treatment.
+3. Consider a laparoscopic transperitoneal adrenalectomy if surgical intervention is required. This procedure will involve inserting trocars into the abdomen and removing the mass through a small incision, with special care taken during dissection.
+4. Schedule further tests and scans to ensure full preparation for potential surgery.
+5. The patient is encouraged to bring family members to the next appointment for support.
+
+**Follow-up:**  
+- Schedule the endocrinological evaluation and any necessary follow-up appointments.  
+- Keep the patient informed throughout the process.  
+
+**Patient Education:**  
+- Discussed the routine nature of the potential surgical procedure and reassured the patient regarding the care that will be taken during the process.  
+- Encouraged the patient to bring family for support during future appointments.  
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

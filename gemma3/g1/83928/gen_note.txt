@@ -1,0 +1,21 @@
+**Patient Name:** [Patient Name - To be filled in]
+**Date:** [Date - To be filled in]
+**Subject:** Cardiac & Gastrointestinal Evaluation
+
+**History of Presenting Illness:** Patient presents with complaints of shortness of breath, which has been progressively worsening. Patient reports dyspnea on exertion and orthopnea.
+
+**Past Medical History:**
+*   Coronary Artery Disease
+*   Multiple Myocardial Infarcts
+*   Systolic Heart Failure (Ejection Fraction: 20%)
+*   History of placement of two coronary stents in 2003 and two more prior to admission.
+
+**Hospital Course:**
+Upon arrival to the Emergency Department, the patient was noted to have atrial fibrillation with rapid ventricular rate and a heart rate of 140. The patient was initiated on a diltiazem infusion and admitted to the Cardiac Intensive Care Unit. A subsequent echocardiogram revealed progressive worsening of ischemic cardiomyopathy with an ejection fraction of 18%. Inotropic support was initiated, and an intra-aortic balloon pump was placed for hemodynamic stabilization. Approximately 24 hours later, the patient experienced an episode of melena, associated with a drop in hemoglobin from 10.1 to 7.7. A proton pump inhibitor infusion was initiated, and an emergent esophagogastroduodenoscopy (EGD) revealed erythema and erosions in the gastric fundus compatible with gastritis and grade 1 reflux esophagitis but no evidence of active bleeding. A Helicobacter pylori stool antigen test was negative. Following hemodynamic stabilization, a colonoscopy was performed for further evaluation of melena and pretransplant screening. The colonoscopy revealed abnormal vascularity, congestion, nodularity, erosions, erythema, and ulceration in the cecum and ascending colon, suggestive of ischemic colitis, which was confirmed by biopsy. A CT scan of the abdomen and pelvis with contrast revealed no significant narrowing of the celiac or mesenteric vasculature, however, the inferior metallic marker of the IABP was found inferior to the origin of the superior mesenteric artery. The IABP was subsequently repositioned.
+
+**Current Status:** [To be updated]
+
+**Plan:** [To be updated - Includes ongoing treatment, follow-up appointments, further investigations if needed]
+
+____________________________
+[Physician Name & Credentials]

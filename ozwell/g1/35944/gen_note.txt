@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:21:45 PM  
+
+**Patient:** [Patient's Name]  
+**Encounter Type:** Emergency Department Visit  
+
+**Chief Complaint:**  
+Epigastric pain and nausea with bilious emesis.
+
+**History of Present Illness:**  
+The patient presented to the emergency department with sudden onset epigastric pain and nausea accompanied by bilious emesis, which began a few hours prior to arrival.
+
+**Diagnostic Evaluation:**  
+Initial liver function tests and abdominal ultrasound were unremarkable, showing no abnormalities in the liver or gallbladder. A computed tomography (CT) scan revealed a soft tissue mass located posterior to the gallbladder. Further evaluation with magnetic resonance cholangiopancreatography (MRCP) demonstrated a complex cystic structure of indeterminate etiology, not communicating with biliary or vascular structures. Differential diagnosis included a ruptured hepatic adenoma, a biliary cystic lesion, or an enteric cyst.
+
+**Surgical Intervention:**  
+Due to persistent symptoms, the patient was taken to the operating room for further evaluation. Laparoscopy revealed a hemorrhagic pedunculated mass attached to the infundibulum of the gallbladder, which was easily dissected and resected using a harmonic scalpel. Significant inflammation was noted in the infundibulum of the gallbladder, likely secondary to the hemorrhagic mass. A cholecystectomy was performed due to concerns of potential ischemia and stricture following considerable dissection in the region of the cystic duct.
+
+**Postoperative Course:**  
+The patient's postoperative course was uneventful, with immediate resolution of symptoms. The patient was discharged home on the first postoperative day and was asymptomatic at follow-up.
+
+**Plan:**  
+The patient is advised to monitor for any new symptoms and follow up as needed. Further questions or concerns should be addressed promptly.
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________  
+**Date:** 10/1/2025

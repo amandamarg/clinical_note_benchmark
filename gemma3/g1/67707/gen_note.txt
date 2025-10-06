@@ -1,0 +1,28 @@
+**Patient Name:** [Patient Name - To be filled in]
+**Date:** [Date of Visit - To be filled in]
+
+**Subject:** Right Knee Pain and Debility
+
+**History of Present Illness:**
+
+The patient reports a long-standing history of right knee pain and debility. The patient was initially diagnosed with osteochondritis dissecans (OCD) at age 13 and received conservative management. Subsequent arthroscopic examination at age 14 revealed a stable lesion, but continued pain led to a second arthroscopy a year later. This revealed an unstable lesion necessitating removal and a chondral biopsy followed by autologous chondrocyte transplantation, which failed to heal.  Two months later, a matrix induced autologous chondrocyte implant (MACI) was applied with fibrin glue fixation, but the outer rim incorporated well while the inner area failed to fill. At age 23, due to persistent discomfort and mechanical instability, another arthroscopy was performed revealing exposure of underlying subchondral bone and the formation of a large subchondral cyst in the area of the prior OCD and MACI graft.
+
+**Current Symptoms:**
+
+The patient reports inability to perform activities involving prolonged weight bearing and increasing difficulty continuing their occupation in allied health care.
+
+**Examination Findings:** (To be completed after physical examination)
+
+**Plan:**
+
+1.  Further diagnostic testing to confirm the etiology of the knee pain.
+2.  Recommend physical therapy to manage pain and improve mobility.
+3.  Prescribe pain medication as needed.
+4.  Recommend the use of a knee brace for support.
+5.  Advise patient to avoid activities that place excessive stress on the knee, such as running and jumping.
+6.  Recommend maintaining a healthy weight.
+7.  Schedule follow-up appointment in [Timeframe - e.g., 4-6 weeks] to assess progress and adjust treatment plan accordingly.
+
+**Physician Signature:** ____________________________ 
+
+**Physician Name:** [Physician Name - To be filled in]

@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. Smith  
+
+**Subjective:**  
+The patient presented with worsening symptoms of hand coordination issues and difficulty walking. He has a history of end-stage renal disease and has been on dialysis. He previously underwent a kidney transplant that was unsuccessful. The patient also has a history of a heart attack and had a pacemaker, which was later removed. Additionally, he had cancer in the parotid gland, which required surgery and radiation. The patient is diabetic. He was seen in our clinic two years ago for cervical myelopathy secondary to stenosis, with mild symptoms at that time. He declined surgery then but now wishes to proceed due to the progression of symptoms, which have significantly impacted his ability to walk and care for himself.
+
+**Objective:**  
+- The patient is scheduled for posterior laminectomies and instrumented fusion with lateral mass fixation.
+- Preoperative plan includes administration of 1 gram of cefazolin intravenously before the incision.
+- Vancomycin powder will be applied over the surgical area to minimize the risk of postoperative infection, despite the lack of reports on its intrawound application in dialysis patients.
+
+**Assessment/Plan:**  
+- The patient understands the surgical procedure and the associated risks, including the use of vancomycin powder.
+- Post-surgery, the patient's vancomycin level was measured at 0, which is within a safe range.
+- Continuous monitoring of the patient's progress and healing is planned.
+- The patient is advised to communicate any concerns or questions during the recovery process.
+
+**Follow-Up:**  
+- Monitor the patient's recovery and vancomycin levels.
+- Address any postoperative concerns as they arise.

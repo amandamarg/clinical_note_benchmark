@@ -1,0 +1,42 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. X  
+
+**Chief Complaint:**  
+Anxiety, paranoia, visual hallucinations, and psychosis.
+
+**History of Present Illness:**  
+The patient presents with symptoms of anxiety, paranoia, visual hallucinations described as dark shapes, and psychosis. The patient has a history of recurrent submandibular abscesses and a submental abscess, previously treated with levofloxacin and metronidazole. The patient was diagnosed with a dental abscess about a month ago and was prescribed clindamycin due to allergies to amoxicillin, ampicillin, and penicillin. Due to medication non-adherence, the patient developed bilateral submandibular abscesses and a submental abscess. The patient was recently discharged from the hospital four days ago after repeat incision and drainage, with prescriptions for levofloxacin and metronidazole. At an outpatient follow-up two days after discharge, the patient reported feeling well and appeared to be clinically improving, with no symptoms at that time. The next day, the patient developed progressive paranoia and insomnia, followed by visual hallucinations the following day.
+
+**Past Medical History:**  
+- Recurrent submandibular abscesses  
+- Submental abscess  
+- Allergies to amoxicillin, ampicillin, and penicillin  
+
+**Medications:**  
+- Recently discontinued: Levofloxacin, Metronidazole  
+- Current: Transitioned to Ceftriaxone  
+
+**Family History:**  
+No personal or family history of psychiatric illness.
+
+**Review of Systems:**  
+- Negative for any prior psychiatric symptoms.  
+- Negative drug and toxin screen.  
+- No signs of intracranial pathologies on head CT.  
+- No evidence of metabolic causes for altered mental status such as hyponatremia, hypernatremia, other electrolyte abnormalities, hypoglycemia, or encephalopathies.
+
+**Physical Examination:**  
+- Flat affect  
+- Poor eye contact  
+- Fluent speech  
+- Internally preoccupied with hallucinations  
+- Limited responses to questions  
+
+**Assessment and Plan:**  
+Given the lack of psychiatric history and symptoms not consistent with any primary psychiatric disorder or other organic cause, there is a concern that the condition may have been caused by the antibiotics. Levofloxacin and metronidazole were promptly discontinued, and the patient was transitioned to ceftriaxone. The patient will undergo additional testing, including an electroencephalogram, over the following days.  
+
+**Follow-Up:**  
+Monitor the patient's symptoms and response to the change in medication. Conduct additional testing as planned.

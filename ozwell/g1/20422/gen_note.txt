@@ -1,0 +1,35 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:17:31 PM  
+
+**Patient Information:**  
+- **Karnofsky Performance Index:** 40  
+- **Medical History:** Chronic obstructive pulmonary disease, hypertension, hyperlipidemia, atrial fibrillation  
+- **Medications:** Oral Coumadin  
+
+**Chief Complaint:**  
+Inability to pass urine for one day.
+
+**History of Present Illness:**  
+The patient presented to the emergency room with complaints of inability to pass urine for a day. The patient reports feeling weak and resides in an assisted living facility. The care provider noted the absence of urine output for a day.
+
+**Physical Examination:**  
+- Vital signs: Within normal limits  
+- Abdominal examination: Palpable mass, globular and firm in consistency  
+
+**Investigations:**  
+- Blood work: Anemia with hemoglobin of 6 g/dL, elevated INR of 4.5  
+- CT scan of abdomen and pelvis with intravenous contrast: Large grade 3 rectus sheath hematoma (RSH) extending into the pelvis, causing compressive symptoms over the bladder outlet. No evidence of contrast extravasation in the hematoma.
+
+**Management and Hospital Course:**  
+- Immediate transfusion of packed red blood cells to maintain hemoglobin >8 g/dL  
+- Held Coumadin and reversed INR with fresh frozen plasma and vitamin K  
+- Foley catheter placed to relieve bladder outlet obstruction  
+- Over the subsequent day, hemoglobin remained stable, and the patient was able to make urine  
+- Due to poor performance index and high risk for surgery, a 14 French catheter was placed in the hematoma  
+- Over subsequent days, clinical examination revealed a reduction in the size of the abdominal hematoma  
+- Foley catheter removed four days post-procedure, and the patient was able to void independently  
+
+**Discharge and Follow-up:**  
+The patient was discharged from the hospital. At the two-week follow-up, the patient still has a swelling, which is smaller in size. Continued monitoring is planned to ensure it is not causing any problems.

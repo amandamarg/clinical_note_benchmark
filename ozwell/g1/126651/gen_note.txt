@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:17 PM  
+
+**Patient Name:** [Patient's Name]  
+**Medical Record Number:** [Patient's MRN]  
+**Date of Birth:** [Patient's DOB]  
+
+**Chief Complaint:** Reevaluation of therapeutic options for brainstem fibrosarcoma.
+
+**History of Present Illness:**  
+The patient presents for an evaluation of treatment options for brainstem fibrosarcoma. The patient has a complex medical history, initially diagnosed with a large pituitary adenoma 26 years ago based on a head CT scan, without a biopsy at that time. The patient underwent conformal fractionated radiotherapy, though the dose is unknown, and had a ventriculo–peritoneal shunt placed due to hydrocephalus. The patient remained asymptomatic until 2003, when left eyelid drooping and diplopia developed. A February 2004 MRI revealed a right brainstem lesion. A stereotactic needle brain biopsy was performed but was inconclusive. The patient was monitored with serial neuroimaging until August 2006, when significant tumor growth and progressive neurologic impairment were noted. A second stereotactic biopsy was also inconclusive. In May 2007, the patient underwent subtotal resection of a large right pontine enhancing mass, with pathology results consistent with grade 2 fibrosarcoma. Postoperatively, the patient experienced a pseudomeningocele at the incision site, necessitating a VP shunt revision.
+
+**Assessment and Plan:**  
+After reviewing the patient's history and current condition, we have decided to proceed with a combination therapy of metronomic cyclophosphamide at 50 mg daily and Imatinib 400 mg daily. The choice of Imatinib is supported by recent data on its efficacy in soft-tissue sarcoma and gastrointestinal stromal tumors, as well as clinical trials indicating its potential in treating primary malignant gliomas. Cyclophosphamide is included due to its common use in treating CNS malignancies such as malignant glioma and meningioma, and its activity in systemic fibrosarcoma. The patient has tolerated the treatment well, showing slow improvement in neurologic function with minimal grade II side effects. Regular monitoring and follow-up are advised to assess ongoing progress.
+
+**Follow-Up:**  
+The patient is advised to continue regular follow-up appointments to monitor treatment efficacy and manage any potential side effects.
+
+**Physician's Signature:**  
+**[Physician's Name]**  
+**[Physician's Contact Information]**

@@ -1,0 +1,30 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with complaints of diffuse abdominal pain and a dry cough, which started a few days ago. The patient has a medical history significant for diabetes, a sigmoid resection for diverticulitis, and ERCP for choledocholithiasis.
+
+**Objective:**  
+- Blood sample investigation revealed mild leucocytosis with PRC augmentation. AST, ALT, and bilirubin levels were normal.  
+- Preoperative ultrasound indicated a thickened gallbladder wall, suggestive of acute cholecystitis.  
+- During laparoscopic cholecystectomy, an incidental finding of a left-sided gallbladder was noted. Standard trocar positions were used, and the Strasberg criteria for safe cholecystectomy were followed. Careful dissection of Calot's triangle was performed, identifying the cystic duct and artery. Complete dissection of the gallbladder from the liver was achieved, demonstrating a right-sided positioning of the cystic duct. Safe clipping and transection of the cystic duct and artery were performed, and the gallbladder was extracted in an endobag.  
+- Postoperative course was complicated by an aggravation of diabetes and basal pneumonia, which were controlled postoperatively in the intensive care unit. The patient was discharged on postoperative day 16 in good condition.  
+
+**Assessment:**  
+- Acute cholecystitis with incidental finding of a left-sided gallbladder.  
+- Postoperative complications included aggravated diabetes and basal pneumonia, both managed successfully.  
+
+**Plan:**  
+- Continue monitoring the patient's recovery and manage diabetes and any respiratory symptoms as needed.  
+- Retrospective analysis of the clinical case and reevaluation of a previous CT scan did not demonstrate the attachment of the gallbladder to the left side of the liver, likely due to a hypertrophic left lobe.  
+- Vascular and biliary reconstruction evaluation showed agenesis of the right anterior sector of the liver and absence of the right hepatic duct. Intrahepatic variation with insertion of the right inferior sectorial duct into the left common duct, classified as type A3 of Huang Classification.  
+
+**Follow-Up:**  
+- Schedule follow-up appointments to monitor the patient's recovery and manage any ongoing health issues.  
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

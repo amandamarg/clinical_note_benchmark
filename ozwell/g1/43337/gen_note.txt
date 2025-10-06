@@ -1,0 +1,32 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:27:50 PM  
+
+**Patient Information:**  
+- Fit young male
+
+**Chief Complaint:**  
+- Abdominal pain following a bicycle accident
+
+**History of Present Illness:**  
+The patient was admitted to the emergency department after falling off his bicycle and being hit by the handlebar on the left side of his abdomen. He reports significant pain, particularly at the site of an abrasion on the abdominal wall left of the umbilicus. The pain has been gradually worsening and is now described as diffuse throughout the whole abdomen.
+
+**Physical Examination:**  
+- Alert and oriented
+- Abrasion on the abdominal wall left of the umbilicus
+- Abdomen soft and tender without signs of peritoneal irritation
+- Sensitivity localized at the abrasion site
+
+**Laboratory and Imaging Studies:**  
+- Laboratory tests: White blood cells, liver enzymes, and amylase were normal.
+- Abdominal X-ray (upright position): No free intraperitoneal air detected.
+- Abdominal ultrasound: No solid abdominal organ injury or free intraperitoneal fluid; hematoma of the rectus abdominis muscle noted.
+- CT abdomen with per os contrast: Presence of free intraperitoneal contrast, primarily on the left side of the abdomen at the area of the descending colon and mainly in the pelvis. Intraluminal contrast reached up to the level of the transverse colon.
+
+**Operative Findings:**  
+The patient was taken to the operating room for exploratory laparotomy immediately after the CT scan. Intraoperatively, fecal peritonitis due to isolated rupture of the jejunum 30 cm from the ligament of Treitz was revealed. The rupture was at the center of an extensive jejunum serous layer fissure, presenting as a “blow out” perforation. Minimal bruising was noted at the jejunal mesentery.
+
+**Assessment and Plan:**  
+- Diagnosis: Jejunal rupture with fecal peritonitis
+- The patient underwent exploratory laparotomy for repair of the jejunal rupture. Further management and monitoring will be based on postoperative recovery and clinical progress.

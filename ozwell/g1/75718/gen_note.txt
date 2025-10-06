@@ -1,0 +1,36 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:15:14 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Swelling in the soft palate causing breathing and swallowing difficulties, with occasional feelings of suffocation.
+
+**History of Present Illness:**  
+The patient presented with a swelling primarily on the right side of the soft palate, extending from the limit between the hard and soft palate to the oropharynx. The swelling has a smooth surface, is hard to the touch, and has an irregular shape. Initial cervical tomography suggested a possible benign or malignant salivary gland tumor.
+
+**Diagnostic Procedures:**  
+- An incisional biopsy under local anesthesia was performed, but histopathological examination revealed normal mucosa.
+- A second conventional biopsy was conducted, again showing normal mucosa.
+- A consultation with the otorhinolaryngologist team led to the decision to perform a core needle biopsy (CNB). During the intraoral exam, the lesion was identified without imaging guidance. Under local anesthesia with 1% lidocaine, a biopsy was performed using a needle activated by an automatic spring system. A single core tissue sample measuring 17 mm was obtained, visually inspected, and placed in 10% formalin for fixation.
+
+**Post-Procedure Care:**  
+The biopsy site was compressed for five minutes to prevent bleeding, and the patient was observed for 30 minutes post-procedure. The patient was discharged with no signs or symptoms of bleeding or pain.
+
+**Diagnosis:**  
+Histopathological analysis of the CNB sample revealed pleomorphic adenoma, indicating a benign tumor.
+
+**Plan:**  
+The patient has been referred to the head and neck service for complete resection of the tumor. The specimen will be sent to the lab for further analysis. The patient is advised to follow up with the head and neck service as soon as possible.
+
+**Instructions to Patient:**  
+The patient was informed about the benign nature of the tumor and the need for surgical resection. Follow-up with the head and neck service is essential for further management.
+
+**Follow-Up:**  
+The patient is advised to schedule an appointment with the head and neck service promptly.
+
+**Physician's Signature:**  
+[Doctor's Signature]

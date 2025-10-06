@@ -1,0 +1,34 @@
+**Patient Name:** [Patient Name - *Information Not Provided in Dialogue*]
+**Date:** [Date - *Information Not Provided in Dialogue*]
+**Subjective:**
+
+Patient reports being referred for emergency treatment following an episode of syncope and hemorrhagic shock secondary to massive hematemesis. Patient has a significant past medical history including gastric ulcers eight years ago, presenting with a similar clinical picture and requiring surgical intervention at a different unit. 
+
+During initial hospitalization, the patient exhibited signs of hemorrhagic shock with a hemoglobin level of 7 g/dL. An upper GI endoscopy was performed but was unable to identify the source of bleeding due to significant blood volume in the stomach.  Surgical intervention, including a laparotomy, revealed an acute gastric hemorrhage secondary to a propyloric ulcerative lesion.  Resection of the lesion led to a distal gastrectomy and Billroth II reconstruction.
+
+Histology revealed a <2 cm gastrointestinal stromal tumor with a mitotic rate of <5 mitosis/50 per HPF, lacking necrosis and localized to the gastric mucosa.
+
+Patient was subsequently readmitted in 2009 following hemodynamic instability. Conservative treatment was initially employed, followed by an emergency upper GI endoscopy revealing an irregularly shaped elevated lesion on the gastrojejunostomy line with a thrombus at the center. Multiple biopsies were obtained and endoscopic hemostasis was achieved. Preoperative staging computed tomography showed no lymphadenopathy or hepatic metastasis, with an excellent performance status, leading to the decision for a second operation. 
+
+A successful completion gastrectomy with regional lymphadenectomy and Roux-en-Y reconstruction was performed.  Histology confirmed the diagnosis.
+
+The patient made an uneventful recovery and was discharged eleven days post-surgery. Patient underwent review over the following two years with repeat endoscopies failing to reveal recurrence. Patient declined further surveillance and follow-up.
+
+**Objective:**
+
+*   Hemoglobin: 7 g/dL (at initial presentation)
+
+**Assessment:**
+
+History of gastrointestinal bleeding related to gastric ulcer disease and multiple surgical interventions.
+
+**Plan:**
+
+Continue to monitor for any recurrence or complications. Patient has declined further surveillance. 
+
+**Note:** Lymphadenectomy is not routinely performed in GI. 
+
+_________________________
+Dr. Johnson 
+
+***Disclaimer:** This clinical note is generated solely based on the provided dialogue. A full clinical evaluation would require additional information and a physical examination.*

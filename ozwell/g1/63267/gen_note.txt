@@ -1,0 +1,36 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Time:** 7:38:20 PM  
+**Physician:** [Doctor's Name]  
+**Department:** Dermatology Clinic  
+
+**Chief Complaint:**  
+Patient presents with painful, firm, immobile nodules on the dorsum of the left hand, with pus drainage and ulceration.
+
+**History of Present Illness:**  
+The patient reports the initial appearance of swelling on the hand approximately 12 months ago, which gradually increased in size, leading to restricted movement of the index finger. The patient underwent a tumor excision operation six months ago by an orthopedic surgeon, resulting in complete improvement. However, four months post-surgery, painful immobile ulcerated nodules with low discharge appeared on the surgical scar.
+
+**Past Medical History:**  
+No significant medical problems reported. No history of trauma. The patient works as an electrical technician.
+
+**Physical Examination:**  
+Swollen areas observed on the dorsum of the left hand. Palpable tender immobile nodules present on the surgical scar with low discharge.
+
+**Laboratory and Radiology Findings:**  
+- Hematological and biochemical laboratory tests: Normal  
+- Hand radiography: Normal  
+- Incisional biopsy of nodules: Microscopic examination revealed ulcerated epidermis with underlying neutrophilic microabscesses surrounded by granulation tissues consisting of plasma cell, macrophage, and fibroblast infiltration. Sulfur granules found at the center of inflammatory reactions as filamentous basophilic radiating fungal-like structures in the dermis.
+
+**Diagnosis:**  
+Actinomycosis, based on clinical and histopathological data. The histopathology report of the previously excised tumor also mentioned actinomycosis, which was not followed up with further treatment, leading to recurrence on the surgical scar.
+
+**Plan:**  
+Initiate treatment with intravenous penicillin G for four weeks. The patient is advised to follow up regularly to monitor the progress of the treatment.
+
+**Patient Education:**  
+The patient was informed about actinomycosis as a chronic bacterial infection affecting soft tissues and the importance of adhering to the treatment plan and follow-up appointments.
+
+**Follow-Up:**  
+Regular follow-up appointments to monitor treatment progress.

@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Subject:** Chronic Venous Disease & Vascular Complications
+
+**History of Presenting Illness:** Patient presents with a complex history of chronic venous disease, initially diagnosed six weeks ago with a pulmonary embolus and right leg swelling. Patient reports persistent swelling on the right leg with associated loss of sensation on the dorsolateral aspect of the right foot. More recently, a large mass was identified in the right popliteal fossa.
+
+**Significant Findings:**
+
+*   **Pulmonary Embolus:** Initial diagnosis of a pulmonary embolus, confirmed by VQ scan.
+*   **Right Leg Swelling & Pseudoaneurysm:** Patient has a history of right leg swelling, now identified as a pseudoaneurysm following a rupture with peripheral calcification, confirmed by CT arteriogram. The aneurysm measures 12 cm in diameter on the right popliteal artery and 6 cm on the left.
+*   **Iliac Veins:** Duplex examination reveals ectatic iliacs and an abdominal aorta measuring 3.4 cm in diameter.
+*   **Right Popliteal Aneurysm:** Following surgical exploration, a large volume of blood was found laterally in the right popliteal artery, and the aneurysm was excluded. The popliteal aneurysm was repaired with an inlay 8 mm PTFE graft. Continuous oozing was observed and the aneurysm sac was packed. The pack was removed at 48 hours under sedation.
+*   **Left Popliteal Aneurysm:**  Repair of the left popliteal aneurysm was performed six weeks after initial presentation.
+*   **Venous Findings:** Duplex examination of the lower limb veins revealed small diameter veins. 
+*   **INR:** Patient’s INR was 2.6.
+
+**Treatment:** Patient was initially anticoagulated with heparin and warfarin. Full anticoagulation was elected over an inferior vena caval filter.  The patient underwent repair of the left popliteal aneurysm six weeks after initial presentation.
+
+**Outcome:** Recovery was uneventful.
+
+**Next Steps:** Ongoing anticoagulation monitoring. Further vascular assessment as clinically indicated. 
+
+**Physician:** [Doctor’s Name - *Information Missing from Dialogue*] 
+
+---
+
+**Note:** *This clinical note is generated solely from the provided dialogue. It is a summary and does not include any diagnostic impressions, treatment recommendations, or follow-up instructions beyond what was explicitly stated in the conversation. It is imperative that a qualified physician reviews and expands upon this note with comprehensive clinical judgment.*

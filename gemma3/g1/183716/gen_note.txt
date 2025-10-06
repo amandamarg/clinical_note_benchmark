@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Note: Patient name not provided in dialogue*]
+**Date:** [Date of Note - *Note: Date not provided in dialogue*]
+**Subject:** Chronic Abdominal Wound & Subphrenic Collection
+
+**History of Presenting Illness:** 
+The patient presents with a discharging wound in the upper abdomen, noted approximately one month ago. The patient reports this issue began six months ago following an emergency exploratory laparotomy at another medical college for a small peptic perforation, repaired with an omental patch. Following the initial surgery, a burst abdomen occurred on the fourth post-operative day, managed conservatively. Despite bowel containment and subsequent oral nutrition, the initial abdominal wound did not heal. 
+
+**Physical Examination:**
+On examination, a 12 cm x 5 cm elliptical skin graft was noted over the middle of the abdomen. An associated 1 cm x 1 cm depressed ulcer was present in the upper portion of the graft, covered with pale granulation tissue and exhibiting serous discharge. Several other areas of exuberant pale granulation tissue were also observed. The patient reported discomfort in this area with palpation. A deficient abdominal wall was noted below the skin graft. 
+
+**Laboratory Findings:**
+* Hemoglobin: 11.4 gm/dl
+* Total WBC Count: 11.6 x 103/mm3
+* Total Serum Protein: 7.9 gm/dl
+* Serum Albumin: 3.5 gm/dl
+
+**Imaging:**
+* Ultrasound revealed a left subphrenic collection measuring 8 cm x 7 cm.
+
+**Plan:**
+Due to the complex history, persistent wound discharge, and subphrenic collection, further investigation is warranted. We recommend scheduling a follow-up appointment and ordering a CT scan to evaluate the area in detail and determine the underlying cause of the current problem. Consultation with a specialist in wound care is also recommended. The family will be kept informed of progress as necessary.

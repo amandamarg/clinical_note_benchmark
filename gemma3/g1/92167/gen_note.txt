@@ -1,0 +1,46 @@
+**Clinical Note**
+
+**Patient:** [Patient's Name]
+**Date:** [Date - Assuming today’s date]
+**Physician:** Dr. [Doctor’s Name]
+
+**Subject:** Intermittent Gross Hematuria – History of Colorectal Carcinoma
+
+**History of Presenting Illness:**
+
+Mr. [Patient’s Name] presents for follow-up regarding persistent episodes of gross hematuria. He reports a history of intermittent gross hematuria for an extended period.
+
+**Past Medical History:**
+
+Mr. [Patient’s Name] has a significant past medical history of colorectal carcinoma, treated with resection of the rectum and ileum, chemotherapy, and radiotherapy four years prior. Following radiotherapy, he developed ureteric strictures on both sides necessitating ureteric stent placement.
+
+**Relevant Examination Findings & Investigations:**
+
+*   **Initial Urine Spec:** Initial urine specimens showed red blood cells and white blood cells, with a sterile culture.
+*   **Retrograde Pyelography & Cystoscopy:** Performed during stent changes, revealing mild gross hematuria emanating from the right ureteric orifice without further pathological findings.
+*   **Post-Stent Change Hematuria:** Subsequent episodes of gross hematuria with blood clots in the bladder occurred.
+*   **Transurethral Catheterization:** Placed following the second episode of gross hematuria.
+*   **CT Abdomen/Pelvis (Multiphase):** Negative for source of bleeding.
+*   **Ureteroscopy (Both Sides):** Special emphasis on the right ureter revealed no suspicious findings.
+*   **Massive Hemorrhage Episode:** Subsequent episode of gross hematuria with massive hemorrhage.
+*   **Arteriography:** Negative for underlying cause of bleeding.
+*   **Massive Hemorrhage Episode (Second):** Another episode of gross hematuria with massive hemorrhage, leading to hemodynamic instability.
+*   **Blood Transfusion:** Required 6 units of blood product.
+*   **Right Nephrectomy:** Indicated and performed. During the procedure, the ureteric stent was removed, and the hematuria ceased.
+*   **Post-Nephrectomy Hemorrhage:** Massive hemorrhage within the bladder catheter following the nephrectomy.
+*   **Arteriography:** Identified the fistula at the distal common iliac artery, and a stent graft was deployed.
+*   **Post-Stent Graft Angiogram:** Confirmed complete closure of the fistula.
+
+**Current Status:**
+
+Twelve months post-operation, Mr. [Patient’s Name] is clinically well. The stent graft remains patent. He has lost the right kidney. 
+
+**Plan:**
+
+I will review Mr. [Patient’s Name]'s complete medical history and test results to formulate a comprehensive management plan. 
+
+____________________________ 
+Dr. [Doctor’s Name] 
+[Signature] 
+
+**Note:** *This clinical note is based solely on the provided dialogue. It does not include any additional information or clinical judgment beyond what was explicitly stated.*

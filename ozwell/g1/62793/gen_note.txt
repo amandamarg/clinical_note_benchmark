@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Name:** Mr. [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling quite sick lately, with symptoms of nausea and cloudy peritoneal fluid. These symptoms began approximately 7 months after starting automated peritoneal dialysis (PD) in February 2015.
+
+**Objective:**  
+- **Peritoneal Effluent Analysis:** White cell count of 996 cells/mL, with a polymorphonuclear cell fraction of 56%.  
+- **Microbiological Investigation:** Culture grew coagulase-negative staphylococcus resistant to beta lactams but sensitive to vancomycin.  
+- **Treatment:** Initially treated with IP vancomycin 2 g and ceftazidime 1.5 g as per hospital empiric protocol. Ceftazidime was discontinued after 2 doses, and IP vancomycin was continued every 4 days for a total of 3 weeks.  
+- **Vancomycin Levels:** Serum vancomycin level remained greater than 25 mg/L throughout treatment, with the highest level being 35 mg/L, deliberately kept high to minimize the risk of relapsed peritonitis due to an upcoming live donor kidney transplant.  
+
+**Assessment:**  
+One day post-treatment, the patient presented with general malaise and a skin rash that began on the abdomen and progressed to the entire trunk and proximal limbs, accompanied by intense pruritus and pain. The patient was hypotensive with a mean arterial blood pressure of 50 mm Hg, heart rate of 115, and temperature of 39.1°C. The rash was diffuse, blanchable, and papular, involving the trunk and proximal limbs without blistering or sloughing, and no mucous membrane involvement or lymphadenopathy.
+
+**Plan:**  
+The patient was admitted to the intensive care unit for hypotension requiring vasopressors and was initially treated for possible sepsis with intravenous saline and broad-spectrum antibiotics, including vancomycin. Initial laboratory investigations showed normal imaging, and blood and urine cultures revealed no growth. On admission day 2, a skin biopsy was performed, revealing a moderate mixed perivascular infiltrate, composed mostly of lymphocytes with a few neutrophils and scattered eosinophils, and a moderate amount of both vacuolar and slightly lichenoid interface dermatitis.
+
+**Follow-Up:**  
+Further consultation with colleagues is necessary to determine the next steps in management. The patient is advised to report any further symptoms or concerns.

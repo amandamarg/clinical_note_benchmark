@@ -1,0 +1,28 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Evaluation of Visual Loss & Vascular Assessment
+
+**Chief Complaint:** Patient presented today with a complaint of visual loss in the left eye, occurring one day prior.
+
+**History of Presenting Illness:** Patient reports a sudden, half-hour episode of visual loss in the left eye approximately one day ago.
+
+**Past Medical History:** Patient reports a prior diagnosis of a left ICA occlusion at another medical center.
+
+**Examination:**
+* **Visual Acuity:** Both eyes demonstrate full visual acuity.
+* **Fundoscopic Examination:** Microscopic fundus examinations revealed no pathological conditions in either eye.
+* **Doppler US Examination:** Right CCA diameter: 8 mm. Left CCA diameter: 4 mm. The left CCA bifurcation, ICA, and ECA were normal. The left ICA demonstrated no Doppler signal and gray-scale findings, suggesting absence of flow.
+* **CT Scan of Skull Base:** Right carotid canal appeared normal. Left carotid canal visualization was limited.
+
+
+**Assessment:** Based on the clinical findings, Doppler US examination, and CT scan, the patient is diagnosed with ICA agenesis (absence of the left internal carotid artery). 
+
+**Plan:**
+* Recommend regular follow-up appointments to monitor for potential complications.
+* Advise patient to maintain a healthy lifestyle to mitigate any potential issues.
+* Instruct patient to report any new or worsening symptoms immediately. 
+
+**Physician Signature:** [Doctor's Signature - *To be filled in*] 
+**Physician Name:** [Doctor's Name - *To be filled in*]

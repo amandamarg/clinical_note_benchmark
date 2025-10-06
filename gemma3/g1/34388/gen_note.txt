@@ -1,0 +1,32 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Post-Trauma Hip and Femur Fractures
+
+**History of Presenting Illness:** Patient presents following a motor vehicle accident. Patient reports sustaining multiple fractures as a result of the trauma.
+
+**Physical Exam Findings:** On examination, patient exhibits pain in the right thigh with abnormal mobility and shortening compared to the left lower limb. The left lower limb is in an attitude of external rotation. Contusion noted over the right gluteal region.
+
+**Imaging:**
+*   Radiographs initially revealed a posterior dislocation of the right hip with a posterior acetabular wall fracture.
+*   A subsequent non-contrast CT scan with 3D reconstruction of the pelvis demonstrated:
+    *   Acetabular fracture geometry.
+    *   Minimally displaced femoral neck fracture on the left side.
+    *   Suspicious fracture line on the left side (reviewed from previous radiographs).
+
+**Treatment:** Patient underwent open reduction and internal fixation of all fractures approximately 50 hours following the injury. Specifically:
+*   Open reduction and internal fixation of the femoral shaft fracture with a locking plate.
+*   Reconstruction plate and lag screws for the posterior acetabular wall fracture.
+*   Trochanteric osteotomy performed on the right side with fixation using three 3.5 mm cortical screws to aid in fixation of the high posterosuperior acetabular wall fracture.
+
+**Current Status:** Patient reports persistent pain but indicates improvement.
+
+**Plan:** Prescribed pain medication. Scheduled for follow-up appointments to monitor recovery and healing.
+
+**Physician:** [Doctor’s Name - *To be filled in*]
+[Signature] 
+
+---
+
+**Note:** *Please fill in the bracketed information with the appropriate details.*

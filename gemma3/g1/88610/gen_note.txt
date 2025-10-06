@@ -1,0 +1,24 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Right Ankle Sprain - Follow-Up
+
+**History of Presenting Illness:** 
+Patient reports a right ankle sprain sustained while camping, following participation in a research study documenting muscle onset timing of the posterior leg and trunk muscles during prone leg extension. Patient was part of the asymptomatic control group within the study.
+
+**Examination Findings:**
+Patient reports that X-rays revealed no fractures following the injury. Patient states that at two weeks post-injury, function was approximately 60% of optimum, and at eight weeks post-injury, pain-free running was achieved with minimal loss of function (95%).  Patient reports significant improvement in ankle function.
+
+**Treatment Plan:**
+1.  Scheduled for testing to assess the potential influence of the ankle sprain on muscle activation timing during prone leg extension compared to a control group.
+2.  Continue with current weight-bearing exercises and range of motion exercises as previously advised.
+3.  Monitor weight closely.
+
+**Relevant History:**
+*   Participated in research study: Muscle onset timing of posterior leg and trunk muscles during prone leg extension (asymptomatic control group).
+*   No prior leg or spine injuries.
+*   Study approved by the Research Ethics Board of CMCC.
+*   Testing protocol was consistent across the three experimental days.
+
+**Physician:** [Physician Name - *To be filled in*]

@@ -1,0 +1,28 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information not provided in dialogue*]
+**Date:** [Date - *Information not provided in dialogue*]
+**Subject:** Thoracic Wall Tumor – Follow-Up
+
+**History of Presenting Illness:** Patient presents today reporting persistent dull pain in the right back and a swelling in the right hemithorax for several weeks.
+
+**Examination Findings:** Patient reports good overall health and is very active.
+
+**Past Medical History:** Patient reports a history of a simple fracture of the 9th right rib, sustained one year prior to this presentation, due to a thoracic trauma at work.
+
+**Imaging:**
+*   Initial CT scan revealed a 8 x 4 cm thoracic wall tumor with heterogeneous density, involving and destructing the 9th rib and extending into two adjacent intercostal spaces.
+*   CT scan also showed micronodular infiltrations of both lungs with diameters up to 5 mm and a single nodule in the lower lobe of the right lung measuring approximately 1 cm in diameter. The mediastinum was without enlarged lymph nodes. 
+
+**Diagnostic Procedure & Results:**
+*   Following the imaging findings, a frozen biopsy of the lung lesions and an excision biopsy of the thoracic wall tumor were performed.
+*   Biopsy results were negative for malignant cells.
+*   Due to negative biopsy results, an oncologic resection of the tumor of the thoracic wall was performed, involving the resection of three ribs, including the 8th and 9th ribs. 
+
+**Plan:** Patient requires regular follow-up to monitor for recurrence. 
+
+**Physician:** [Doctor’s Name - *Information not provided in dialogue*] 
+
+---
+
+**Note:** *This note accurately reflects all information provided in the dialogue. It has been formatted as a typical clinical note and excludes any additional information that would be routinely included in a full medical record.*

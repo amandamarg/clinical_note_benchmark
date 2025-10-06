@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Information Missing in Dialogue*]
+**Date:** [Date - *Information Missing in Dialogue*]
+**Referring Physician:** [Local Clinic - *Information Missing in Dialogue*]
+
+**Chief Complaint:** Decreased visual acuity in the left eye.
+
+**History of Present Illness:** 
+Patient presented today reporting decreased visual acuity in the left eye, following an autologous fat injection in the periocular area under intravenous anesthesia two hours prior to symptom onset. Immediately following the anesthesia wearing off, the patient reported a loss of vision in their left eye. Best corrected visual acuity was 1.0 in the right eye and no light perception in the left eye. The patient also reported sudden onset dysarthria and a change in skin color to purple on the nose.
+
+**Physical Examination:**
+*   Pupil examination revealed a dilated left pupil and a relative afferent pupillary defect (RAPD).
+*   Right fundus appeared normal. Left fundus demonstrated a cherry red spot with visible emboli in several retinal arteries.
+*   Fluorescein angiography revealed markedly prolonged choroidal filling around the optic disc and a delay in retinal arterial filling compared to the right eye, which showed no abnormalities.
+
+**Further Diagnostic Findings:**
+*   24 hours post-injection, the left fundus exhibited marked retinal edema and multiple fat emboli. Visual acuity remained no light perception.
+*   At 2 months post-injection, the left fundus showed optic atrophy, multiple retinal hemorrhages, and a fibrous change on its posterior pole.
+*   MRI scan revealed an ill-defined hyperintense lesion at the left insular cortex.
+
+**Diagnosis:** Ophthalmic artery obstruction and left middle cerebral artery infarction.
+
+**Treatment:**
+*   Ocular massage, intravenous mannitolization, and oxygen/carbon dioxide therapy were administered. 
+
+**Prognosis:** Patient continues to experience no light perception in the left eye. Further monitoring and management will be ongoing. 
+
+**Physician:** Dr. X 
+
+---
+
+**Note:** *Please replace the bracketed information with the appropriate details.*

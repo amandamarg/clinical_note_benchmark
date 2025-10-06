@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:21:52 PM  
+
+**Patient Name:** [Patient's Name]  
+**Medical Record Number:** [MRN]  
+**Attending Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Recurrent swelling in the left lower extremity.
+
+**History of Present Illness:**  
+The patient presented with recurrent swelling in the left lower extremity. The patient has a history of deep vein thrombosis (DVT) in the right distal lower extremity while on hormone replacement therapy (HRT) in the past. The patient has not been using HRT or tobacco during this admission.
+
+**Diagnostic Findings:**  
+A Venous Doppler ultrasound performed in the emergency room revealed extensive thrombosis in the left lower extremity. Further imaging indicated compression of the left iliac vein by the right iliac artery, suggesting May-Thurner Syndrome. Intravenous ultrasound measurements were taken, and a stent was deployed at the area of stenosis to improve blood flow. However, the stent migrated, necessitating the use of a balloon to secure it.
+
+**Complications:**  
+The patient experienced severe abdominal pain due to further migration of the stent, which required open-heart surgery for retrieval.
+
+**Treatment Plan:**  
+The patient has been started on warfarin with heparin bridging postoperatively. Early ambulation and the use of elastic stockings are recommended to promote blood flow.
+
+**Patient Concerns:**  
+The patient expressed understanding of the situation and did not have additional concerns at this time.
+
+**Prognosis:**  
+The patient is being closely monitored postoperatively. Further updates will be provided as the situation progresses.
+
+**Physician's Signature:**  
+[Doctor's Signature]  
+**Date:** 10/1/2025

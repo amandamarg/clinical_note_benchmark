@@ -1,0 +1,32 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Right Inguinal Hernia with Appendix
+
+**Chief Complaint:** Patient presented with a right groin bulge noted 6 weeks prior.
+
+**History of Presenting Illness:** Patient reports a right groin bulge that developed approximately 6 weeks ago. Initially associated with sharp pain upon onset, but has since become asymptomatic.
+
+**Physical Examination:** Physical examination revealed a 3 cm x 3 cm firm, nontender mass in the right groin, lateral to the pubic tubercle.
+
+**Diagnostic Findings:**
+*   Computed Tomography (CT) scan revealed a right inguinal hernia with the appendix present within the sac.
+*   Preoperative laboratory testing revealed a white blood cell count of 4.7 x 10^9/L.
+
+**Procedure:**
+*   Classic oblique incision in the right groin, utilizing the anterior superior iliac spine and pubic tubercle as landmarks.
+*   Hernia examined, revealing a highly dense and scarred omentum comprising the hernia.
+*   A relaxing incision was made in the typical transverse fashion in the right lower quadrant through the rectus sheath, and the peritoneum entered to reduce the appendix. 
+
+**Postoperative Course:** No complications occurred during the procedure.
+
+**Diagnosis:** Right Inguinal Hernia with Appendicitis (within the sac).
+
+**Recommendations:** Patient to rest and avoid strenuous activity for a few weeks post-operatively. Follow-up appointment scheduled to monitor recovery and ensure proper healing. 
+
+**Physician:** [Doctor’s Name - *To be filled in*] 
+
+---
+
+**Note:** *Please replace the bracketed information with the appropriate details.*

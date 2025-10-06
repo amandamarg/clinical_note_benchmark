@@ -1,0 +1,32 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Note: Patient name not provided in dialogue*]
+**Date:** [Date of Note - *Note: Date not provided in dialogue*]
+**Subject:** Chronic Left Calf Pain – Hemangioma Diagnosis
+
+**History of Present Illness:** 
+Patient presents today complaining of chronic pain in the left calf for the past 10 years. Pain is described as constant and exacerbated by prolonged standing or walking, particularly during menstruation. Patient reports that elevating their leg in a sitting position and massaging their calf muscles provides temporary relief. 
+
+**Past Medical History:** Chronic left calf pain. 
+
+**Medications:** Patient has previously tried numerous medications without significant pain relief. 
+
+**Pertinent Physical Examination:** 
+*   Pain location: Primarily located in the medial side of the left calf, with severe tenderness.
+*   Neurological Exam: Deep tendon reflexes and muscle strength of both lower extremities are normal. Sensation is intact. Straight leg raising test is normal.
+*   Calf Swelling: Equivocal. 
+
+**Diagnostic Testing:** 
+*   Conventional radiography of the left leg revealed several mottled calcifications within the muscles, without erosions of the tibia or fibula.
+*   Femoral angiography suggested a possible vascular deformity.
+*   Magnetic Resonance Imaging (MRI) of the left lower extremity demonstrated an enhancing soft-tissue mass in the medial aspect of the soleus muscle.
+
+**Treatment:** Patient was referred to an orthopedic surgeon who performed an excisional biopsy. 
+
+**Operative Findings:** Biopsy revealed a mass consisting of several irregular fragments of muscular soft tissue, measuring 6x6x4 cm, diagnosed as an intramuscular hemangioma with fatty overgrowth isolated to the soleus muscle. 
+
+**Current Status:** Patient reports 90% pain relief within one month of the biopsy, with complete pain relief during prolonged walking. Patient has discontinued all pain medications.
+
+**Plan:** Continue with normal activities. Patient instructed to return for follow-up if any changes or worsening symptoms occur. 
+
+**Physician:** [Doctor’s Name - *Note: Doctor’s Name not provided in dialogue*]

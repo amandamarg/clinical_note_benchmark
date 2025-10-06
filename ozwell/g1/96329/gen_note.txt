@@ -1,0 +1,32 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:04:50 PM  
+
+**Patient:** [Patient Name]  
+**Physician:** [Doctor Name]  
+
+**Subjective:**  
+The patient reports feeling okay today. He has a history of coronary artery disease (CAD) with a stenting procedure performed on the left circumflex artery. He also has diabetes and a significant smoking history of 80-pack years. The patient experienced a 37 kg weight loss over 6 months, accompanied by postprandial abdominal pain and nausea. He reports exertional angina that is relieved by rest and sublingual nitrates. Additionally, he had a brief episode of slurred speech in the past 2 months.
+
+**Objective:**  
+- **Abdominal CT Scan:** Severe atherosclerotic abdominal aortic disease with occlusion of the origin of the celiac and superior mesenteric arteries.  
+- **Mesenteric Angiography:** Confirmed occlusion of the celiac and SMA with a large mesenteric collateral originating from the inferior mesenteric artery. 90% orifice stenosis in the inferior mesenteric artery.  
+- **Coronary Angiography:** Significant left main and 3-vessel CAD.  
+- **Transthoracic Echocardiography:** Preserved left ventricular function with no valvular heart disease.  
+- **Carotid Duplex:** 80–99% left internal carotid artery stenosis and 50–79% right internal carotid artery stenosis.  
+
+**Assessment:**  
+The patient has severe symptomatic carotid and mesenteric arterial disease, which poses a significantly greater risk of neurological and mesenteric ischemic complications associated with coronary artery bypass grafting (CABG). 
+
+**Plan:**  
+A decision was made to perform surgical revascularization to address each vascular system in a staged and combined manner. The patient underwent an uncomplicated left carotid endarterectomy and was admitted postoperatively with no neurologic complications. On the fourth postoperative day, the patient underwent combined CABG and mesenteric bypass. 
+
+**Procedure Details:**  
+- After induction of anesthesia and placement of hemodynamic monitoring lines, the procedure was initiated with a median sternotomy and mobilization of the left internal mammary artery as a pedicled graft.  
+- The greater saphenous vein was harvested endoscopically.  
+- A midline laparotomy was performed, extending the sternotomy incision.  
+- Dissection was carried out.  
+
+**Follow-Up:**  
+Continue to monitor the patient postoperatively for any complications and ensure appropriate recovery and rehabilitation.

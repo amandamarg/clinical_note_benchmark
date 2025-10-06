@@ -1,0 +1,24 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with a history of a fall onto an outstretched hand, resulting in left shoulder pain. The patient was admitted to the hospital and underwent an open reduction internal fixation of a proximal humerus fracture dislocation. Postoperatively, the patient reported increased swelling and discomfort in the left upper extremity on the fifth day after surgery.
+
+**Objective:**  
+Physical examination revealed increased swelling with pitting edema and an intact neurovascular exam. An upper extremity duplex ultrasound showed occlusive thrombosis in the cephalic and deep brachial veins of the left forearm.
+
+**Assessment:**  
+The patient was diagnosed with deep vein thrombosis (DVT) in the left upper extremity and was referred to Vascular Medicine. Anticoagulation therapy was initiated with enoxaparin and rivaroxaban. Follow-up examination showed improvement in symptoms and reduction in swelling. A repeat upper extremity duplex ultrasound showed resolution of the DVT.
+
+**Plan:**  
+The patient was transitioned to long-term prophylaxis with rivaroxaban 20 mg daily for eight weeks, followed by aspirin 81 mg daily for 16 weeks. The patient's symptoms have completely resolved, with no recurrent thromboembolic events or complications from anticoagulation therapy. The patient continued with a routine postoperative rehabilitation program, including early passive range of motion followed by gradual transition. The patient is advised to continue the rehabilitation program and follow up in a few weeks.
+
+**Follow-up:**  
+The patient is to follow up with the physician in a few weeks to monitor progress and ensure continued recovery.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

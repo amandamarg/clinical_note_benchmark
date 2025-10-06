@@ -1,0 +1,44 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Time:** 7:20:49 PM  
+
+**Chief Complaint:**  
+Pain in the left hand and weakness in the left arm.
+
+**History of Present Illness:**  
+The patient presents with pain in the left hand and weakness in the left arm. The symptoms began approximately 2 months after undergoing an endovascular aneurysm repair (EVAR) with the placement of a renal stent for an abdominal aortic aneurysm (AAA) identified on a CT scan. Initial examination revealed a pulsatile mass in the left arm, leading to concerns of a brachial artery aneurysm. An ultrasound of the left upper extremity confirmed a pseudoaneurysm, which was subsequently repaired by vascular surgery. Post-repair, the patient's condition worsened, presenting with guarding of the left hand, allodynia, skin changes, and contracture of the digits. The patient was diagnosed with Complex Regional Pain Syndrome (CRPS) type II.
+
+**Past Medical History:**  
+- Diabetes  
+- Hypertension  
+- Coronary artery disease  
+- Kidney disease  
+
+**Recent Procedures:**  
+- Endovascular aneurysm repair (EVAR) with renal stent placement (2 months prior)  
+
+**Complications Post-Procedure:**  
+- Small hematoma at the catheter insertion site  
+
+**Diagnosis:**  
+- Pseudoaneurysm of the left brachial artery  
+- Complex Regional Pain Syndrome (CRPS) type II  
+
+**Treatment:**  
+- Pharmacologic intervention  
+- Occupational therapy for desensitization  
+- Stellate ganglion blocks  
+
+**Outcome:**  
+The treatment did not alleviate the symptoms. The patient passed away 3 months after the CRPS type II diagnosis due to a respiratory infection unrelated to the condition.  
+
+**Plan:**  
+N/A (Patient deceased)  
+
+**Physician:**  
+[Doctor's Name]  
+
+**Signature:**  
+_________________________

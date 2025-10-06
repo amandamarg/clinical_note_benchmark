@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:29:19 PM  
+**Patient:** [Name Redacted]  
+**Physician:** [Name Redacted]  
+
+**Chief Complaint:**  
+Swelling and redness in both legs with clear discharge from blisters on the left leg.
+
+**History of Present Illness:**  
+The patient is a [age redacted] year-old individual who presented to the emergency department with swelling and redness in both legs. The patient reports the presence of small blisters on the left leg, which was followed by worsening swelling that spread to the right leg. The patient denies any past medical history and has not seen a doctor for the last 15 years. The patient occasionally takes aspirin and denies the use of alcohol, tobacco, or illicit drugs. The patient reports having a cough but denies experiencing chest pain, fevers, chills, nausea, vomiting, or diarrhea.
+
+**Physical Examination:**  
+- Bilateral lower extremity edema noted.  
+- No specific concerns other than the edema were identified during the physical examination.
+
+**Diagnostic Studies:**  
+- **Chest X-ray:** Cardiac enlargement with interstitial densities and bilateral air-space processes, possibly associated with asymmetric pulmonary edema. Large bilateral pleural effusions noted, left greater than right.  
+- **CT Angiogram of the Chest:** Large bilateral pleural effusions with bilateral lower lobe enhancing volume loss, worse on the left. Cardiomegaly noted. No evidence of pulmonary embolus.  
+- **Venous Doppler Studies:** No evidence of deep venous thrombosis in the lower extremities bilaterally.  
+- **Echocardiogram:** Left ventricle with mild hypertrophy, normal systolic function with an ejection fraction of approximately 60%. Right ventricle mildly enlarged and mildly hypokinetic. Left atrium markedly enlarged, right atrium moderately enlarged.  
+- **Additional Findings:** Compression fracture of indeterminate age involving the upper lumbar/lower dorsal spine.
+
+**Assessment:**  
+The patient presents with bilateral lower extremity edema, cardiomegaly, and large bilateral pleural effusions. The echocardiogram indicates mild hypertrophy of the left ventricle with normal systolic function, mild enlargement, and hypokinesis of the right ventricle, and enlargement of both atria. The findings suggest compromised cardiac function.
+
+**Plan:**  
+The patient will be admitted to the hospital for further evaluation and treatment. A cardiologist consultation will be arranged to discuss treatment options and management of the patient's cardiac condition. Monitoring and possible initiation of treatment to improve heart function will be considered.

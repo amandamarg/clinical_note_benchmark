@@ -1,0 +1,21 @@
+## Clinical Note
+
+**Patient:** Mr. X
+**Date:** [Insert Date Here]
+**Subject:** Aortoiliac Aneurysm Management
+
+**History of Presenting Illness:** Mr. X presents for follow-up regarding his aortoiliac aneurysm.
+
+**Relevant Medical History:** Mr. X has a history of a large right aneurysm diagnosed during routine surveillance. He underwent endovascular repair of a 5 cm infrarenal abdominal aortic aneurysm 9 years ago. Following this, bilateral common iliac artery aneurysms (IIAs) developed. He subsequently underwent endovascular repair of the IIAs 3 years after the initial surgery, complicated by a rupture of the right external iliac artery requiring placement of a covered stent across the origin of the right internal iliac artery and into the main aortic endograft.
+
+**Current Findings:** Ongoing surveillance with duplex ultrasound demonstrates gradual development of the bilateral IIAs. A dedicated CT angiogram performed 6 years after the IIA origin was covered revealed a sac diameter of 6.4 cm with a suspected type II endoleak originating from collaterals in the left iliac system. Attempts at endovascular embolization via a left-sided femoral artery puncture were unsuccessful due to inability to cannulate the vessels with a microcatheter.
+
+**Treatment Plan:** Mr. X declined an open procedure due to concerns regarding significant risks following previous abdominal interventions and his overall health. The final decision was made to treat the aneurysm via direct puncture method employing a posterior approach under CT visualisation.
+
+**Procedure Details:** Mr. X underwent a posterior approach for aneurysm treatment under CT guidance. He was placed under general anesthesia and positioned prone. A 17-gauge needle was inserted into the right superior gluteal artery via a transgluteal approach, with the catheter passing through the sciatic notch. Contrast injection confirmed the catheter’s position. 
+
+**Physician:** [Doctor’s Name/Signature] 
+
+---
+
+**Note:** *Please replace the bracketed information with the appropriate details.*

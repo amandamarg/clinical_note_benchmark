@@ -1,0 +1,21 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Information not provided in dialogue*]
+**Date:** [Date - *Information not provided in dialogue*]
+**Subject:** Recurrent Knee Pain – Bilateral Knees
+
+**History of Presenting Illness:** Patient reports a history of recurrent knee pain in both knees over the past year. Initially, pain was severe in the left knee, localized to the medial aspect, lasting two weeks and significantly limiting mobility due to weight-bearing activities. This was followed by a spontaneous onset of pain in the lateral aspect of the same left knee three months later, associated with marrow edema on MRI. Subsequently, pain developed in the medial side of the right knee approximately four months later with no swelling. 
+
+**Physical Examination:** Upon examination, patient exhibits severe tenderness over the medial side of the left knee with mild effusion and moderate limitation of range of motion. The right knee demonstrates severe tenderness over the medial tibial plateau medially and anteriorly. There is no erythema or increased warmth noted in either knee.
+
+**Past Medical History:** Patient reports no prior trauma.
+
+**Imaging:**
+*   **Left Knee MRI (Date Unknown):** Demonstrated moderate-sized focal area of marrow edema/contusion involving the medial femoral condyle in mid and anterior parts predominantly along the articular surface.
+*   **Right Knee MRI (Date Unknown):** Demonstrated moderate-sized focal area of marrow edema involving the medial tibial plateau medially and anteriorly.
+
+**Treatment:** Patient has been treated conservatively with NSAIDs and physiotherapy, along with the use of a cane to minimize weight bearing. 
+
+**Current Plan:** Patient will be referred to an orthopedic specialist for further evaluation and management of recurrent knee pain. Patient is advised to continue current medications and avoid weight-bearing activities that may exacerbate symptoms. 
+
+**Physician:** [Doctor’s Name - *Information not provided in dialogue*]

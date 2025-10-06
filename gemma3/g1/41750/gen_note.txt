@@ -1,0 +1,17 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date of Encounter - *To be filled in*]
+**Subject:** Right Shoulder Pain & Fracture
+
+**History of Presenting Illness:** Patient presents with significant pain in the right shoulder, reporting inability to move the arm without substantial discomfort. Patient reports the onset of pain following discharge from another hospital following a physical assault four weeks prior. Patient sustained head injuries during the assault and was admitted to another hospital for 16 days. Patient reports not seeking an orthopaedic consultation as recommended at the time of discharge.
+
+**Examination:** Physical examination reveals a reasonably maintained contour of the right shoulder with total restriction of abduction. Patient demonstrates the ability to internally rotate the shoulder up to 20 degrees, but external rotation is not possible. 
+
+**Diagnosis:** Fractured proximal humerus and dislocated head of the humerus. Radiographs confirmed this diagnosis.
+
+**Plan:** Patient will proceed with an open reduction and reconstruction of the proximal humerus via a deltopectoral approach under general anesthesia. This will involve accessing the glenohumeral joint, removing granulation tissue, clearing the callus from the glenoid cavity and proximal humerus, and shortening the distal fragment by 2 cm to facilitate reduction.  Following the procedure, the patient will require physical therapy to regain full range of motion in the shoulder. 
+
+**Patient Consent:** Patient verbalized consent for the proposed procedure. 
+
+**Physician:** [Doctor's Name - *To be filled in*] 

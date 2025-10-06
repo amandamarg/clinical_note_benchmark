@@ -1,0 +1,24 @@
+## Clinical Note
+
+**Patient:** [Patient Name - To be filled in]
+**Date:** October 26, 2023 (Assuming this is the date of the note)
+**Subject:** Palatal Swelling – Diagnostic Evaluation & Pleomorphic Adenoma
+
+**History of Presenting Illness:** Patient presented today complaining of a swelling in the soft palate, specifically on the right side, extending from the limit between the hard and soft palate to the oropharynx. This swelling has been associated with breathing and swallowing difficulties, and the patient reports feeling “suffocating” at times.
+
+**Examination Findings:** Upon examination, a palpable, hard, irregular swelling was identified in the right side of the soft palate. 
+
+**Diagnostic Procedures:**
+*   **Cervical Tomography:** Performed, suggesting a potential benign or malignant salivary gland tumor.
+*   **Incisional Biopsy:** Performed under local anesthesia (1% lidocaine) to obtain a tissue sample. The biopsy revealed normal mucosa.
+*   **Second Conventional Biopsy:** Performed with a needle activated by an automatic spring system equipped with an outer cannula and inner stylet. The biopsy area was palpated and the tip of the needle positioned adjacently to the lesion. A core tissue sample measuring 17 mm in length was obtained.
+*   **CNB (Cone Biopsy):** Performed intraorally with precise identification of the lesion without the need for imaging guidance.
+
+**Final Diagnosis:** Pleomorphic Adenoma – confirmed by histopathological analysis of the CNB specimen.
+
+**Treatment Plan:** Patient referred to the Head and Neck Service for complete resection of the pleomorphic adenoma. The specimen was sent to the lab for further analysis.
+
+**Post-Procedure:** Biopsy site compressed for five minutes and monitored for 30 minutes. Patient discharged with no signs or symptoms of bleeding or pain. 
+
+**Physician:** [Doctor’s Name - To be filled in]
+**Signature:** ____________________________ 

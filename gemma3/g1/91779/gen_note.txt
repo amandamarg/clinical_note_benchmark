@@ -1,0 +1,22 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Recurrent Palpitations & Electrophysiological Study
+
+**History of Present Illness:** 
+Patient presents with a 10-year history of recurrent palpitations. Patient reports 5 hospitalizations in the last year for management of palpitations, all terminated with intravenous adenosine and verapamil.
+
+**Physical Examination:** 
+General physical and cardiovascular examination were normal. Baseline electrocardiogram (ECG) showed left bundle branch block with normal PR interval. ECG during tachycardia revealed similar morphology with a heart rate of 210 beats/min. Transthoracic echocardiogram (TTE) did not show evidence of structural heart disease.
+
+**Electrophysiological Study:** 
+An electrophysiological study was performed with a presumptive diagnosis of AVNRT. During catheter manipulation, complete heart block occurred due to trauma to the right bundle, requiring temporary right ventricular pacing. The complete heart block persisted for 3 hours. Following resolution, the patient experienced 3 episodes of tachycardia within 15 days, all terminated with intravenous adenosine.  A subsequent electrophysiological study was planned with a plan of avoiding His bundle / Right bundle injury. During this restudy, a catheter was placed into the right internal jugular vein and an angiogram was performed revealing an absent right superior vena cava and hugely dilated coronary sinus, which was missed on the prior transthoracic echocardiogram. 
+
+**Discussion & Plan:** 
+The patient's history is complex, with a long-standing left bundle branch block and recurrent episodes of tachycardia. The prior electrophysiological study revealed a significant complication with complete heart block. The angiogram findings are noteworthy and suggest a previously unrecognized anatomical abnormality. The risk of further ablation procedures, including the potential for complete heart block, was discussed with the patient and family. 
+
+**Next Steps:** [ *To be determined based on discussion with patient and family* ] 
+
+____________________________
+[Physician Name & Credentials - *To be filled in*] 

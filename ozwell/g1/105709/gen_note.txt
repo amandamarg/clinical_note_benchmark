@@ -1,0 +1,38 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** [Date of the Encounter]  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Abdominal pain.
+
+**History of Present Illness:**  
+The patient presented with abdominal pain that started approximately four days ago. The pain is located around the belly button and in the right upper quadrant. The patient reported experiencing nausea and chills. A CT scan at an outside facility revealed a gallstone in the duodenum. An Upper GI was performed on the fourth day in the hospital, showing the stone was not moving, leading to the patient's transfer for further management. An attempt to remove the stone with a scope was unsuccessful due to its size, and a subsequent CT scan showed the stone had moved into the jejunum. Due to concerns about the stone getting stuck in the patient's incisional hernia or pelvic area because of prior radiation, surgery was decided upon.
+
+**Past Medical History:**  
+- Hypertension  
+- Hypothyroidism  
+- Hyperlipidemia  
+- Endometrial cancer (treated with radiation and hysterectomy)  
+- Abdominal surgery due to perforation during a colonoscopy  
+
+**Surgical History:**  
+- Hysterectomy  
+- Abdominal surgery for colonoscopy perforation  
+
+**Surgical Procedure:**  
+The patient underwent laparoscopic surgery to remove the gallstone. The procedure involved cutting through adhesions, placing a hand port, removing the stone, and sewing up the hole in the intestine.
+
+**Current Status:**  
+Post-surgery, the patient is still experiencing significant pain but is hopeful for improvement. The nursing staff will monitor the patient's pain and ensure comfort. A follow-up appointment will be scheduled in a few weeks to assess progress and healing.
+
+**Plan:**  
+- Monitor pain and provide appropriate pain management.  
+- Schedule a follow-up appointment in a few weeks.  
+- Continue to monitor the patient's recovery and healing process.
+
+**Family Communication:**  
+The family was informed of the patient's passing and expressed appreciation for the care provided. Arrangements will be taken care of by the family.
+
+**Note:** This clinical note is based on the information provided during the patient-doctor conversation and is intended for documentation purposes only.

@@ -1,0 +1,32 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:09:15 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Chest injury from a metal splinter.
+
+**History of Present Illness:**  
+The patient presented with a chest injury characterized by an entry wound in the 9th intercostal space, anterior axillary line on the right side. The patient reported no respiratory symptoms or signs at the time of presentation. The abdomen was normal upon examination.
+
+**Diagnostic Findings:**  
+Initial X-ray coordinates indicated the presence of a foreign body in the right hemithorax. Based on the mechanism of injury, there was a suspicion that the foreign body could be in the thoracoabdominal cavity. A CT scan confirmed the presence of a sharp foreign body in the right thoracic cavity, not close to major vessels. A minimal pneumothorax was noted but was not clinically evident.
+
+**Procedure:**  
+A decision was made to attempt minimal access surgery with full preparations for open thoracotomy in case of failure. The patient required one lung ventilation as a prerequisite for thoracoscopy. The procedure was performed under general anesthesia with intubation using a double lumen tube. The patient was positioned for anterolateral right thoracotomy, and single lung ventilation was instituted. CO2 insufflation was administered up to 5mm Hg for safer initial trocar placement and better visualization of the hemithorax.
+
+A 10mm camera port was placed in the right 5th intercostal space in the anterior axillary line, and a 5mm working port was placed in the same intercostal space. The foreign body was located on the inferior surface of the lung and removed through the 10mm port. The rest of the thoracic cavity and diaphragm were found to be normal. An intercostal tube was placed in the 10mm port site.
+
+**Postoperative Course:**  
+The patient experienced no adverse events intraoperatively and promptly recovered from anesthesia. A well-expanded lung was confirmed clinically and with a bedside X-ray. Due to limited experience with one lung ventilation, the patient was electively ventilated for 18 hours. The patient was extubated, and the intercostal drainage (ICD) was removed the same day. The patient was discharged on the second postoperative day.
+
+**Follow-up:**  
+Regular follow-up appointments will be scheduled to monitor the patient's recovery.
+
+**Plan:**  
+- Continue regular follow-up.
+- Monitor for any potential complications or recurrence of symptoms.
+
+**Physician:**  
+[Doctor's Name]  
+[Doctor's Signature]

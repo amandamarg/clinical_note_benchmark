@@ -1,0 +1,30 @@
+**Clinical Note**
+
+**Patient Name:** Mrs. [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+**Location:** Radiotherapy Clinic  
+
+**Subjective:**  
+Mrs. [Patient's Name] presented to our radiotherapy clinic for consideration of adjuvant radiotherapy following the resection of a retrorectal adenocarcinoma with a positive margin. She reports a history of a cyst removal as a newborn and a hysterectomy and oophorectomy over 17 years ago for a fibroid and benign ovarian cyst. Her past medical history includes diabetes, high blood pressure, high cholesterol, and acid reflux. Recently, she experienced progressive swelling in the gluteal area and chronic lower back pain, which led to the discovery of a cystic mass. A needle aspiration was attempted, but the fluid reaccumulated, resulting in multiple abscesses and fistulas. Surgical resection of the mass resolved her back pain.
+
+**Objective:**  
+- Initial examination at our tertiary center revealed thickening in the gluteal area scar.  
+- Initial blood work showed normal blood counts, liver, and renal profiles.  
+- CEA and CA 19–9 levels were not obtained at the initial presentation.  
+- Initial fluid aspirate was negative for malignancy.  
+- Final pathology of the resected mass indicated mucinous adenocarcinoma arising within a cystic hamartoma.  
+- Review of slides confirmed invasive mucinous adenocarcinoma throughout the tissue samples.  
+- Microscopic description showed mucin extravasation to surrounding tissue with a histiocytic reaction.  
+- Tumor was present at the margin, reaching the skin’s surface with ulceration.
+
+**Assessment/Plan:**  
+Mrs. [Patient's Name] has a history of mucinous adenocarcinoma arising within a cystic hamartoma, with the tumor present at the margin and reaching the skin’s surface. Based on the examination and test results, a follow-up appointment is scheduled in two weeks to monitor her condition and adjust the treatment plan as necessary.
+
+**Follow-up:**  
+- Schedule follow-up appointment in two weeks.  
+- Continue monitoring the patient's condition and adjust treatment as needed.  
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

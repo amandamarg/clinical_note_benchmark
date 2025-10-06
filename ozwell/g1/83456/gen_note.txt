@@ -1,0 +1,29 @@
+**Clinical Note:**
+
+**Patient:** [Name Redacted]  
+**Date:** [Date of Visit]  
+**Physician:** [Physician's Name]  
+
+**Chief Complaint:**  
+Pain and swelling in the left ear.
+
+**History of Present Illness:**  
+The patient reports experiencing pain and swelling in the left ear for approximately six months. Upon examination, a lesion was observed along the posterior auricular sulcus with exposed cartilage within the depth of the lesion and a region of erythema suggesting early involvement. No evidence of regional metastatic spread was noted.
+
+**Diagnosis:**  
+Biopsy confirmed poorly differentiated squamous cell carcinoma.
+
+**Treatment History:**  
+- Initial treatment involved surgical resection via partial auriculectomy, removing a 3 cm tumor. However, the deep surgical margin was positive, necessitating adjuvant radiation therapy.
+- Radiation therapy was prescribed with a hypofractionated regimen of 45 Gy in 15 fractions delivered daily using a single lateral electron field – 15 MeV with bolus, due to the patient's advanced age.
+- After the third fraction, the lesion regrew to 3 cm, leading to an additional 15 Gy in six fractions as a concomitant boost, totaling 60 Gy in 21 fractions over 23 days.
+- In April 2014, disease recurrence was confirmed via biopsy, showing an irregular skin lining within the treatment site.
+- A near-total auriculectomy sparing the lobe was performed, with final pathology showing moderately differentiated squamous cell carcinoma and negative margins.
+- In October 2014, a new squamous cell carcinoma was noted on the lobule of the remaining pinna, leading to a third completion auriculectomy. Pathology revealed poorly differentiated squamous cell carcinoma with negative margins.
+- In January 2015, a recurrent mass developed at the base of the left auricle extending into the previous treatment site and the external ear canal with invasion of the parotid gland. The gross tumor volume was treated with 50 Gy in five fractions twice a week over 2.5 weeks. A high dose clinical target volume was not added.
+
+**Plan:**  
+Continue monitoring for any further recurrence or complications. Discuss potential further treatment options if necessary.
+
+**Follow-Up:**  
+The patient did not express any additional concerns at this time. Further follow-up appointments will be scheduled as needed.

@@ -1,0 +1,50 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:14:45 PM  
+
+**Patient Name:** [Patient's Name]  
+**Medical Record Number:** [Patient's MRN]  
+**Age:** [Patient's Age]  
+**Gender:** [Patient's Gender]  
+
+**Chief Complaint:**  
+Neck pain and dysphagia.
+
+**History of Present Illness:**  
+The patient presents with neck pain and dysphagia. The patient has a history of rheumatoid arthritis and has undergone multiple cervical spine surgeries. In 2009, the patient had an anterior cervical discectomy and fusion (ACDF) from C5 to C7 due to neck and arm pain, which resulted in nonunion and loosening of screws. A revision extension ACDF from C3 to C7 was performed in 2010, providing significant and immediate pain relief. Postoperatively, the patient experienced a superficial surgical site infection requiring irrigation, debridement, and antibiotics. No complications occurred during the surgery, but significant dysphagia developed postoperatively. Despite unremarkable serial esophagrams, the patient required a feeding tube for approximately one year. Over time, dysphagia improved, allowing the patient to tolerate a mechanical soft diet with some difficulty.
+
+Recently, the patient experienced a low-energy fall, with no change in symptomatology. Routine cervical spine imaging was performed, and the patient was referred for continued evaluation. Imaging revealed nonhealing posterior pseudarthrosis with local kyphosis, screw loosening, plate migration, and air communicating with the plate, raising concern for esophageal perforation. In light of persistent dysphagia, mild pain, and imaging findings, the plan was to remove the hardware and perform a staged revision extension of the previous fusion from a posterior approach. Direct laryngoscopy revealed a pharyngeal defect with exposure of the spinal hardware in the posterior pharynx in the midline. Further evaluation beyond the proximal esophagus was not attempted.
+
+**Past Medical History:**  
+- Rheumatoid arthritis
+
+**Past Surgical History:**  
+- ACDF from C5 to C7 in 2009
+- Revision extension ACDF from C3 to C7 in 2010
+
+**Social History:**  
+[Not provided in the conversation]
+
+**Family History:**  
+[Not provided in the conversation]
+
+**Medications:**  
+[Not provided in the conversation]
+
+**Allergies:**  
+[Not provided in the conversation]
+
+**Review of Systems:**  
+- Neck pain
+- Dysphagia
+
+**Physical Examination:**  
+[Not provided in the conversation]
+
+**Assessment and Plan:**  
+The patient presents with persistent dysphagia and mild neck pain, with imaging findings concerning for esophageal perforation. The plan includes removal of spinal hardware and a staged revision extension of the previous fusion from a posterior approach. Direct laryngoscopy findings of a pharyngeal defect with exposure of spinal hardware necessitate further evaluation and management.
+
+**Physician's Signature:**  
+[Physician's Name]  
+[Physician's Contact Information]

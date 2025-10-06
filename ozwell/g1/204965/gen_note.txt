@@ -1,0 +1,19 @@
+**Clinical Note:**
+
+**Patient Information:**
+- **Age:** Not specified in the conversation
+- **Gender:** Not specified in the conversation
+
+**Chief Complaint:**
+- Left peripheral facial palsy
+
+**History of Present Illness:**
+The patient presents with left peripheral facial palsy, characterized by an inability to close the left eye and drooping of the corner of the mouth. The patient has a history of facial nerve palsy, with the first occurrence at the age of three years and one month, which was treated with corticosteroids and completely regressed.
+
+**Past Medical History:**
+- At the age of three years and nine months, the patient was diagnosed with pure red cell hypoplasia, presenting with severe anaemia and an extreme lack of erythroid precursors in the bone marrow. Haemoglobin was recorded at 3.00 g/dL and red blood cells at 1,000,000/mm3. The condition was likely caused by anti-EPO antibodies, although detection of these antibodies is not routinely performed in clinical settings. The autoimmune hypothesis was postulated on empirical bases.
+- The patient experienced a second episode of left facial palsy at four years and four months old, accompanied by an acute onset of a strength deficit on the left side of the body. Imaging assessment revealed a haemorrhagic stroke corresponding to the anterior portion of the right putamen and the external capsule with perilesional oedema, involving the anterior limb of the internal capsule. High diastolic blood pressure values were noted during hospitalisation, suggesting a central rather than peripheral involvement of the facial nerve. Symptoms completely regressed three weeks after onset.
+- A third episode of left peripheral facial palsy occurred at the age of five years and six months, which was treated with corticosteroids, resulting in symptom regression.
+
+**Plan:**
+- Follow-up appointment in a few weeks to monitor the patient's condition and ensure no recurrence of symptoms.

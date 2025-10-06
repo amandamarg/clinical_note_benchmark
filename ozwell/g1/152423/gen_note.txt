@@ -1,0 +1,48 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Reason for Visit:** Evaluation of hip pain  
+
+**History of Present Illness:**  
+The patient presents with pain in both hips, the right knee, and the right ankle. The pain has been ongoing for an unspecified duration. The patient has a history of poliomyelitis affecting the right lower limb and requires the use of two crutches for ambulation. 
+
+**Past Surgical History:**  
+- Right ankle surgery at age 4 (not arthrodesis)
+- Right hip surgery at age 9  
+(Note: No medical records available for these procedures)
+
+**Physical Examination:**  
+- Severe pain with bilateral hip motion
+- Range of motion of hip joints: 
+  - Right hip: 80 degrees flexion, 30 degrees abduction, 40 degrees external rotation, 0 degrees internal rotation
+  - Left hip: 80 degrees flexion, 30 degrees abduction, 20 degrees external rotation, 10 degrees internal rotation
+- Muscle strength (Right hip joint): 
+  - Hip flexor: 2/5
+  - Hip abductor: 3/5
+  - Hip adductor: 3/5
+  - Hip extensor: 2/5
+- Muscle strength (Left hip joint): 
+  - Hip flexor: 4/5
+  - Hip abductor: 4/5
+  - Hip adductor: 5/5
+  - Hip extensor: 4/5
+- Thigh circumference (10 cm above the proximal edge of the patella): 
+  - Right: 34 cm
+  - Left: 44 cm
+- Maximum circumference of lower legs: 
+  - Right: 26 cm
+  - Left: 33 cm
+- Right lower limb shortening of 5 cm
+
+**Radiographic Findings:**  
+- Right hemipelvis and femur are severely hypoplastic
+- Right femur exhibits a high neck-shaft angle
+- Right femoral head is not dislocated
+- Osteoarthritis present in the right hip joint due to residual poliomyelitis
+
+**Additional Information:**  
+- No history of therapy for developing dysplasia of the hip joint
+
+**Assessment/Plan:**  
+The patient presents with significant musculoskeletal challenges related to a history of poliomyelitis and subsequent osteoarthritis. Further evaluation and management strategies will be discussed to address the patient's pain and functional limitations.

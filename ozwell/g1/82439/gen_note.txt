@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient:** Mrs. X  
+**Physician:** Dr. Y  
+**Date:** 10/1/2025
+
+**Subjective:**  
+Mrs. X presented to the hospital with concerns about her health, reporting symptoms of weight loss, edema, and lumbar pain over the past two months. She has experienced a weight loss of 4 kg during this period. The edema has progressed to anasarca, and the lumbar pain is described as a constant discomfort. She denies any other symptoms or changes in her health.
+
+**Medical History:**  
+- Controlled hypertension, managed with losartan and amlodipine.
+
+**Objective:**  
+Physical examination was completely normal with no clinical signs suggestive of hypercortisolism. Abdominal tomography revealed a right adrenal gland nodule measuring 14x9 mm and a left adrenal gland nodule measuring 23x18 mm. Multiple vertebral fractures were also reported.
+
+**Assessment:**  
+The findings suggest the presence of adrenal adenomas. An abnormal cortisol value was noted after a low dose suppression test with dexamethasone. Potassium levels were low, despite the absence of diuretic use. These results led to a diagnosis of ACTH-independent hypercortisolism. The presence of adenomas in both adrenal glands larger than 10 mm presents a therapeutic challenge, as resection of one gland may not resolve the hypercortisolism, and resection of both would result in permanent hypoadrenalism.
+
+**Plan:**  
+To determine the origin of cortisol production, an adrenal venous sampling will be performed using a modified protocol. Due to the unavailability of plasma catecholamine measurement, radiographic documentation of the catheter tip and aldosterone levels will be used for corrections in dilution between both sides. Samples will be taken from both adrenal veins and the inferior cava vein. The procedure is scheduled for next week. Mrs. X is advised to report any new symptoms or changes in her health.
+
+**Follow-up:**  
+Adrenal venous sampling scheduled for next week. Mrs. X will be monitored for any new symptoms or changes in her condition.

@@ -1,0 +1,50 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:26:06 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+The patient presents with chest pain and low-grade fevers.
+
+**History of Present Illness:**  
+The patient reports experiencing pleuritic chest pain. They have a history of ulcerative colitis (UC) diagnosed at age 15, complicated by primary sclerosing cholangitis. Recently, the patient has been experiencing six to seven bloody stools per day and abdominal pain. The patient was previously on azathioprine for maintenance therapy, but symptoms worsened.
+
+**Review of Systems:**  
+- **Constitutional:** Low-grade fevers  
+- **Gastrointestinal:** Six to seven bloody stools per day, abdominal pain  
+- **Respiratory:** Pleuritic chest pain  
+
+**Past Medical History:**  
+- Ulcerative colitis  
+- Primary sclerosing cholangitis  
+
+**Medications:**  
+- Azathioprine (previous maintenance therapy)  
+- Mesalamine (current maintenance therapy)  
+- Infliximab (initiated for UC management)  
+
+**Laboratory and Imaging Studies:**  
+- Lab results show leukocytosis and elevated ESR and CRP.  
+- Chest X-ray demonstrated right upper and left lower lobe pulmonary opacities.  
+- CT scan revealed multiple pulmonary nodules with associated hilar lymphadenopathy.  
+- Thoracoscopic biopsy showed necrotic neutrophilic nodules without granulomas, consistent with pulmonary manifestations of UC.  
+- Operative cultures and additional infectious workup were negative.  
+
+**Hospital Course:**  
+- The patient was treated with a three-month course of corticosteroids and started on mesalamine for maintenance therapy, resulting in symptom improvement and decreased nodule size on CT scan 10 days after therapy initiation.  
+- Two years later, the patient presented with similar symptoms during an IBD flare, with larger nodules in the same locations. Treated again with a three-month course of corticosteroids while continuing azathioprine, leading to symptom resolution and decreased nodule size on CT scan one month later.  
+- One year later, the patient developed left-sided pleuritic chest pain and worsening UC symptoms. Infliximab was initiated for UC management, and a CT scan was repeated to evaluate the nodules.  
+
+**Assessment and Plan:**  
+- Continue infliximab for UC management.  
+- Repeat CT scan in three months to evaluate the nodules.  
+
+**Follow-Up:**  
+The patient will be monitored for symptom progression and response to infliximab therapy. A follow-up CT scan is scheduled in three months to assess the status of the pulmonary nodules.  
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

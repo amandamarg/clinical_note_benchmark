@@ -1,0 +1,30 @@
+**Patient Name:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Physician:** Dr. Smith
+
+**Subjective:**
+
+Patient reports a complex cardiac history including prior admission for typical angina and an impression of acute coronary syndrome. Patient was admitted previously and underwent successful percutaneous coronary intervention (PCI) on the left anterior descending (LAD) and right coronary artery (RCA). Following discharge, the patient experienced recurrent angina for approximately one month before presenting with multiple episodes of angina on exertion. A subsequent admission revealed a severe resting chest pain associated with nausea, vomiting, and diaphoresis. 
+
+**Objective:**
+
+*   **Past Medical History:** Hypertension
+*   **Prior ECG:** Demonstrated 2 mm T-wave inversion in V1-V3 leads, biphasic T waves in I, aVL, and QT prolongation.
+*   **Prior PCI:** Successful PCI of LAD and RCA performed in a previous admission.
+*   **Second Admission – Initial Findings:** Angina decreased to 3/10. ECG showed ST depression in V2-V5 leads.
+*   **Catheterization Findings:** Foreign body material (guiding catheter tip) lodged in the left main coronary artery.  Coronary angiography revealed significant thrombotic narrowing of distal left main artery with extension of thrombus to the proximal parts of both LAD and left circumflex arteries.
+*   **Echocardiography (Second Admission):** Left ventricular ejection fraction of 55% without resting wall motion abnormalities. 
+
+
+**Intervention:**
+
+Coronary artery bypass grafting (CABG) performed successfully.
+
+**Plan:**
+
+Continue cardiac monitoring. Further evaluation to assess long-term management. 
+
+_________________________
+Dr. Smith 
+
+**Important Note:** This clinical note is generated solely from the provided dialogue. It lacks key patient information such as name, date of encounter, and any demographic data.

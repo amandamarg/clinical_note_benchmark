@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Note: This field should be filled in with the patient’s name*]
+**Date:** [Date - *Note: This field should be filled in with the current date*]
+**Subject:** Complex Colorectal Mass & Surgical History
+
+**History of Present Illness:** Patient presents today for follow-up. Patient reports a significant surgical history including previous hospitalization 10 months prior for epigastric pain, fatigue, weight loss (10kg), and jaundice. 
+
+**Past Medical History:** Patient has a history of hospital admission 10 months prior characterized by epigastric pain, fatigue, weight loss, and jaundice. Subsequent investigations revealed an initial diagnosis of a collection secondary to a presumed colon perforation.
+
+**Significant Findings:**
+
+*   **Initial Admission (10 months prior):**  Patient presented with symptoms consistent with a colonic process. Examination revealed anemia and a tender mass in the right upper quadrant.
+*   **CT Scan (Initial):** CT scan revealed a 7 x 5 cm thick-walled, complex mass near the duodenum containing fluid and air, with proximity to the colon.
+*   **Diagnosis (Initial):**  The working diagnosis was a collection secondary to a colon perforation, treated with antibiotics and conservative management.
+*   **Colonoscopy (Post-Treatment):**  A colonoscopy performed one month after discharge revealed a lesion in the transverse colon, with histology confirming a mucinous adenocarcinoma.
+*   **Repeat Admission:** Patient subsequently presented to the Accident and Emergency Department with an upper gastrointestinal bleed.
+*   **Repeat CT Scan (Following Bleed):** CT scan revealed a localized colon perforation with an abscess near the duodenum and thickening in the ascending colon at the hepatic flexure.
+*   **Diagnostic Laparoscopy:** A diagnostic laparoscopy confirmed a large perforated tumor at the hepatic flexure with ascites and peritoneal tumor nodules.
+*   **Laparotomy:** A laparotomy was performed through a transverse incision, revealing tumor invasion of the gallbladder and duodenum with an abscess cavity in front of the second part of the duodenum.
+*   **Surgical Intervention:**  Due to the extent of the disease and associated abscess, a right hemicolectomy was performed with an ileotransverse anastomosis.
+
+**Current Status:** Patient reports no further immediate concerns at this time.
+
+**Plan:** Continued monitoring as clinically indicated. 
+
+____________________________
+[Physician Name & Signature]
+[Physician Credentials]

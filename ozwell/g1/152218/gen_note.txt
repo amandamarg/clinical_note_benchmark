@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Patient Name:** Jane  
+**Date:** 10/1/2025  
+**Physician:** Dr. Smith  
+
+**Chief Complaint:**  
+Seizure and subsequent head injury.
+
+**History of Present Illness:**  
+Jane, a patient with a known history of epilepsy, presented to the emergency room following a generalized tonic-clonic seizure lasting 5 minutes. The patient reports falling and hitting her head during the seizure, resulting in a 2 cm cut at the back of her head. She experienced foaming at the mouth and a bitten tongue. Post-seizure, Jane had difficulty breathing and was noted to have an apneic respiratory pattern, necessitating intubation. Upon arrival, she was unconscious with a blood pressure of 80/60 mm Hg and a pulse of 66/min. Light reflexes were normal, but there were no verbal or pain responses, and the Babinski sign was bilaterally unresponsive. The patient was admitted to the neurology intensive care unit in an intubated state.
+
+**Past Medical History:**  
+- Epilepsy, diagnosed 40 years ago.
+- Moderate level of mental retardation.
+- History of non-compliance with medical treatment and routine checkups.
+- Experiences generalized tonic-clonic seizures once or twice a month, with minor injuries but no fatal trauma or accidents.
+
+**Medications:**  
+- Carbamazepine levels were found to be 3.8 µg/mL.
+
+**Hospital Course:**  
+Antiepileptic treatment was initiated. On the 6th hour of follow-up, the patient regained consciousness, and flaccid quadriplegia was observed on neurologic examination. A cervical MRI revealed severe spinal cord compression, widespread spinal cord edema, and subluxation at C3–4 due to a fracture of the lower back part of the C3 vertebra.
+
+**Assessment and Plan:**  
+- Continue monitoring in the neurology intensive care unit.
+- Maintain antiepileptic treatment.
+- Address spinal cord injury and consider surgical intervention if necessary.
+- Reinforce the importance of medication compliance and regular follow-ups to prevent future seizures and complications.

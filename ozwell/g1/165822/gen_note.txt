@@ -1,0 +1,28 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:25:30 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports a history of prothrombin gene mutation and was scheduled for a living donor kidney transplantation. The patient developed spontaneous left subclavian and brachial artery thrombosis 17 years ago, which was treated with therapeutic anticoagulation and maintenance on warfarin for 1 year, resulting in complete resolution of the thrombosis. Eight years later, the patient developed venous thrombosis of the right lower extremity following an arthroscopic procedure on the right knee and was found to have a heterozygous form of the prothrombin gene 20210 mutation, leading to chronic anticoagulation with warfarin. The patient developed end-stage renal disease 2 years ago due to diabetes and hypertension and elected to undergo living donor kidney transplantation with their son after careful discussion and institutional approval.
+
+**Objective:**  
+- **Preoperative Preparation:** The patient underwent general endotracheal anesthesia with smooth intravenous induction. A tunneled internal jugular double-lumen central venous catheter was placed preoperatively, and a radial arterial line was placed after induction. Access was noted to be difficult due to the patient's history of spontaneous subclavian and brachial artery thrombosis. As a routine practice, tunneled catheters were placed preoperatively with interventional radiology, and no evidence of clots or thrombi was found in the internal jugular vein or vessels prior to placement of the line with ultrasound examination. A peripheral intravenous cannula was also placed intra-operatively for additional access.
+- **Intraoperative Management:** The patient received methylprednisolone and thymoglobulin for immunosuppression. Due to the history of prothrombin gene mutation and prior thrombosis, the patient was maintained on a heparin infusion with the aim of maintaining the partial thromboplastin time (PTT) in the range of 70-75. A 2000 units bolus of heparin was administered, followed by an infusion of 1000 units/h. The patient remained stable throughout the operation, maintaining a mean arterial pressure goal of > 80-85 mmHg after reperfusion.
+- **Postoperative Care:** The patient's trachea was extubated in the operating room, and they were transported stable to the surgical intensive care unit. The patient received 2 liters of albumin.
+
+**Assessment:**  
+The patient has a history of prothrombin gene mutation with previous thrombosis events and end-stage renal disease secondary to diabetes and hypertension. The patient successfully underwent living donor kidney transplantation with stable intraoperative and postoperative courses.
+
+**Plan:**  
+- Continue monitoring in the surgical intensive care unit.
+- Maintain anticoagulation therapy as per protocol.
+- Monitor renal function and immunosuppression levels.
+- Follow up on postoperative recovery and any potential complications.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Title]

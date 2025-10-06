@@ -49,8 +49,6 @@ class OzwellRequester(Requester):
             status_code = resp.status_code
             print(f'Response status: {status_code}')
         return content
-
-
 class OllamaRequester(Requester):
     def __init__(self, model_name, prompt_name, api_key=None, root_dir='./'):
         super().__init__(model_name, prompt_name, api_key, root_dir)

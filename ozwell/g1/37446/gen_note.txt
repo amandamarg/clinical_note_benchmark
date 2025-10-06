@@ -1,0 +1,41 @@
+**Clinical Note**
+
+**Patient:** Mr. X  
+**Age:** 92 years  
+**Date:** 10/1/2025  
+
+**Chief Complaint:**  
+Ulcer on the tongue for two months, painful and causing discomfort while swallowing.
+
+**History of Present Illness:**  
+Mr. X presented with a two-month history of a painful ulcer on the tongue, which has caused significant discomfort while swallowing. He reports a weight loss of 7 kilograms over the past month, attributed to the inability to eat due to pain.
+
+**Medical History:**  
+- Age: 92 years  
+- No significant past medical history reported.
+
+**Social History:**  
+- Long-term pipe smoker  
+- Regular moderate alcohol consumption
+
+**Examination:**  
+- Head and neck examination revealed a 3 cm diameter indurated ulcer on the left posterior dorsum of the tongue, highly suspicious of malignancy.  
+- Ipsilateral lymph node enlargement of 4 cm diameter in the level 3 region.
+
+**Investigations:**  
+- Incisional biopsy of the tongue ulcer performed under local anaesthesia.  
+- Histopathology report: Suggestive of adenocarcinoma.  
+- Immunohistochemistry: Positive for cytokeratin 20 and CDX2; negative for cytokeratin 7, TTF1, thyroglobulin, and PSA.  
+- Imaging: Chest X-ray, MRI of head and neck, and CT of chest and abdomen.  
+  - CT findings: Sigmoid carcinoma with local lymphadenopathy and evidence of distant metastasis to right axillary, hepatic, intrapulmonary, retroperitoneal, brain, and bony disease to the thoracic vertebra.
+
+**Diagnosis:**  
+- The oral lesion is indicative of a distant metastasis from a primary bowel carcinoma.  
+- Confirmed rectosigmoid tumour on colonoscopy, histologically a poorly differentiated adenocarcinoma.
+
+**Plan:**  
+- Due to the extensive nature of the disease, the treatment plan is focused on palliation.  
+- Patient was discussed in the head and neck multidisciplinary team meeting and referred to the colorectal team for further management.
+
+**Discussion:**  
+The patient was informed about the diagnosis and the palliative approach due to the extensive metastatic disease. Mr. X was encouraged to ask questions and express any concerns regarding his condition and treatment plan.

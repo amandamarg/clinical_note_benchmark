@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Note: Patient name not provided in dialogue*]
+**Date:** [Date - *Note: Date not provided in dialogue*]
+**Subject:** Management of Intraosseous Arteriovenous Malformation
+
+**History of Presenting Illness:** The patient presented to the Emergency Room on [Date - *Note: Date not provided in dialogue*] complaining of 5 days of spontaneous alveolar bleeding in the fourth mandibular quadrant, accompanied by gum pain.
+
+**Examination Findings:**
+* Initial presentation included slight periodontal bleeding.
+* Orthopantomography revealed a dubious periapical image compatible with a small cyst of dental origin.
+* Subsequent clinical examination revealed high mobility of the first and second molars in the fourth mandibular quadrant.
+* Following this, a CT scan of the cervicofacial area demonstrated a large, high-flow intraosseous arteriovenous malformation extending from the right mandibular body to the homolateral pterygoid region and the infratemporal fossa.
+* Selective arteriography and an MRI of the head and neck were performed to delineate the limits of the malformation and identify the key vessel.
+
+**Treatment:**
+Following consultation with the interventional radiology unit, a combined approach was planned. However, a selective endovascular approach was ultimately utilized. A large drainage vein was identified via radiological tests. Embolization of this vein, along with selective embolization of the main arterial vessels, was carried out. The patient was maintained intubated and sedated for 24 hours, at which point they were extubated upon cessation of bleeding.
+
+**Outcome:**
+* A control arteriography performed 5 days after embolization showed a significant reduction of the lesion’s size.
+* A follow-up MRI performed three months after the procedure demonstrated complete regression of the lesion.
+* Patient reports no clinical symptoms at a subsequent control examination 18 months post-procedure. 
+
+**Discharge:** Patient discharged 7 days post-procedure. 
+
+____________________________
+[Physician Name & Signature - *Note: Physician name not provided in dialogue*]

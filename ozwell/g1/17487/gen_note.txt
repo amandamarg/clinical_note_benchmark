@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+**Location:** [Institute's Name]
+
+**Chief Complaint:**  
+Mild pain in the right forearm for the last 2 years.
+
+**History of Present Illness:**  
+The patient reports a mild pain in the right forearm that began 2 years ago and has been gradually increasing in size. Initial treatment from local doctors did not relieve the pain and swelling. The patient then sought treatment at a private hospital in Guwahati, where a biopsy and CT scan were performed, revealing a soft tissue sarcoma. The patient underwent surgery and was discharged 5 days post-operatively. The post-operative period was uneventful. However, the patient developed pain again one month after surgery, which was not relieved by prescribed painkillers. After 6 months of intermittent pain, the patient sought further treatment at our institute.
+
+**Investigations and Findings:**  
+An MRI conducted at our institute showed residual disease and haziness around the neuromuscular bundle in the right arm. Pre-anesthetic workups were completed, and the patient was prepared for surgery.
+
+**Surgical Procedure:**  
+The patient was informed about the potential consequences following brachial artery resection, including the possibility of amputation and the requirement for a great saphenous vein graft. The patient was intubated and operated on under general anesthesia in a supine position. The scar from the previous surgery was excised. Exploration revealed the tumor in close proximity to the neurovascular bundle. Through meticulous dissection, the tumor was separated from the median nerve, but it was inseparable from the brachial artery. Consequently, 14 cm of the brachial artery was excised due to a tumor thrombus inside the lumen. The course of the great saphenous vein was marked on the patient's left leg, and approximately 16 cm of the vein was isolated, cut, and placed on a saline-filled tray after marking the proximal and distal ends.
+
+**Plan:**  
+Continue post-operative care and monitor for any complications. Further treatment and follow-up will be determined based on the patient's recovery and any additional findings.
+
+**Signature:**  
+[Doctor's Signature]  
+[Doctor's Name]  
+[Institute's Name]

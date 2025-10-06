@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:18:14 PM  
+**Physician:** Dr. Smith  
+**Patient:** [Patient's Name]  
+
+**Chief Complaint:**  
+The patient presents with chest pain and shortness of breath.
+
+**History of Present Illness:**  
+The patient reports experiencing chest pain and shortness of breath that began a few hours ago. The patient has a known history of high blood pressure.
+
+**Physical Examination:**  
+Significant edema is noted in both lower extremities.
+
+**Diagnostic Findings:**  
+- **Electrocardiogram:** No specific abnormalities detected.
+- **Heart Echo:** Normal systole of the left ventricle with an ejection fraction of 65%. No pathological findings regarding heart valve function. Increased pulmonary artery systolic pressure estimated at 55 mmHg. Right ventricle volume measured at 105 ml.
+- **Coronary Angiography:** Revealed a fistula between the left anterior descending artery (LAD) and the pulmonary artery, with a distal severe stenosis of the LAD at approximately 80%. A significant stenosis of 70% was detected at the ostium of the obtuse marginal artery.
+- **Coronary CT Angiography:** Provided more specific information confirming the findings.
+
+**Assessment and Plan:**  
+After evaluating the options, the heart team decided on a surgical intervention as the best approach due to the need for revascularization of multiple vessels and the patient's physical status permitting open surgery. A typical median sternotomy with aortic and atrial cannulation was performed. Grafts were harvested, and the pump procedure was initiated. The fistula between the LAD and PA, approximately 5 cm, was identified.
+
+**Follow-up:**  
+The patient will remain in the hospital for a few days for observation and recovery. Close monitoring and necessary follow-up requirements will be provided.

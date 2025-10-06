@@ -1,0 +1,33 @@
+**Clinical Note:**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+The patient presents with chest pain and palpitations.
+
+**History of Present Illness:**  
+The patient reports a sudden onset of chest pain accompanied by a racing heart. This is the first occurrence of such symptoms.
+
+**Diagnostic Findings:**  
+- Electrocardiogram (ECG) revealed atrial fibrillation with a ventricular rate of 140 beats per minute.
+- Cardiac auscultation detected a continuous murmur at the left sternal border.
+- The patient spontaneously converted to normal sinus rhythm with complete resolution of chest pain.
+- Troponin I level was elevated at 17 ng/ml.
+- EKG-gated multidetector cardiac computed tomographic angiography showed a large anomalous left main coronary artery arising from the main pulmonary artery. The left anterior descending artery, diagonal branch, and left circumflex arteries arising from the left main are ectatic vessels with extensive collateralization. A large ectatic right coronary artery arises from the right aortic coronary sinus.
+
+**Assessment:**  
+The patient is currently asymptomatic, and troponin levels have normalized. The atrial fibrillation was attributed to iatrogenic hyperthyroidism due to excess thyroid replacement therapy. Thyroid stimulating hormone level was low at 0.05 mU/L.
+
+**Echocardiogram Findings:**  
+- Normal biventricular size and function with a left ventricular ejection fraction of 55%.
+- Normal ventricular wall thickness and left ventricular diastolic function and filling pressures.
+- Mild mitral and tricuspid regurgitation.
+- Markedly increased color Doppler signaling within the interventricular septum, suggestive of high blood flow through septal collaterals.
+
+**Coronary Angiography Findings:**  
+Evidence of retrograde blood flow in the left coronary system into the pulmonary trunk through collateral supply from the systemic side, secondary to relatively low right-sided pressures and vascular resistance causing coronary steal.
+
+**Plan:**  
+Surgical reimplantation of the left main into the aorta was offered but declined by the patient. A rhythm control strategy for atrial fibrillation was adopted, considering the myocardial damage was secondary to a lack of oxygenated blood during increased demand at the time of tachycardia. The patient will need to return for follow-up appointments to monitor the condition.

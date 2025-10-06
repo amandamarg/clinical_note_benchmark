@@ -1,0 +1,27 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Physician:** Dr. Smith
+
+**Subject:** Orocutaneous Fistula – Surgical Management
+
+**History of Presenting Illness:** Patient presents for follow-up regarding a persistent orocutaneous fistula. Patient reports three prior unsuccessful surgical attempts to close the fistula.
+
+**Past Medical History:** Patient reports a plasmacytoma enucleated from the left mandible 3 years prior to this presentation.
+
+**Examination Findings:**
+*   Patient reports a 3x2 cm diameter defect between the left side of the mouth floor and the basis of the left mandible, near the left submandibular gland, as visualized on CT imaging.
+*   The failed surgeries were attributed to inadequate management of the dead space surrounding the fistula.
+
+**Surgical Intervention:**
+Patient underwent surgical intervention involving the use of the submandibular gland as a pedicled flap to fill the defect and support the oral and cutaneous flaps. The procedure was performed under general anesthesia. The fistula was excised and healthy oral and cutaneous tissues were prepared. The incision was extended to the posterior and anterior directions. The submandibular gland was mobilized, preserving the arteriovenous supply and duct, while a soft tissue tunnel was prepared. The gland was rotated and sutured to the recipient site. Finally, the flap was closed. The sutures utilized were 3/0 reabsorbable polyglactin sutures.
+
+**Current Status:** Patient reports feeling good. 
+
+**Plan:** Patient to return for follow-up appointment next week for incision evaluation and assessment of tissue healing.
+
+**____________________________**
+Dr. Smith, MD 
+
+***Note:** *Information missing from the dialogue (Patient Name and Date) has been noted as placeholders.*

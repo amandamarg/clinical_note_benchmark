@@ -1,0 +1,46 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+**Location:** Emergency Department  
+
+**Chief Complaint:**  
+Worsening dyspnea and hemoptysis for the past 2-3 days.
+
+**History of Present Illness:**  
+The patient presented to the emergency department with complaints of worsening dyspnea and hemoptysis over the past 2-3 days. The patient also reported hoarseness over the past year and was previously diagnosed with left vocal cord palsy following a direct laryngoscopy. A chest computed tomography (CT) scan revealed a mediastinal mass, and a direct needle biopsy demonstrated inflammatory cells in the background of blood. 
+
+**Past Medical History:**  
+- Mild stroke 6 years ago, no sequelae reported.
+
+**Vital Signs on Admission:**  
+- Pulse rate: 86 beats per minute  
+- Respiratory rate: 18 per minute  
+- Blood pressure: 135/80 mm Hg  
+
+**Physical Examination:**  
+- Continuous murmur in the left sternal and pulmonic area.  
+- Decreased breath sounds in the left hemithorax.
+
+**Diagnostic Studies:**  
+- Chest X-ray: Large density in the mediastinum and left-sided pleural effusion.  
+- Echocardiography: Normal left ventricle, dilated right-sided chambers with supravalvular pulmonic stenosis.  
+- Trans-esophageal echocardiography: Pseudoaneurysm of the distal aortic arch with clot formation and compression of the main and left pulmonary artery.  
+- Chest CT scan with contrast and angiographic construction: Confirmed a 45 mm by 37 mm pseudoaneurysm in the lateral side of the aortic arch distal to the left subclavian origin with an associated 9.5 cm by 10 cm hematoma in the mediastinum.
+
+**Social History:**  
+- The patient recalled falling down a few stairs 10 years ago but did not seek medical advice at the time.
+
+**Surgical History:**  
+- Initially refused operation but later developed severe chest pain and agreed to a surgical plan.  
+- Preoperative selective coronary angiography via the right radial artery was normal.  
+- Underwent left thoracotomy via femorofemoral bypass.  
+- A large pseudoaneurysm of the distal aortic arch was detected during surgery.
+
+**Plan:**  
+Schedule a follow-up appointment to monitor the patient's progress post-surgery.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

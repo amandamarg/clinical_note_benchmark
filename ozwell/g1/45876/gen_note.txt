@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:26:19 PM  
+
+**Patient:** [Patient's Name]  
+**Age:** [Patient's Age]  
+**Gender:** [Patient's Gender]  
+
+**Chief Complaint:**  
+Swelling in the floor of the mouth.
+
+**History of Present Illness:**  
+The patient presented with a swelling in the floor of the mouth, which has been present for the past two months. The swelling started small and gradually increased in size, now presenting as a diffuse swelling in the left submandibular region.
+
+**Examination:**  
+On intraoral examination, a single, well-defined encapsulated swelling was observed on the left side of the floor of the mouth. On palpation, the swelling was tender, firm, and nonfluctuant, extending from the midline of the floor of the mouth to the second molar region on the left side of the mandible. The patient reported altered sensations in the left lateral border of the tongue and the lingual mucoperiosteum of the left side of the mandible, suggesting involvement of the lingual nerve.
+
+**Investigations:**  
+- Fine Needle Aspiration Cytology (FNAC) was performed but returned negative due to the firmness of the swelling.
+- An axial computed tomogram of the head and neck revealed a dense mass in the left side of the floor of the mouth region, measuring approximately 33mm x 23mm, with a dilated lingual nerve found within the mass.
+
+**Procedure:**  
+Under general anesthesia, a mucosal incision was placed over the mass in the left side of the floor of the mouth. The tumor was exposed and dissected safely from the lingual nerve. Excision was carried out by ligating the lingual nerve on the distal and mesial ends of the swelling. The encapsulated tumor was excised completely from the lingual nerve, and lingual nerve repair was performed by perineural suturing.
+
+**Pathology Report:**  
+Macroscopic examination of the excised specimen revealed a well-encapsulated mass. The cut surface of the specimen measured approximately 3.5cm x 4cm x 3cm, showing areas of cystic degeneration and solid areas. Histopathological examination showed a fibrous capsule enclosing proliferation of Schwann cells with characteristic Antoni A and Antoni B types of tissue, with areas of cystic and myxoid degeneration, suggestive of a schwannoma.
+
+**Diagnosis:**  
+Benign schwannoma of the floor of the mouth.
+
+**Plan:**  
+The patient is advised to attend follow-up appointments to monitor healing. The patient is informed that the tumor is benign and not cancerous, and they should be able to resume normal activities soon.

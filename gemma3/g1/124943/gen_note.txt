@@ -1,0 +1,22 @@
+**Patient Name:** [Patient Name - To be filled in]
+**Date:** October 26, 2023
+**Subject:** Respiratory Symptoms and Cardiac Evaluation
+
+**History of Presenting Illness:** Patient reports ongoing difficulty with breathing, which has been progressively worsening over several years.
+
+**Medical History:** Patient has a significant medical history including spina bifida and hydrocephalus.  Previously underwent a Ventriculoatrial (VA) shunt placement in early 20s which failed, subsequently requiring a VentriculoPeritoneal (VP) shunt.
+
+**Examination Findings:**
+
+*   **Cardiac Evaluation:** Echocardiogram revealed a normal-sized heart with normal systolic function, however, identified a problem with the pulmonic valve. Color Doppler and continuous wave Doppler assessment confirmed severe pulmonic insufficiency due to migration of the VA shunt catheter into the pulmonary artery. Stress echocardiogram was limited to 3 minutes on the Bruce protocol due to exertional dyspnea; peak heart rate was 210 bpm (124% of predicted maximum). No ischemia detected due to limited exercise capacity; no segmental wall motion abnormalities observed.
+*   **Previous History:** Patient previously presented with chest pain following a pharmacologic stress myocardial perfusion imaging test, revealing moderate ischemia and scarring of the apical anterior and apical walls. A coronary angiography was performed but did not identify obstructive coronary artery disease.
+
+**Imaging:**
+
+*   Computed tomography scan of the chest with contrast ruled out pulmonary embolism and confirmed coiling of the retained VA shunt catheter in the main pulmonary artery.
+
+**Diagnosis:** Severe Pulmonic Insufficiency secondary to VA shunt catheter migration into the pulmonary artery.
+
+**Treatment Plan:**  Due to the risk of endovascular removal, open surgical intracardiac catheter removal and repair is the only viable alternative, pending multidisciplinary team discussion and scheduling. Patient will continue to be monitored closely for comfort and symptom management. 
+
+**Physician:** [Physician Name - To be filled in]

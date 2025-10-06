@@ -1,0 +1,37 @@
+**Patient Name:** [Patient Name - To be filled in]
+**Date:** [Date - To be filled in]
+
+**Subject:** Persistent Abdominal Pain & Diagnostic Workup
+
+**History of Presenting Illness:**
+
+Patient presents today with a history of acute abdominal pain for the past few days. 
+
+**Past Medical History:**
+
+Patient reports no family history of colon cancer and denies any history of smoking.
+
+**Physical Exam:**
+
+Initial physical exam revealed tenderness in the right lower quadrant. 
+
+**Diagnostic Testing:**
+
+*   **Ultrasound:** Performed upon admission, showed a contracted gallbladder with normal bile ducts, no pathologies affecting the pancreas, and no free fluid or signs of acute appendicitis.
+*   **CT Scan:** Performed 4 hours post-admission, demonstrating a thickened cecal wall with a small number of pathological nearby lymph nodes, confirming absence of peritoneal free fluid.
+*   **Colonoscopy:** Performed 24 hours post-admission following an adequate bowel preparation. Revealed a massive, ulcerated, stenotic, and necrotic lesion involving the cecum and right colon. Biopsies were performed.
+
+**Pathology:**
+
+Microscopic examination of biopsies revealed a cell proliferation composed of large, pleomorphic cellular elements with vesicular nuclei, hyperchromatic nucleoli, and eosinophilic cytoplasm, mixed with necrotic tissue. These findings were consistent with the diagnosis of poorly differentiated carcinoma.
+
+**Treatment:**
+
+In light of these findings, a laparoscopic right colectomy with accurate lymphadenectomy was performed. Surgical exploration confirmed absence of peritoneal carcinosis and distant metastasis.
+
+**Plan:**
+
+Patient will require close monitoring and scheduled follow-up appointments. Discussion regarding further treatment options will be scheduled. 
+
+____________________________
+[Physician Name & Credentials]

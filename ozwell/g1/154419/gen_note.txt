@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:02:08 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Patient presented with abdominal pain and difficulty eating.
+
+**History of Present Illness:**  
+The patient reported experiencing stomach pain and difficulty eating for a few weeks prior to admission. Initial tests, including routine chemistry and tumor marker levels, were within normal limits. A CT scan revealed a slightly septated cystic tumor in the pancreas, with no mural nodule, calcification, or eccentrically located mass within the cystic area. The preoperative diagnosis was a benign mucinous cystic tumor of the pancreas.
+
+**Surgical Procedure:**  
+A laparoscopic distal pancreatectomy was performed. Trocar placement was utilized, and the robotic camera arm and three instrument arms were connected to their respective ports. The assistant surgeon was positioned on the patient's left side for temporary use of laparoscopic instruments through Port 4. Intraoperatively, bleeding was encountered due to the close adherence of the cystic tumor and remaining splenic vessels. To avoid cyst rupture, a concomitant segmental resection of splenic vessels was performed for spleen preservation. The operation lasted approximately 480 minutes with an estimated blood loss of 800 mL; no blood transfusion was required. The specimen was delivered through a small vertical incision after being placed in a plastic bag.
+
+**Postoperative Course:**  
+The patient recovered without complications and resumed an oral diet on the second postoperative day. The drain was removed, and the patient was discharged on the fifth postoperative day.
+
+**Pathology Report:**  
+Final pathologic examination confirmed a benign mucinous cystic neoplasm without characteristics of malignant potential.
+
+**Follow-Up:**  
+A color Doppler ultrasound scan obtained 14 days post-surgery showed no evidence of splenic infarction and well-preserved blood flow within the spleen, with no definitive peripancreatic fluid collection.
+
+**Plan:**  
+The patient is advised to follow up with any questions or concerns. Further monitoring and follow-up appointments will be scheduled as needed.
+
+**Physician's Signature:**  
+[Doctor's Signature]  
+
+**Date:** 10/1/2025

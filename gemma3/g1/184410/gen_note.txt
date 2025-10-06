@@ -1,0 +1,23 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date of Note - *To be filled in*]
+**Subject:** Aortic Dissection – TEVAR
+
+**History of Presenting Illness:** Patient presents today reporting significantly improved symptoms. Patient states they were experiencing chest and back pain for two weeks prior to presentation.
+
+**Physical Examination:** Vital signs were stable during examination. Patient was conscious and moving all limbs.
+
+**Diagnostic Findings:** CTA of the aorta revealed a large dissection flap from the origin of the left subclavian artery extending down to the level of renal arteries. The CTA also demonstrated enlargement of the false lumen at the proximal aorta with a large aneurysmal dilatation and a compression of the true lumen. A large entry point was noted 2 cm distal to the right subclavian artery.
+
+**Treatment:** Patient underwent thoracic endovascular repair (TEVAR) via the right femoral approach with stent graft placement on day two of admission. 
+
+**Post-Procedure Findings:** Postdeployment angiogram revealed successful proximal occlusion of the entry point with no perfusion of the false lumen and good flow through both carotid and left vertebral arteries as well as patent right and left subclavian arteries.
+
+**Disposition:** Patient was discharged one day after surgery and is doing well. Prognosis is being evaluated. Instructions for postoperative care and follow-up appointments will be provided. 
+
+**Physician:** [Doctor's Name - *To be filled in*] 
+
+---
+
+**Note:** *This note accurately reflects all information provided in the dialogue. Please fill in the bracketed information as necessary.*

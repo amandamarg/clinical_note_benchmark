@@ -1,0 +1,31 @@
+## Clinical Note
+
+**Patient:** Mr. X
+**Date:** [Date of Note - Assume Today's Date]
+**Subject:** Persistent Sinus & Mediastinal Mass – Management Plan
+
+**History of Presenting Illness:** Mr. X presents today with a persistent discharging sinus in the epigastrium, which began approximately 12 years following his second mechanical aortic valve replacement. The initial presentation was treated by his GP with dressings and antibiotics, but failed to resolve.
+
+**Past Medical History:**
+*   Mechanical aortic valve replacement for aortic stenosis (14 years ago)
+*   Repeat mechanical aortic valve replacement for streptococcal prosthetic valve endocarditis (2 years after initial replacement)
+
+**Previous Treatment:** Initial treatment of the sinus by his GP with dressings and antibiotics was unsuccessful.
+
+**Examination Findings & Investigations:**
+
+*   **Sinus Exploration:** A secondary median sternotomy was performed, revealing communication of the sinus with the anterior mediastinum. The sinus was divided at the point of entry into the mediastinum and removed. All sternal wires were also removed.
+*   **Microbiology:** The excised tissue revealed a Staphylococcus aureus infection.
+*   **CT Scan of Chest:** Demonstrated an encapsulated mass extending from the ascending aorta to the diaphragm. The sternum was reported as normal.
+*   **Transthoracic Echocardiography:** Ruled out pseudoaneurysm of the ascending aorta, prosthetic endocarditis, and aortic root abscess.
+*   **MR Scan:** Confirmed a longitudinal retrosternal mass extending from the mid ascending aorta to the diaphragm and cutaneous fistulization to the epigastrium through the left rectus sheath.
+*   **Exploratory Secondary Median Sternotomy (Detailed Findings):** A nonpulsatile longitudinal 15 cm mass was found on the anterior surface of the ascending aorta and right ventricle along the entire length of the anterior mediastinum. At the level of the diaphragm, the mass exited the mediastinum by penetrating the left rectus sheath and communicated with the skin in the epigastrium. A branching tract extending from the main tract to the right and inferiorly was observed.
+
+
+**Plan:** Based on the results of the investigations, a secondary median sternotomy is recommended to further evaluate the cause of the symptoms and guide treatment.
+
+**Instructions:** Patient to cease taking certain medications and adhere to a specific dietary regimen prior to the scheduled procedure. Further detailed instructions will be provided at the next appointment.
+
+____________________________
+[Physician’s Signature]
+[Physician’s Printed Name & Credentials]

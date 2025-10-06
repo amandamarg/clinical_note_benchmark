@@ -1,0 +1,30 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:37:32 PM  
+
+**Patient:** [Patient Name]  
+**Physician:** [Doctor Name]  
+
+**Subjective:**  
+The patient reports feeling okay but expresses some nervousness. They have started experiencing chest discomfort after eating.
+
+**Objective:**  
+- Diagnosis: Middle esophageal diverticulum.  
+- Examination: Accumulation of contrast medium in the diverticulum noted during initial examination.  
+- Surgery: Thoracoscopic diverticulectomy performed. The diverticulum measured 47 mm in diameter.  
+- Findings: The diverticulum mucous membrane was partially covered by adherent white matter, unstained with iodine. Narrowband imaging revealed type A.  
+- Biopsy: Pathological findings of the endoscopic biopsy showed atypical epithelium with no malignant findings.  
+- Esophageal Function: Lower esophageal sphincter function confirmed, and normal esophageal body peristaltic wave observed using high-resolution manometry.
+
+**Assessment:**  
+The atypical epithelium suggested the possibility of malignancy, prompting the decision to proceed with surgery. No malignant findings were observed during the procedure.
+
+**Plan:**  
+- Monitor the patient's recovery and ensure proper healing.  
+- Schedule follow-up appointments to check on progress.  
+- The patient is advised to reach out with any questions or concerns.
+
+**Signature:**  
+[Doctor Name]  
+[Doctor's Title]

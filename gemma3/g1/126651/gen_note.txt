@@ -1,0 +1,19 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information not provided in dialogue, needs to be added here*]
+**Date:** [Date - *Information not provided in dialogue, needs to be added here*]
+**Subject:** Brainstem Fibrosarcoma - Treatment Evaluation & Initiation
+
+**History of Presenting Illness:** Patient presents for reevaluation of treatment options for a brainstem fibrosarcoma. 
+
+**Past Medical History:** Patient has a significant past medical history including a diagnosis of a large pituitary adenoma 26 years ago, diagnosed via head CT without biopsy. Following this diagnosis, the patient received conformal fractionated radiotherapy (dose unknown) and developed hydrocephalus requiring a ventriculo-peritoneal (VP) shunt.
+
+**Prior Treatment:** Patient experienced asymptomatic pituitary adenoma until 2003, when they began to develop left eyelid drooping and diplopia. In February 2004, a magnetic resonance study revealed a right brainstem lesion. A stereotactic needle brain biopsy was performed, but the results were inconclusive. Patient was followed with serial neuroimaging until August 2006, at which point the tumor experienced significant growth associated with progressive neurologic impairment. A second stereotactic biopsy was also performed, which was also inconclusive. In May 2007, the patient underwent subtotal resection of a large right pontine enhancing mass. Pathology revealed the tissue was most consistent with grade 2 fibrosarcoma. Postoperatively, the patient developed a pseudomeningocele at the incision site, requiring a VP shunt revision.
+
+**Current Treatment Plan:** Patient is initiating a combination therapy of metronomic cyclophosphamide at 50 mg daily and Imatinib at 400 mg daily. This decision was based on the patient’s presentation with brainstem fibrosarcoma, the inconclusive biopsy results, and the recent published data on Imatinib sensitivity to soft-tissue sarcomas and gastrointestinal stromal tumors, as well as clinical trials suggesting potential efficacy in primary malignant gliomas. Cyclophosphamide is also frequently used in the treatment of multiple CNS malignancies.
+
+**Response to Treatment:** Patient has tolerated the treatment well with slow improvement in neurologic function and minimal grade II side effects. 
+
+**Plan:** Continue close monitoring of patient's neurologic function and adherence to medication regimen. Schedule follow-up appointments as needed. 
+
+**Physician:** [Doctor’s Name - *Information not provided in dialogue, needs to be added here*] 

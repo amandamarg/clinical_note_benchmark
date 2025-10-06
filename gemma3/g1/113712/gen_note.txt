@@ -1,0 +1,33 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Subject:** Median Nerve Tumor – Right Forearm
+
+**History of Presenting Illness:** Patient presents with a 10-year history of a swelling in the right forearm. Initially painless, the swelling has increased in size over the past two years, accompanied by pain. 
+
+**Physical Examination:**
+*   Patient reports a swelling measuring 6 cm long and 5 cm wide in the right forearm. The swelling is mobile on the transverse axis but not on the longitudinal axis.
+*   Reports paresthesia in the right hand, specifically within the median nerve distribution.
+*   Positive Tinel’s sign was elicited over the affected area.
+*   Normal protective sensation present.
+*   No motor weakness noted. 
+
+**Diagnostic Findings:**
+*   Ultrasound revealed a subcutaneous, limited, and homogeneous mass measuring 6 cm in diameter.
+*   Patient declined MRI examination due to financial constraints.
+
+**Diagnosis:** Clinical diagnosis of median nerve tumor.
+
+**Treatment Plan:** Surgical excision of the tumor with consideration for potential neurological deficit and possible sural nerve graft.
+
+**Procedure:** Surgical excision performed under supraclavicular block with bupivacaine and Xylocaine, utilizing tourniquet control.  The tumor was well encapsulated and placed in an eccentric position to the axis of the nerve. Microsurgical techniques were utilized for gentle resecting of the tumor.
+
+**Pathology:** Histopathological examination revealed typical features of schwannoma, including spindle cells forming Verocay bodies and clearly identified Antony A and B areas.
+
+**Post-Operative Course:** Patient was symptom-free at a two-month follow-up with mild paresthesia in the index and middle fingers. There was no motor deficit, pain, or recurrence of the tumor. 
+
+**Follow-Up:** Scheduled for follow-up in two months.
+
+____________________________
+[Physician Name and Signature - *Information Missing from Dialogue*] 

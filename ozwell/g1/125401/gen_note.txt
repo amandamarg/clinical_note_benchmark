@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:14:55 PM  
+
+**Patient Name:** [Patient's Name]  
+**Patient ID:** [Patient's ID]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with melena. They have undergone an upper gastrointestinal endoscopy and an abdominal CT scan.
+
+**Objective:**  
+- **Endoscopy Results:** A large submucosal tumor was identified in the gastric body with concomitant bleeding from a large central ulceration containing fluid and residual contrast material from a previous barium study.  
+- **Endoscopic Ultrasound:** Showed a large submucosal mass.  
+- **Biopsy Results:** The first endoscopic biopsy was non-specific, showing acute and chronic inflammation with ulceration. The second biopsy revealed ulceration and tissue granulation with foreign body giant cells suggestive of a barium granuloma.  
+- **Abdominal CT Scan:** Demonstrated a 5.5 × 3.2 cm well-defined, large exophytically growing mass arising from the posterior aspect of the lesser curvature side in the gastric body. The mass showed a large ulceration at the gastric luminal side and a cavity in the central portion communicating with the gastric lumen. No evidence of direct invasion of adjacent organs or peritoneal spread was noted. No metastatic lesions or lymphadenopathy were seen in the abdomen or pelvis. The mass showed relative hypoattenuation on precontrast images and increased heterogeneous enhancement in the portal phase and prolonged enhancement in the equilibrium phase images. Radiologic findings were distinct from those of epithelial tumors, and the possibility of a malignant gastrointestinal stromal tumor of the stomach was considered on CT.  
+- **Surgical Intervention:** The mass was removed under general anesthesia by laparoscopic wedge resection of the stomach. During laparotomy, a round and well-demarcated mass was observed arising from the lesser curvature side of the gastric body, with prominent vessels around the mass. No ascites or adhesion to adjacent structures were detected.  
+- **Gross Pathology:** The specimen consisted of a portion of the stomach measuring 8.5 × 5 cm with an attached ovoid and lobulated rubbery to firm solid mass measuring 5.4 × 5.2 × 4 cm. The mucosa of the stomach was retracted by the underlying attached mass.
+
+**Assessment/Plan:**  
+The patient will be scheduled for a follow-up appointment in two weeks to discuss the next steps based on the results.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

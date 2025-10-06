@@ -1,0 +1,29 @@
+## Clinical Note
+
+**Patient:** [Patient Name – *Note: Patient name not provided in dialogue*]
+**Date:** [Date of Encounter – *Note: Date not provided in dialogue*]
+**Referring Physician:** N/A
+**Chief Complaint:** Swelling and asymmetry on the right side of the face.
+
+**History of Present Illness:** Patient presents to clinic due to swelling and asymmetry on the right side of the face, which developed approximately three months ago following an infection. Patient reports previous antibiotic treatment for the infection was unsuccessful.
+
+**Physical Examination:**
+*   **General:** Patient appears uncomfortable.
+*   **Extremities:** Significant swelling noted on the right side of the face with no fluctuation upon palpation. Submandibular lymphadenopathy observed in the right mandibular region. Skin color and appearance were normal.
+*   **Oral Examination:** Deep caries cavity identified in the right mandibular first molar tooth. Tooth was not mobile, with no other mucosal damage observed.
+
+**Diagnostic Findings:**
+*   Radiographic examination revealed a tunnel-like defect in the cortical bone in the vestibule surface of the inflamed bone, indicative of Garre's osteomyelitis secondary to periapical infection of the right mandibular first molar tooth.
+
+**Assessment:** Garre’s Osteomyelitis secondary to periapical infection of the right mandibular first molar.
+
+**Plan:**
+Due to the patient’s limited financial resources and the need for dental extraction, the patient will be transferred to the surgical clinic for extraction of the right mandibular first molar tooth.  Endodontic treatment is not a viable option at this time. 
+
+**Family Discussion:** Patient’s family expressed concerns regarding the cost of treatment.
+
+**Physician:** [Physician Name – *Note: Physician name not provided in dialogue*] 
+
+---
+
+**Note:** *This clinical note is based solely on the provided dialogue. It does not include any additional information that was not explicitly stated in the conversation.*

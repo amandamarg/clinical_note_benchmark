@@ -1,0 +1,29 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information missing from dialogue, please insert here*]
+**Date:** [Date of Encounter - *Information missing from dialogue, please insert here*]
+**Subject:** Recurrent Breast Mass and Chest Wall Pain
+
+**History of Presenting Illness:** Patient presents to The Arthur G. James Cancer Hospital today complaining of worsening pain in the left breast and chest wall. Patient reports a recurrent palpable mass in the inferior aspect of the left breast, accompanied by increasing pain and tenderness.
+
+**Past Medical History:** Patient reports a history of recurrent breast masses.
+
+**Relevant History:** Patient has undergone three prior breast biopsies:
+*   Seven years ago – Results showed dense fibrous stroma with fibrocystic changes.
+*   Four years ago – Results showed hyperplastic fibrosis, consistent with fibromatosis of the breast.
+*   One year ago – Results again showed findings consistent with fibromatosis of the breast. 
+The patient was previously informed by their surgeon that these findings were benign.
+
+**Physical Exam:** Upon examination today, I noted volume loss in the left breast.
+
+**Assessment:** Based on the patient’s history and physical exam findings, the patient is diagnosed with cancer.
+
+**Plan:** The patient will be referred to a specialist for further evaluation and treatment. Diagnostic tests have been ordered.  We will discuss treatment options and provide instructions for the patient to follow in the interim. 
+
+____________________________
+[Doctor’s Name and Signature - *Information missing from dialogue, please insert here*] 
+[Doctor’s Credentials - *Information missing from dialogue, please insert here*] 
+
+---
+
+**Note:** *This clinical note is generated solely based on the provided dialogue. It is a simplified version and would typically include additional details, including specific test orders, further diagnostics, and a more comprehensive treatment plan.  Please insert missing information to complete the note.*

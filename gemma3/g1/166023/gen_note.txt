@@ -1,0 +1,28 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Subject:** Neurological Evaluation & Management – Brain Abscess & Cholesteatoma
+
+**History of Presenting Illness:** Patient presents with a history of dizziness and unsteady gait, initially experienced two days prior. Patient reports associated symptoms including headache, hearing loss and aural pressure in the left ear, along with aural discharge. These symptoms developed suddenly.
+
+**Past Medical History:** Hypertension, Diabetes.
+
+**Family History:** No relevant family history reported.
+
+**Neurological Examination:**
+*   State of consciousness: Clear.
+*   Papillary reflex: Normal.
+*   Nystagmus: Not observed.
+*   Romberg Test: Fell towards the left, even with eyes open.
+*   Cerebellar Function Finger to Nose Test: Displayed dysmetria on the left side.
+
+**Hospital Course:** Patient was admitted to the emergency room two days prior for similar symptoms. A Brain CT revealed the formation of a common wall, including the wall that enhanced the contrast in a circle of 5x5 cm towards the left cerebellum and a manifestation in which it pressed the brain stem and the fourth ventricle. Suspicion of a brain abscess led to admission to the neurosurgical ward and initiation of antibiotic treatment. Two days later, the patient’s state of consciousness altered to drowsy, necessitating a craniotomy and drainage of the abscess. Following the surgery, the department of otorhinolaryngology was consulted, revealing narrowness of the external auditory canal and aural discharge with granulation tissue in the left ear. The right ear was normal. Tympanic membrane retraction and aural discharge accompanied by keratin were observed in the left ear. A temporal bone CT was subsequently performed, indicating overall destruction of the cochlea and vestibular organ in the left ear caused by cholesteatoma.
+
+**Physical Exam Findings:**
+*   Right Ear: Pure tone audiometry revealed air conduction hearing and bone conduction hearing of 36 dB.
+*   Left Ear: Hearing loss was found in the left ear.
+
+**Plan:** Patient will continue to be monitored and receive ongoing treatment. A follow-up appointment is scheduled in a few weeks. 
+
+**Physician:** [Doctor’s Name - *Information Missing from Dialogue*]

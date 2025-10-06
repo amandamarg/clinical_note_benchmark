@@ -1,0 +1,29 @@
+## Clinical Note
+
+**Patient:** [Patient Name – *To be filled in*]
+**Date:** [Date of Note – *To be filled in*]
+**Subject:** Neurological Presentation & Ovarian Teratoma Management
+
+**History of Present Illness:** 
+The patient presented with a chief complaint of headache and fever for several days.  They reported associated personality changes, violent behavior, and difficulty speaking, leading to admission to the neurology department.
+
+**Examination Findings & Diagnostic Testing:**
+Following admission, a diagnostic brain image revealed minimal changes, including mild brain edema. Cerebrospinal fluid analysis demonstrated lymphocyte pleocytosis, suggestive of inflammatory changes. Subsequently, the patient developed involuntary movements, disturbance of consciousness, and central hypoventilation, necessitating assisted respiration and medication with midazolam and propofol. 
+
+Further investigation led to the presumptive diagnosis of autoimmune encephalitis. Plasma exchange treatment was initiated.  An ovarian teratoma was suspected based on T1-weighted pelvic MRI revealing a 5 x 7 mm fat intensity in the right ovary, accompanied by a large number of similar-sized ovarian follicles. Initial CT scans were negative for a fatty component.  A subsequent CT scan with 1 mm slice thickness revealed the fatty component with a mean CT number of -62.5 HU.
+
+**Treatment & Intervention:**
+The patient received intravenous high dose steroids, acyclovir, and glycerol. Plasma exchange was implemented.
+
+**Surgical Intervention:**
+Following 18 days of hospitalization, the patient underwent laparoscopic surgery for complete resection of the right ovarian teratoma. The macroscopic appearance of the right ovary was normal. A partial resection of the right ovary was performed, removing small pieces starting from the most likely location of the teratoma. The first resected 22 x 22 mm ovarian piece contained an intact 5 x 7 mm cystic tumor.
+
+**Current Status:** The patient reports feeling better. 
+
+**Plan:** Continued monitoring of the patient’s condition with ongoing care. 
+
+**Physician:** [Doctor’s Name – *To be filled in*]
+
+---
+
+**Note:** *This note is based solely on the provided dialogue. It is a factual representation of the conversation and does not include any additional information.*

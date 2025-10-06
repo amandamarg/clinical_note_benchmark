@@ -1,0 +1,26 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Subject:** Laparoscopic Cholecystectomy for Hemorrhagic Pedunculated Mass
+
+**History of Presenting Illness:** Patient presented to the Emergency Department today complaining of epigastric pain and nausea with bilious emesis, onset occurring suddenly a few hours prior.
+
+**Examination Findings:** Patient reported symptoms consistent with epigastric pain and nausea. 
+
+**Diagnostic Testing:**
+*   Initial liver function tests and abdominal ultrasound were unremarkable.
+*   Computed Tomography (CT) revealed a soft tissue mass located posterior to the gallbladder.
+*   Magnetic Resonance Cholangiopancreatography (MRCP) demonstrated a complex cystic structure of indeterminate etiology, not communicating with biliary or vascular structures.
+
+**Procedure:** Laparoscopic cholecystectomy performed for removal of a hemorrhagic pedunculated mass attached to the infundibulum of the gallbladder. The mass was easily dissected and resected using a harmonic scalpel. 
+
+**Findings:** A considerable amount of inflammation was noted at the infundibulum of the gallbladder in proximity to the hemorrhagic mass. 
+
+**Diagnosis:** Cholecystitis secondary to inflammation from the hemorrhagic mass.
+
+**Postoperative Course:** Postoperative course was uneventful. Patient’s symptoms resolved immediately following surgery. Patient was discharged home on the first postoperative day and was asymptomatic at follow-up. 
+
+**Plan:** Continued follow-up as scheduled. 
+
+**Physician:** [Doctor’s Name - *Information Missing from Dialogue*]

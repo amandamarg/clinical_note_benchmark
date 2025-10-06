@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Subject:** Right Retroperitoneal Pelvic Mass – Initial Evaluation & Treatment
+
+**History of Presenting Illness:** 
+Patient presented today reporting urinary incontinence and lower abdominal discomfort.  Patient’s primary concern is a right retroperitoneal pelvic mass.
+
+**Relevant History:** Patient reports a prior appendectomy 22 years ago. 
+
+**Examination Findings:**
+*   **Initial Examination:** Patient reported urinary incontinence and lower abdominal discomfort.
+*   **Physical Examination:** Abdominal and vaginal examination revealed non-specific findings without palpation of abdominal mass. Laboratory findings were within normal limits.
+*   **Prior Imaging:** Patient has a history of a CT scan demonstrating a 8 cm heterogeneously enhanced mass near the uterus and right ovary (not precisely detected). Subsequent imaging included an abdominal ultrasonography, which revealed a right adnexal mass with echogenicity abutting the uterus, and a magnetic resonance imaging (MRI) demonstrating an 8 cm-sized, enhancing mass attached to the right adnexa and uterus with low signal intensity on T1-weighted images and heterogeneous, high signal intensity on T2-weighted images.
+
+**Diagnosis (Preoperative):** Mesenchymal sarcoma of the pelvic cavity.
+
+**Treatment:** Exploratory laparotomy was planned and subsequently performed.
+
+**Operative Findings:**  During the laparotomy via a lower midline incision, the uterus was found to be normal size with a smooth contour, and there were no abnormal findings on both ovaries and fallopian tubes. The retroperitoneal tumor of size 8 x 6 cm was palpated beneath the right broad ligament of uterus.
+
+**Plan:**  Follow-up appointment scheduled in a few weeks.
+
+**Physician:** [Doctor’s Name – *Information Missing from Dialogue*] 
+
+**Note:** *This note accurately reflects all information provided in the dialogue. It is intended for clinical documentation purposes only.*

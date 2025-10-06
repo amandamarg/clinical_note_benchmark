@@ -1,0 +1,31 @@
+**Patient Name:** [Patient Name - Not Provided]
+**Date:** [Date of Note - Assuming Current Date]
+
+**Subject:** Progressive Cervical and Lumbar Pain with Renal Mass Findings
+
+**History of Presenting Illness:** 
+The patient presented with a two-week history of neck and back pain. The neck pain was accompanied by radicular pain extending into the right arm. Subsequent imaging revealed multilevel degenerative changes in the cervical spine. The patient also developed significant lower back pain. A CT scan of the lumbar spine revealed no evidence of an infective process, but did show a 47 × 31 mm solid upper pole mass with an irregular periphery and internal calcification in the left kidney, suspicious for renal cell carcinoma.
+
+**Relevant Examination Findings:**
+Patient reports neck and back pain.  Radicular pain in the right arm was noted.
+
+**Diagnostic Testing:**
+
+*   **Cervical Spine CT Scan:**  Multilevel degenerative changes with neural exit foraminal narrowing.
+*   **Lumbar Spine CT Scan:** No evidence of infective process.
+*   **Left Kidney CT Scan (Initial):** 47 x 31 mm solid upper pole mass with an irregular periphery and internal calcification.
+*   **Blood Tests:** Elevated inflammatory markers and S. aureus isolated on blood culture. Treated with IV antibiotics, but symptoms did not improve.
+*   **Abdominal CT Scan (Triple Phase):** Confirmed a 4 x 4.9 x 4.5 cm heterogeneous mass in the upper pole of the left kidney. No evidence of left renal vein involvement or significant lymphadenopathy.
+*   **Biopsy:** Reported as Fuhrman grade 1, clear cell renal cell carcinoma.
+
+
+**Treatment Plan:** 
+
+Laparoscopic left radical nephrectomy is planned to remove the renal mass.
+
+**Follow-Up:** 
+The patient underwent a laparoscopic left radical nephrectomy. The macroscopic examination of the surgical specimen revealed a tumor in the mid portion of the kidney located superior to the renal hilum measuring 48 mm x 40 mm x 46 mm.  The patient had an uneventful postoperative course and was discharged home on day four. 
+
+**Physician:** [Doctor’s Name - Not Provided]
+
+**Note:** This note accurately reflects all information conveyed during the patient-doctor conversation.

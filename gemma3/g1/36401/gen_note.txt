@@ -1,0 +1,32 @@
+**Patient Name:** [Patient Name - To be filled in]
+**Date:** [Date - To be filled in]
+
+**Subjective:**
+
+The patient presents today with a chief complaint of colicky pain in the periumbilical region for the last 24 hours, accompanied by two episodes of vomiting. He reports a history of abdominal pain and diarrhea for the past three months. 
+
+Patient reports a previous admission to a surgical department four months ago following a road traffic accident. During that hospitalization, an abdominal ultrasound revealed no intraperitoneal fluid or solid organ injury. The patient’s hematocrit value progressively decreased during the first 48 hours, and he received a transfusion of one unit of packed red blood cells and three units of fresh frozen plasma. An abdominal CT scan at that time showed a small amount of fluid in the rectovesical pouch with no solid organ abnormalities and a large hematoma in the subcutaneous fat tissue on both lumbar areas. He was treated conservatively and discharged on the fifth day when he was asymptomatic. 
+
+Following discharge, the patient experienced recurrent episodes of abdominal pain and diarrhea after meals, accompanied by a 10 kg weight loss, which he attributed to his concern about the diarrhea. He is now presenting with similar symptoms. 
+
+On examination today, the abdomen was mildly distended with diffuse tenderness on the hypogastrium. There was no rebound or guarding, and palpation did not reveal any abdominal masses. Bowel sounds were increased. 
+
+**Objective:**
+
+*   Abdominal Distension: Mild
+*   Tenderness: Diffuse, Hypogastric
+*   Rebound: Negative
+*   Guarding: Negative
+*   Bowel Sounds: Increased
+*   Weight: 10 kg loss
+
+**Assessment:**
+
+Small Bowel Obstruction, likely secondary to a history of previous trauma and subsequent inflammation. 
+
+**Plan:**
+
+The patient will be admitted for further observation and treatment. We will closely monitor his condition, initiate intravenous fluid replacement, and insert a nasogastric tube. Further diagnostic testing, including additional imaging studies, will be scheduled. 
+
+____________________________
+[Physician Name and Signature]

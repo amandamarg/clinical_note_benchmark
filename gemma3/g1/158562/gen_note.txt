@@ -1,0 +1,30 @@
+**Patient Name:** [Patient Name - To be filled in]
+**Date:** [Date - To be filled in]
+
+**Chief Complaint:** Sudden onset of weakness and facial droop.
+
+**History of Present Illness:** Patient presented today with a chief complaint of weakness on the right side and a droop on the left side of the mouth, which began suddenly yesterday and has persisted for one day. Patient denies headache, vomiting, seizures, stroke, or TIA history. Patient denies any chest pain or palpitations and reports no history of cardiac disease, diabetes, or hypertension.
+
+**Physical Examination:**
+*   Pulse Rate: 180 bpm
+*   Blood Pressure: 130/80 mmHg
+*   Mental Status: Higher mental functions were normal.
+*   Neurological Examination: Right upper motor neuron facial nerve palsy. Muscle power of 3/5 in upper limbs and 2/5 in lower limbs with a right extensor plantar response.
+
+**Investigations:**
+*   CT Brain: Revealed a left middle cerebral artery territory infarct measuring 2 x 3 cm.
+*   ECG: Showed a regular narrow QRS complex long RP tachycardia at a rate of 186 bpm with inverted p waves in lead III.
+*   Echocardiography: Normal, no structural changes or thrombus.
+*   Liver and Renal Function Tests: Normal.
+*   Serum Calcium, Magnesium, and Potassium Levels: Normal.
+*   Serum Troponin T and Creatine Phosphokinase Levels: Normal.
+
+**Treatment:**
+*   Following presentation within 8 hours of onset, intravenous adenosine (6 mg) transiently caused complete atrioventricular block, resolving within one minute.
+*   Verapamil 40 mg three times daily orally was initiated, however, subsequent development of sinus bradycardia (50 bpm) led to its immediate withholding. 
+
+**Diagnosis:** Atrial Tachycardia.
+
+**Plan:** Patient advised to undergo further testing and treatment. Monitor closely.
+
+**Physician:** [Doctor’s Name - To be filled in] 

@@ -1,0 +1,31 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:22:01 PM  
+
+**Patient Information:**  
+- **History:** Long-standing hypertension, chronic heavy cigarette smoker, recurrent exertional chest pains relieved by rest.  
+- **Presenting Complaint:** One-hour history of epigastric pain, vomiting, and profuse sweating.  
+
+**Clinical Examination:**  
+- **General:** Obese and restless patient.  
+- **Vital Signs:** Blood pressure 90/60 bilaterally, regular pulse at 110 beats per minute.  
+- **Jugular Venous Pressure:** Congested with a venous pressure of 15 mmHg above the sternal angle, positive Kussmaul's sign.  
+- **Cardiac Examination:** Normal first and second heart sounds, S3 gallop, no murmurs or pericardial rub.  
+- **Chest Examination:** Bilaterally equal air entry, normal vesicular breathing, no rhonchi or crepitations.  
+
+**Investigations:**  
+- **Electrocardiogram:** Q waves and ST segment elevation in the inferior leads, tall R wave and ST segment depression in lead V2. Right chest leads showed ST segment elevation in lead V3R and V4R.  
+- **Diagnosis:** Acute transmural infero-posterior associated with right ventricular myocardial infarction.  
+
+**Clinical Course:**  
+- After admission, the patient's conscious level deteriorated to a deep coma with a GCS of 3/15 and pinpoint pupils.  
+- **CT Brain:** No abnormalities detected.  
+- **Presumed Diagnosis:** Acute ischemic stroke not yet evident in the initial CT scan.  
+
+**Management Decision:**  
+- Due to the sudden worsening of the conscious level and a calculated NIHSS score of >25 indicating a massive cerebral infarction, thrombolytic therapy was not administered.  
+- Primary percutaneous transluminal coronary angioplasty was not performed due to the poor prognosis.  
+- **Current Management:** Conservative treatment with antiplatelets, anticoagulant therapy, and inotropic support for cardiogenic shock.  
+
+**Plan:** Continue monitoring and supportive care.

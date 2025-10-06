@@ -1,0 +1,31 @@
+**Patient Name:** [Patient Name - To be filled in]
+**Date:** October 26, 2023
+**Physician:** Dr. Smith
+
+**Subjective:**
+
+Patient reports a history of pulmonary sarcoidosis. Patient presents today due to progressive, bilateral lower extremity numbness, initially in the feet, which worsens with prolonged standing or walking. Patient also reports lower back pain.
+
+**Objective:**
+
+MRI of the thoracic cord demonstrated longitudinally extensive transverse myelitis. Initial workup was negative for etiology.  Review of spinal imaging suggests dilatation of the spinal epidural venous plexus, raising suspicion for a dural arteriovenous fistula (DAVF).
+
+**Assessment:**
+
+Suspected neurosarcoidosis with associated DAVF, likely originating from the T7 spinal artery.
+
+**Plan:**
+
+*   Continue to monitor patient’s condition closely.
+*   Schedule follow-up appointments to assess stability.
+*   Catheter angiogram performed, revealing the left vertebral artery originates from the aortic arch and a second origin from the left subclavian artery merging with the aortic V1 segment at the level of C5.  Complete filling of the left vertebral artery was observed, along with retrograde filling of the left subclavian artery. A DAVF was identified in the right T7 spinal artery, originating from a distal branch of the spinal artery and merging with an anterior spinal vein. No aneurysms or dissections were noted.
+
+**Sincerely,**
+
+Dr. Smith 
+
+**Neurology** 
+
+***
+
+**Note:** *Please replace "[Patient Name - To be filled in]" with the patient's actual name.*

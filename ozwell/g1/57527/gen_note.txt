@@ -1,0 +1,35 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:30:11 PM  
+
+**Patient Name:** [Patient's Name]  
+**Medical Record Number:** [MRN]  
+**Date of Birth:** [DOB]  
+
+**Subjective:**  
+The patient presents with painful subcutaneous masses all over the body, persisting for approximately six weeks. The patient reports a history of various soft tissue nodules over the past few years, which have recently become more painful and widespread. These symptoms have significantly affected the patient's daily activities and quality of life. Over-the-counter and prescription pain medications have been ineffective in providing relief.
+
+**Past Medical History:**  
+- Obesity  
+- Chronic atrial fibrillation  
+- Chronic obstructive pulmonary disease (COPD)  
+- Diabetes  
+- Hypertension  
+- Sick sinus syndrome with pacemaker placement  
+
+**Objective:**  
+An initial ultrasound examination revealed hyperechoic foci in the subcutaneous tissues, consistent with lipomas. The patient underwent excision of multiple back nodules for further characterization. Gross pathology showed adipose tissue with nodularity. The patient developed four new palpable nodules in various parts of the body between the office visit and the operation. Histopathology revealed one specimen consistent with lipoma and three consistent with angiolipoma.
+
+**Assessment:**  
+The patient has been diagnosed with Dercum's disease type 2. Post-operative improvement in pain was noted along the sites of excised lesions, but significant tenderness persists in areas of new masses.
+
+**Plan:**  
+- Referral to endocrinology for further evaluation and management of Dercum's disease.  
+- Referral to the surgery clinic at our institution for further assessment.  
+- Advise the patient to avoid activities that may exacerbate symptoms.  
+- Continue prescribed medications as directed.  
+
+**Physician's Name:** [Physician's Name]  
+**Signature:** [Signature]  
+**Date:** 10/1/2025

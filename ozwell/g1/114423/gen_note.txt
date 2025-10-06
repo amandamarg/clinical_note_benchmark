@@ -1,0 +1,23 @@
+**Clinical Note:**
+
+**Date:** 10/1/2025  
+**Time:** 8:37:27 PM  
+
+**Patient Information:**  
+- **Condition:** Mass in lower abdomen  
+- **Medical History:** Type 2 diabetes mellitus, insulin-dependent for over 7 years  
+
+**Current Visit Details:**  
+The patient was referred to our department due to a mass in the lower abdomen. The patient has a history of type 2 diabetes mellitus and has been insulin-dependent for more than 7 years. The patient was previously admitted to the Internal Medicine Department due to deteriorating blood glucose control. During that admission, a physical examination revealed a firm mass in the lower abdomen, which was not painful or tender. A Computed Tomography (CT) scan showed a mass measuring 28 × 18 × 30 mm in the subcutaneous tissue. The patient had been injecting insulin near the mass, leading us to suspect a skin-related complication of insulin therapy. The patient was advised to refrain from injecting insulin into the mass.
+
+An excision of the mass was planned to confirm the diagnosis, but it was postponed due to the patient sustaining a right femoral neck fracture. During hospitalization, the patient's blood glucose control improved rapidly, and they experienced several episodes of hypoglycemia. Two months after the initial visit, the patient's HbA1c was 7.8%, and the daily insulin dose was reduced to 33 units. The patient was discharged but did not return for follow-up.
+
+Four years later, the patient was readmitted to the Internal Medicine Department for renal anemia and referred back to our department for the same abdominal mass, which had enlarged since the first visit. The patient's HbA1c was 7.4%, and the daily insulin dose was 22 units. A recent CT scan revealed the mass had expanded to 60 × 20 × 35 mm with unclear borders. Previous CT results confirmed the mass had existed 8 years ago.
+
+**Plan:**  
+- Continue monitoring the mass and consider further diagnostic evaluation or intervention as necessary.  
+- Adjust insulin therapy as needed to maintain optimal blood glucose control.  
+- Follow up on renal anemia management with the Internal Medicine Department.  
+
+**Physician:** [Physician's Name]  
+**Department:** [Department Name]

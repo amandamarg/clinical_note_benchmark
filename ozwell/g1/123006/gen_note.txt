@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with a swelling on the scalp that began a year ago and has progressively worsened over the past six months. The patient underwent an initial surgery to remove the swelling, but the procedure was terminated due to bleeding at the onset of the operation. The patient reported no other symptoms besides the swelling. Five months post-surgery, the swelling increased, and the patient consulted another physician who performed a cerebral MRI, diagnosing it as a simple skin lesion. However, during a second surgery, the patient experienced severe bleeding, leading to a referral to our clinic.
+
+**Objective:**  
+- **Physical Examination:** Revealed a painful mass lesion measuring 5 cm × 4 cm × 4 cm in the left parietal region at the vertex level. The patient reported no other complaints except for the esthetic issue.
+- **Neurological Examination:** Normal results.
+- **Imaging:** Cerebral MR angiography indicated a vascular mass lesion in the left parietal region supplied by branches of the left external carotid artery, with unclear venous drainage. Conventional cerebral angiography detected an AVM in the left parietal region supplied by branches of the left temporalis superficial artery, left meningeal media artery, and right temporalis superficialis artery. The lesion lacked an intracranial component and direct drainage into the dural sinuses.
+
+**Assessment:**  
+The patient has an arteriovenous malformation (AVM) in the left parietal region.
+
+**Plan:**  
+Surgical treatment was performed under general anesthesia with the patient in a supine position and the head elevated at a 30° angle. A horseshoe incision was made to remove the skin flap, considering the vascularization of the scalp. The vascular lesion in the soft tissue was dissected, and the malformation was revealed. The supplying arteries of the lesion were initially closed, and the lesion was completely removed along with its nidus. The bone underlying the lesion had become [incomplete information]. The patient is advised to return for a follow-up in a few weeks to ensure proper healing.
+
+**Follow-up:**  
+The patient is scheduled for a follow-up appointment in a few weeks. The patient was advised to reach out with any questions or concerns in the meantime.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

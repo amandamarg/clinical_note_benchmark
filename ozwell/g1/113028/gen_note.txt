@@ -1,0 +1,34 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:08:19 PM  
+
+**Patient:** [Patient's Name]  
+**Medical Record Number:** [MRN]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling okay with some pain and cramping in the stomach. The patient has a history of borderline personality disorder and has a long history of swallowing various foreign objects during periods of stress. The patient admitted to swallowing a cup of bleach and an ink pen three weeks prior without seeking medical evaluation.
+
+**Objective:**  
+- **Vital Signs:** Within normal limits.  
+- **Laboratory Investigations:** Within normal limits.  
+- **Abdominal Exam:** Tenderness to palpation diffusely.  
+- **CT Abdomen:** Linear foreign body in the distal gastric antrum penetrating the inferior wall and extending into the adjacent peritoneal fat. No free air or free fluid appreciated.  
+- **EGD:** Mild erythema and edema to the esophageal and duodenal mucosa due to caustic ingestion. The pen was deeply perforating the stomach antral wall with no associated ulcer or edema. Concern for organ involvement outside of the gastric wall due to uncertain depth of foreign body lodging.  
+
+**Assessment:**  
+The patient was taken to the operating room for a third EGD, which revealed spontaneous migration of the foreign body from the perforation site into the lumen of the gastric body. There was spontaneous closure of the site of previous perforation. The ink pen was easily removed transorally using an endoscopic snare, and no further surgical intervention was required.
+
+**Plan:**  
+- Monitor the patient for any complications or recurrence of symptoms.  
+- Educate the patient on the risks associated with swallowing foreign objects and provide resources for managing stress and borderline personality disorder.  
+- Advise the patient to return for any future problems or concerns.  
+
+**Follow-up:**  
+The patient expressed no questions or concerns at this time. Advised to return if any issues arise.  
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Title]  
+[Contact Information]

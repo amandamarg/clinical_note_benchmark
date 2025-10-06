@@ -1,0 +1,35 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** [Date of Visit]  
+**Physician:** Dr. X  
+
+**Chief Complaint:**  
+Patient reports being shot in the head and taken to the hospital.
+
+**History of Present Illness:**  
+The patient was shot in the head and taken to the hospital approximately 3 hours later. Upon arrival, the patient presented with a fixed right pupil and was administered mannitol in the ambulance. The Glasgow Coma Scale (GCS) score was 6 at the time of presentation. The patient was intubated and hemodynamically stable.
+
+**Neurological Examination:**  
+- Right pupil: Fixed and dilated  
+- Left pupil: 2.5mm wide and reactive  
+- Responsive to pain stimuli but not to verbal stimuli  
+
+**Imaging and Findings:**  
+A CT scan of the head revealed:  
+- Bullet trajectory with a right frontal comminuted fracture  
+- Bony and metallic fragments in the right frontal and right occipital lobes  
+- Brain tissue swelling with a midline shift to the left  
+- Subarachnoid hemorrhage  
+
+**Surgical Interventions:**  
+Due to brain herniation at admission, the patient was immediately transferred to the operating room for debridement and decompressive craniectomy following the first CT scan. An extended pterional approach and decompressive craniectomy were performed, considering the specificity of the intracranial hematoma location and foreign body location. The patient recovered well after the first operation with no infection or brain abscess development. A second operation was performed 2 weeks later to remove the foreign body in the occipital lobe.
+
+**Hospital Course:**  
+The patient was discharged 7 days after the second operation.
+
+**Follow-Up:**  
+The patient visited the hospital for a re-examination 2 months later and is doing well. A follow-up appointment will be scheduled in a few weeks.
+
+**Plan:**  
+Continue monitoring the patient's recovery and schedule a follow-up appointment in a few weeks.

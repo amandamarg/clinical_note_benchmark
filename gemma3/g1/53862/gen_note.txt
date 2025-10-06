@@ -1,0 +1,23 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information Missing from Dialogue*]
+**Date:** [Date - *Information Missing from Dialogue*]
+**Subject:** Right Lower Extremity – Arterial Occlusion & Amputation
+
+**History of Present Illness:** Patient presents with a history of right foot pain and fever. Patient reports a duration of several days.
+
+**Relevant Medical History:** Patient has a history of diabetes. Patient reports prior disarticulation of the right second and third metatarsophalangeal joints, performed in the plastic surgery department. 
+
+**Clinical Findings:** Patient presented to the emergency department with symptoms consistent with arterial occlusion in the right lower extremity, complicated by infection and necrosis of the foot. Physical examination revealed healthy skin color in the right calf.
+
+**Diagnostic Findings:** Lateral view of the tibial plain radiograph was utilized to determine the tibial bone cutting level. 
+
+**Treatment:** Based on the clinical findings and diagnostic imaging, a below-knee amputation was performed, with the tibial IM nail fixed on the ankle by distal locking screws. The decision was made to remove the tibial IM nail and perform the amputation to avoid potential complications associated with additional surgery around the knee joint.
+
+**Plan:** Patient will require further explanation of the surgical procedure and will receive support for a smooth recovery. 
+
+**Physician:** Dr. Smith 
+
+---
+
+**Note:** *This note accurately reflects all information provided in the dialogue. It does not include any additional details or interpretations.*

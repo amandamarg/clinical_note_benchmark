@@ -1,0 +1,31 @@
+**Patient Name:** [Patient Name - *Note: This would be filled in here*]
+**Date:** [Date - *Note: This would be filled in here*]
+
+**Subjective:**
+
+Patient reports feeling “okay” today. Patient has a significant past medical history including:
+*   CAD with prior stenting of the left circumflex artery.
+*   Diabetes Mellitus.
+*   Former smoker with an 80-pack-year history.
+*   Reports a 37 kg weight loss over 6 months associated with postprandial abdominal pain and nausea.
+*   Exertional angina relieved by rest and sublingual nitrates.
+
+**Objective:**
+
+*   **Cardiovascular:** Significant CAD including left main coronary artery disease and 3-vessel CAD, with preserved left ventricular function and no valvular heart disease (as per transthoracic echocardiography). Brief episode of slurred speech reported in the past 2 months.
+*   **Vascular:** Abdominal CT scan revealed severe atherosclerotic abdominal aortic disease with occlusion of the origin of the celiac and superior mesenteric arteries. Mesenteric angiography confirmed occlusion of the celiac and SMA with a large mesenteric collateral originating from the inferior mesenteric artery. 90% orifice stenosis noted in the inferior mesenteric artery.
+*   **Carotid:** Carotid duplex revealed 80-99% left internal carotid artery stenosis and 50-79% right internal carotid artery stenosis.
+*   **Postoperative:** Patient admitted postoperatively following left carotid endarterectomy.
+
+**Pertinent Procedures:**
+
+*   Left Carotid Endarterectomy – Uncomplicated.
+*   Combined CABG and Mesenteric Bypass – Performed on the fourth postoperative day. Procedure included median sternotomy, mobilization of the left internal mammary artery as a pedicled graft, endoscopic harvest of the greater saphenous vein, and midline laparotomy.
+
+**Assessment:**
+
+Patient presents with severe symptomatic atherosclerotic disease affecting the abdominal aorta, carotid arteries, and mesenteric arteries, posing a significant risk of neurological and mesenteric ischemic complications.
+
+**Plan:**
+
+Continued monitoring and management of atherosclerotic disease.  Further discussion regarding long-term management strategies will be scheduled.

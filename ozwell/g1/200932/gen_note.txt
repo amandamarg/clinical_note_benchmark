@@ -1,0 +1,31 @@
+**Clinical Note:**
+
+**Date:** 10/1/2025  
+**Time:** 7:24:58 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling okay but expresses nervousness about the test results. No other symptoms were reported.
+
+**Objective:**  
+- Abdominal ultrasound results indicate a right adrenal lesion measuring 9 cm in diameter.  
+- The lesion is described as a soft tissue encapsulated mass of 10 x 9 cm in the right adrenal gland.  
+- The patient is asymptomatic, and the physical examination was normal.
+
+**Assessment:**  
+- Right adrenal lesion identified.  
+- Further evaluation is necessary to determine the nature of the lesion.
+
+**Plan:**  
+1. Conduct an endocrinological evaluation to assess the hypothalamic-pituitary-adrenal axis function and check for hyper secretion of catecholamines.
+2. Based on the endocrinological evaluation results:
+   - If the mass is non-secreting, proceed with an adrenal scan for further information.
+   - If the mass is secreting, perform additional tests to identify the specific hormones being secreted and determine the appropriate treatment.
+3. Consider a laparoscopic trans peritoneal adrenalectomy for mass removal. This procedure will involve inserting trocars into the abdomen and removing the mass through a small incision. Special care will be taken during dissection, with trocars used for retraction and irrigation.
+4. Schedule the surgery after completing necessary tests and scans to ensure full preparation.
+5. Encourage the patient to bring family members to the next appointment for support.
+
+**Discussion:**  
+The patient was informed about the findings and the proposed plan. Reassurance was provided regarding the routine nature of the surgical procedure. The patient expressed understanding and trust in the proposed plan.

@@ -1,0 +1,20 @@
+**Patient Name:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+
+**Subjective:**
+
+Patient reports a history of seizures. Patient states they were initially seen at age 5 following an episode of convulsion with loss of consciousness and left hemiplegia. At that time, a CT scan and angiography were performed, and conservative management was initiated. 
+
+A follow-up visit one year later revealed improvement in left limb power to Grade 3-4/5 with the ability to walk with some support. An MRI at that time showed resolution of the hematoma and a gliotic cavity. 
+
+The patient experienced intermittent seizures at age 9, resulting in a subsequent MRI demonstrating the gliotic cavity on T1-weighted imaging and abnormal vessels on T2-weighted imaging, alongside an MR angiogram revealing an arteriovenous malformation (AVM).  The patient was advised to pursue surgical resection of the AVM, but this was declined by the patient’s parents due to the intermittent nature of the seizures. 
+
+A final follow-up visit one year later revealed intractable seizures, and a digital subtraction angiography was performed, confirming the presence of the AVM.  Surgical resection of the AVM was subsequently performed. 
+
+**Plan:**
+
+Physical examination to be performed. Further diagnostic testing will be ordered to assess current neurological status. 
+
+Follow-up appointment scheduled in one month. 
+
+**Physician Signature:** [Physician Name - *To be filled in*]

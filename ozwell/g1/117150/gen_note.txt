@@ -1,0 +1,28 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:06:51 PM  
+
+**Patient Complaint:**  
+The patient presented with abdominal pain located in the upper right quadrant, which is relieved when lying on the right side and sleeping. The patient has no past history of diseases or chronic illnesses.
+
+**Diagnostic Findings:**  
+A computed tomography (CT) scan of the abdomen revealed a large retroperitoneal mass located posterior to the liver, displacing the right kidney, right lobe of the liver, and inferior vena cava (IVC) anteriorly. The mass measured 11 × 11 × 12 cm. There was focal invasion of the liver measuring 3.6 × 6.4 cm at Segment 7. The right adrenal gland was not clearly visible.
+
+**Biopsy Results:**  
+An ultrasound-guided core biopsy of the mass showed malignant cells consistent with both adrenocortical carcinoma and hepatocellular carcinoma, with the former diagnosis favored based on the clinical picture.
+
+**Surgical Intervention:**  
+The patient underwent a right hepatectomy with right adrenalectomy, cholecystectomy, and excision of associated lymph nodes. The lesion and excised structures were sent for histopathology.
+
+**Histopathology Findings:**  
+- The right liver lobe mass attached to it measured 17 × 10 × 7 cm, with a nodular surface and multiple areas of necrosis. Microscopic examination revealed a moderately differentiated hepatocellular carcinoma (HCC) measuring 5 cm in diameter, confined to the liver, <5 cm from the resection margins, with no lymph-vascular invasion.
+- The adrenocortical neoplasm measured 17 cm in diameter, with multiple foci of necrosis, no capsular or lymph-vascular invasion, and resection margins not involved by the tumor.
+- The excised lymph nodes included a single right portal vein lymph node, a gallbladder lymph node, and seven para aortic lymph nodes, all negative for metastasis.
+- The gallbladder examination showed no significant pathology.
+
+**Postoperative Assessment:**  
+The patient recovered gradually and was discharged.
+
+**Plan:**  
+Continue monitoring the patient's recovery and schedule follow-up appointments to assess for any recurrence or complications.

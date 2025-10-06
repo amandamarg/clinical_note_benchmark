@@ -1,0 +1,28 @@
+**Patient Name:** [Patient Name - *Information missing from dialogue*]
+**Date:** [Date - *Information missing from dialogue*]
+
+**Subjective:**
+
+Patient reports initial presentation of retroorbital pain and mild visual deterioration in both eyes, prompting hospital admission. Patient reports a prior ophthalmologic examination revealed bilateral constriction of the visual field and a slight reduction in visual acuity on the right side. 
+
+**Objective:**
+
+*   **Prior Imaging:** Magnetic Resonance Imaging (MRI) of the brain and Digital Subtraction Angiography (DSA) were performed.
+*   **MRI Findings:** Revealed a giant partially thrombosed aneurysm of the Internal Carotid Artery (ICA) on the right side.
+*   **DSA Findings:** Confirmed the aneurysm and revealed thrombosis of the Flow Diverter (FD) with occlusion of the ICA. Perfusion-weighted CT scan demonstrated a significant increase in the mean transit time and a reduction in the cerebral blood flow on the right side.
+
+**Assessment:**
+
+Giant partially thrombosed ICA aneurysm with FD thrombosis and subsequent cerebral ischemia.
+
+**Plan:**
+
+Patient was admitted for management of the ICA aneurysm. Initially, the aneurysm was loosely coiled and a Pipeline FD was placed in the parent artery across the aneurysm neck. Following FD placement, visual acuity deteriorated acutely on both sides despite corticosteroids. Patient subsequently developed a left hemiparesis lasting 48 hours, followed by transient ischemic attacks (TIAs). DSA disclosed the thrombosis of the FD with occlusion of the ICA. Despite continued antiplatelet therapy (75 mg clopidogrel daily and 100 mg aspirin daily), adequate hydration, and blood pressure monitoring, the patient continued to experience TIAs. Patient discharged home after 7 days with double antiplatelet medication. 
+
+**Note:** This note summarizes the patient's presentation and treatment course as discussed. 
+
+**____________________________**
+
+[Doctor's Signature]
+
+Dr. Smith

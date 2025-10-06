@@ -1,0 +1,27 @@
+**Clinical Note:**
+
+**Date:** 10/1/2025  
+**Time:** 8:35:51 PM  
+
+**Patient:** [Patient's Name]  
+**Medical History:** Coronary artery disease, history of stent placement  
+
+**Chief Complaint:** Follow-up on lung nodule and recent procedure  
+
+**History of Present Illness:**  
+The patient presented for follow-up after a lung nodule was identified during a previous radiograph. Further testing, including a CT scan and bronchoscopy, revealed a 9mm fatty endobronchial lesion in the bronchus intermedius above the middle lobe, with a 2cm extraluminal fatty lesion extending into the right hilum. An endobronchial ultrasound with biopsy showed benign bronchial epithelial cells. Due to the potential for a large defect with endobronchial resection, a robotic-assisted resection of the lesion was performed.
+
+**Procedure Details:**  
+The Da Vinci Xi robot was utilized to perform the resection of the endobronchial lesion and hilar mass, along with a right lower lobe superior segmentectomy. The superior segmental branch of the pulmonary artery and the superior segmental branch of the right lower lobe going to the inferior pulmonary vein were mobilized and divided using the vascular robot stapler. The superior segmental branch of the right lower lobe bronchus was divided with the robot blue load stapler. Indocyanine green angiography was employed to define the borders of the superior segment of the right lower lobe, which was then divided using the robot blue load stapler. This approach provided access to the hilar fatty tumor, allowing for the removal of the hilar mass and subsequent resection of the endobronchial lesion with scissors.
+
+**Intraoperative Findings:**  
+Complete resection was confirmed with intraoperative bronchoscopy, which also revealed a large opening in the airway. Airway reconstruction was achieved by placing two 3-0 vicryl stay sutures at the proximal and distal ends of the airway, pulling the airway posteriorly away from the lesions through the posterior ports. Frozen section analysis on both lesions was negative for malignancy.
+
+**Assessment and Plan:**  
+The procedure was complex but successful, with no malignancy detected in the lesions. The patient will require close monitoring and follow-up appointments to ensure proper healing and recovery.  
+
+**Follow-up:**  
+The patient will be scheduled for regular follow-up appointments to monitor recovery and ensure no complications arise.  
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

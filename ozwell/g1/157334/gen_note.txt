@@ -1,0 +1,36 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:14:14 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Sudden headache and mental deterioration.  
+
+**History of Present Illness:**  
+The patient presented to the emergency center with a sudden onset of a sharp, severe headache that began this morning. The patient also reported feeling drowsy and experiencing difficulty thinking clearly. On admission, the patient was drowsy with a Glasgow Coma Scale (GCS) score of 14, indicating drowsiness but the ability to respond to stimuli. No focal neurologic signs were detected.
+
+**Medical History:**  
+- No history of diabetes, hypertension, tuberculosis, or hepatitis.  
+
+**Family History:**  
+- Mother suffered from a cerebral hemorrhage.  
+
+**Diagnostic Imaging and Procedures:**  
+- Brain computed tomography (CT) and CT angiography on admission revealed a subarachnoid hemorrhage (SAH), intraventricular hemorrhage (IVH) with hydrocephalus, and a tortuous vascular structure around the brain stem and upper cervical spinal cord.
+- Cerebral angiography, performed after stabilization and headache control, showed multiple vascular structures around the left vertebral artery connected to the drained vein observed via the left vertebral artery angiogram.
+
+**Interventions:**  
+- Attempted embolization on the left occipital artery and the distal V2 segment of the left vertebral artery was halted due to reflux.
+- Another embolization was performed from the V4 and V3 segment to some of the distal V2 segment of the left vertebral artery, terminated after partial occlusion was identified.
+
+**Post-Intervention Course:**  
+- Developed mental deterioration and left hemiplegia post-embolization. Cerebral angiography and brain CT showed no new lesions such as cerebral hemorrhages or occlusions.
+- One week post-embolization, follow-up brain CT showed subacute cerebral infarction on the left cerebellum and thalamus, with a mild mass effect on the fourth ventricle and brain stem.
+
+**Current Status:**  
+- Transferred to the department of rehabilitation medicine.
+- Patient remains drowsy with a GCS score of 14.
+- Manual muscle tests of the left upper and lower extremities were performed.
+
+**Plan:**  
+- Follow-up visit scheduled in one week to monitor progress.

@@ -1,0 +1,50 @@
+**Clinical Note**
+
+**Patient Information:**
+- **Gestational Age:** 26 weeks pregnant
+- **Pregnancy History:** First pregnancy, no complications or genetic diseases, conceived spontaneously
+
+**Referral Information:**
+- **Referred to:** Obstetric Outpatient Clinic
+- **Reason for Referral:** Close examination of a fetal cardiac tumor
+
+**Prenatal Management:**
+- **Location:** Hospital near patient's residence
+- **Ultrasonographic Findings (25th week):** Fetal cardiac tumor detected
+
+**Initial Visit Findings:**
+- **Ultrasonographic Examination:** Single, homogeneous tumor 14 mm in diameter in the intracardic space
+- **Tumor Location:** Emerging from the ventricular septum, occupying the left ventricle
+- **Pericardial Effusion:** Significant
+- **Heart Rates:** Ventricular and atrial rates at 140 beats per minute
+- **Atrioventricular Block:** Not observed
+- **Other Cardiac Abnormalities:** Not detected
+- **Blood Flow Velocity:** Normal in aorta and pulmonary arteries
+- **Diagnosis:** Intracardic tumor, possibly cardiac rhabdomyoma
+- **Family History:** No family history of tuberous sclerosis
+
+**Management and Follow-up:**
+- **Outpatient Clinic Management:** Serial ultrasonographic examinations and investigation of fetal cardiac function
+- **Tumor Progression:** Size of the fetal cardiac tumor gradually increased
+- **Fetal Cardiac Function:** Within normal range
+
+**Delivery Information:**
+- **Gestational Age at Delivery:** 39 weeks
+- **Labor:** Onset of spontaneous labor pain
+- **Infant Details:** Female infant, 2716 g
+- **Apgar Scores:** Nine and ten at one and five minutes after delivery, respectively
+- **Puerperal Course:** Uneventful
+- **Discharge:** Sixth day postpartum
+
+**Post-Delivery Examination:**
+- **Pediatric Cardiologist Examination:** Confirmed cardiac tumor
+- **Infant Cardiac Function:** Diagnosed as normal
+- **Tumor Details:** Multiple tumors, largest 26 mm in the left ventricle, additional tumors 5 mm in diameter
+
+**Plan:**
+- Continue monitoring the situation
+- Patient advised to return with any questions or concerns
+
+**Physician's Signature:**  
+[Physician's Name]  
+[Date]

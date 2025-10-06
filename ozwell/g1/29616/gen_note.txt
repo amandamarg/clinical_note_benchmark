@@ -1,0 +1,34 @@
+**Clinical Note**
+
+**Patient Information:**
+- Diagnosis: Stage IV breast cancer
+- Medical History: Type II diabetes (4 years), insulin-dependent
+- Family: Mother of two sons
+
+**Breast Cancer Details:**
+- Initial Presentation: Mass in left breast noticed several months ago, rapidly growing, developed into a 15 × 15 cm inflammatory wound
+- Biopsy: Needle biopsy in June 2018, pathology revealed ductal invasive breast cancer
+- Immunohistochemistry: Positive estrogen receptor (90%), negative progesterone receptor, negative Her2, 75% KI 67 expression, poor histology grade
+
+**Clinical Course:**
+- Referral Delay: Slow referral process to clinic
+- Symptoms: Developed cough, shortness of breath upon clinic visit for chemotherapy
+- Imaging and Examination: Moderate pericardial effusion, pleural effusion, pneumonic and subpleural type pulmonary metastases, bone metastasis (wedged fracture in 12th thoracic vertebra)
+
+**Complications:**
+- Cardiac Tamponade: Worsening pericardial effusion led to life-threatening cardiac tamponade
+- Intervention: Echocardiography showed massive pericardial effusion with flying heart, collapsed right atrium and right ventricle; pericardial window procedure performed, chest tube placed for drainage
+- Cytology: Metastatic breast cancer cells in pericardial and pleural effusions
+
+**Recovery:**
+- Post-Procedure: Recovered from severe dyspnea one week after procedure, all devices removed
+
+**Additional Findings:**
+- Vein Thrombosis: Total deep vein thrombosis in right popliteal vein, treated with unfractionated heparin followed by 20 mg daily oral rivaroxaban
+
+**Current Plan:**
+- Treatment Consideration: Palliative chemotherapy despite low performance status
+- Follow-Up: Scheduled in two weeks to monitor progress
+
+**Physician's Note:**
+The patient is currently stable post-procedure and we will continue to focus on palliative care to ensure comfort. Further monitoring and adjustments to treatment will be made as necessary.

@@ -1,0 +1,19 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Chronic Hemorrhagic Stool & Small Intestinal Bleeding
+
+**History of Presenting Illness:** Patient presents today for follow-up regarding a complex case of chronic hemorrhagic stool. The patient was initially admitted several days ago due to fresh hemorrhagic stool.
+
+**Hospital Course:** Patient was initially evaluated and underwent a Colonoscopy and upper gastrointestinal endoscopy, which were inconclusive due to the bleeding site being outside the visible range. On the second hospital day, a capsule endoscopy revealed the bleeding source in the small intestine. The following day, the patient developed shock secondary to massive bleeding and underwent emergency transcatheter arterial embolization. Prior to the embolization, a Computed Tomography (CT) scan revealed a defective right external iliac artery with direct blood flow into the internal iliac artery, descending at an acute angle to the pelvic floor and rising to flow into the femoral artery. A catheter was inserted from the left femoral artery and selectively advanced to the superior mesenteric artery. Angiography did not demonstrate clear extravasation from either branch of the superior mesenteric artery. On the 8th day, small intestinal endoscopy was attempted but was unsuccessful due to strong small intestinal adhesions.  Following this, there was no further massive bleeding. Patient was discharged home after red blood cell transfusion on the 20th day. 
+
+Patient was subsequently hospitalized again for small intestinal resection. During this procedure, 30 cm of adhered small intestine was resected. Following resection, small intestinal endoscopy was performed through the small bowel stump, revealing two diverticula on the oral side and a submucosal cystic lesion. 
+
+**Past Medical History:** Patient has a history of anal atresia and small bowel stoma as a neonate and currently requires hemodialysis secondary to chronic renal failure with bilateral kidney malformations.
+
+**Current Status:** Patient is currently stable.
+
+**Plan:** Patient will be referred to a specialist for further treatment.  Follow-up appointment scheduled in one week. 
+
+**Physician Signature:** [Physician Name - *To be filled in*]

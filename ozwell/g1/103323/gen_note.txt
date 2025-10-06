@@ -1,0 +1,28 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:38:48 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+Severe headaches and vomiting.
+
+**History of Present Illness:**  
+The patient reports experiencing severe headaches and vomiting for the past month. The headaches are described as bifrontal orthostatic in nature. An MRI scan of the brain revealed pachymeningeal enhancement and a progressive acquired Chiari malformation, indicating intracranial hypotension. Despite multiple investigations, including a physical examination and MRI scans, the source of the cerebrospinal fluid leak could not be identified.
+
+**Treatment and Response:**  
+The patient was initially treated with dexamethasone 1.5 mg daily for headache relief and underwent an epidural blood patch. After the first blood patch failed, two additional epidural blood patches were performed. The patient also received dihydroergotamine mesylate 0.3 mg IV every 8 hours for 72 hours, which provided symptomatic relief for the first 5 hours post-administration, but the headache reoccurred in the 3 hours before the next dose. The blood patches resulted in a mild reduction in headache severity but did not completely resolve the symptoms.
+
+Following the third blood patch, the patient developed a headache above the left eye with blurry vision, which resolved after 1.5 weeks. A CT myelogram of the cervical, thoracic, and lumbar spine was performed and returned negative.
+
+Currently, the only agents providing persistent symptom improvement are dexamethasone 1.5 mg and oxycodone/acetaminophen 2.5 mg every 4 hours. The patient has been admitted to the hospital on several occasions due to intractable vomiting secondary to headaches. Ondansetron 8 mg PO before meals three times a day has improved nausea and vomiting.
+
+**Plan:**  
+- Continue current medications: dexamethasone 1.5 mg, oxycodone/acetaminophen 2.5 mg every 4 hours, and ondansetron 8 mg PO before meals three times a day.
+- Schedule another MRI to assess for any changes.
+- Monitor for any new symptoms and adjust treatment as necessary.
+
+**Follow-Up:**  
+The patient is advised to continue the prescribed medications and report any new symptoms. Further evaluation will be based on the results of the upcoming MRI.

@@ -1,0 +1,25 @@
+## Clinical Note
+
+**Patient:** Mr. X
+**Date:** [Date of Encounter]
+**Subject:** Post-operative PA Catheter Management
+
+**History of Presenting Illness:** Patient reports post-coronary artery bypass surgery. 
+
+**Procedure Summary:** Patient underwent coronary artery bypass surgery. During the procedure, a PA catheter was inserted. 
+
+**Findings:**
+*   The PA catheter exhibited a malposition, secondary to kinking.
+*   Pre-operative history includes a diagnosis of diabetes with neuropathy, early-stage nephropathy, and retinopathy.
+*   Pre-operative echocardiogram revealed diffuse left ventricular hypokinesis with an ejection fraction of 51%. The right ventricle size was normal and there was no evidence of pulmonary hypertension. 
+*   During the insertion of the PA catheter, the distal catheter port was advanced to a depth of 40 cm in the right ventricle and 55 cm in the pulmonary artery. Despite attempts, a stable pulmonary artery waveform could not be obtained. The distal and proximal ports presented the same waveform pattern, and subsequent flushing of each lumen independently changed the waveform. Attempts to remove the catheter via flushing with cold saline and placement of a guide wire were unsuccessful. Fluoroscopy confirmed the catheter was firmly in place at a depth of 15 cm. 
+
+**Management:** 
+The PA catheter is in a rare malposition, requiring close monitoring. Patient advised to rest and recover from surgery. A follow-up appointment is scheduled in a few days to assess patient’s condition. Patient instructed to report any changes immediately. 
+
+**Physician:** [Doctor’s Name] 
+**Signature:** ____________________________ 
+
+---
+
+**Note:** *This clinical note is generated solely based on the provided dialogue. It does not contain any additional information or interpretations beyond what was explicitly stated in the conversation.*

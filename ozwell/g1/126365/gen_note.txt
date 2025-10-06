@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** Dr. Smith  
+
+**Chief Complaint:**  
+Loss of vision in the right eye following endoscopic sinus surgery.
+
+**History of Present Illness:**  
+The patient underwent endoscopic sinus surgery two days ago under local anesthesia. The following day, the patient experienced a loss of vision in the right eye. The patient has a history of a similar surgery 15 years ago at another local ENT clinic without any postoperative complications.
+
+**Diagnostic Tests and Results:**  
+- CT scan at a local radiology center revealed a small right medial wall fracture and a thick bony septa in the right ethmoid area.
+- Visual evoked potential (VEP) test on the second day of admission showed the absence of right optic nerve activity.
+- Orbital MRI on the second day of admission indicated mild enhancement of the posterior half of the right optic nerve sheath and a dark signal focus of the medial rectus muscle near the right orbit apex.
+
+**Treatment:**  
+The patient received steroid therapy for traumatic optic neuropathy on the first day of hospital admission, including steroid pulse therapy for 4 days, followed by oral prednisolone for 10 days. Despite treatment, the patient reports no improvement in vision, with light perception still absent.
+
+**Assessment:**  
+The patient appears to have suffered an optic nerve injury, likely related to the recent endoscopic sinus surgery. Optic nerve injury during such procedures is rare, especially under local anesthesia, but can occur due to direct damage, loss of blood supply, or indirect causes.
+
+**Plan:**  
+- Continue monitoring the patient's condition for any changes or improvements in vision.
+- Advise the patient to follow up with their regular eye doctor.
+- Keep the patient informed and updated on any changes in their condition.
+
+**Follow-Up:**  
+The patient is advised to keep us updated on any changes in vision and to follow up with their regular eye doctor.
+
+**Additional Notes:**  
+The patient understands the situation and has been informed about the rarity and potential causes of the complication. They have been advised to monitor their condition closely and report any changes.

@@ -1,0 +1,35 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Note: This was not provided in the dialogue*]
+**Date:** [Date of Note - *Note: This was not provided in the dialogue*]
+**Subject:** Post-Operative Follow-Up - Pancreatic Cystic Tumor
+
+**History of Present Illness:** Patient presented for follow-up following laparoscopic distal pancreatectomy performed for a cystic tumor in the pancreas. Patient initially reported abdominal pain and difficulty eating, which began approximately three weeks prior to the procedure.
+
+**Examination Findings:** 
+
+*   Patient reported a benign mucinous cystic tumor of the pancreas, confirmed by final pathology.
+*   Initial chemistry and tumor marker levels were within normal limits.
+*   CT scan revealed a slightly septated cystic tumor in the pancreas with no mural nodule, calcification, or eccentrically located mass within the cystic area.
+*   The tumor was closely adherent to the remaining splenic vessels.
+
+**Procedure:** Laparoscopic distal pancreatectomy performed with trocar placement and robotic assistance. An assistant surgeon utilized laparoscopic instruments through Port 4 for temporary use. Segmental resection of splenic vessels was performed to preserve the spleen, due to close adherence of the tumor.
+
+**Operative Details:**
+*   Total operative time: 480 minutes.
+*   Blood loss: Approximately 800 mL.
+*   No blood transfusion required.
+*   Specimen delivered via small vertical incision.
+
+**Post-operative Course:** Patient recovered without complications and returned to an oral diet on the postoperative second day. Drain removed on the fifth day post-operation.
+
+**Investigations:**
+*   Color Doppler Ultrasound (CDUS) obtained 14 days post-op showed no evidence of splenic infarction and well-preserved blood flow within the spleen without definitive peripancreatic fluid collection.
+
+**Final Pathology:** The final pathologic examination revealed a benign mucinous cystic neoplasm without any characteristics of malignant potential.
+
+**Prognosis:** Good. 
+
+**Follow-Up:** Patient instructed to contact the office with any questions or concerns.
+
+**Physician:** [Doctor's Name - *Note: This was not provided in the dialogue*]

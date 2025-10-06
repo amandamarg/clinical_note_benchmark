@@ -1,0 +1,19 @@
+**Patient Name:** [Patient Name - *Information not provided in dialogue*]
+**Date:** [Date - *Information not provided in dialogue*]
+**Subject:** Follow-up Appointment – Depression, Seizure, Diabetes, and ECT
+
+**History of Presenting Illness:** 
+
+Patient reports a history of severe depression and recently experienced a prolonged seizure last week, which was terminated with intravenous benzodiazepine administration. Patient also confirms a long-standing diagnosis of obesity and type II diabetes mellitus.
+
+**Discussion:** 
+
+During the discussion, the physician addressed the complex relationship between diabetes and epilepsy, citing discordant research and proposing potential mechanisms including mitochondrial dysfunction and adiponectin deficiency. The physician acknowledged hypoglycemia as a possible trigger for seizures in young patients with epilepsy. 
+
+The physician noted elevated blood sugar levels during the ECT procedure and considered the possibility of a prior nocturnal decline in blood sugar levels, potentially contributing to the AE. While recognizing the potential for obesity to contribute to altered respiration and an increased risk of anesthesia-related adverse events, particularly regarding upper airway obstruction and sleep apnea syndrome, no sleep-related respiratory disorder was identified. 
+
+**Plan:** 
+
+Close monitoring of patient’s condition is warranted. Patient will return for a follow-up appointment next week. 
+
+**Physician Signature:** [Physician Name - *Information not provided in dialogue*]

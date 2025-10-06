@@ -1,0 +1,17 @@
+**Clinical Note**
+
+**Patient Name:** Mrs. X  
+**Date:** 10/1/2025  
+**Physician:** Dr. Y  
+
+**Subjective:**  
+Mrs. X presented to the clinic today. She reported a history of breast implantation for augmentation in 1995, with surgical revisions in 2002 and 2006. In 2014, she noticed hardening and swelling of her right breast but did not seek medical attention at that time due to the death of her husband. The swelling and pain in the right breast persisted.
+
+**Objective:**  
+In January 2016, an MRI revealed a large fluid collection surrounding the intact right silicone implant. Surgical drainage and capsulectomy were performed. In February 2016, Mrs. X underwent bilateral prosthesis explantation and bilateral capsulectomy. Pathology demonstrated a 4-cm moderately differentiated invasive squamous cell carcinoma (SCC) extending into the muscle, with in situ tumor extending to the peripheral margin. No perineural or lymphovascular invasion was noted. The left breast capsule pathology showed chronic inflammation. A CT scan of the chest, abdomen, and pelvis in February 2016 showed no metastatic disease. In March 2016, re-excision of the remaining chest wall mass was performed, and pathology showed well-differentiated SCC with negative margins. Chest wall fluid was negative for malignant cells. Slide review indicated squamous epithelialization of the implant capsule with benign squamous epithelium on both sides, suggesting the tumor was likely SCC of the implant capsule rather than primary SCC of the breast. Estrogen and progesterone receptor markers were negative.
+
+**Assessment and Plan:**  
+Mrs. X received external beam radiation therapy, treated while supine with free breathing. Four tangent beams targeted the right breast with 50 Gray in 25 fractions, followed by a 10 Gray boost to the tumor bed in five fractions. Radiation was delivered using opposed tangents, completed in May 2016. No adjuvant chemotherapy was offered due to the rare histology and paucity of data. Mrs. X followed up in June 2016 without complications or clinical recurrence.
+
+**Follow-Up:**  
+Mrs. X is advised to return for a follow-up appointment in three months. She is instructed to report any changes or symptoms immediately.

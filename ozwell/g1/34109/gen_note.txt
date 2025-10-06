@@ -1,0 +1,31 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:06:31 PM  
+
+**Patient Name:** [Patient's Name]  
+**Patient ID:** [Patient's ID]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented for a follow-up regarding an abnormal cardiac shadow found on a chest X-ray during a recent medical check-up. The patient has a history of a benign tumor in the parapharyngeal space, which was resected 4 months ago. Prior to the surgery, the patient experienced pain around the back of the teeth and difficulty swallowing due to mass pressure symptoms. The histopathology exam confirmed the tumor was a schwannoma. The patient denies any medical or family history of cancer, including intradermal carcinomas. There were no abnormal findings in the eyegrounds, such as juvenile cataract, and audiometry results were normal.
+
+**Objective:**  
+- Computed tomography revealed three masses: 16 × 14 mm in the posterior mediastinum, 15 × 13 mm in the left pulmonary hilar area, and 12 × 10 mm in the right pulmonary apex area.  
+- Retrospective evaluation of a previous CT scan from 6 years ago showed the posterior mediastinum tumor was 13 mm at that time.  
+- Chest MRI indicated these masses had low intensity on T1-weighted sequences and high intensity on T2-weighted sequences.  
+- Cranial high-quality MRI showed no evidence of bilateral vestibular schwannoma.  
+- Transesophageal echocardiography revealed the mass was a cardiac tumor originating from the posterior wall of the left atrium.
+
+**Assessment:**  
+The patient has multiple mediastinal tumors. Initial surgical plans included resection of the posterior mediastinum tumor via right thoracotomy and the left pulmonary hilar area tumor via left thoracotomy in a single operation. However, during the right thoracotomy, a small pericardial incision revealed the posterior mediastinal tumor at the cardiac chamber, leading to the suspension of surgery.
+
+**Plan:**  
+Consultation with thoracic surgeons is necessary to determine the best course of action for the cardiac tumor. The patient is scheduled for a follow-up appointment in one week. The patient was advised to reach out with any questions or concerns in the meantime.
+
+**Follow-up:**  
+The patient will return in one week for further evaluation and discussion of treatment options.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

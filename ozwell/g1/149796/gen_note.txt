@@ -1,0 +1,43 @@
+**Clinical Note**
+
+**Patient Name:** Mr. Smith  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]
+
+**Chief Complaint:**  
+Pain and restriction of movements involving both shoulders following a fall.
+
+**History of Present Illness:**  
+Mr. Smith presented to the emergency department after experiencing a syncopal attack, during which he fell on his outstretched right hand. This resulted in a posterior dislocation of the right shoulder. Additionally, a bystander attempted to prevent his fall by holding onto his left upper limb, which was pulled into abduction, extension, and external rotation, leading to an anterior dislocation of the left shoulder. The patient reports no prior history of shoulder dislocations and denies any history of epilepsy or seizure episodes.
+
+**Physical Examination:**  
+- Painful restriction of movement in both shoulders.
+- Unable to lift arms due to pain.
+
+**Radiographic Findings:**  
+- Right shoulder: Posterior dislocation with a fracture of the greater tuberosity.
+- Left shoulder: Anterior dislocation with a fracture of the greater tuberosity.
+- Special radiographs, including axillary lateral and scapular Y view, confirmed the findings.
+
+**Treatment:**  
+- Closed reduction performed under general anesthesia.
+  - Anterior dislocation (left shoulder) reduced using Kocher's method.
+  - Posterior dislocation (right shoulder) reduced with gentle traction in flexion and adduction, with direct pressure applied to the humeral head from behind.
+- Post-reduction, the right shoulder was unstable; therefore, it was immobilized with a spica in slight flexion and abduction with 20 degrees of external rotation.
+- A chest arm bandage was applied to the left shoulder.
+- Post-reduction X-ray showed concentric reduction of both shoulders with minimal displacement of fracture fragments.
+
+**Plan:**  
+- The spica and bandage will be removed in a few days.
+- The patient is advised to avoid activities that may cause further injury to the shoulders.
+- Follow-up for reassessment and further management as needed.
+
+**Patient Instructions:**  
+- Avoid activities that may exacerbate shoulder injuries.
+- Return for follow-up as scheduled.
+
+**Patient Concerns/Questions:**  
+None expressed at this time.
+
+**Follow-Up:**  
+The patient will be monitored for stability and healing of the shoulder dislocations and fractures. Further orthopedic consultation may be considered based on recovery progress.

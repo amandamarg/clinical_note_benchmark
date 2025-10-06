@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Name:** Mr. X  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient, Mr. X, reports feeling okay today. He has a history of a large right aneurysm diagnosed during routine surveillance. He previously underwent an endovascular AAA repair 9 years ago for a 5 cm infrarenal abdominal aortic aneurysm. Following this, he developed bilateral common iliac artery aneurysms.
+
+**Objective:**  
+- **History of Present Illness:**  
+  - The patient underwent endovascular repair for the bilateral common iliac artery aneurysms 3 years after the initial surgery. During this procedure, a rupture of the right external iliac artery occurred, necessitating the placement of a covered stent across the origin of the right internal iliac artery and into the body of the main aortic endograft.
+  - Ongoing surveillance of the aortoiliac system with duplex ultrasound indicated gradual development of bilateral IIA aneurysms.
+  - A dedicated CT angiogram performed 6 years after the IIA origin was covered showed sac expansion to a diameter of 6.4 cm, attributed to a type II endoleak from collaterals originating in the left iliac system.
+  - An attempt at endovascular embolisation of these vessels via a left-sided femoral artery puncture was unsuccessful due to the inability to cannulate these vessels with a microcatheter.
+
+- **Plan:**  
+  - The patient was offered an open procedure for the enlarging IIA aneurysm but declined due to significant risks associated with previous abdominal interventions and poor overall health.
+  - The decision was made to treat the aneurysm via a direct puncture method employing a posterior approach under CT visualisation.
+
+**Procedure:**  
+- The patient was placed under general anaesthetic in a prone position. CT guidance was used to insert a 17-gauge needle into the right superior gluteal artery via a transgluteal approach, with the catheter passing through the sciatic notch.
+- Contrast injection in the angiography suite confirmed the catheter's correct placement.
+
+**Assessment:**  
+The patient has a complex vascular history with multiple interventions. The current approach aims to address the enlarging IIA aneurysm while considering the patient's overall health and previous surgical history. Further monitoring and follow-up will be necessary to assess the outcome of the procedure.

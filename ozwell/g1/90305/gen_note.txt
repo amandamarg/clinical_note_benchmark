@@ -1,0 +1,50 @@
+**Clinical Note**
+
+**Patient Information:**
+- **Name:** [Patient Name]
+- **Age:** [Patient Age]
+- **Gender:** [Patient Gender]
+- **Pregnancy Status:** 22 weeks pregnant
+
+**Chief Complaint:**
+- Pain in the left hip for a few weeks.
+
+**Medical History:**
+- Mild Multiple Sclerosis (asymptomatic)
+- No smoking or alcohol use
+- No use of corticosteroids, anticonvulsants, or anticoagulants
+- No other medications currently being taken
+
+**Clinical Examination:**
+- Examination revealed normal findings at the initial visit.
+
+**Working Diagnosis:**
+- Non-specific hip pain related to pregnancy.
+
+**Plan:**
+- Supportive measures were provided.
+- Advised to report if pain worsens or if pain occurs in the other hip.
+
+**Follow-up:**
+- By 36 weeks of pregnancy, the patient was unable to weight bear and required a wheelchair.
+- Due to pain and limitation of motion, a caesarean delivery was performed.
+- Baby was healthy and full term.
+
+**Post-Delivery Findings:**
+- Radiographs revealed:
+  - Displaced intracapsular femoral neck fracture on the left.
+  - Valgus impacted right intracapsular femoral neck fracture on the right.
+  - Considerable osteopaenia.
+
+**Surgical Intervention:**
+- Closed reduction and internal fixation of the left hip.
+- Right hip internally fixed in situ.
+- Two-hole 135 degree dynamic hip screws used for stability and immediate mobilization.
+- Difficulty encountered in ensuring the threads of the dynamic hip screw crossed the fracture site in the left hip due to high fracture level in the femoral neck. Implant tip placed close to the subchondral plate.
+
+**Outcome:**
+- [Patient's outcome post-surgery, if available]
+
+**Physician:**
+- [Physician's Name]
+- [Date of Note]

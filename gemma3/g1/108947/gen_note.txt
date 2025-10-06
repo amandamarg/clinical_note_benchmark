@@ -1,0 +1,21 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *Note: This would be filled in with the patient’s name*]
+**Date:** [Date of Encounter - *Note: This would be filled in with the date*]
+**Subject:** Distal Radius Fracture – Change in Surgical Approach
+
+**History of Presenting Illness:** Patient presented today reporting a distal radius fracture sustained in a road traffic accident. Patient states they were struck by a vehicle while crossing the road.
+
+**Physical Examination:** On examination, patient reported pain in the left distal radius following the trauma. Neurovascular examination revealed no distal neurovascular deficit. Palpation revealed crepitus distal to the wrist joint. Range of motion was limited and painful.
+
+**Diagnosis:** Clinical diagnosis of a comminuted fracture of the distal third radius with intra-articular extension.
+
+**Relevant Findings:**
+*   Initial assessment identified a superficial tendinous structure thought to be the FCR tendon, but subsequent tracing revealed it to be the tendon of palmaris longus.
+*   The anatomical abnormality was identified with the presence of a median nerve radial to the palmaris longus tendon.
+
+**Procedure:** Surgical approach altered from volar FCR approach to a standard Henry approach.
+
+**Plan:** Continued monitoring of hand progress with scheduled follow-up appointments.
+
+**Physician:** [Doctor’s Name - *Note: This would be filled in with the physician’s name*]

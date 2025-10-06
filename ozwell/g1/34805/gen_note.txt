@@ -1,0 +1,22 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:03:45 PM  
+
+**Patient:** [Patient's Name]  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling a bit better today. They have a history of several laparotomies, including an open drainage and sigmoidectomy due to peritonitis and a colon cancer resection. Recently, the patient underwent a curative bladder resection for bladder cancer via an extraperitoneal approach. On the third postoperative day, the patient noticed a dirty brown discharge in a surgical drainage tube placed in the postbladder space, accompanied by a high fever and severe abdominal pain.
+
+**Objective:**  
+An abdominal computed tomography revealed fluid collection around a small bowel loop in the pelvis and in the upper abdomen. During an urgent exploration through a midline incision, a 5 mm long injury in the small bowel at the base of the pelvis was found. Due to severe intestinal adhesions from previous surgeries, adequate bowel dissection for enterectomy and anastomosis was not possible, so the injury was closed by a layer to layer suture. Post-surgery, there was no fever elevation or discharge, and oral feeding was started 11 days after the first surgery. However, the patient experienced a sudden elevation in temperature and enteral drainage from the midline incision that night. A subsequent computed tomography of the pelvis showed fluid collection, necessitating further surgery. During this operation, adhesive bands between the intestinal loops were dissected, the perforated bowel was removed, and intestinal continuity was reestablished via an end to end anastomosis. The operation lasted almost 10 hours with an estimated blood loss of 576 ml, leading to marked tissue edema. Postoperatively, the patient's temperature normalized, but abdominal radiographs showed a distended small bowel. A contrast examination of the bowel indicated poor passage of contrast medium, with uncertainty regarding a leak.
+
+**Assessment:**  
+The patient is recovering from multiple surgeries related to complications from a recent bladder resection and previous abdominal surgeries. The current focus is on monitoring for any signs of leakage or further complications.
+
+**Plan:**  
+- Continue to monitor the patient's temperature and abdominal symptoms closely.
+- Evaluate the need for further imaging or intervention based on clinical progress.
+- Supportive care to manage tissue edema and ensure proper bowel function.
+- Follow-up on the patient's recovery and adjust the treatment plan as necessary.

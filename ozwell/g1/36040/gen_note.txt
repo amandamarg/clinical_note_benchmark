@@ -1,0 +1,32 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:15:58 PM  
+
+**Patient:** [Patient's Name]  
+**Chief Complaint:** Pain in right thigh and pelvic region  
+
+**History of Present Illness:**  
+The patient is a [age]-year-old [gender] who presents with a one-week history of pain in the right thigh and pelvic region. The pain began after sustaining an injury while playing football. The patient reports that while kicking the ball, they experienced a sudden severe pain in the right thigh, which rendered them unable to walk, necessitating crawling off the field. Since the injury, the pain has progressively worsened, particularly with ambulation.
+
+**Physical Examination:**  
+- Gait: Patient walks with a limp.
+- Tenderness: Present upon palpation of the anterior superior iliac spine.
+- Hip Movements: All movements are limited by pain.
+
+**Imaging Studies:**  
+- Plain film radiographs: Showed faint ossification within the soft tissues immediately inferior and adjacent to the right anterior inferior iliac spine, suggestive of a rectus femoris avulsion fracture.
+- MRI: Revealed an abnormality in the anterior right iliac crest with an avulsion fracture and a surrounding soft tissue mass measuring 3 × 4 × 5 cm, centered on the anterior superior iliac spine. The mass was mildly hyperintense on T1-weighted images.
+
+**Assessment:**  
+The initial assessment at the referring hospital suggested a possible underlying bone tumor due to the imaging findings. However, upon review by our specialist musculoskeletal radiologist, the findings were consistent with an avulsion fracture of the anterior superior iliac spine with anterolateral displacement of the apophysis and a large surrounding hematoma. Mild enhancing marrow edema was noted in the anterior third of the iliac blade.
+
+**Plan:**  
+- The patient is advised to rest and avoid activities that exert pressure on the right thigh.
+- A follow-up appointment will be scheduled in a few weeks to monitor progress and determine if further tests are necessary.
+
+**Instructions to Patient:**  
+Rest and avoid activities that put pressure on the right thigh. Return for a follow-up appointment as scheduled.
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Patient:** [Patient Name - *To be filled in*]
+**Date:** [Date - *To be filled in*]
+**Subject:** Chronic Pain, Psychiatric History, Neurological Evaluation
+
+**History of Presenting Illness:**
+
+The patient presents with a history of chronic back pain. The patient reports a significant psychiatric history including a previous argument with her husband and a subsequent overdose attempt involving diazepam and methadone. Specifically, the patient ingested approximately 40-50 tablets (5mg strength) of diazepam and an unknown quantity of methadone. Following the ingestion, the patient was found unresponsive with a respiratory rate of 4 breaths per minute and was successfully revived with naloxone. The patient required a 24-hour naloxone drip infusion. Flumazenil was not utilized during treatment. 
+
+**Initial Findings:**
+
+Initial laboratory findings revealed elevated potassium (7.6) which subsequently normalized. A diagnosis of leukocytosis secondary to mild aspiration pneumonia was made and treated with antibiotics.
+
+**Neurological Findings:**
+
+Following the initial event, the patient experienced a period of cognitive disturbance approximately 3 weeks later, characterized by social withdrawal, lack of personal hygiene, incontinence, and lethargy.  This prompted an evaluation at the Emergency Department, where a CT head exam revealed marked and diffuse hypointensity throughout the subcortical white matter. Subsequent MRI imaging demonstrated confluent changes throughout the entire white matter, appearing diffusely hyperintense on both FLAIR and T2 weighted sequences, with hyper-intensity noted on diffusion weighted imaging. The cerebellar involvement was noted during the examination.
+
+**Treatment & Disposition:**
+
+The patient was discharged from the Emergency Department and subsequently admitted to a psychiatric facility for one week, after which she was discharged to home in a markedly improved state with a mental status returned to baseline and fully able to be self-sufficient without any cognitive deficits.  Family and friends confirmed cognitive normalcy up until 3 weeks post-event, followed by a period of confusion and forgetfulness with a rapid worsening the following day.
+
+**Recommendations:**
+
+I advise continued follow-up psychiatric care and monitoring. A referral to a neurologist for further neurological evaluation and treatment is recommended.
+
+**Physician Signature:** [Physician Name - *To be filled in*] 
+
+**Note:** *This note is based solely on the provided dialogue. A complete clinical note would include additional details, assessments, and potentially further diagnostic findings.*

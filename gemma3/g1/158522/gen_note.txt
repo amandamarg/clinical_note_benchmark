@@ -1,0 +1,20 @@
+## Clinical Note
+
+**Patient:** [Patient Name – *To be filled in*]
+**Date:** [Date of Visit – *To be filled in*]
+**Subject:** Progressive Vision Loss – Right Eye
+
+**History of Presenting Illness:** Patient presents today reporting progressive worsening of vision over the past seven years. Patient reports no associated symptoms such as nystagmus or photophobia.
+
+**Past Medical History:** Patient reports a traumatic injury to the right eye at age 14, resulting in stable vision at 20/40 at that time. Denies any other significant medical history.
+
+**Ocular History:** Patient reports a history of diffuse corneal opacities in both eyes, diagnosed three years prior in their mother. Mother’s condition has not significantly impacted her daily life. 
+
+**Ophthalmological Examination:**
+*   **Visual Acuity (with correction):** Right Eye: 20/400, Left Eye: 20/20
+*   **Intraocular Pressure (IOP):** Right Eye: 25 mmHg, Left Eye: 23 mmHg
+*   **Slit Lamp Examination:** Diffuse haze throughout the entire cornea with a flaky pattern of stroma. Right eye demonstrates decreased vision and relatively denser, homogenous opacities compared to the left. Endothelium and Descemet’s membrane appear normal. No Haab’s striae or features of posterior polymorphous corneal dystrophy are noted. Previous specular microscopy (six years prior) revealed normal endothelial cell shape and numbers in both eyes, however, indeterminate forms have now been identified. 
+
+**Plan:** Due to the persistent visual complaints and the presence of diffuse corneal opacities, further investigation is warranted. Patient will be scheduled for additional testing to determine the etiology of their visual impairment. 
+
+**Physician:** [Doctor’s Name – *To be filled in*]

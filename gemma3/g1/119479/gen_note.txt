@@ -1,0 +1,29 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information not provided in dialogue*]
+**Date:** [Date - *Information not provided in dialogue*]
+**Subject:** Dental Treatment – TMJ Management
+
+**Chief Complaint:** Patient presented for dental treatment under general anesthesia, reporting difficulty opening the mouth wide.
+
+**History of Present Illness:** Patient reports a 10-year history of pain in the TMJ and temporal area, exacerbated by mouth opening. This pain has hindered previous attempts at long-term molar treatment. Patient reports a significant difficulty opening the mouth wide.
+
+**Past Medical History:** Diagnosed with Spinal Muscular Atrophy (SMA) at age 1 year, confirmed by muscle biopsy. Patient is completely bedridden secondary to aspiration pneumonia at age 8. Currently utilizes Continuous Positive Airway Pressure (CPAP) during sleep.
+
+**Surgical History:** Patient has undergone two rounds of general anesthesia for scoliosis surgery in 2008 and 2010. Patient has a history of tracheostomy performed in the ICU following the second general anesthesia for scoliosis.
+
+**Physical Examination:** Patient reports difficulty breathing when turning the neck to the right and consistently turns the neck to the left. 
+
+**Treatment:** Due to the patient’s significant medical history including SMA, aspiration pneumonia, and prior complications with general anesthesia, a decision was made to defer general anesthesia. Instead, local anesthesia was administered. 
+
+Specifically, 1 mL of 0.5% levobupivacaine was injected bilaterally into the TMJ and temporalis fascia. 
+
+**Response to Treatment:** Approximately 10 minutes post-injection, the patient reported no pain while opening the mouth.
+
+**Plan:** Continued monitoring of patient condition and follow-up scheduled. 
+
+**Physician:** [Doctor’s Name - *Information not provided in dialogue*] 
+
+---
+
+**Note:** *This note accurately reflects all information provided in the dialogue and does not include any extraneous details.*

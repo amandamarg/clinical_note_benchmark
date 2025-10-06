@@ -1,0 +1,33 @@
+**Clinical Note**
+
+**Patient Name:** John  
+**Date:** 10/1/2025  
+**Physician:** Dr. X  
+
+**Subjective:**  
+The patient, John, reports feeling weak and tired. He was involved in a motor vehicle accident and was admitted to the hospital.
+
+**Objective:**  
+- Initial shock state post-accident.
+- Resuscitated with crystalloids in the emergency department.
+- Intra-abdominal complications ruled out via physical exam and ultrasound.
+- Underwent surgery for bilateral epidural hematoma.
+- Tachycardic with acceptable blood pressure at the start of the operation.
+- Premedicated with 2 Mcg/Kg of fentanyl.
+- Anesthesia induced with sevoflurane via endotracheal tube.
+- Muscle relaxation achieved with cisatracurium.
+- After one hour of cranial decompressive surgery, both large intravenous lines malfunctioned.
+- Centrally inserted intravenous catheter placed.
+- Received 2 units of packed RBCs and 2 liters of crystalloid during surgery.
+- Norepinephrine considered due to diminished blood pressure.
+
+**Assessment:**  
+Post-operative status following cranial decompressive surgery for bilateral epidural hematoma. The patient is currently stable but reports feeling weak and tired.
+
+**Plan:**  
+- Continue monitoring vital signs and hemodynamic status.
+- Ensure adequate rest and recovery.
+- Follow up on any further complications or needs for intervention.
+
+**Signature:**  
+Dr. X

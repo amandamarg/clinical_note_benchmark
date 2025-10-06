@@ -1,0 +1,32 @@
+## Clinical Note
+
+**Patient:** [Patient Name - Assuming Patient Name is Known]
+**Date:** [Date of Note - Assuming Today’s Date]
+**Subject:** Evaluation of Left Leg Pain and Swelling
+
+**History of Presenting Illness:** Patient presents for evaluation of pain and swelling in the left leg, onset approximately one month prior to presentation. Patient reports erythematous changes on the anterolateral aspect of the left leg.
+
+**Past Medical History:** Patient has a history of liver cirrhosis. 
+
+**Past Surgical History:** 
+*   18 years ago: Tibial plateau fracture with open reduction and internal fixation. Concurrent sciatic nerve injury.
+*   Eight years ago: Distal femur fracture with femoral artery rupture, open reduction and internal fixation, and stent insertion in the femoral artery.
+
+**Social History:**  None reported.
+
+**Physical Examination:** 
+Upon examination, a widespread radiopaque mass was observed on the left leg. Patient exhibits limited motion in the ankle and toes, with a dorsiflexion of 0 degrees and plantar flexion of 5 degrees.  The patient demonstrates clawing deformity in all toes. Motor strength is as follows: dorsiflexion grade 0, plantar flexion grade 3. Sensory examination reveals absent sensation in the first web space and on the medial aspect of the foot, with sensory reduction in the lateral, dorsal, and plantar aspects of the foot, in order of decreasing sensation. A draining sinus developed spontaneously on the erythematous mass, discharging a thick, chalk-like fluid via shiny skin.
+
+**Radiological Findings:** Radiographs demonstrate a widespread radiopaque mass on the left leg, with prior imaging (10 years ago) revealing a similar mass with progressive development over time. Angiography reveals obstruction of the popliteal artery with abundant collateral circulation.
+
+**Assessment:**  Progressive, complex vascular lesion involving the left leg, likely associated with chronic vascular compromise. 
+
+**Prognosis:** Unfortunately, the outlook is not favorable.
+
+**Note:** Patient’s family member expressed concern regarding the patient’s well-being.  Patient has passed away.
+
+**Physician Signature:** [Physician Name & Credentials] 
+
+---
+
+**Disclaimer:** *This clinical note is generated based solely on the provided dialogue. It does not constitute a complete medical record and should not be used for diagnostic or treatment purposes without review by a qualified healthcare professional.*

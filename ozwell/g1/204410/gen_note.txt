@@ -1,0 +1,17 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient reports feeling much better today. They initially presented with chest and back pain that had been ongoing for two weeks prior to admission. The patient had attempted to manage the pain with nonsteroidal anti-inflammatory drugs, which were ineffective.
+
+**Objective:**  
+Upon initial examination, the patient's vital signs were stable, and they were conscious and able to move all limbs. A CTA of the aorta revealed a large dissection flap from the origin of the left subclavian artery extending down to the level of the renal arteries. There was enlargement of the false lumen at the proximal aorta with a large aneurysmal dilatation and compression of the true lumen. A large entry point was identified 2 cm distal to the right subclavian artery.
+
+**Assessment:**  
+The findings indicated a serious condition requiring intervention. The patient underwent thoracic endovascular repair (TEVAR) two days after admission. The procedure was performed through the right femoral approach, utilizing a stent graft to cover the intimal entry tear and obliterate the false lumen.
+
+**Plan:**  
+The TEVAR procedure was successful, as confirmed by a postdeployment angiogram showing proximal occlusion of the entry point, no perfusion of the false lumen, and good flow through both carotid and left vertebral arteries, with patent right and left subclavian arteries. The patient was discharged one day post-surgery and has been doing well since. Instructions on postoperative care and follow-up appointments will be provided to monitor the patient's condition.

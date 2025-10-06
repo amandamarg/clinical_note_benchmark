@@ -1,0 +1,39 @@
+**Clinical Note**
+
+**Patient Name:** John  
+**Date:** 10/1/2025  
+**Physician:** [Doctor's Name]
+
+**Chief Complaint:**  
+The patient was admitted with complaints of shortness of breath, abdominal pain, stiffness, and swelling.
+
+**History of Present Illness:**  
+The patient, John, began experiencing symptoms approximately one week prior to admission. He has been referred to a specialist pulmonologist for further evaluation.
+
+**Diagnostic Findings:**  
+- **Thorax CT Scan:** Revealed the presence of common pleural effusion on the right side. Changes in the lung fields adjacent to the effusion indicate passive atelectasis. There is also collapse and consolidation in the right lateral segment lung. Due to the right pleural effusion, a thoracic surgery consultation was requested.
+- **Thoracentesis:** Performed by the thoracic surgeon. Cytological examination of the material was compatible with malignant epithelial tumor. However, the distinction between mesothelioma and carcinomatous adenocarcinoma could not be made.
+- **Abdominal Examination:** An abdominal mass was palpated in the right upper quadrant. An abdominal CT was performed due to prolonged abdominal pain.
+- **Abdominal CT Imaging:** Showed suspected invasion of omentum in the hepatic flexure and right transverse colon. Suspected infiltration and signs of compression of these colonic segments were determined.
+
+**Surgical Intervention:**  
+A laparotomy was scheduled for the intraabdominal mass. During the operation, the mass of the omentum was found to be adherent to the hepatic flexure. After dissection of adhesions, a total omentectomy was performed. No other pathology was found in the abdomen.
+
+**Histopathology:**  
+Revealed malignant mesothelioma. The patient was referred to medical oncology for further treatment.
+
+**Oncology Treatment:**  
+Chemotherapy was administered by the medical oncology specialist. A control abdominal CT was performed after six cycles of chemotherapy.
+
+**Follow-up Imaging:**  
+- **Control Abdominal CT:** Detected two cystic lesions. One was 18 × 12 cm in size, located inferior to the right lobe of the liver, and the other was 10 × 8 cm in size, located in the right inferior quadrant.
+- **Percutaneous Drainage:** Performed for both cysts. The patient was hospitalized until the cysts were completely drained.
+
+**Plan:**  
+The patient has been discharged following recovery and is advised to follow up with medical oncology for ongoing management. Further questions or concerns should be addressed during follow-up appointments.
+
+**Patient Education:**  
+The patient was informed about the seriousness of the condition and reassured that all necessary steps are being taken to manage the condition effectively. The patient denied any known previous exposure to asbestos.
+
+**Follow-up:**  
+The patient is advised to continue follow-up with the medical oncology team and report any new symptoms or concerns promptly.

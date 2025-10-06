@@ -1,0 +1,33 @@
+## Clinical Note
+
+**Patient:** [Patient Name - *Information missing from dialogue, needs to be added here*]
+**Date:** [Date of Note - *Information missing from dialogue, needs to be added here*]
+**Physician:** Dr. Smith
+
+**Subject:** Left Knee Pain & Synovial Cell Sarcoma
+
+**History of Present Illness:** 
+The patient presents with a longstanding history of left knee pain and swelling, initially following a fall one year prior which was attributed to that event. Prior to this, approximately one month prior, the patient experienced worsening pain following a basketball injury to the left knee. 
+
+**Past Medical History:** 
+Patient reports a fall one year prior and a subsequent basketball injury approximately one month prior to presentation. 
+
+**Examination Findings:** 
+Upon examination, the patient exhibits a valgus posture of both lower extremities, exaggerated on the left with external rotation. The patient was walking with a mild limp. At the time of examination, there was a well-healed scar with no excessive swelling. Mild tenderness was noted on the lateral aspect of the left knee. Imaging studies revealed an apparent meniscal cyst in the lateral aspect of the left knee with no evidence of abnormality in the joint space.
+
+**Previous Treatments:** 
+The patient was previously evaluated by an orthopedic surgeon who identified a valgus posture and recommended plain films, which were normal. An MRI was ordered and revealed an apparent meniscal cyst. A biopsy of the cyst revealed a high-grade synovial cell sarcoma. A metastatic work-up consisting of a nuclear bone scan and CT of the chest was negative.  The local care team recommended amputation due to concerns about potential contamination and uncertain functional outcome. The patient was subsequently referred to St. Jude Children's Hospital for further evaluation and treatment. 
+
+**Current Status:** 
+At St. Jude Children’s Hospital, the patient reported a well-healed scar with no excessive swelling. Mild tenderness was noted on the lateral aspect of the left knee. Imaging studies demonstrated abnormality at the site of prior surgery, equivocal for residual tumor. The tumor bed exploration revealed no physical evidence of compromise at the level of the joint space. 
+
+**Treatment:** 
+The patient underwent wide local excision with placement of six afterloading catheters in a parallel fashion. 
+
+**Plan:** 
+I recommend a follow-up appointment in three months to monitor progress.
+
+____________________________
+Dr. Smith 
+
+**Note:** *Please replace [Patient Name - *Information missing from dialogue, needs to be added here*] and [Date of Note - *Information missing from dialogue, needs to be added here*] with the appropriate information.

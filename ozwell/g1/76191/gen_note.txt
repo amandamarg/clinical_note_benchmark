@@ -1,0 +1,35 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 8:08:07 PM  
+
+**Patient Information:**  
+- **Chief Complaint:** Fracture in the left arm requiring surgery.  
+- **Medical History:** Diabetes and hypertension.  
+
+**Clinical Findings and Diagnostic Studies:**  
+- **Fracture:** Neck of the humerus caused by blunt trauma.  
+- **Color Doppler Study:** Monophasic flow in upper limb arteries, suggesting a proximal occlusion.  
+- **CT Angiogram:** Complete occlusion of the left axillary artery by the sharp edge of the fractured humerus with distal filling of the brachial artery through collaterals.  
+- **Physical Examination:** Absent pulsations in the upper limb, but capillary refilling was present.  
+
+**Surgical Intervention:**  
+- **Procedure:** Urgent surgical intervention was performed, including fixation of the fracture and repair of the axillary artery.  
+- **Orthopedic Surgery:** Open reduction and fixation of the neck of the humerus through a longitudinal incision over the anterolateral aspect of the left shoulder.  
+- **Vascular Surgery:** Exploration of the axillary artery in the left axilla through a separate incision.  
+  - The axillary artery was contused for a segment of approximately 8 cm.  
+  - No associated nerve injury was found, and the basilic vein was intact.  
+  - The contused segment of the axillary artery was excised, and the basilic vein was harvested through the same incision.  
+  - The axillary artery was repaired using a reversed basilic vein graft in an end-to-end fashion with 6-0 polypropylene sutures.  
+
+**Postoperative Findings:**  
+- Pulsations were present in the left upper limb post-procedure.  
+- No evidence of compartment syndrome or edema, so fasciotomy was not required.  
+- Total duration of the procedure was approximately three hours.  
+
+**Outcome:**  
+The patient recovered well post-surgery.  
+
+**Physician:** [Doctor's Name]  
+**Signature:** ___________________  
+**Date:** 10/1/2025

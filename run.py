@@ -101,10 +101,10 @@ if __name__ == '__main__':
     # req.set_prompt('s1')
     # write_eval_reports(path, df, [req], False)
 
-    # df_subset = df[df['idx'].astype('string').isin(os.listdir('ozwell/g1'))]
-    # ol_gen = requester.OllamaRequester("gemma3", "g1")
-    # ol_sim = requester.OllamaRequester("gemma3", "s1")
-    # generate_and_eval(df_subset, ol_gen, [ol_sim])
+    df_subset = df[df['idx'].astype('string').isin(os.listdir('ozwell/g1'))]
+    ol_gen = requester.OllamaRequester("gemma3", "g1")
+    ol_sim = requester.OllamaRequester("gemma3", "s1")
+    generate_and_eval(df_subset, ol_gen, [ol_sim])
 
     # add Gemma3 s1 eval to existing Ozwell eval reports
     # req = requester.OllamaRequester("gemma3", "s1")

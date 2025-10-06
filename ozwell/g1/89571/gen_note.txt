@@ -1,0 +1,30 @@
+**Clinical Note**
+
+**Date:** 10/1/2025  
+**Time:** 7:24:52 PM  
+
+**Patient Information:**  
+- **Age:** Not specified  
+- **Gender:** Not specified  
+- **Pregnancy Status:** Seventh month of pregnancy  
+
+**Chief Complaint:**  
+Sudden onset of pain and watering in the left eye for the past 4 days.
+
+**History of Present Illness:**  
+The patient reports a history of myopia since the age of 12, which gradually increased and stabilized by age 18. At age 20, the patient underwent radial keratotomy, which led to the development of secondary angle closure glaucoma in the left eye, likely due to a microperforation during the procedure. The patient subsequently underwent glaucoma filtering surgery without Mitomycin C. Post-surgery, the patient experienced pain in the left eye, and examination revealed a flat anterior chamber in the periphery, a very shallow anterior chamber centrally, intraocular pressure of 40 mmHg, and vision limited to light perception with inaccurate projection of rays. The diagnosis was glaucomatous optic atrophy in the left eye, and the patient received cyclocryotherapy, which normalized intraocular pressure and resulted in asymptomatic status for a few years.
+
+Currently, during the seventh month of pregnancy, the patient presents with sudden onset of pain, redness, and watering in the left eye. Examination revealed central corneal melting measuring 6 x 6 mm and an area of corneal perforation inferiorly measuring approximately 2 x 3 mm. There is mild corneal edema without evidence of active infiltration, and corneal sensations are normal and equally brisk in both eyes. The anterior chamber is flat, and intraocular pressure is low.
+
+**Diagnosis:**  
+Corneal melting and perforation.
+
+**Plan:**  
+- Perform Gram and KOH stain and culture on blood.
+- Monitor the eye closely.
+- Consider additional treatments if necessary.
+
+**Physician:**  
+[Physician's Name]  
+[Physician's Signature]  
+[Date and Time of Note Completion]
