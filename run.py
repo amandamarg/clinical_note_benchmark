@@ -5,119 +5,110 @@ import requester
 from tqdm import tqdm
 from rouge import Rouge
 import json
+import re    
 
-def generate(idx, transcript, generator, overwrite=False):
-    assert generator.prompt_name[0] == 'g'
-    path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name, str(idx))
-    if not os.path.exists(path):
-        os.makedirs(path)
-    path = os.path.join(path, "gen_note.txt")
-    if os.path.exists(path) and not overwrite:
-        with open(path, 'r') as file:
-            gen_note = file.read()
-        return gen_note, path
-    gen_note = generator.send(transcript)
-    with open(path, 'w') as file:
-        file.write(gen_note)
-    return gen_note, path
-
-def generate_all(df, generator, overwrite=False):
-    df = df.copy()
-    if 'idx' in df.columns:
-        df = df.set_index('idx')
-    path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name)
-    if not overwrite:
-        subdirs = os.listdir(path)
-        df = df[~df.index.astype('string').isin(subdirs)]
-    for idx, row in tqdm(df.iterrows(), total=len(df), ncols=50):
-        generate(idx, row['conversation'], overwrite)
+def match_filenames(dir_path, base_filename, extension):
+    file_pattern = re.compile(rf'{base_filename}(\d*).{extension}')
+    matches = [re.match(file_pattern, f) for f in os.listdir(dir_path) if re.match(file_pattern, f)]
+    return matches
         
-
-def eval(gen_note, ref_note, evaluator, report):
-    assert evaluator.prompt_name[0] == 's'
-    eval = evaluator.send((gen_note, ref_note))
-    if evaluator.model_name not in report.keys():
-        report[evaluator.model_name] = {}
-    report[evaluator.model_name][evaluator.prompt_name] = eval
-
-def write_eval_reports(dir_path, df, evaluators, overwrite=False):
-    df = df.copy()
-    if 'idx' in df.columns:
-        df = df.set_index('idx')
-    n = os.listdir(dir_path)
-    rouge = Rouge()
-    for f in tqdm(os.scandir(dir_path), total=n, ncols=50):
-        idx = int(f.name)
-        path = os.path.join(f.path, "eval_report.json")
-        if overwrite or not os.path.exists(path):
-            report = {}
-            with open(os.path.join(f.path, "gen_note.txt"), 'r') as file:
-                gen_note = file.read()
-            ref_note = df.loc[idx]['full_note']
-            report['rouge'] = rouge.get_scores(gen_note, ref_note)
-            for e in evaluators:
-                eval(gen_note, ref_note, e, report)
-            with open(path, 'w') as file:
-                json.dump(report, file)
+def write_file(contents, dir_path, base_filename, extension, overwrite=False):
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+    versions = [0 if (m[1] == '') else int(m[1]) for m in match_filenames(dir_path, base_filename, extension)]
+    if overwrite or len(versions) == 0:
+        file_path = os.path.join(dir_path, f'{base_filename}.{extension}')
+    else:
+        file_path = os.path.join(dir_path, f'{base_filename}{max(versions) + 1}.{extension}')
+    with open(file_path, 'w') as file:
+        if extension == "json":
+            json.dump(contents, file)
+        else:
+            file.write(contents)
+    return file_path
         
-def generate_and_eval(df, generator, evaluators, overwrite=False):
+def add_eval(gen_note, standard_note, evaluators, report={}):
+    rouge = Rouge()
+    report['rouge'] = rouge.get_scores(gen_note, standard_note)
+    for evaluator in evaluators:
+        eval = evaluator.send((gen_note, standard_note))
+        if evaluator.model_name not in report.keys():
+            report[evaluator.model_name] = {}
+        report[evaluator.model_name][evaluator.prompt_name] = eval
+    return report
+
+def build_eval_report(gen_notes, standard_notes, evaluators):
+    report = {}
+    for g_name, g_note in gen_notes.items():
+        report[g_name] = {}
+        for s_name, s_note in standard_notes.items():
+            if s_name != g_name:
+                report[g_name][s_name] = {}
+                add_eval(g_note, s_note, evaluators, report[g_name][s_name])
+    return report
+
+def eval_dir(dir_path, ref_note, evaluators, overwrite=False, standards='ref'):
+    standard_notes = {}
+    gen_notes = {}
+    for f in os.scandir(dir_path):
+        if re.match(r'gen_note(\d+).txt', f.name):
+            with open(f.path, 'r') as file:
+                gen_notes[f.name] = file.read()
+    if isinstance(standards, list):
+        for s in standards:
+            if s in gen_notes.keys():
+                standard_notes[s] = gen_notes[s]
+    elif standards == 'ref':
+        standard_notes = {'ref': ref_note}
+    elif standards == 'all':
+        standard_notes = {k:v for k,v in gen_notes}
+        standard_notes['ref'] = ref_note
+    else:
+        raise ValueError
+    assert len(standard_notes) > 0
+    report = build_eval_report(gen_notes, standard_notes, evaluators)
+    write_file(report, dir_path, 'eval_report', 'json', overwrite)
+
+def generate_loop(df, generator, overwrite=False):
     df = df.copy()
     if 'idx' in df.columns:
         df = df.set_index('idx')
-    rouge = Rouge()
     for idx, row in tqdm(df.iterrows(), total=len(df), ncols=50):
-        gen_note, path = generate(idx, row['conversation'], generator, overwrite)     
-        path = os.path.join(os.path.dirname(path), "eval_report.json")
-        if not os.path.exists(path) or overwrite:
-            ref_note = row['full_note']
-            report = {}
-            report['rouge'] = rouge.get_scores(gen_note, ref_note)
-            for e in evaluators:
-                eval(gen_note, ref_note, e, report)
-            with open(path, 'w') as file:
-                json.dump(report, file)
+        path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name, str(idx))
+        gen_note = generator.send(row['conversation'])
+        write_file(gen_note, path, "gen_note", "txt", overwrite)
+
+def eval_loop(dir_path, df, evaluators, overwrite=False, standards='ref'):
+    df = df.copy()
+    if 'idx' in df.columns:
+        df = df.set_index('idx')
+    for d in tqdm(os.scandir(dir_path), total=len(os.listdir(dir_path)), ncols=50):
+        eval_dir(d.path, df.loc[int(d.name)]['full_note'], evaluators, overwrite, standards)
+
+def gen_eval(df, generator, evaluators, overwrite=False, standards='ref'):
+    df = df.copy()
+    if 'idx' in df.columns:
+        df = df.set_index('idx')
+    for idx, row in tqdm(df.iterrows(), total=len(df), ncols=50):
+        path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name, str(idx))
+        gen_note = generator.send(row['conversation'])
+        write_file(gen_note, path, "gen_note", "txt", overwrite)
+        eval_dir(path, row['full_note'], evaluators, overwrite, standards)
 
 if __name__ == '__main__':
     load_dotenv()
-    api_key = os.getenv("OZWELL_SECRET_KEY")
-    print("Loading data frame...")
+    print("Loading data...")
     df = pd.read_json("hf://datasets/AGBonnet/augmented-clinical-notes/augmented_notes_30K.jsonl", lines=True)
-    print("Done loading data frame")
+    print("Done loading data!")
+
     #Ozwell
-    # req = requester.OzwellRequester("g1", api_key)
-    # path = os.path.join(req.root_dir, req.model_name, req.prompt_name)
-    # df.set_index('idx')
-    # generate_all(df, req, False)
-    # path = os.path.join(req.model_name, req.prompt_name)
-    # req.set_prompt('s1')
-    # write_eval_reports(path, df, [req], False)
-
+    # generator = requester.OzwellRequester("g1", os.getenv("OZWELL_SECRET_KEY"))
+    # evaluator = requester.OzwellRequester("s1", os.getenv("OZWELL_SECRET_KEY"))
+    # main(df, generator, [evaluator])
+    
     #Gemma3
-    # req = requester.OllamaRequester("gemma3", "g1")
-    # path = os.path.join(req.root_dir, req.model_name, req.prompt_name)
-    # df.set_index('idx')
-    # generate_all(df, req, False)
-    # path = os.path.join(req.model_name, req.prompt_name)
-    # req.set_prompt('s1')
-    # write_eval_reports(path, df, [req], False)
+    # generator = requester.OllamaRequester("gemma3", "g1")
+    # evaluator = requester.OzwellRequester("gemma3", "s1")
+    # main(df, generator, [evaluator])
 
-    df_subset = df[df['idx'].astype('string').isin(os.listdir('ozwell/g1'))]
-    ol_gen = requester.OllamaRequester("gemma3", "g1")
-    ol_sim = requester.OllamaRequester("gemma3", "s1")
-    generate_and_eval(df_subset, ol_gen, [ol_sim])
 
-    # add Gemma3 s1 eval to existing Ozwell eval reports
-    # req = requester.OllamaRequester("gemma3", "s1")
-    # for f in os.scandir("ozwell/g1"):
-    #     idx = int(f.name)
-    #     eval_report_path = os.path.join(f.path, "eval_report.json")
-    #     if os.path.exists(eval_report_path):
-    #         with open(eval_report_path, 'r') as file:
-    #             eval_report = json.load(file)
-    #     if not req.model_name in eval_report.keys() or not "s1" in eval_report[req.model_name].keys():
-    #         with open(os.path.join(f.path, "gen_note.txt"), 'r') as file:
-    #             gen_note = file.read()
-    #         ref_note = df[df['idx'] == idx]['full_note']
-    #         eval_report['gemma3']['s1'] == eval(gen_note, ref_note, req, eval_report)
-    #         with open(eval_report_path, '1') as file:
-    #             json.dump(eval_report, file)
