@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/8/2025  
+**Physician:** [Doctor's Name]  
+**Location:** The Arthur G. James Cancer Hospital  
+
+**Chief Complaint:**  
+Worsening pain in the left breast and chest wall.
+
+**History of Present Illness:**  
+The patient presents with a recurrent palpable mass in the inferior aspect of the left breast, accompanied by persistent and worsening pain and palpable tenderness within the same region. The patient reports an associated increasing sized palpable mass. The patient has a history of three separate left breast biopsies. The first biopsy, conducted seven years ago at an outside community hospital, showed dense fibrous stroma with fibrocystic changes. Four years ago, a second biopsy revealed hyperplastic fibrosis, consistent with fibromatosis of the breast. One year ago, a third biopsy again showed findings consistent with fibromatosis of the breast. The patient's surgeon previously informed them that the tumor was benign and that no further action was necessary. However, due to the worsening symptoms, the patient presented to The Arthur G. James Cancer Hospital for further evaluation.
+
+**Physical Examination:**  
+Clinical examination revealed volume loss in the left breast.
+
+**Diagnostic Tests:**  
+Tests were ordered to determine the cause of the symptoms. The results indicate the presence of cancer.
+
+**Assessment and Plan:**  
+The patient has been diagnosed with cancer. Immediate steps include scheduling appointments with a specialist to initiate treatment. The patient will be provided with instructions on necessary actions to take in the interim.
+
+**Instructions:**  
+The patient will receive further instructions on managing their condition and preparing for upcoming specialist consultations and treatment initiation.
+
+**Follow-Up:**  
+The patient will be contacted to schedule necessary appointments and will be monitored closely to ensure timely initiation of treatment.

@@ -1,0 +1,32 @@
+**Clinical Note**
+
+**Date:** 10/8/2025  
+**Time:** 1:37:09 AM  
+
+**Patient Information:**  
+- **Chief Complaint:** Severe stabbing pain in the right side of the mandible radiating to the right ear, occurring for the past 5 months.
+
+**History of Present Illness:**  
+The patient reports experiencing severe stabbing pain on the right side of the mandible that radiates to the right ear. The pain occurs spontaneously or is triggered by activities such as chewing and tooth brushing, lasting for a few seconds per attack. The patient was previously diagnosed with trigeminal neuralgia (TN) at another hospital and was prescribed carbamazepine, which provided only partial relief. The patient experienced a pain-free period for about 1 month before presenting to our clinic. However, the condition worsened in the days leading up to admission, with increased frequency and severity of pain. The patient discontinued the medication on their own decision.
+
+**Review of Systems:**  
+- **Neurological:** Normal findings  
+- **Nasopharyngeal:** Normal findings  
+
+**Diagnostic Tests:**  
+- **Laboratory Tests:** Normal  
+- **Electrocardiogram:** Normal  
+- **Computed Tomography (CT) of the Neck:** Normal  
+- **Magnetic Resonance Imaging (MRI) of the Brain:** Normal  
+
+**Clinical Findings:**  
+The patient's symptoms fulfill the criteria for trigeminal neuralgia. During the first visit, pain paroxysms occurred four to five times daily with a visual analogue scale (VAS) score of 100, indicating the worst pain possible. Pain attacks lasted only a few seconds. The patient underwent a mandibular nerve block with alcohol following a test block with 1% mepivacaine. Despite the right V3 innervated area being anesthetized and pain-free after the V3 alcohol block, the patient continued to experience right ear pain. Ten minutes post-procedure, the patient developed paroxysmal pain in the right ear, followed by faintness and loss of consciousness with convulsive movement lasting about 1 minute.
+
+**Consultations:**  
+- Neurology consultation was conducted to exclude seizure disorders. The electroencephalogram (EEG) showed no abnormalities. A brain MRI could not be performed due to convulsive movement during the pain attack.
+
+**Plan:**  
+The patient will be consulted with a cardiologist for further evaluation. Follow-up requirements will be instructed to the patient.
+
+**Physician:** [Doctor's Name]  
+**Signature:** _____________________

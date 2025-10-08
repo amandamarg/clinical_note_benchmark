@@ -1,0 +1,29 @@
+**Clinical Note**
+
+**Date:** 10/8/2025  
+**Time:** 1:47:17 AM  
+
+**Patient Name:** [Patient's Name]  
+**Referred by:** [Referring Physician's Name]  
+
+**Chief Complaint:**  
+Intractable right arm pain and swelling for the past 10 months.
+
+**History of Present Illness:**  
+The patient presents with a history of right arm pain and swelling for the past 10 months. The patient was evaluated in the emergency department where a computed tomography of the neck with contrast revealed two masses in the right axillary and supraclavicular regions. The patient was diagnosed with primary mammary carcinoma of the axilla with metastasis. The patient has undergone multiple rounds of chemotherapy and radiation therapy, which were complicated by thrombocytopenia and metastatic disease progression. The patient was determined to be a non-surgical candidate. Despite titrating oral opioid medications, the patient's pain control remains suboptimal. The pain is described as a constant 10/10 on the right proximal humerus, right anterior and posterior shoulder, and right supraclavicular region. It is dull, aching, burning, and electric in nature, worsened by passive and active range of motion, and at its best, it is a 7/10 with oral medications. The patient also reports progressive weakness of the entire right upper extremity.
+
+**Imaging Studies:**  
+- Computed tomography of the neck with contrast: Two masses in the right axillary and supraclavicular regions.
+- Magnetic resonance imaging of the brachial plexus: Mass encasing the right brachial plexus at the level of the divisions and cords as well as the right brachial artery.
+
+**Procedures:**  
+- Diagnostic brachial plexus block performed in the hospital due to functional decline and acute worsening of pain. The brachial plexus was unable to be visualized using ultrasonography due to tumor effect in the classic supraclavicular area.
+
+**Plan:**  
+The patient will be examined, and medical records will be reviewed. Additional tests and treatments will be recommended to help manage the patient's pain. The patient is advised to return in a week to discuss results and next steps.
+
+**Follow-up:**  
+The patient is scheduled to return in one week for further evaluation and management.
+
+**Physician:** [Physician's Name]  
+**Signature:** [Physician's Signature]

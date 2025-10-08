@@ -26,48 +26,25 @@ def write_file(contents, dir_path, base_filename, extension, overwrite=False):
         else:
             file.write(contents)
     return file_path
+
+def read_files(dir_path, base_filename, extension):
+    all_files = {}
+    for f in os.scandir(dir_path):
+        if re.match(rf'{base_filename}(\d*{extension}', f.name):
+            with open(f.path, 'r') as file:
+                if extension == 'json':
+                    all_files[f.name] = json.load(file)
+                else:
+                    all_files[f.name] = file.read()
+    return all_files
         
 def add_eval(gen_note, standard_note, evaluators, report={}):
     rouge = Rouge()
     report['rouge'] = rouge.get_scores(gen_note, standard_note)
     for evaluator in evaluators:
         eval = evaluator.send((gen_note, standard_note))
-        if evaluator.model_name not in report.keys():
-            report[evaluator.model_name] = {}
-        report[evaluator.model_name][evaluator.prompt_name] = eval
+        report[evaluator.model_name + '-' + evaluator.prompt_name] = eval
     return report
-
-def build_eval_report(gen_notes, standard_notes, evaluators):
-    report = {}
-    for g_name, g_note in gen_notes.items():
-        report[g_name] = {}
-        for s_name, s_note in standard_notes.items():
-            if s_name != g_name:
-                report[g_name][s_name] = {}
-                add_eval(g_note, s_note, evaluators, report[g_name][s_name])
-    return report
-
-def eval_dir(dir_path, ref_note, evaluators, overwrite=False, standards='ref'):
-    standard_notes = {}
-    gen_notes = {}
-    for f in os.scandir(dir_path):
-        if re.match(r'gen_note(\d+).txt', f.name):
-            with open(f.path, 'r') as file:
-                gen_notes[f.name] = file.read()
-    if isinstance(standards, list):
-        for s in standards:
-            if s in gen_notes.keys():
-                standard_notes[s] = gen_notes[s]
-    elif standards == 'ref':
-        standard_notes = {'ref': ref_note}
-    elif standards == 'all':
-        standard_notes = {k:v for k,v in gen_notes}
-        standard_notes['ref'] = ref_note
-    else:
-        raise ValueError
-    assert len(standard_notes) > 0
-    report = build_eval_report(gen_notes, standard_notes, evaluators)
-    write_file(report, dir_path, 'eval_report', 'json', overwrite)
 
 def generate_loop(df, generator, overwrite=False):
     df = df.copy()
@@ -78,22 +55,83 @@ def generate_loop(df, generator, overwrite=False):
         gen_note = generator.send(row['conversation'])
         write_file(gen_note, path, "gen_note", "txt", overwrite)
 
-def eval_loop(dir_path, df, evaluators, overwrite=False, standards='ref'):
+def eval(gen_note_paths_dicts, df, evaluators, standard_dir='standards', full_report={}):
     df = df.copy()
     if 'idx' in df.columns:
         df = df.set_index('idx')
-    for d in tqdm(os.scandir(dir_path), total=len(os.listdir(dir_path)), ncols=50):
-        eval_dir(d.path, df.loc[int(d.name)]['full_note'], evaluators, overwrite, standards)
+    for idx,paths in gen_note_paths_dicts.items():
+        if idx not in full_report.keys():
+            full_report[idx] = []
+        for path in paths:
+            with open(path, 'r') as file:
+                gen_note = file.read()
+            standard_path = os.path.join(standard_dir, f'standard_note_{str(idx)}.txt')
+            if os.path.islink(standard_path):
+                standard_path = os.readlink(standard_path)
+                with open(standard_path, 'r') as file:
+                    standard_note = file.read()
+            else:
+                standard_note = df.loc[int(idx)]['full_note']
+                standard_path = 'ref'
+            eval_report = {"evaluated_note": path, "standard_note": standard_path, "results": {}}
+            add_eval(gen_note, standard_note, evaluators, eval_report["results"])
+            full_report[idx].append(eval_report)
+    return full_report
 
-def gen_eval(df, generator, evaluators, overwrite=False, standards='ref'):
+def gen_eval(df, generator, evaluators, overwrite=False, standard_dir='standards'):
     df = df.copy()
     if 'idx' in df.columns:
         df = df.set_index('idx')
     for idx, row in tqdm(df.iterrows(), total=len(df), ncols=50):
         path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name, str(idx))
         gen_note = generator.send(row['conversation'])
-        write_file(gen_note, path, "gen_note", "txt", overwrite)
-        eval_dir(path, row['full_note'], evaluators, overwrite, standards)
+        gen_note_path = write_file(gen_note, path, "gen_note", "txt", overwrite)
+        standard_path = os.path.join(standard_dir, f'standard_note_{str(idx)}.txt')
+        if os.path.islink(standard_path):
+            standard_path = os.readlink(standard_path)
+            with open(standard_path, 'r') as file:
+                standard_note = file.read()
+        else:
+            standard_note = row['full_note']
+            standard_path = 'ref'
+        eval_report = {"evaluated_note": gen_note_path, "standard_note": standard_path, "results": {}}
+        add_eval(gen_note, standard_note, evaluators, eval_report["results"])
+        write_file(eval_report, path, 'eval_report', 'json', overwrite)
+
+def set_standard(idx, src_path, standard_dir='standards'):
+    dest_path = os.path.join(standard_dir, f'standard_note_{str(idx)}.txt')
+    if (os.path.islink(dest_path)):
+        os.unlink(dest_path)
+    os.symlink(src_path, dest_path)
+
+def generate_n(n, df, generator):
+    df = df.copy()
+    if 'idx' in df.columns:
+        df = df.set_index('idx')
+    for idx, row in tqdm(df.iterrows(), total=len(df), ncols=50):
+        path = os.path.join(generator.root_dir, generator.model_name, generator.prompt_name, str(idx))
+        versions = match_filenames(path, "gen_note", "txt")
+        if len(versions) < n:
+            for _ in range(n-len(versions)):
+                gen_note = generator.send(row['conversation'])
+                write_file(gen_note, path, "gen_note", "txt", False)
+
+def avg_rouge(rouge_scores):
+    avgs = {}
+    for x in rouge_scores:
+        for k,v in x.items():
+            if k not in avgs.keys():
+                avgs[k] = {}
+            for kk,vv in v.items():
+                if kk not in avgs[k].keys():
+                    avgs[k][kk] = []
+                avgs[k][kk].append(vv)
+    for k,v in avgs.items():
+        for kk,vv in v.items():
+            avgs[k][kk] = sum(vv)/len(vv)
+    return avgs
+
+
 
 if __name__ == '__main__':
     load_dotenv()
@@ -111,4 +149,50 @@ if __name__ == '__main__':
     # evaluator = requester.OzwellRequester("gemma3", "s1")
     # main(df, generator, [evaluator])
 
+    #Expiriment
+    samples = sorted(os.listdir('ozwell/g1'), key=int)[:15]
+    df_subset = df[df['idx'].astype('string').isin(samples)]
+    req = requester.OzwellRequester("g1", os.getenv("OZWELL_SECRET_KEY"))
+    # n = 3
+    # generate_n(n, df_subset, req)
+    base_path = os.path.join(req.root_dir, req.model_name, req.prompt_name)
+    # req.set_prompt('s1')
+    # gen_note_paths = {}
+    # for idx in samples:
+    #     gen_note_paths[idx] = []
+    #     for f in os.scandir(os.path.join(base_path, str(idx))):
+    #         if re.match(r'gen_note(\d*).txt', f.name):
+    #             gen_note_paths[idx].append(f.path)
+    # report = {}
+    # eval(gen_note_paths, df_subset, [req], '', report)
+    # for i in range(n):
+    #     for k,v in gen_note_paths.items():
+    #         set_standard(k,v[i],'standards')
+    #     eval(gen_note_paths, df_subset, [req], 'standards', report)
+    # write_file(report, 'expiriments', 'eval_report', 'json', False)
+
+    notes = {'ref':[]}
+    for idx in samples:
+        notes['ref'].append(df_subset[df_subset['idx'] == int(idx)]['full_note'].values[0])
+        for f in os.scandir(os.path.join(base_path, str(idx))):
+            if re.match(r'gen_note(\d*).txt', f.name):
+                if f.name not in notes.keys():
+                    notes[f.name] = []
+                with open(f.path, 'r') as file:
+                    notes[f.name].append(file.read())
+    
+    rouge = Rouge()
+    avgs = []
+    for s_k, s_v in notes.items():
+        for g_k, g_v in notes.items():
+            if g_k != 'ref' and g_k != s_k:
+                scores = rouge.get_scores(g_v, s_v, avg=True)
+                avgs.append({'standard': s_k, "gen_note": g_k, "results": scores})
+    write_file(avgs, 'expiriments', 'rouge_avgs', 'json', False)
+        
+
+        
+    
+
+    
 

@@ -1,0 +1,25 @@
+**Clinical Note**
+
+**Patient Name:** Mr. B  
+**Date:** 10/8/2025  
+**Physician:** [Doctor's Name]
+
+**Subjective:**
+Mr. B reports feeling okay today. He has a history of renal cell carcinoma (RCC) initially presented with microscopic hematuria in 1986, discovered during a routine urinalysis. He was subsequently diagnosed with RCC through imaging and underwent nephrectomy for a 7 × 6 × 5.5 cm tumor.
+
+**Objective:**
+In March 2006, a routine chest X-ray revealed new lung nodules, prompting a CT scan. The CT scan showed a large retroperitoneal mass posterior to the stomach and bilateral lung nodules, with the largest lung lesion measuring 2 cm. A biopsy confirmed RCC. MRI of the brain and bone scan were negative.
+
+Mr. B was first seen at our institution in April 2006 and was determined to be a candidate for high-dose IL-2. After 8 weeks, he showed some response but was only able to tolerate half of cycle 2 and subsequently declined further IL-2 treatment. He was then started on sorafenib and had a minor response at all disease sites. After 24 weeks on therapy, he had a significant response.
+
+However, he developed symptomatic mTOR interstitial pneumonitis, leading to the discontinuation of temsirolimus. His disease continued to progress off therapy. In October 2008, he was started on bevacizumab. After 24 weeks of treatment, he was found to have a pulmonary embolus, for which Lovenox was started, and bevacizumab was continued without incident.
+
+**Assessment/Plan:**
+- Renal cell carcinoma with history of nephrectomy and multiple treatments.
+- Continue monitoring for disease progression and manage any new symptoms or complications.
+- Continue current treatment regimen and anticoagulation therapy with Lovenox.
+- Follow up as needed for further evaluation and management. 
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]
