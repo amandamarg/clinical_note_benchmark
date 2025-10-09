@@ -11,19 +11,19 @@ if __name__ == '__main__':
     load_dotenv()
     df = pd.read_json('augmented-clinical-notes/augmented_notes_30K.jsonl', lines=True)
     samples = ['224', '431', '562', '619', '958', '1380', '1716', '1834', '2021', '3026', '3058', '3093', '3293', '3931', '4129']
-    df_samples = df[df.index.astype('string').isin(samples)]
-
+    df_samples = df[df['idx'].astype('string').isin(samples)]
+    
     #Ozwell
     req = requester.OzwellRequester("g2", os.getenv("OZWELL_SECRET_KEY"))
     gen_name = req.model_name + '_' + req.prompt_name
     n = 3
-    generate_n(n,df_samples, req)
+    generate_n(n, df_samples, req)
     eval = Evaluator()
     req.set_prompt('s1')
     eval_name = req.model_name + '-' + req.prompt_name
     avgs = {'global':{}, 'indiv':{}}
     for i in range(n):
-        gen_note_paths = get_gen_note_paths('ozwell/g2', samples, [n])
+        gen_note_paths = get_gen_note_paths('ozwell/g2', samples, i)
         gen_notes = read_gen_notes(gen_note_paths)
         standards = eval.get_standards(gen_notes)
         ai_responses = eval.ai_eval(gen_notes, req)
@@ -36,4 +36,4 @@ if __name__ == '__main__':
         gen_notes = read_gen_notes(gen_note_paths)
         avgs['indiv'][s] = eval.get_rouge(gen_notes, True)
     with open(f'expiriments/{gen_name}_rouge_avgs.json', 'w') as file:
-        json.dump(avgs)
+        json.dump(avgs, file)

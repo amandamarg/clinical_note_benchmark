@@ -1,0 +1,40 @@
+**Clinical Note:**
+
+**Patient Information:**
+- **Name:** [Patient's Name]
+- **Age:** [Patient's Age]
+- **Gender:** [Patient's Gender]
+- **Date:** 10/8/2025
+
+**Chief Complaint:**
+- Episodic cluster headache with severe hemifacial pain.
+
+**History of Present Illness:**
+- The patient reports a history of episodic cluster headaches for the past five years, with episodes occurring every three to six months and lasting about 15 days. The shortest and longest clusters have been five and 17 days, respectively.
+- The current cluster started one day ago, with two severe episodes yesterday, each lasting about 60 minutes with a six-hour pain relief in between.
+- The patient presented to the hospital today with severe hemifacial pain that started less than five minutes before arrival.
+
+**Symptoms:**
+- Sharp pain on the left side of the face, radiating from the back of the left eye.
+- Lacrimation, conjunctival congestion, and nasal discharge on the left side.
+
+**Past Medical History:**
+- History of orthopedic surgeries due to an accident.
+- No history of alcohol or drug abuse.
+
+**Medication History:**
+- Previously tried oral nonsteroidal anti-inflammatory drugs with incomplete pain relief.
+- Frequently admitted to the hospital for oxygen therapy and intravenous painkillers.
+- Received opioid medication once.
+- Initially reluctant to take medication; the first headache lasted six hours without medication.
+- After starting medication, disabling episodes lasted between 15 to 180 minutes, with some mild to moderate pain persisting.
+
+**Social History:**
+- Took a few hours of sick leave but generally tolerated the pain.
+
+**Plan:**
+- Conduct a physical examination and run necessary tests to determine the best course of treatment.
+- Instruct the patient on follow-up requirements, including regular check-ups and adherence to the prescribed medication regimen.
+
+**Consent:**
+- Written informed consent obtained for examination and potential case reporting in a medical journal.

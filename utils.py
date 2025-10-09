@@ -56,9 +56,13 @@ def get_gen_note_paths(dir_path, idx=None, version=None, return_matches=False):
         idx_filter = str(idx) if idx else r'\d+'
     if isinstance(version, list):
         version = list(map(str, version))
+        print(version)
         if '0' in version:
             version.remove('0')
-            version_filter = rf'({('|').join(version)})*'
+            if len(version) == 0:
+                version_filter = ''
+            else:
+                version_filter = rf'({('|').join(version)})*'
         else:
             version_filter = ('|').join(version)
     else:

@@ -1,0 +1,35 @@
+**Clinical Note:**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/8/2025  
+**Physician:** [Doctor's Name]  
+**Subject:** Follow-up on Gallbladder Cancer Treatment
+
+**Medical History:**  
+The patient has a 2-month history of right shoulder and upper abdominal pain. Initial ultrasonography at another hospital detected a gallbladder tumor, leading to a referral to our facility for further diagnosis and treatment.
+
+**Diagnostic Findings:**  
+- **Laboratory Findings:** Nearly normal at presentation.
+- **Imaging:** CT and MRI revealed a mass at the cervix of the gallbladder involving the common and right hepatic arteries, with enlargement of the No. 12 lymph node.
+- **Biopsy:** Percutaneous biopsy indicated adenocarcinoma.
+- **Immunohistochemical Analysis:** Positive for carcinoembryonic antigen (CEA) and cytokeratin 7; negative for cytokeratin 20.
+
+**Diagnosis:**  
+Unresectable gallbladder cancer.
+
+**Treatment Course:**  
+- Initiated on gemcitabine at 1,000 mg/m², administered on days 1, 8, and 15 of each 4-week cycle.
+- After 13 cycles, CT showed a marked decrease in tumor size, rated as partial response per RECIST criteria, version 1.0.
+- After 15 cycles, the tumor disappeared, with complete response (CR) confirmed by CT after 20 cycles.
+- Surgical resection was deemed unsuitable due to the patient's severe bronchial asthma.
+- Gemcitabine monotherapy was continued.
+
+**Current Status:**  
+After 27 cycles (12 months post-CR), a discussion was held regarding the continuation of gemcitabine therapy. The patient opted to continue treatment due to concerns about potential tumor relapse.
+
+**Plan:**  
+Continue monitoring the patient's condition and provide updates. The patient is advised to reach out with any questions or concerns.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

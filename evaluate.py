@@ -3,6 +3,7 @@ import os
 from tqdm import tqdm
 from rouge import Rouge
 from utils import match_filenames
+from utils import get_gen_note_paths, read_gen_notes
 
 class Evaluator:
     def __init__(self, dataset_path='augmented-clinical-notes/augmented_notes_30K.jsonl', standards_dir='standards'):
@@ -31,15 +32,21 @@ class Evaluator:
         assert ai_requester.prompt_name[0] == 's'
         responses = []
         for row in tqdm(gen_note_df.iterrows(), total=len(gen_note_df), ncols=50):
-            standard = self.standards.loc[row['idx']]
-            responses.append(ai_requester.send((row['note'], standard)))
+            standard_note = self.standards.loc[row[1]['idx']]['full_note']
+            gen_note = row[1]['note']
+            responses.append(ai_requester.send((gen_note, standard_note)))
         return responses
 
     def get_rouge(self, gen_note_df, avg=True):
-        standards = self.standards.loc[gen_note_df['idx']]
+        standards = self.standards.loc[gen_note_df['idx'].astype(int)]
         return self.rouge.get_scores(gen_note_df['note'], standards['full_note'], avg)
 
-
+if __name__ == '__main__':
+    samples = ['224', '431', '562', '619', '958', '1380', '1716', '1834', '2021', '3026', '3058', '3093', '3293', '3931', '4129']
+    gen_note_paths = get_gen_note_paths('ozwell/g2', samples, ['0'])
+    gen_notes = read_gen_notes(gen_note_paths)
+    eval = Evaluator()
+    print(eval.get_rouge(gen_notes, True))
 
 
 

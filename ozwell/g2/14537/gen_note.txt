@@ -1,0 +1,26 @@
+**Clinical Note:**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/8/2025  
+**Physician:** Dr. Smith  
+
+**Chief Complaint:**  
+Pain, redness, and swelling in the right groin.
+
+**History of Present Illness:**  
+The patient reports a history of bilateral indirect inguinal hernia repair 10 years ago. Approximately 3 months ago, the patient began experiencing redness, swelling, and pain in the right groin, accompanied by fever. Initial treatment at a local hospital involved puncturing the area to extract foul-smelling pus and making a 1 cm incision to release approximately 50 mL of pus. The patient received intravenous antibiotics, resulting in the resolution of fever the following day. Despite daily dressing changes, the amount of pus did not decrease, and a sinus tract formed, which has not healed after nearly 3 months of treatment. The patient reports tenderness in the right inguinal region but denies any other symptoms.
+
+**Physical Examination:**  
+- Ulcer approximately 1 cm on the scar, actively discharging pus.
+- Tenderness in the right inguinal region.
+
+**Procedure:**  
+A probe test was performed, revealing a sinus tract depth of approximately 4 cm.
+
+**Assessment/Plan:**  
+- Prescribed antibiotics.
+- Scheduled a follow-up appointment in one week.
+- Advised the patient to return if symptoms worsen or any changes are noticed.
+
+**Instructions to Patient:**  
+Monitor for any changes or worsening of symptoms and return to the clinic if necessary. Follow up in one week as scheduled.

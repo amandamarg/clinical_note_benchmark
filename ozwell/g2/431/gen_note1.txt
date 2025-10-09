@@ -1,0 +1,48 @@
+**Clinical Note:**
+
+**Patient Information:**
+- **Name:** [Patient Name]
+- **Date of Birth:** [DOB]
+- **Date of Visit:** 10/9/2025
+
+**Chief Complaint:**
+- Rectal bleeding and change in bowel habits for the past 6 months.
+
+**History of Present Illness:**
+- The patient reports increased frequency of stools and passage of mucus. No abdominal pain reported.
+
+**Past Medical History:**
+- Born with bladder exstrophy; multiple surgeries including cystectomy with ileal conduit formation at age 5.
+- Recurrent urinary tract infections throughout childhood and adulthood.
+- No other major co-morbidities or risk factors for colorectal malignancy.
+- No family history of colorectal disease.
+
+**Colonoscopy Findings:**
+- Two large sessile polyps in the sigmoid colon, approximately 3 cm each, with type IV pit pattern and areas of irregularity.
+- Histology: Adenomas with low and high grade dysplasia, no submucosal invasion.
+- Atypical mucosa around a diverticulum-like structure, not adenomatous.
+- No other polyps or diverticular disease noted.
+
+**Treatment and Surgical Intervention:**
+- Endoscopic resection considered but surgery preferred due to characteristics and difficult access.
+- High anterior resection performed with open approach due to suspected intra-abdominal adhesions.
+- End colostomy formed at patient's pre-operative request.
+
+**Intraoperative Findings:**
+- Right fallopian tube adherent to sigmoid colon.
+- Blind ending tube noted from anti-mesenteric border of the colon, marked for pathology.
+
+**Postoperative Course:**
+- Uneventful recovery.
+- Good quality of life reported post-surgery.
+- Patient expressed desire for permanent colostomy.
+
+**Plan:**
+- Continue monitoring for any new symptoms or concerns.
+- Follow-up as needed.
+
+**Patient Education:**
+- Advised to return for any questions or concerns in the future.
+
+**Physician:**
+- [Doctor's Name]

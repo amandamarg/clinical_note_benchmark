@@ -1,0 +1,25 @@
+**Clinical Note:**
+
+**Patient Name:** Mrs. Smith  
+**Date:** 10/8/2025  
+**Physician:** Dr. Johnson  
+
+**Subjective:**  
+Mrs. Smith presented to the radiology department for a CT-guided biopsy to evaluate a recently diagnosed 1.9 cm right lower lobe pulmonary nodule and mediastinal lymphadenopathy. She has a past medical history of chronic obstructive pulmonary disease, atrial fibrillation, chronic hyponatremia, congestive heart failure, stroke, and hypertension.
+
+**Objective:**  
+- **Procedure:** CT-guided biopsy using a 19-gauge guiding needle, three 22-gauge Chiba biopsy needles for aspiration, and three 20-gauge core biopsy specimens.
+- **Complications:** Hemorrhage at the biopsy site; no immediate pneumothorax.
+- **Post-procedure:** Patient became unresponsive and developed cardiopulmonary arrest upon repositioning. Code blue was called, and CPR was performed with administration of epinephrine, resulting in regained spontaneous circulation. Intubated for mechanical ventilation and admitted to the medical intensive care unit.
+
+**Imaging and Tests:**  
+- **CT Chest:** Frothy air dense material in the left atrium and one of the right pulmonary veins, suggesting broncho venous fistula with air embolism.
+- **CT Head:** No acute intracranial findings.
+- **Transthoracic Echo with Contrast:** Normal; no evidence of air bubble in the atria or ventricles. Ejection fraction 55-60%, normal right ventricle size and function.
+
+**Treatment:**  
+- Placed in Trendelenburg position and underwent hyperbaric oxygen therapy for air embolism, which was well-tolerated.
+- Kept on mechanical ventilation overnight and successfully weaned off and extubated the following day.
+
+**Assessment and Plan:**  
+Mrs. Smith is recovering well post-procedure and post-complication. She will continue to be monitored closely to ensure a smooth recovery process.

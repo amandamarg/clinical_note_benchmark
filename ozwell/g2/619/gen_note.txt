@@ -1,0 +1,43 @@
+**Clinical Note:**
+
+**Patient Information:**
+- **Name:** [Patient's Name]
+- **Date:** 10/9/2025
+- **Presenting Complaint:** Chest pain and dyspnoea
+
+**History:**
+- The patient was referred for evaluation of chest pain and shortness of breath.
+- No pre-existing medical conditions reported.
+
+**Examination Findings:**
+- Physical examination revealed feeble femoral pulses.
+- Hypertension with marked differences in systolic blood pressure between upper (190mmHg) and lower limbs (75mmHg).
+- Ankle brachial index: 0.39.
+
+**Investigations:**
+- **Electrocardiogram:** Severe left ventricular hypertrophy.
+- **Echocardiography:** Tricuspid aortic valve with significant aortic regurgitation; aortic root aneurysm (~9 cm); preserved left ventricular function.
+- **CT Angiography:** Aortic root aneurysm (8.8 cm); severe aortic coarctation with subtotal occlusion (lumen <6 mm) distal to the left subclavian artery; collateral circulation via subclavian and intercostal arteries.
+- **Coronary Angiography:** Right dominant coronary system; no significant coronary disease.
+
+**Management Plan:**
+- Initial plan for a two-staged hybrid approach: endovascular stenting of coarctation followed by surgical repair of aortic root aneurysm.
+- Endovascular approach unsuccessful due to complete obstruction at the aortic isthmus.
+- Decision to proceed with a single-stage surgical approach.
+
+**Surgical Intervention:**
+- Single-stage surgical repair of aortic root aneurysm and aortic coarctation.
+- Arterial lines placed in left radial and left femoral artery.
+- Right infraclavicular and right groin incisions for peripheral arterial cannulation.
+- Aorta repaired using an 8 mm dacron graft.
+
+**Postoperative Status:**
+- Patient is in stable condition.
+- Close monitoring required for the next few days.
+- Follow-up appointments and tests will be necessary.
+
+**Plan:**
+- Continue monitoring and provide supportive care.
+- Schedule follow-up appointments for further evaluation and management. 
+
+**Doctor:** [Doctor's Name]
