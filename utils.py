@@ -44,6 +44,8 @@ def set_standard(idx, src_path, standard_dir='standards'):
     dest_path = os.path.join(standard_dir, f'standard_note_{str(idx)}.txt')
     if (os.path.islink(dest_path)):
         os.unlink(dest_path)
+    if src_path == 'ref':
+        return
     os.symlink(src_path, dest_path)
 
 def get_gen_note_paths(dir_path, idx=None, version=None, return_matches=False):
@@ -72,7 +74,6 @@ def get_gen_note_paths(dir_path, idx=None, version=None, return_matches=False):
     else:
         return [p for p in gen_note_paths if pattern.match(p)]
 
-
 def read_gen_notes(gen_note_paths):
     pattern = re.compile(rf'(.*)/(\d+)/gen_note(\d*).txt')
     gen_notes = []
@@ -84,4 +85,4 @@ def read_gen_notes(gen_note_paths):
         with open(p, 'r') as file:
             gen_notes.append(file.read())
     return pd.DataFrame(list(zip(gen_note_paths, gen_notes, inds)), columns=['path', 'note', 'idx'])
-    
+

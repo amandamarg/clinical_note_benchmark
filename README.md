@@ -1,6 +1,6 @@
-# clinical_note_benchmark
+# Clinical Note Benchmark
 
-This repository contains tooling for generating clinical notes from patient-doctor conversations, evaluating generated notes against reference (ground-truth) notes using ROUGE and model-based similarity prompts, and collecting results and plots for analysis.
+This repository contains tooling for generating clinical notes from patient-doctor conversations, evaluating generated notes against reference (ground-truth) notes using ROUGE and model-based similarity prompts, and collecting results and plots for analysis. This project aims to create a benchmark for assessing the quality of generated clinical notes. This benchmark will serve as a baseline to compare clinical note quality across different models and model versions.
 
 ## Contents
 

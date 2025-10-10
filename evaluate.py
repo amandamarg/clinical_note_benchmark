@@ -23,6 +23,12 @@ class Evaluator:
         df = df.set_index('idx')
         df = df[~df.index.isin(standard_inds)].get(['full_note']).copy()
         df['path'] = df.map(lambda x: 'ref')
+        if len(standard_df) == 0:
+            self.standards = df
+            return 
+        if len(df) == 0:
+            self.standards = standard_df
+            return
         self.standards = pd.concat((df, standard_df))
     
     def get_standards(self, gen_note_df):
