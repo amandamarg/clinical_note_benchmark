@@ -7,7 +7,7 @@ from generate import generate_loop, generate_n
 from utils import get_gen_note_paths, read_gen_notes, set_standard, write_file
 import json
 import re
-from utils import match_filenames
+from utils import match_filenames, extend_or_create
 
 N = 3
 STANDARD_VERSION = '1'
@@ -30,40 +30,31 @@ if __name__ == '__main__':
     eval = Evaluator()
     req.set_prompt('s1')
     eval_name = req.model_name + '-' + req.prompt_name
-    avgs = {'global':{}, 'indiv':{}}
+    global_avgs = []
+    idx_avgs = []
     eval_data = []
     for i in range(N):
         gen_note_paths = get_gen_note_paths('ozwell/g2', samples, i)
         gen_notes = read_gen_notes(gen_note_paths)
         standards = eval.get_standards(gen_notes)
-        ai_responses = eval.ai_eval(gen_notes, req)
+        # ai_responses = eval.ai_eval(gen_notes, req)
         rouge_scores = eval.get_rouge(gen_notes, False)
-        eval_data.extend(list(zip(gen_notes['idx'].values, gen_notes['path'].values, standards['path'].values, ai_responses, rouge_scores)))
-        avgs['global'][f'v{i}'] = eval.get_rouge(gen_notes, True)
-    eval_df = pd.DataFrame(eval_data, columns=['idx', 'gen_note_path', 'standard_note_path', eval_name, 'rouge'])
-    dest_path = os.path.join('expiriments', gen_name)
-    if os.path.exists(os.path.join(dest_path, f'eval_report.json')):
-        existing_report = pd.read_json(dest_path)
-        pd.concat((existing_report, eval_df)).reset_index(drop=True).to_json(dest_path)
-    else:
-        eval_df.to_json(dest_path)
-    for s in samples:
-        gen_note_paths = get_gen_note_paths(gen_name, s)
-        gen_notes = read_gen_notes(gen_note_paths)
-        avgs['indiv'][s] = eval.get_rouge(gen_notes, True)
+        eval_data.extend(list(zip(gen_notes['idx'].values, gen_notes['path'].values, standards['path'].values, rouge_scores)))
+        # eval_data.extend(list(zip(gen_notes['idx'].values, gen_notes['path'].values, standards['path'].values, ai_responses, rouge_scores)))
+        global_avgs.append((STANDARD_VERSION if STANDARD_VERSION == 'ref' else f'v{STANDARD_VERSION}', f'v{i}', eval.get_rouge(gen_notes, True)))
+    # eval_df = pd.DataFrame(eval_data, columns=['idx', 'gen_note_path', 'standard_note_path', eval_name, 'rouge'])
+    eval_df = pd.DataFrame(eval_data, columns=['idx', 'gen_note_path', 'standard_note_path', 'rouge'])
+    print(global_avgs)
+    # extend_or_create(os.path.join('expiriments', gen_name, f'eval_report.json'), eval_df)
 
-    matches = match_filenames(dest_path, 'rouge_avgs', 'json')
-    if len(matches) > 0:
-        version = max([0 if (m[1] == '') else int(m[1]) for m in matches])
-        filename = 'rouge_avgs.json' if version == 0 else f'rouge_avgs{version}.json'
-        with open(os.path.join(dest_path, filename), 'r') as file:
-            existing = json.load(file)
-        existing[STANDARD_VERSION] = avgs
-        with open(os.path.join(dest_path, f'rouge_avgs{version+1}'), 'w') as file:
-            json.dump(existing, file)
-    else:
-        with open(os.path.join(dest_path, 'rouge_avgs.json'), 'w') as file:
-            json.dump({STANDARD_VERSION: avgs}, file)
+    global_avgs_df = pd.DataFrame(global_avgs, columns=['standard', 'version_avged', 'results'])
+    # extend_or_create(os.path.join('expiriments', gen_name, f'rouge_global_avgs.json'), global_avgs_df)
 
+    # for s in samples:
+    #     gen_note_paths = get_gen_note_paths(gen_name, s)
+    #     gen_notes = read_gen_notes(gen_note_paths)
+    #     idx_avgs.append((STANDARD_VERSION, s, eval.get_rouge(gen_notes, True)))
+    # idx_avgs_df = pd.DataFrame(idx_avgs, columns=['standard', 'idx', 'results'])
+    # extend_or_create(os.path.join('expiriments', gen_name, f'rouge_global_avgs.json'), idx_avgs_df)
 
 
