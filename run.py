@@ -29,11 +29,11 @@ if __name__ == '__main__':
         ai_responses = eval.ai_eval(gen_notes, req)
         rouge_scores = eval.get_rouge(gen_notes, False)
         eval_df = pd.DataFrame(list(zip(gen_notes['idx'].values, gen_notes['path'].values, standards['path'].values, ai_responses, rouge_scores)), columns=['idx', 'gen_note_path', 'standard_note_path', eval_name, 'rouge'])
-        eval_df.to_json(f'expiriments/{gen_name}_eval_report_{i}.json')
+        eval_df.to_json(f'expiriments/standard_ref_{gen_name}_eval_report_{i}.json')
         avgs['global'][f'v{i}'] = eval.get_rouge(gen_notes, True)
     for s in samples:
         gen_note_paths = get_gen_note_paths('ozwell/g2', s)
         gen_notes = read_gen_notes(gen_note_paths)
         avgs['indiv'][s] = eval.get_rouge(gen_notes, True)
-    with open(f'expiriments/{gen_name}_rouge_avgs.json', 'w') as file:
+    with open(f'expiriments/standard_ref_{gen_name}_rouge_avgs.json', 'w') as file:
         json.dump(avgs, file)

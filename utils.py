@@ -46,7 +46,6 @@ def set_standard(idx, src_path, standard_dir='standards'):
         os.unlink(dest_path)
     os.symlink(src_path, dest_path)
 
-
 def get_gen_note_paths(dir_path, idx=None, version=None, return_matches=False):
     gen_note_paths = glob(os.path.join(dir_path, '**/*.txt'), recursive=True)
     if isinstance(idx, list):
