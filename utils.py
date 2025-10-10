@@ -86,3 +86,14 @@ def read_gen_notes(gen_note_paths):
             gen_notes.append(file.read())
     return pd.DataFrame(list(zip(gen_note_paths, gen_notes, inds)), columns=['path', 'note', 'idx'])
 
+
+def extend_or_create(dest_path, df):
+    if os.path.exists(dest_path):
+        existing_report = pd.read_json(dest_path)
+        pd.concat((existing_report, df)).reset_index(drop=True).to_json(dest_path)
+    else:
+        df.to_json(dest_path)
+
+def clean_text(text):
+    text = re.sub(r'(\n)|(-)|(\*\*)', '', text)
+    return re.sub(r' +', ' ', text)
