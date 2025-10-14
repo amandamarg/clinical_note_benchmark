@@ -5,13 +5,16 @@ import seaborn as sns
 import re
 
 MODEL_NAME = 'ozwell'
-PROMPT_NAME = 'g1'
+PROMPT_NAME = 'g2'
 FILE_NAME = 'eval_report'
 
 if __name__ == '__main__':
     
     path = os.path.join('expiriments', MODEL_NAME, PROMPT_NAME)
     data = pd.read_json(os.path.join(path, FILE_NAME + '.json'))
+    if re.search(r'eval_report', FILE_NAME):
+        # exclude comparisons between identical notes
+        data = data[data['standard_note_path'] != data['gen_note_path']].reset_index(drop=True).copy()
     rouge_dfs = []
     for rt in ['rouge-1', 'rouge-2', 'rouge-l']:
         rouge_dfs.append(pd.DataFrame.from_records(data[rt].values).rename(columns={k:f'{rt}-{k}' for k in ['f', 'p', 'r']}))

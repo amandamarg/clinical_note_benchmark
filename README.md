@@ -75,7 +75,7 @@ note = req.send(conversation_text)
 
 4) Plotting
 
-- `plot.py` reads `expiriments/{generation_model_name}/{generation_prompt_name}/eval_report.json` or `expiriments/{generation_model_name}/{generation_prompt_name}/rouge_avgs.json` (or other aggregated JSON) and writes scatter plots into `expiriments/{generation_model_name}/{generation_prompt_name}/plots/`.
+- `plot.py` reads `expiriments/{generation_model_name}/{generation_prompt_name}/eval_report.json` or `expiriments/{generation_model_name}/{generation_prompt_name}/rouge_avgs.json` (or other aggregated JSON) and writes scatter plots into `expiriments/{generation_model_name}/{generation_prompt_name}/plots/`. The plots are color-coded in accordance with the 'standard note' used to compare.
 
 Files & conventions
 
@@ -83,6 +83,7 @@ Files & conventions
 - Generated notes: `{model}/{prompt}/{idx}/gen_note.txt`. If multiple versions are generated, the utility appends a numeric suffix: `gen_note.txt`, `gen_note1.txt`, `gen_note2.txt`, etc.
 - Evaluation report: `expiriments/{generation_model}/{generation_prompt}/eval_report.json` with keys like `{"rouge-1": ..., "ozwell-s1": ...}`.
 - Standards: place symlinks to canonical standard notes in `standards/` named `standard_note_{idx}.txt` (use `utils.set_standard()` to create symlinks programmatically).
+- Expiriments/old_results: contains older versions of `eval_reports.json` and `rouge_avgs.json` that are poorly formatted
 
 ## Developer notes
 
