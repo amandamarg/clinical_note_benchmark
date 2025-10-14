@@ -47,15 +47,15 @@ class Evaluator:
         return self.rouge.get_scores(gen_note_df['note'], standards['full_note'], avg)
     
 
-def get_rouge_idx_avgs_df(gen_notes, eval):
-    idx_avgs = []
+def get_rouge_avgs_df(gen_notes, eval):
+    rouge_avgs = []
     standards = eval.standards
     for i,g in gen_notes.groupby('idx'):
         data = {'standard_note_path': standards.loc[i]['path'], 'idx': i}
         data.update(eval.get_rouge(g, True))
-        idx_avgs.append(data)
-    idx_avgs_df = pd.DataFrame.from_records(idx_avgs)
-    return idx_avgs_df
+        rouge_avgs.append(data)
+    rouge_avgs_df = pd.DataFrame.from_records(rouge_avgs)
+    return rouge_avgs_df
 
 
 def get_eval_df(gen_notes, eval, req):
@@ -77,7 +77,7 @@ if __name__=='__main__':
     gen_note_paths = glob(f'ozwell/g2/*/gen_note*.txt', recursive=True)
     gen_note_paths = [path for path in gen_note_paths if path.split('/')[-2] in samples]
     gen_notes = read_gen_notes(gen_note_paths)
-    get_rouge_idx_avgs_df(gen_notes, eval)
+    get_rouge_avgs_df(gen_notes, eval)
     
     # x = pd.read_json('expiriments/ozwell/g2/eval_report.json').drop_duplicates(['gen_note_path', 'standard_note_path'])
     # x = x[x['standard_note_path'].isin(eval.standards['path'])]

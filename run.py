@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import pandas as pd
 import os
 import requester
-from evaluate import Evaluator, get_eval_df, get_rouge_idx_avgs_df
+from evaluate import Evaluator, get_eval_df, get_rouge_avgs_df
 from generate import generate_loop, generate_n
 from utils import get_gen_note_paths, read_gen_notes, set_standard, write_df
 import json
@@ -15,7 +15,7 @@ WRITE_MODE = 'extend' # 'extend', 'overwrite', 'new'
 STANDARD_VERSION = '2'
 EXCLUDE_STANDARDS_FROM_AVG = True
 GENERATE_MODEL_NAME = 'ozwell'
-GENERATE_PROMPT_NAME = 'g2'
+GENERATE_PROMPT_NAME = 'g1'
 EVAL_MODEL_NAME = 'ozwell'
 EVAL_PROMPT = 's1'
 
@@ -49,10 +49,10 @@ def main():
     eval_df = get_eval_df(gen_notes, eval, req_eval)
     if EXCLUDE_STANDARDS_FROM_AVG:
         gen_notes = gen_notes[~gen_notes['path'].isin(eval.standards['path'])]
-    idx_avgs_df = get_rouge_idx_avgs_df(gen_notes, eval)
+    rouge_avgs_df = get_rouge_avgs_df(gen_notes, eval)
 
     write_df(eval_df, base_path, 'eval_report', 'json', WRITE_MODE)
-    write_df(idx_avgs_df, base_path, 'rouge_idx_avgs', 'json', WRITE_MODE)
+    write_df(rouge_avgs_df, base_path, 'rouge_avgs', 'json', WRITE_MODE)
 
 if __name__ == '__main__':
     main()
