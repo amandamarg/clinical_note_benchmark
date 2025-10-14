@@ -7,14 +7,14 @@ from dotenv import load_dotenv
 import pandas as pd
 
 class Requester(ABC):
-    def __init__(self, model_name, prompt_name, api_key, root_dir='./'):
+    def __init__(self, model_name, prompt_name, args=None, root_dir='./'):
         self.root_dir = root_dir
         self.model_name = model_name
         self.set_prompt(prompt_name)
-        self.header = self.build_header(api_key)
+        self.header = self.build_header(args)
     
     @abstractmethod
-    def build_header(self, api_key):
+    def build_header(self, args):
         pass
 
     def set_prompt(self, prompt_name):
@@ -32,11 +32,13 @@ class Requester(ABC):
         pass
 
 class OzwellRequester(Requester):
-    def __init__(self, prompt_name, api_key, root_dir='./'):
-        super().__init__('ozwell', prompt_name, api_key, root_dir)
+    def __init__(self, prompt_name, root_dir='./'):
+        load_dotenv()
+        api_key = os.getenv("OZWELL_SECRET_KEY")
+        super().__init__('ozwell', prompt_name, {'api_key': api_key}, root_dir)
     
-    def build_header(self, api_key):
-        return {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    def build_header(self, args):
+        return {"Authorization": f"Bearer {args['api_key']}", "Content-Type": "application/json"}
 
     def send(self, data):
         url = 'https://ai.bluehive.com/api/v1/completion'
@@ -50,19 +52,19 @@ class OzwellRequester(Requester):
             print(f'Response status: {status_code}')
         return content
 class OllamaRequester(Requester):
-    def __init__(self, model_name, prompt_name, api_key=None, root_dir='./'):
-        super().__init__(model_name, prompt_name, api_key, root_dir)
+    def __init__(self, model_name, prompt_name, root_dir='./'):
         if re.search(r'-cloud$', self.model_name):
-            assert api_key is not None
-            self.client = Client(
-                host='https://ollama.com',
-                headers=self.header
-            )
+            load_dotenv()
+            args = {'api_key': os.getenv("OZWELL_SECRET_KEY")}
+            host='https://ollama.com'
         else:
-            self.client = Client(
-                host='http://localhost:11434',
-                headers=self.header
-            )
+            args = None
+            host='http://localhost:11434'
+        super().__init__(model_name, prompt_name, args, root_dir)
+        self.client = Client(
+            host=host,
+            headers=self.header
+        )
 
     def build_header(self, api_key):
         if api_key:
