@@ -18,10 +18,10 @@ GENERATE_MODEL_NAME = 'ozwell'
 GENERATE_PROMPT_NAME = 'g1'
 EVAL_MODEL_NAME = 'ozwell'
 EVAL_PROMPT = 's1'
+CLEAN_NOTES = False
 
-def main():
+def main(samples = ['224', '431', '562', '619', '958', '1380', '1716', '1834', '2021', '3026', '3058', '3093', '3293', '3931', '4129']):
     df = pd.read_json('augmented-clinical-notes/augmented_notes_30K.jsonl', lines=True)
-    samples = ['224', '431', '562', '619', '958', '1380', '1716', '1834', '2021', '3026', '3058', '3093', '3293', '3931', '4129']
     df_samples = df[df['idx'].astype('string').isin(samples)]
     
     if GENERATE_MODEL_NAME == 'ozwell':

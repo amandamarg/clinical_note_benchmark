@@ -6,7 +6,7 @@ import re
 
 MODEL_NAME = 'ozwell'
 PROMPT_NAME = 'g1'
-FILE_NAME = 'eval_report1'
+FILE_NAME = 'eval_report'
 
 if __name__ == '__main__':
     

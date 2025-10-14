@@ -124,8 +124,3 @@ def write_df(df, base_path, base_filename, extension, mode):
         df.to_json(path)
     return path
     
-
-def clean_text(text):
-    text = re.sub(r'(\n)|(-)|(\*\*)', '', text)
-    return re.sub(r' +', ' ', text)
-
