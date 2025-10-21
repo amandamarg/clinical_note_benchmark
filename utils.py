@@ -123,4 +123,33 @@ def write_df(df, base_path, base_filename, extension, mode):
         path = os.path.join(base_path, f"{base_filename}{v}.{extension}")
         df.to_json(path)
     return path
-    
+
+def get_eval_report(path, filename, exclude_self_comparisons=True, add_basenames=True):
+    df = pd.read_json(os.path.join(path, filename))
+    if exclude_self_comparisons:
+        df = df[df['gen_note_path'] != df['standard_note_path']]
+    if add_basenames:
+        df['standard_basename'] = df['standard_note_path'].apply(lambda x:  os.path.basename(x))
+        df['gen_basename'] = df['gen_note_path'].apply(lambda x: os.path.basename(x))
+    return df
+
+def melt_rouge_scores(df):
+    rouge_types = [col for col in df.columns if re.match(r'rouge-*', col)]
+    other_cols = [col for col in df.columns if col not in rouge_types]
+    melted = df.melt(id_vars=other_cols, value_vars=rouge_types)
+    melted = pd.concat((melted,pd.json_normalize(melted['value'])), axis=1)
+    melted.rename(columns={'variable': 'rouge_type'}, inplace=True)
+    melted.drop(columns=['value'], inplace=True)
+    other_cols.append('rouge_type')
+    melted = melted.melt(id_vars=other_cols, value_vars=['r', 'p', 'f'])
+    melted.rename(columns={'variable': 'metric'}, inplace=True)
+    return melted
+
+def pivot_df(melted_df, pivot_index, aggfunc=None):
+    if aggfunc:
+        melted_df = melted_df.pivot_table(index=pivot_index, columns=['metric'], values=['value'], aggfunc=aggfunc)
+    else:
+        melted_df = melted_df.pivot(index=pivot_index, columns=['metric'], values=['value'])
+    melted_df.columns = melted_df.columns.get_level_values(1)
+    melted_df.columns.names = [None]
+    return melted_df
