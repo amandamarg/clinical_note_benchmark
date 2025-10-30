@@ -1,0 +1,43 @@
+**Clinical Note**
+
+**Date:** 10/8/2025  
+**Time:** 1:47:04 AM  
+
+**Patient Information:**  
+- **Name:** [Patient's Name]  
+- **Age:** [Patient's Age]  
+- **Gender:** [Patient's Gender]  
+
+**Subjective:**  
+The patient reports being asymptomatic with no physical exam abnormalities. The patient underwent an abdominal ultrasound due to slightly elevated liver enzymes found during a routine blood test.  
+
+**Objective:**  
+- **Abdominal Ultrasound:** Revealed a right adrenal lesion of 9 cm diameter.  
+- **Abdominal MRI:** Showed a soft tissue necrotic encapsulated mass of 10 × 9 cm originating from the right adrenal gland.  
+- **Endocrinological Evaluation:** Normal hypothalamic-pituitary-adrenal axis function and no hypersecretion of catecholamines.  
+- **Adrenal Scan:** Demonstrated a well-encapsulated 10 × 9 × 7 cm heterogeneous right adrenal mass with areas of necrosis and calcifications, without local invasion.  
+
+**Assessment:**  
+The patient has a right adrenal mass with no evidence of local invasion or hormonal hypersecretion.  
+
+**Plan:**  
+- **Surgical Intervention:** Right laparoscopic transperitoneal adrenalectomy was performed.  
+  - **Procedure Details:**  
+    - Surgery conducted under general anesthesia with central and arterial lines insertion.  
+    - Patient positioned in left decubitus.  
+    - Five trocars inserted:  
+      - First 12-mm port at the lateral border of the rectus abdominis muscle above the umbilicus for the camera.  
+      - Two subcostal 11 mm ports: one in the midclavicular line and the other at the lateral border of the rectus abdominis muscle.  
+      - Fourth 5-mm subcostal trocar in the anterior axillary line for liver retraction.  
+      - Fifth 5 mm trocar in the epigastrium for aspiration and irrigation.  
+    - Liver retracted, peritoneum incised along the lateral aspect of the IVC to expose it below its intrahepatic course.  
+    - Duodenum mobilized, dissection carried inferiorly by incising the peritoneum along the lateral edge of the vena cava to the superior edge of the renal vein.  
+    - Careful dissection of the mass, particularly at the medial aspect.  
+
+**Follow-Up:**  
+The patient will be monitored post-operatively and follow-up appointments will be scheduled to assess recovery and any further treatment needs.  
+
+**Physician:**  
+[Doctor's Name]  
+[Doctor's Signature]  
+[Date]

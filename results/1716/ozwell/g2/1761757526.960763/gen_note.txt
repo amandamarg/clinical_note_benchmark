@@ -1,0 +1,25 @@
+**Clinical Note:**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/9/2025  
+**Time:** 3:01 PM  
+**Physician:** [Doctor's Name]  
+**Location:** [Clinic Name]
+
+**Chief Complaint:**  
+Intractable right arm pain and swelling.
+
+**History of Present Illness:**  
+The patient presents with a 10-month history of right arm pain and swelling. Initial evaluation in the emergency department included a CT scan of the neck with contrast, revealing two masses in the right axillary and supraclavicular regions. The patient was diagnosed with primary mammary carcinoma of the axilla with metastasis. Despite undergoing multiple rounds of chemotherapy and radiation therapy, the patient's condition was complicated by thrombocytopenia and metastatic disease progression. The patient was not a surgical candidate.
+
+The pain is described as constant, 10/10 in intensity, located in the right proximal humerus, right anterior and posterior shoulder, and right supraclavicular region. The pain is dull, aching, burning, and electric in nature, exacerbated by passive and active range of motion. At best, the pain is 7/10 with oral medications. The patient also reports progressive weakness of the entire right upper extremity.
+
+**Imaging and Diagnostic Studies:**  
+- MRI of the brachial plexus revealed a mass encasing the right brachial plexus at the level of the divisions and cords, as well as the right brachial artery.
+- A diagnostic brachial plexus block was performed in the hospital due to functional decline and acute worsening of pain. The brachial plexus could not be visualized using ultrasonography due to tumor effects in the classic supraclavicular area.
+
+**Plan:**  
+The patient will be examined, and medical records will be reviewed. Additional tests and treatments will be recommended to manage the patient's pain. The patient is advised to return in a week to discuss results and next steps.
+
+**Follow-Up:**  
+The patient is scheduled to return in one week for further evaluation and management planning.

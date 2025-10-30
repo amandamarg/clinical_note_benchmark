@@ -1,0 +1,105 @@
+{
+"visit motivation": "Concern about the potential malignant nature of a progressively enlarging mass on her left ring finger",
+"admission": [
+{
+"reason": "Progressively enlarging mass on left ring finger",
+"date": "None",
+"duration": "None",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "27",
+"sex": "Female",
+"ethnicity": "None",
+"weight": "None",
+"height": "None",
+"family medical history": "Unremarkable",
+"recent travels": "None",
+"socio economic context": "None",
+"occupation": "None"
+},
+"patient medical history": {
+"physiological context": "Denied any past medical and surgical history",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "Unremarkable",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "Mass on left ring finger",
+"Type": "Incision and drainage",
+"time": "2 months after mass appearance",
+"outcome": "No improvement",
+"details": "No detailed surgical or pathological reports provided"
+},
+{
+"reason": "Excision of mass on left ring finger",
+"Type": "Exploration and mass excision",
+"time": "None",
+"outcome": "None",
+"details": "Bruner type incision with island of skin involved in the mass, extensive subcutaneous mass with fibro-fatty consistency and fascia like extension, mass encircling the ulnar neurovascular bundle and abutment over the radial bundle"
+}
+],
+"symptoms": [
+{
+"name of symptom": "Mass on left ring finger",
+"intensity of symptom": "None",
+"location": "Ulnar side of the proximal phalanx of left ring finger with extensive involvement of the 4th web space",
+"time": "7-month history",
+"temporalisation": "Progressively enlarging",
+"behaviours affecting the symptom": "None",
+"details": "Mass appeared suddenly with no history of trauma, overlying skin was ulcerative, limited range of motion of the involved digit"
+}
+],
+"medical examinations": [
+{
+"name": "Physical examination",
+"result": "None",
+"details": "Mass located over the ulnar side of the proximal phalanx of left ring finger with extensive involvement of the 4th web space, ulcerative skin coverage, limited range of motion, normal neurovascular examination"
+}
+],
+"diagnosis tests": [
+{
+"test": "Radiological evaluation",
+"severity": "None",
+"result": "Soft tissue swelling with no evidence of bone involvement",
+"condition": "None",
+"time": "None",
+"details": "None"
+},
+{
+"test": "MRI",
+"severity": "None",
+"result": "Mass on the volar aspect of the ring finger encasing about 50% of the flexor tendons with low signal intensity on T1 and high signal intensity on T2, strong enhancement in post contrast evaluation",
+"condition": "None",
+"time": "None",
+"details": "Partial abutment of the radial sided bundle and complete encirclement of the ulnar sided neurovascular bundle, surrounding bone free of any masses and associated mass effect"
+}
+],
+"treatments": [
+{
+"name": "Exploration and mass excision",
+"related condition": "Mass on left ring finger",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "To remove the mass and potentially alleviate symptoms",
+"reaction to treatment": "None",
+"details": "Possible risks associated with the intervention were explained"
+}
+],
+"discharge": {
+"reason": "None",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "None"
+}
+}

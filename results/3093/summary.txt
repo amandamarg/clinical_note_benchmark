@@ -1,0 +1,133 @@
+{
+"visit motivation": "None",
+"admission": [
+{
+"reason": "emergency surgery to stabilize her cervical spine and relieve spinal cord compression",
+"date": "None",
+"duration": "8-week",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "51",
+"sex": "woman",
+"ethnicity": "None",
+"weight": "None",
+"height": "None",
+"family medical history": "None",
+"recent travels": "None",
+"socio economic context": "None",
+"occupation": "hairstylist"
+},
+"patient medical history": {
+"physiological context": "developed scoliosis as an adolescent, severe pain in hands beginning at age 18 or 19, weakness in the lower half of the body in her early forties, deterioration of bladder and bowel function",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "tried yoga and swimming",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "severe pain in hands",
+"Type": "carpal tunnel surgery",
+"time": "None",
+"outcome": "temporary relief",
+"details": "on her right hand"
+},
+{
+"reason": "to stabilize her cervical spine and relieve pressure on her spinal cord",
+"Type": "6-level cervical spine fusion",
+"time": "May 2011",
+"outcome": "right side of her body was paralyzed, 8-week hospital and rehabilitation stay to learn how to walk again",
+"details": "was supposed to be an outpatient surgery"
+},
+{
+"reason": "pain relief",
+"Type": "second surgery",
+"time": "August 2012",
+"outcome": "pain was significantly worse afterwards",
+"details": "None"
+}
+],
+"symptoms": [
+{
+"name of symptom": "pain",
+"intensity of symptom": "severe",
+"location": "hands",
+"time": "beginning at age 18 or 19",
+"temporalisation": "None",
+"behaviours affecting the symptom": "work as a hairstylist",
+"details": "made work very difficult"
+},
+{
+"name of symptom": "weakness",
+"intensity of symptom": "None",
+"location": "lower half of the body",
+"time": "early forties",
+"temporalisation": "None",
+"behaviours affecting the symptom": "legs would frequently give out on the stairs, causing her to fall",
+"details": "None"
+},
+{
+"name of symptom": "deterioration of bladder and bowel function",
+"intensity of symptom": "None",
+"location": "None",
+"time": "early forties",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "None"
+},
+{
+"name of symptom": "heightened sensitivity",
+"intensity of symptom": "None",
+"location": "legs",
+"time": "None",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "where a bed sheet or even"
+}
+],
+"medical examinations": [
+{
+"name": "MRI",
+"result": "None",
+"details": "based on the results, she was scheduled for emergency surgery"
+}
+],
+"diagnosis tests": [],
+"treatments": [
+{
+"name": "weekly injections for pain relief",
+"related condition": "post-surgery pain",
+"dosage": "None",
+"time": "None",
+"frequency": "weekly",
+"duration": "None",
+"reason for taking": "pain relief",
+"reaction to treatment": "only marginally decrease her pain for about one week",
+"details": "None"
+},
+{
+"name": "medication for nerve pain relief",
+"related condition": "post-surgery pain",
+"dosage": "high doses",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "pain relief",
+"reaction to treatment": "provided marginal benefit",
+"details": "None"
+}
+],
+"discharge": {
+"reason": "None",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "None"
+}
+}

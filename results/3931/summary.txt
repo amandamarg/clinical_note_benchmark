@@ -1,0 +1,107 @@
+{
+"visit motivation": "Routine checkup blood test showed a slightly elevated level of liver enzymes",
+"admission": [
+{
+"reason": "None",
+"date": "None",
+"duration": "None",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "50",
+"sex": "female",
+"ethnicity": "None",
+"weight": "None",
+"height": "None",
+"family medical history": "None",
+"recent travels": "None",
+"socio economic context": "None",
+"occupation": "None"
+},
+"patient medical history": {
+"physiological context": "previously healthy",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "non-secreting right adrenal mass",
+"Type": "right laparoscopic trans peritoneal adrenalectomy",
+"time": "None",
+"outcome": "None",
+"details": "Surgery was done under general anesthesia with central and arterial lines insertion, patient was on left decubitus position.
+5 trocars were inserted.
+Liver retraction and dissection of the mass was carried out with special care at the medial aspect."
+}
+],
+"symptoms": [
+{
+"name of symptom": "asymptomatic",
+"intensity of symptom": "None",
+"location": "None",
+"time": "None",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "The physical exam was strictly normal."
+}
+],
+"medical examinations": [
+{
+"name": "abdominal ultrasound",
+"result": "right adrenal lesion of 9 cm of diameter",
+"details": "None"
+},
+{
+"name": "Abdominal MRI",
+"result": "soft tissue necrotic encapsulated mass of 10 × 9 cm of right adrenal gland origin",
+"details": "None"
+},
+{
+"name": "endocrinological evaluation",
+"result": "normal hypothalamic-pituitary-adrenal axis function and no hyper secretion of catecholamines",
+"details": "None"
+},
+{
+"name": "adrenal scan",
+"result": "well encapsulated 10 × 9 × 7 cm heterogeneous right adrenal mass with areas of necrosis and calcifications without local invasion",
+"details": "None"
+}
+],
+"diagnosis tests": [
+{
+"test": "None",
+"severity": "None",
+"result": "None",
+"condition": "non-secreting right adrenal mass",
+"time": "None",
+"details": "None"
+}
+],
+"treatments": [
+{
+"name": "None",
+"related condition": "None",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "None",
+"reaction to treatment": "None",
+"details": "None"
+}
+],
+"discharge": {
+"reason": "None",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "None"
+}
+}

@@ -1,0 +1,119 @@
+{
+"visit motivation": "Complaint of bilateral axillary masses and numbness in the right hand",
+"admission": [
+{
+"reason": "None",
+"date": "None",
+"duration": "None",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "72",
+"sex": "male",
+"ethnicity": "None",
+"weight": "None",
+"height": "None",
+"family medical history": "None",
+"recent travels": "None",
+"socio economic context": "None",
+"occupation": "None"
+},
+"patient medical history": {
+"physiological context": "Hypertension for 4 years",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "None",
+"Type": "None",
+"time": "None",
+"outcome": "None",
+"details": "None"
+}
+],
+"symptoms": [
+{
+"name of symptom": "Bilateral axillary masses",
+"intensity of symptom": "None",
+"location": "Both axillae",
+"time": "None",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "12 cm in size in the right axilla and 8 cm in size in the left axilla"
+},
+{
+"name of symptom": "Numbness",
+"intensity of symptom": "None",
+"location": "Right hand",
+"time": "None",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "None"
+}
+],
+"medical examinations": [
+{
+"name": "Physical examination",
+"result": "Presence of palpable pulsatile masses in both axillae",
+"details": "12 cm in size in the right axilla and 8 cm in size in the left axilla"
+},
+{
+"name": "Neurological and systemic examinations",
+"result": "Within normal limits",
+"details": "None"
+},
+{
+"name": "Upper-extremity ultrasound examination",
+"result": "Aneurysm in the right axillary artery and a hyperechogenic mass not related to the aneurysm; aneurysm in the left axillary artery",
+"details": "Right axillary artery aneurysm: 67 × 45 mm with a 27-mm thick thrombus; hyperechogenic mass: 48 × 40 mm; left axillary artery aneurysm: 40 × 43 mm with a 17-mm thick thrombus"
+},
+{
+"name": "Doppler ultrasonic examination",
+"result": "Thrombus surrounding the lumen and turbulent, pulsatile flow in the center; aneurysmal segment continuous with the brachial artery; no blood flow in the region adjacent to the right axillary artery",
+"details": "None"
+},
+{
+"name": "CT angiography",
+"result": "Giant fusiform aneurysms in both axillary arteries with thrombi allowing flow in the lumen; extension to the brachial artery and contour irregularities at the distal end of the right-side aneurysm",
+"details": "Measurements: 140 × 77 mm in the right axillary artery and 93 × 45 mm in the left axillary artery; findings proposed to be due to a spontaneously healed rupture"
+}
+],
+"diagnosis tests": [
+{
+"test": "None",
+"severity": "None",
+"result": "None",
+"condition": "None",
+"time": "None",
+"details": "None"
+}
+],
+"treatments": [
+{
+"name": "Endovascular closure",
+"related condition": "Bilateral axillary artery aneurysms",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "Symptomatic and high risk of aneurysm rupture",
+"reaction to treatment": "Appropriate size stents could not be found for aneurysms so large and tortuous",
+"details": "None"
+}
+],
+"discharge": {
+"reason": "None",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "None"
+}
+}

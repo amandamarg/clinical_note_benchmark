@@ -1,0 +1,120 @@
+{
+"visit motivation": "Incidental finding of a small nodule in the lower lobe of her right lung during a regular medical checkup",
+"admission": [
+{
+"reason": "Further evaluation of the incidentally found lung nodule and lytic lesion of the fifth lumbar vertebral bone",
+"date": "None",
+"duration": "None",
+"care center details": "Department of medicine of our hospital"
+}
+],
+"patient information": {
+"age": "40",
+"sex": "Woman",
+"ethnicity": "Asian",
+"weight": "None",
+"height": "None",
+"family medical history": "Noncontributory",
+"recent travels": "None",
+"socio economic context": "None",
+"occupation": "None"
+},
+"patient medical history": {
+"physiological context": "Usual state of good health",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "Evaluation of both the pulmonary and vertebral lesions",
+"Type": "Video-assisted thoracic surgery for the pulmonary lesion and curettage of the lytic bone lesion",
+"time": "Five years after the initial finding",
+"outcome": "Good postoperative progress, patient remained free of disease at 41 months after the operation",
+"details": "The tumor of the fifth left transverse process was exposed on the posterior surface but not on the anterior surface.
+The vertebral lesion was completely confined within the vertebral bone and was not connected to the spinal canal."
+}
+],
+"symptoms": [
+{
+"name of symptom": "None",
+"intensity of symptom": "None",
+"location": "None",
+"time": "None",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "None"
+}
+],
+"medical examinations": [
+{
+"name": "Physical examination",
+"result": "No abnormalities",
+"details": "None"
+},
+{
+"name": "Laboratory studies",
+"result": "Within normal limits or negative",
+"details": "None"
+}
+],
+"diagnosis tests": [
+{
+"test": "Computed tomographic (CT) scan",
+"severity": "None",
+"result": "A lytic lesion of the fifth lumbar vertebral bone and a small nodule (1.2 cm in diameter) in the lower lobe of the right lung",
+"condition": "Suspected multiple metastases from an unknown primary tumor",
+"time": "None",
+"details": "The vertebral lesion was situated on the left transverse process and was separated from the spinal canal"
+},
+{
+"test": "Biopsy",
+"severity": "None",
+"result": "Histologically similar spindle cell neoplasms with a bland appearance in both lesions",
+"condition": "Inconclusive due to the small size of the samples",
+"time": "None",
+"details": "None"
+},
+{
+"test": "CT scan",
+"severity": "None",
+"result": "Pulmonary nodule had slightly increased in size",
+"condition": "None",
+"time": "Five years later",
+"details": "None"
+},
+{
+"test": "Magnetic resonance (MR) imaging",
+"severity": "None",
+"result": "Increase in the size of the lytic lesion in the left transverse process of the fifth lumbar vertebra",
+"condition": "None",
+"time": "Five years later",
+"details": "None"
+}
+],
+"treatments": [
+{
+"name": "None",
+"related condition": "None",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "None",
+"reaction to treatment": "None",
+"details": "None"
+}
+],
+"discharge": {
+"reason": "Good postoperative progress, remained free of disease",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "Patient made good postoperative progress and remained free of disease at 41 months after the operation"
+}
+}

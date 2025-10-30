@@ -1,0 +1,22 @@
+Doctor: Good morning, how can I help you today?
+Patient: Good morning, doctor. I have been experiencing pain and swelling on my right cheek for the past three months.
+Doctor: Hmm, I see. Can you tell me more about your symptoms?
+Patient: Yes, I have been to a general practitioner several times, and they gave me analgesic and antibiotics, but my symptoms just keep coming back.
+Doctor: I see. Well, it's good that you came to our Oral Surgery Clinic for consultation. Can you tell me a bit about your medical history?
+Patient: I'm a fit and healthy young man with no relevant medical history or known allergies.
+Doctor: Okay. And what about your surgical history? Have you had any surgeries in the past?
+Patient: Yes, I had orthognathic surgery one and a half years ago.
+Doctor: I see. And did you have any issues during the postoperative period?
+Patient: Actually, the surgical team informed me that there was a dislodged orthodontic appliance in my right cheek that must have happened during the operation.
+Doctor: Hmm, that's not good. And was anything done about it at the time?
+Patient: No, the surgical team decided to leave it in-situ because of the pronounced postoperative facial oedema. And since there were no signs or symptoms during follow-up sessions, they decided to continue with clinical observation.
+Doctor: I understand. Let's have a look at your mouth now. Can you open your mouth wide for me?
+Patient: Sure.
+Doctor: Hmm, I don't see any extraoral swelling. Your mandible and maxilla seem firm, which is a good sign. And there's a sinus track with slight pus discharge on your upper right buccal sulcus region. Can you tell me if you feel any tenderness when I touch this area?
+Patient: Yes, it's tender.
+Doctor: I see. We suspect that the sinus track may originate from the dislodged appliance that's embedded in your cheek soft tissue. I'm going to take a periapical view to confirm this.
+Doctor: (After looking at the periapical view) Yes, it looks like our suspicion was correct. The dislodged appliance is causing the pain and swelling. We need to remove it as soon as possible.
+Patient: Okay, what do I need to do next?
+Doctor: I'll schedule an appointment for you to have the appliance removed. You'll need to come back in a week for a follow-up appointment. In the meantime, try to keep the area clean and avoid any strenuous activities.
+Patient: Okay, doctor. Thank you for your help.
+Doctor: You're welcome. I'll see you in a week.

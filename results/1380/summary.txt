@@ -1,0 +1,120 @@
+{
+"visit motivation": "Severe swelling and facial asymmetry on the right mandibular molar region",
+"admission": [
+{
+"reason": "Swelling due to an infection and unsuccessful antibiotic treatment",
+"date": "None",
+"duration": "None",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "Eight-year-old",
+"sex": "Female",
+"ethnicity": "None",
+"weight": "None",
+"height": "None",
+"family medical history": "None",
+"recent travels": "None",
+"socio economic context": "Remote rural area, could not accept endodontic treatment due to prohibitive cost",
+"occupation": "None"
+},
+"patient medical history": {
+"physiological context": "None",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "Garre's osteomyelitis due to periapical infection",
+"Type": "Dental extraction",
+"time": "None",
+"outcome": "None",
+"details": "Transferred to the surgical clinic for treatment"
+}
+],
+"symptoms": [
+{
+"name of symptom": "Swelling",
+"intensity of symptom": "Severe",
+"location": "Right mandibular molar region",
+"time": "Three months previously",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "Facial asymmetry, without fluctuation upon palpation"
+},
+{
+"name of symptom": "Submandibular lymphadenopathy",
+"intensity of symptom": "None",
+"location": "Right mandibular region",
+"time": "None",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "None"
+}
+],
+"medical examinations": [
+{
+"name": "Clinical examination",
+"result": "Severe swelling, submandibular lymphadenopathy, normal skin color and appearance, deep caries cavity in the right mandibular first molar tooth without mobility, normal oral mucosa",
+"details": "None"
+},
+{
+"name": "Radiographic examination",
+"result": "Deep caries cavity, radiolucent area in the apical region of the right mandibular first molar tooth, lamellar appearance on the external cortical surface of the mandible, focal new bone formation",
+"details": "None"
+},
+{
+"name": "Cone-beam computed tomography (CBCT)",
+"result": "Tunnel-like defect in the cortical bone in the vestibule surface of the inflamed bone, bone deposition at the radiolucent area",
+"details": "Starting from the apical region of the right mandibular first molar tooth, observed at the lower edge of the mandible and the vestibule surface in this region"
+}
+],
+"diagnosis tests": [
+{
+"test": "Clinical, radiographic, and CBCT examinations",
+"severity": "None",
+"result": "None",
+"condition": "Garre's osteomyelitis",
+"time": "None",
+"details": "Due to periapical infection of the right mandibular first molar tooth"
+}
+],
+"treatments": [
+{
+"name": "Antibiotics",
+"related condition": "Infection",
+"dosage": "None",
+"time": "Three months previously",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "To treat the infection",
+"reaction to treatment": "Treatment was not successful",
+"details": "None"
+},
+{
+"name": "Endodontic treatment",
+"related condition": "Garre's osteomyelitis",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "To retain the infected tooth",
+"reaction to treatment": "Patient could not accept the treatment due to prohibitive cost",
+"details": "None"
+}
+],
+"discharge": {
+"reason": "Inability to afford endodontic treatment",
+"referral": "Transferred to the surgical clinic for dental extraction",
+"follow up": "None",
+"discharge summary": "None"
+}
+}

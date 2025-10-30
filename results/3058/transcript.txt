@@ -1,0 +1,36 @@
+Doctor: Hello, I'm Dr. Smith. How are you today?
+Patient: I'm okay, thank you.
+Doctor: I understand you had a checkup recently and something was found. Can you tell me more about that?
+Patient: Yes, I had a regular medical checkup and they found a small nodule in my right lung.
+Doctor: Okay, and do you have any medical history or any symptoms that you're concerned about?
+Patient: No, I don't have any medical history, and I don't have any symptoms.
+Doctor: I see. And during the checkup, was there anything abnormal found during the physical examination?
+Patient: No, the physical examination showed no abnormalities.
+Doctor: That's good. And what about the laboratory studies, were the results normal?
+Patient: Yes, the results were either within normal limits or negative.
+Doctor: Great. And then a computed tomographic scan was done, right?
+Patient: Yes, that's correct.
+Doctor: And the CT scan revealed a lytic lesion in the fifth lumbar vertebral bone and a small nodule in the lower lobe of the right lung, correct?
+Patient: Yes, that's what the scan showed.
+Doctor: And the vertebral lesion was separated from the spinal canal, correct?
+Patient: Yes, that's what the scan showed.
+Doctor: And biopsy specimens of both lesions were taken, right?
+Patient: Yes, that's correct.
+Doctor: And the biopsy showed spindle cell neoplasms with a bland appearance, but the diagnosis couldn't be made due to the small size of the samples, correct?
+Patient: Yes, that's what I was told.
+Doctor: And then the patient was placed under close observation with suspicion of multiple metastases from an unknown primary tumor, correct?
+Patient: Yes, that's correct.
+Doctor: And five years later, a CT scan indicated that the pulmonary nodule had slightly increased in size, right?
+Patient: Yes, that's what I was told.
+Doctor: And magnetic resonance imaging also revealed an increase in the size of the lytic lesion in the left transverse process of the fifth lumbar vertebra, correct?
+Patient: Yes, that's correct.
+Doctor: And to evaluate both the pulmonary and vertebral lesions, video-assisted thoracic surgery for the pulmonary lesion and curettage of the lytic bone lesion were performed, correct?
+Patient: Yes, that's correct.
+Doctor: And during the clinical course, no significant findings other than the pulmonary and vertebral lesions were found, even with imaging examinations, correct?
+Patient: Yes, that's what I was told.
+Doctor: And the patient made good postoperative progress and remained free of disease 41 months after the operation, correct?
+Patient: Yes, that's correct.
+Doctor: And the resected specimen of the lung contained a well-
+Patient: I'm not sure about that, I think that was not mentioned to me.
+Doctor: Okay, I see. Well, it looks like everything went well and you seem to be in good health. I'll keep an eye on your case, and if there's anything else I need to know, please let me know.
+Patient: Okay, thank you, doctor.

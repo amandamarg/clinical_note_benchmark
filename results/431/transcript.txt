@@ -1,0 +1,23 @@
+Doctor: Good morning, how can I help you today?
+Patient: Good morning, doctor. I came here because I have been experiencing some rectal bleeding and a change in bowel habit for the past 6 months.
+Doctor: Hmm, I see. Can you tell me more about your symptoms? How often do you have frequent stools?
+Patient: I have more frequent stools now, and I also pass mucus.
+Doctor: I see. Do you have any abdominal pains?
+Patient: No, I don't have any abdominal pains.
+Doctor: That's good. Can you tell me more about your medical history?
+Patient: Well, I was born with bladder exstrophy and had multiple surgeries, including a cystectomy with ileal conduit formation when I was 5 years old. And I have suffered with recurrent urinary tract infections for most of my childhood and adult life. But other than that, I am otherwise well with no other major co-morbidities or risk factors for colorectal malignancy, and I have no family history of colorectal disease.
+Doctor: I see. We did a colonoscopy on you, and it revealed two large sessile polyps in the sigmoid colon. They were in close proximity to each other and adjacent to a diverticulum-like structure. Each polyp was approximately 3 cm in size and both exhibited a type IV pit pattern with areas of irregularity suggestive of focally advanced disease.
+Patient: Hmm.
+Doctor: The histological examination confirmed both polyps were adenomas comprising both low and high grade dysplasia, without submucosal invasion. On closer inspection, the mucosa around the diverticulum was also atypical but not adenomatous. The rest of the colonoscopy was unremarkable with no other evidence of diverticular disease or polyps elsewhere.
+Patient: I see.
+Doctor: Endoscopic resection was considered as a therapeutic option, but in view of the characteristics, as well as difficult endoscopic access, surgery was preferred. Furthermore, radiological imaging had initially raised the possibility of invasive disease in view of sigmoid thickening.
+Patient: Okay.
+Doctor: You underwent a high anterior resection and an open approach was chosen because of suspected intra-abdominal adhesions following extensive pelvic surgery. An end colostomy was formed at your pre-operative request.
+Patient: Yes, I remember that.
+Doctor: At laparotomy, the right fallopian tube was adherent to the sigmoid colon and adjacent to this, a blind ending tube was noted to emerge from the anti-mesenteric border of the colon. This was marked for pathological identification.
+Patient: Hmm.
+Doctor: You had an uneventful recovery and your quality of life following surgery was good. Your wish to have a permanent colostomy stemmed from the fact that...
+Patient: Yes, I wanted to have a permanent colostomy.
+Doctor: I see. Well, it's great to hear that your recovery was uneventful and your quality of life is good. Is there anything else you would like to ask or discuss?
+Patient: No, I think that's all. Thank you, doctor.
+Doctor: You're welcome. If you have any questions or concerns in the future, don't hesitate to come back and see me. Take care of yourself.

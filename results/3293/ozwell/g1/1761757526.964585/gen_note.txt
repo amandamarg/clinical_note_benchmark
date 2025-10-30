@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/8/2025  
+**Physician:** [Doctor's Name]  
+
+**Subjective:**  
+The patient presented with a concern regarding a mass on the left ring finger, which has been present for 7 months. The mass appeared suddenly without any history of trauma. The patient underwent incision and drainage 2 months after the mass appeared, but there was no improvement. The patient expressed concern about the possibility of the mass being malignant. The patient has no past medical or surgical history, and family and drug history are unremarkable.
+
+**Objective:**  
+- **Location of Mass:** Ulnar side of the proximal phalanx of the left ring finger, extensively involving the 4th web space.  
+- **Skin Coverage:** Ulcerative with no active signs of infection.  
+- **Range of Motion:** Limited in the involved digit.  
+- **Neurovascular Examination:** Normal.  
+- **Radiologic Evaluation:** Soft tissue swelling with no evidence of bone involvement.  
+- **MRI Findings:** Mass on the volar aspect of the ring finger encasing about 50% of the flexor tendons. Low signal intensity on T1 and high signal intensity on T2 with strong enhancement post-contrast. Partial abutment of the radial sided bundle and complete encirclement of the ulnar sided neurovascular bundle. Surrounding bone free of masses and associated mass effect.
+
+**Assessment:**  
+The mass was explored and excised in the OR. A bruner type incision was used to explore the subcutaneous mass, which had a fibro-fatty consistency with extensive fascia-like extension to the surrounding soft tissue. The mass was encircling the ulnar neurovascular bundle with mass abutment over the radial bundle. The mass was dissected freely.
+
+**Plan:**  
+- Discussed possible risks associated with the intervention with the patient.
+- Follow-up appointment scheduled in two weeks.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

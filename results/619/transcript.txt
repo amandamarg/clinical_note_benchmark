@@ -1,0 +1,29 @@
+Doctor: Good morning, I am your doctor. How can I help you today?
+Patient: Hi, I was referred to you for chest pain and dyspnoea.
+Doctor: Yes, I have seen your referral. Can you tell me more about your symptoms?
+Patient: Well, I have been experiencing chest pain and shortness of breath lately.
+Doctor: Hmm, that's not good. Do you have any pre-existing medical conditions?
+Patient: No, I don't have any.
+Doctor: Okay, let's start with a physical examination. I will check your femoral pulses.
+[Physical examination starts]
+Doctor: I see that your femoral pulses are feeble. And I also found that you are hypertensive with marked differences between your upper and lower limbs. Your systolic blood pressure in your upper limb is 190mmHg, while in your lower limb it's 75mmHg, with an ankle brachial index of 0.39.
+Patient: Hmm, I see.
+Doctor: Yes, we also did an Electrocardiogram, which revealed evidence of severe left ventricular hypertrophy.
+Patient: What does that mean?
+Doctor: It means that you have an enlarged left ventricle in your heart, which can cause heart failure. But don't worry, it was confirmed with echocardiography, which also demonstrated a tricuspid aortic valve with significant aortic regurgitation in the presence of an aortic root aneurysm of approximately 9 cm. But your left ventricular function was preserved.
+Patient: Okay.
+Doctor: We also performed a computerised tomography angiography to evaluate the aortic pathology in further detail. The scan noted an aortic root aneurysm of 8.8 cm, in addition to the presence of severe aortic coarctation, with subtotal occlusion and a lumen less than 6 mm in size. The coarctation was just distal to the left subclavian artery, at the aortic isthmus. There was clear evidence of collateral circulation to the descending thoracic aorta via the subclavian and intercostal arteries.
+Patient: What does that mean for me?
+Doctor: It means that you have a problem with your aorta, which is the main blood vessel that carries blood from your heart to your body. We need to treat it as soon as possible.
+Doctor: We also did a Coronary angiography, which confirmed a right dominant coronary system with no significant coronary disease.
+Patient: Okay.
+Doctor: We had a team meeting and a consensus was agreed to proceed with a two staged hybrid approach, with the first phase involving an endovascular approach to stent the coarctation, followed by a second stage to perform the surgical repair of the aortic root aneurysm.
+Patient: What happened next?
+Doctor: The first stage to stent the coarctation was unsuccessful via the femoral approach, as the guidewire could not cross the coarctation. Assessment through angiography via the left brachial artery showed complete obstruction at the aortic isthmus. The decision was then made to proceed to a single stage surgical approach to treat both lesions.
+Patient: What does that mean for me?
+Doctor: It means that we need to perform a single stage surgical approach to treat both your aortic root aneurysm and aortic coarctation.
+Doctor: After induction of anaesthesia, we placed arterial lines in your left radial and left femoral artery. We made a right infraclavicular incision and a right groin incision to establish peripheral arterial cannulation access to your right axillary and right femoral artery. An 8 mm dacron was used to repair your aorta.
+Patient: How is my condition now?
+Doctor: You are in stable condition now. But we need to monitor you closely for the next few days. You may need to come back for follow-up appointments and tests.
+Patient: Okay, thank you.
+Doctor: You're welcome. If you have any questions or concerns, please don't hesitate to ask.

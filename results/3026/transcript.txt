@@ -1,0 +1,27 @@
+Doctor: Hello, I am Dr. Smith. I understand you have been referred for evaluation of some pain, swelling, and redness on your left leg. Can you tell me a little bit about your symptoms?
+Patient: Yes, I have been having pain and swelling on my left leg for about a month now, and it's red too.
+Doctor: Hmm, I see. And did you have any specific trauma that could have caused this?
+Patient: No, I don't think so.
+Doctor: Alright. Can you tell me a bit about your medical history? I understand you have a history of liver cirrhosis.
+Patient: Yes, I have liver cirrhosis. And I also had a tibial plateau fracture 18 years ago when my knee was pinned under a tree. I had a surgery for it, an open reduction and internal fixation.
+Doctor: I see. And did you have any other injuries at that time?
+Patient: Yes, I had a sciatic nerve injury.
+Doctor: Alright. And did you have any other surgeries after that?
+Patient: Yes, I had a stent insertion in the femoral artery 8 years after the initial trauma due to a distal femur fracture and femoral artery rupture.
+Doctor: I see. And did you have any imaging done at that time?
+Patient: Yes, I had radiographs taken and an angiography. They found a mass on my leg and an obstruction in my popliteal artery.
+Doctor: Alright. And until the symptoms you are experiencing now, did you have any difficulty with your daily life functions?
+Patient: No, I didn't have any difficulty with my daily life, just limited motion in my ankle and toes and some sensory reduction in my foot because of the sciatic nerve injury.
+Doctor: I understand. And after admission, you were maintained with a long leg splint, is that correct?
+Patient: Yes, that's correct.
+Doctor: And two weeks after admission, the redness on your leg became localized to the front of your leg and formed a fluid-filled, red mass, is that right?
+Patient: Yes, that's right.
+Doctor: And did a draining sinus develop on the red mass?
+Patient: Yes, it did. And a thick fluid with a chalk-like material was discharged through the shiny skin via the sinus.
+Doctor: I see. Can you tell me a bit about your range of motion in your knee and ankle?
+Patient: My range of motion in my knee is 0 to 100 degrees of flexion, and my ankle dorsiflexion is 0 degrees and plantar flexion is 5 degrees. All my toes have a clawing deformity.
+Doctor: I see. And what about the motor strength of your ankle?
+Patient: My dorsiflexion is grade 0 and my plantar flexion is grade 3.
+Doctor: I understand. And do you have any sensation in your first web space and on the medial aspect of your foot?
+Patient: No, I don't have any sensation in the first web space and on the medial aspect of my foot. I have some sensory reduction in the lateral, dorsal, and plantar aspects of my foot, in order of decreasing sensation.
+Doctor: Alright, thank you for the information. Based on the information you have shared, I would like to run some tests to confirm my diagnosis. I would also like to instruct you on some follow-up requirements.

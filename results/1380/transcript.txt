@@ -1,0 +1,30 @@
+Doctor: Hello, how are you feeling today?
+Patient: I'm feeling okay, doctor.
+Doctor: Can you tell me what brought you to the clinic today?
+Patient: Yes, I have a swelling in my right jaw.
+Doctor: Hmm, I see. Can you describe the swelling for me?
+Patient: It's a big swelling and my face looks uneven on that side.
+Doctor: I understand. Did you inform me that you developed the swelling three months ago because of an infection?
+Patient: Yes, that's right.
+Doctor: And were you treated with antibiotics for the infection?
+Patient: Yes, I was. But it didn't work.
+Doctor: I see. That's why you were referred to our clinic. Can you tell me if you have any passed or congenital diseases that have been specified in your medical history?
+Patient: No, I don't have any.
+Doctor: Alright. During the clinical examination, I found that the swelling was severe without any fluctuation upon palpation and there was submandibular lymphadenopathy in the right mandibular region. Is that correct?
+Patient: Yes, that's right.
+Doctor: And your skin color and appearance were normal, correct?
+Patient: Yes, they were.
+Doctor: In the oral examination, I found that the right mandibular first molar tooth had a deep caries cavity and was not mobile. Is that correct?
+Patient: Yes, that's right.
+Doctor: And in the radiographic examination, I found a deep caries cavity and a radiolucent area in the apical region of the right mandibular first molar tooth. Is that correct?
+Patient: Yes, that's right.
+Doctor: And there was a lamellar appearance on the external cortical surface of the mandible and at the lower edge of the mandibular corpus, showing focal new bone formation. Is that correct?
+Patient: Yes, that's right.
+Doctor: And during the examination with cone-beam computed tomography, I identified a tunnel-like defect in the cortical bone in the vestibule surface of the inflamed bone, starting from the apical region of the right mandibular first molar tooth. Is that correct?
+Patient: Yes, that's right.
+Doctor: And there was bone deposition at the radiolucent area in the center at the lower edge of the mandible and the vestibule surface in this region. Is that correct?
+Patient: Yes, that's right.
+Doctor: Based on all these findings, I concluded that the pathologic lesion was Garre's osteomyelitis due to the periapical infection of the right mandibular first molar tooth. Is that correct?
+Patient: Yes, that's right.
+Doctor: In this case, endodontic treatment was considered primarily to retain the infected tooth in the mouth. But since you came from a remote rural area and couldn't accept such a treatment due to the prohibitive cost, you were transferred to the surgical clinic, where the most appropriate treatment method was considered to be dental extraction. Is that correct?
+Patient: Yes, that's right.

@@ -1,0 +1,38 @@
+**Clinical Note**
+
+**Patient Name:** [Patient's Name]  
+**Date:** 10/8/2025  
+**Physician:** [Doctor's Name]  
+
+**Chief Complaint:**  
+The patient was referred for evaluation of chest pain and dyspnoea.
+
+**History of Present Illness:**  
+The patient reports experiencing chest pain and shortness of breath. No pre-existing medical conditions were noted.
+
+**Physical Examination:**  
+- Femoral pulses: Feeble  
+- Blood Pressure: Marked differences between upper and lower limbs; systolic blood pressure in the upper limb is 190mmHg, while in the lower limb it's 75mmHg.  
+- Ankle Brachial Index: 0.39  
+
+**Investigations:**  
+- **Electrocardiogram (ECG):** Evidence of severe left ventricular hypertrophy.  
+- **Echocardiography:** Confirmed severe left ventricular hypertrophy, tricuspid aortic valve with significant aortic regurgitation, and an aortic root aneurysm of approximately 9 cm. Left ventricular function was preserved.  
+- **Computerised Tomography Angiography (CTA):** Aortic root aneurysm of 8.8 cm, severe aortic coarctation with subtotal occlusion and a lumen less than 6 mm in size, located just distal to the left subclavian artery at the aortic isthmus. Evidence of collateral circulation to the descending thoracic aorta via the subclavian and intercostal arteries.  
+- **Coronary Angiography:** Right dominant coronary system with no significant coronary disease.
+
+**Assessment and Plan:**  
+The patient has a significant aortic pathology requiring intervention. A two-staged hybrid approach was initially planned, with the first phase involving an endovascular approach to stent the coarctation, followed by a second stage for surgical repair of the aortic root aneurysm. However, the first stage was unsuccessful via the femoral approach due to the guidewire's inability to cross the coarctation. Angiography via the left brachial artery showed complete obstruction at the aortic isthmus. Consequently, a decision was made to proceed with a single-stage surgical approach to treat both the aortic root aneurysm and aortic coarctation.
+
+**Surgical Procedure:**  
+After induction of anaesthesia, arterial lines were placed in the left radial and left femoral artery. A right infraclavicular incision and a right groin incision were made to establish peripheral arterial cannulation access to the right axillary and right femoral artery. An 8 mm dacron graft was used to repair the aorta.
+
+**Current Status:**  
+The patient is in stable condition post-surgery. Close monitoring is required for the next few days, and follow-up appointments and tests will be necessary.
+
+**Instructions:**  
+The patient was advised to return for follow-up appointments and to report any new symptoms or concerns immediately.
+
+**Signature:**  
+[Doctor's Name]  
+[Doctor's Contact Information]

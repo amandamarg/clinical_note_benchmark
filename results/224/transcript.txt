@@ -1,0 +1,28 @@
+Doctor: Hello, how are you today?
+Patient: I'm fine, thank you.
+Doctor: I understand that you live with your mother and you're the main caregiver for her.
+Patient: Yes, that's right.
+Doctor: I've encountered some information about your mother's condition. She has end-stage breast cancer, right?
+Patient: Yes, that's correct.
+Doctor: How has the home care been going for her?
+Patient: It's been okay. There have been some obstacles, but I've been able to fulfill my role as the main caregiver.
+Doctor: That's great to hear. I understand that the home care staff has been worried about whether your mother could continue to stay at home due to the lack of care provided by family members.
+Patient: Yes, that's correct.
+Doctor: And I heard that you were not present when the home care staff visited your home for your mother's care.
+Patient: Yes, that's right. I was usually focused on dishwashing and didn't appear concerned about how my mother's medications or clothes were organized or whether the room was clean or not.
+Doctor: I see. And the home care staff couldn't communicate well with you even when they talked with you.
+Patient: Yes, that's correct. I have trouble communicating with people.
+Doctor: After a few home care visits, your mother's care manager informed us that you have been diagnosed with ASD.
+Patient: Yes, that's correct. I didn't want to let my parents know about the diagnosis.
+Doctor: I understand. The home care staff started to feel strongly that it was too difficult for you to manage the home care schedule and chores.
+Patient: Yes, that's correct.
+Doctor: I'm sorry to hear that. But I think it's important for you to know that you're not alone. There are many people who have been diagnosed with ASD and are able to live a fulfilling life.
+Patient: Thank you, doctor.
+Doctor: Is there anything you would like to talk about or ask me today?
+Patient: No, I think that's all.
+Doctor: Okay. If you have any concerns or questions in the future, don't hesitate to contact me.
+Patient: Thank you, doctor.
+Doctor: And I would like to check in with you in a few weeks to see how things are going.
+Patient: Okay, I'll make sure to schedule an appointment.
+Doctor: Great. Take care of yourself and your mother.
+Patient: Thank you, doctor.

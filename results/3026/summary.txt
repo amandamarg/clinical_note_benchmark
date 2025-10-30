@@ -1,0 +1,99 @@
+{
+"visit motivation": "Evaluation of pain, swelling, and erythematous changes of the anterolateral aspect of his left leg",
+"admission": [
+{
+"reason": "Evaluation and treatment of the patient's left leg symptoms",
+"date": "None",
+"duration": "Two weeks after the admission",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "60 years old",
+"sex": "Male",
+"ethnicity": "None",
+"weight": "None",
+"height": "None",
+"family medical history": "None",
+"recent travels": "None",
+"socio economic context": "None",
+"occupation": "None"
+},
+"patient medical history": {
+"physiological context": "History of liver cirrhosis, open reduction and internal fixation for a tibial plateau fracture 18 years ago with sciatic nerve injury, open reduction and internal fixation and stent insertion in the femoral artery 8 years after the initial trauma due to a distal femur fracture and femoral artery rupture",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "Tibial plateau fracture",
+"Type": "Open reduction and internal fixation",
+"time": "18 years ago",
+"outcome": "Not specified",
+"details": "Left knee was pinned under a tree"
+},
+{
+"reason": "Distal femur fracture and femoral artery rupture",
+"Type": "Open reduction and internal fixation and stent insertion in the femoral artery",
+"time": "8 years after the initial trauma",
+"outcome": "Not specified",
+"details": "Obstruction of popliteal artery with abundant collateral circulation was observed on angiography"
+}
+],
+"symptoms": [
+{
+"name of symptom": "Pain, swelling, and erythematous changes",
+"intensity of symptom": "None",
+"location": "Anterolateral aspect of his left leg",
+"time": "Started a month ago",
+"temporalisation": "None",
+"behaviours affecting the symptom": "No specific trauma mentioned",
+"details": "Symptoms localized to the anterior aspect in the middle of the leg and formed a fluid-filled, erythematous mass with a draining sinus after two weeks of admission"
+}
+],
+"medical examinations": [
+{
+"name": "Physical examination",
+"result": "Range of motion of the knee was 0 degrees to 100 degrees of flexion; ankle dorsiflexion was 0 degrees, ankle plantar flexion was 5 degrees, and all of the toes had clawing deformity.
+Motor strength of the ankle dorsiflexion was grade 0 and plantar flexion was grade 3.
+No sensation in the first web space and on the medial aspect of the foot, and had sensory reduction in the lateral, dorsal, and plantar aspects of the foot",
+"details": "Limited motion in the ankle and toes and sensory reduction in his foot due to the sciatic nerve injury"
+}
+],
+"diagnosis tests": [
+{
+"test": "Radiographs of the left leg",
+"severity": "None",
+"result": "Widespread radiopaque mass observed 10 years ago",
+"condition": "None",
+"time": "10 years ago",
+"details": "Obstruction of popliteal artery with abundant collateral circulation was observed on angiography"
+}
+],
+"treatments": [
+{
+"name": "Long leg splint",
+"related condition": "Symptoms of the left leg",
+"dosage": "None",
+"time": "After admission",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "To maintain the leg",
+"reaction to treatment": "Erythematous changes localized and formed a fluid-filled, erythematous mass with a draining sinus",
+"details": "None"
+}
+],
+"discharge": {
+"reason": "None",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "None"
+}
+}

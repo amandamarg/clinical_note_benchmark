@@ -1,0 +1,134 @@
+{
+"visit motivation": "Rectal bleeding, passage of mucus, and a change in bowel habit to more frequent stools",
+"admission": [
+{
+"reason": "None",
+"date": "None",
+"duration": "None",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "56 years old",
+"sex": "Female",
+"ethnicity": "None",
+"weight": "Weight was maintained",
+"height": "None",
+"family medical history": "No family history of colorectal disease",
+"recent travels": "None",
+"socio economic context": "None",
+"occupation": "None"
+},
+"patient medical history": {
+"physiological context": "Born with bladder exstrophy, multiple surgeries culminating in a cystectomy with ileal conduit formation at 5 years of age, recurrent urinary tract infections",
+"psychological context": "None",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "Bladder exstrophy",
+"Type": "Cystectomy with ileal conduit formation",
+"time": "At 5 years of age",
+"outcome": "None",
+"details": "Patient had multiple surgeries due to bladder exstrophy"
+},
+{
+"reason": "Two large sessile polyps in the sigmoid colon, possible invasive disease",
+"Type": "High anterior resection with end colostomy",
+"time": "None",
+"outcome": "Uneventful recovery, good quality of life following surgery",
+"details": "Open approach chosen due to suspected intra-abdominal adhesions; right fallopian tube was adherent to the sigmoid colon; a blind ending tube was noted to emerge from the anti-mesenteric border of the colon"
+}
+],
+"symptoms": [
+{
+"name of symptom": "Rectal bleeding",
+"intensity of symptom": "None",
+"location": "Rectum",
+"time": "6 month history",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "None"
+},
+{
+"name of symptom": "Passage of mucus",
+"intensity of symptom": "None",
+"location": "Rectum",
+"time": "6 month history",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "None"
+},
+{
+"name of symptom": "Change in bowel habit",
+"intensity of symptom": "None",
+"location": "None",
+"time": "6 month history",
+"temporalisation": "To more frequent stools",
+"behaviours affecting the symptom": "None",
+"details": "None"
+}
+],
+"medical examinations": [
+{
+"name": "Colonoscopy",
+"result": "Two large sessile polyps in the sigmoid colon, adjacent to a diverticulum-like structure",
+"details": "Polyps approximately 3 cm in size, type IV pit pattern with areas of irregularity, mucosa around the diverticulum was atypical but not adenomatous, no other evidence of diverticular disease or polyps elsewhere"
+}
+],
+"diagnosis tests": [
+{
+"test": "Histological examination",
+"severity": "Both low and high grade dysplasia",
+"result": "Adenomas without submucosal invasion",
+"condition": "Adenomas comprising both low and high grade dysplasia",
+"time": "None",
+"details": "None"
+},
+{
+"test": "Radiological imaging",
+"severity": "None",
+"result": "Raised the possibility of invasive disease due to sigmoid thickening",
+"condition": "Possible invasive disease",
+"time": "None",
+"details": "None"
+}
+],
+"treatments": [
+{
+"name": "Endoscopic resection",
+"related condition": "Large sessile polyps in the sigmoid colon",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "Considered as a therapeutic option",
+"reaction to treatment": "Not performed due to difficult endoscopic access and characteristics of the polyps",
+"details": "None"
+},
+{
+"name": "Surgery",
+"related condition": "Large sessile polyps in the sigmoid colon, possible invasive disease",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "Difficult endoscopic access, radiological imaging suggesting invasive disease, and patient's request for a permanent colostomy",
+"reaction to treatment": "Uneventful recovery, good quality of life following surgery",
+"details": "High anterior resection with end colostomy, open approach due to suspected intra-abdominal adhesions"
+}
+],
+"discharge": {
+"reason": "Good quality of life following surgery",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "Patient had an uneventful recovery and was discharged with a good quality of life"
+}
+}

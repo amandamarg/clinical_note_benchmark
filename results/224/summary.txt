@@ -1,0 +1,92 @@
+{
+"visit motivation": "None",
+"admission": [
+{
+"reason": "None",
+"date": "None",
+"duration": "None",
+"care center details": "None"
+}
+],
+"patient information": {
+"age": "37",
+"sex": "Female",
+"ethnicity": "Japanese",
+"weight": "None",
+"height": "None",
+"family medical history": {
+"mother": "end-stage breast cancer"
+},
+"recent travels": "None",
+"socio economic context": "Lives with parents, father is visually impaired, she is the main caregiver for her mother",
+"occupation": "Engineer"
+},
+"patient medical history": {
+"physiological context": "None",
+"psychological context": "Diagnosed with ASD in adulthood",
+"vaccination history": "None",
+"allergies": "None",
+"exercise frequency": "None",
+"nutrition": "None",
+"sexual history": "None",
+"alcohol consumption": "None",
+"drug usage": "None",
+"smoking status": "None"
+},
+"surgeries": [
+{
+"reason": "None",
+"Type": "None",
+"time": "None",
+"outcome": "None",
+"details": "None"
+}
+],
+"symptoms": [
+{
+"name of symptom": "None",
+"intensity of symptom": "None",
+"location": "None",
+"time": "None",
+"temporalisation": "None",
+"behaviours affecting the symptom": "None",
+"details": "None"
+}
+],
+"medical examinations": [
+{
+"name": "None",
+"result": "None",
+"details": "None"
+}
+],
+"diagnosis tests": [
+{
+"test": "None",
+"severity": "None",
+"result": "None",
+"condition": "ASD",
+"time": "None",
+"details": "Diagnosed in adulthood, not disclosed to parents"
+}
+],
+"treatments": [
+{
+"name": "None",
+"related condition": "None",
+"dosage": "None",
+"time": "None",
+"frequency": "None",
+"duration": "None",
+"reason for taking": "None",
+"reaction to treatment": "None",
+"details": "None"
+}
+],
+"discharge": {
+"reason": "None",
+"referral": "None",
+"follow up": "None",
+"discharge summary": "None"
+}
+}

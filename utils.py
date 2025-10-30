@@ -9,147 +9,61 @@ import re
 from glob import glob
 
 
-def match_filenames(dir_path, base_filename, extension):
-    file_pattern = re.compile(rf'{base_filename}(\d*).{extension}')
-    matches = [re.match(file_pattern, f) for f in os.listdir(dir_path) if re.match(file_pattern, f)]
-    return matches
-
-def get_most_recent(file_dir, base_filename, extension):
-    versions = [0 if (m[1] == '') else int(m[1]) for m in match_filenames(file_dir, base_filename, extension)]
-    if len(versions) == 0:
-        return None
-    version = max(versions)
-    file_path = os.path.join(file_dir, f'{base_filename}{version if version != 0 else ""}.{extension}')
-    return file_path
-        
-def write_file(contents, dir_path, base_filename, extension, overwrite=False):
-    if not os.path.exists(dir_path):
-        os.makedirs(dir_path)
-    versions = [0 if (m[1] == '') else int(m[1]) for m in match_filenames(dir_path, base_filename, extension)]
-    if len(versions) == 0:
-        file_path = os.path.join(dir_path, f'{base_filename}.{extension}')
-    elif overwrite:
-        file_path = os.path.join(dir_path, f'{base_filename}{max(versions)}.{extension}')
-    else:
-        file_path = os.path.join(dir_path, f'{base_filename}{max(versions) + 1}.{extension}')
-    if isinstance(contents, pd.DataFrame):
-        contents.to_json(file_path)
-        return file_path
-    with open(file_path, 'w') as file:
-        if extension == "json":
-            json.dump(contents, file)
-        else:
-            file.write(contents)
-    return file_path
-
-def read_files(dir_path, base_filename, extension):
-    all_files = {}
-    for f in os.scandir(dir_path):
-        if re.match(rf'{base_filename}(\d*{extension}', f.name):
-            with open(f.path, 'r') as file:
-                if extension == 'json':
-                    all_files[f.name] = json.load(file)
-                else:
-                    all_files[f.name] = file.read()
-    return all_files
-        
-def set_standard(idx, src_path, standard_dir='standards'):
-    dest_path = os.path.join(standard_dir, f'standard_note_{str(idx)}.txt')
-    if (os.path.islink(dest_path)):
-        os.unlink(dest_path)
-    if src_path == 'ref':
-        return
-    os.symlink(src_path, dest_path)
-
-def get_gen_note_paths(dir_path, idx=None, version=None, return_matches=False):
-    gen_note_paths = glob(os.path.join(dir_path, '**/*.txt'), recursive=True)
-    if isinstance(idx, list):
-        idx = list(map(str, idx))
-        idx_filter = ('|').join(idx)
-    else:
-        idx_filter = str(idx) if idx else r'\d+'
-    if isinstance(version, list):
-        version = list(map(str, version))
-        if '0' in version:
-            version.remove('0')
-            if len(version) == 0:
-                version_filter = ''
-            else:
-                version_filter = rf'({('|').join(version)})*'
-        else:
-            version_filter = ('|').join(version)
-    else:
-        version_filter = '' if str(version) == '0' else str(version) if version else r'\d*'
-    pattern = re.compile(rf'(.*)/({idx_filter})/gen_note({version_filter}).txt')
-    if return_matches:
-        return [pattern.match(p) for p in gen_note_paths if pattern.match(p)]
-    else:
-        return [p for p in gen_note_paths if pattern.match(p)]
-
-def read_gen_notes(gen_note_paths):
-    pattern = re.compile(rf'(.*)/(\d+)/gen_note(\d*).txt')
-    gen_notes = []
-    inds = []
-    for p in gen_note_paths:
-        match = pattern.match(p)
-        assert match
-        inds.append(int(match[2]))
-        with open(p, 'r') as file:
-            gen_notes.append(file.read())
-    return pd.DataFrame(list(zip(gen_note_paths, gen_notes, inds)), columns=['path', 'note', 'idx'])
-
-
-def extend_file(dest_path, df):
-    if os.path.exists(dest_path):
-        existing_report = pd.read_json(dest_path)
-        pd.concat((existing_report, df)).reset_index(drop=True).to_json(dest_path)
-    else:
-        df.to_json(dest_path)
-
-def write_df(df, base_path, base_filename, extension, mode):
-    path = get_most_recent(base_path, base_filename, extension)
-    if path is None:
-        path = os.path.join(base_path, f"{base_filename}.{extension}")
-        df.to_json(path)
+def get_standard_path(idx, standard_dir='standards'):
+    if f'{str(idx)}.txt' in os.listdir(standard_dir):
+        path = os.readlink(os.path.join(standard_dir, f'{str(idx)}.txt'))
         return path
-    if mode == 'overwrite':
-        df.to_json(path)
-    elif mode == 'extend':
-        existing_report = pd.read_json(path)
-        pd.concat((existing_report, df)).reset_index(drop=True).to_json(path)
     else:
-        v = re.search(rf'{base_filename}(\d*).{extension}', path)
-        v = 1 if v[1] == '' else int(v[1]) + 1
-        path = os.path.join(base_path, f"{base_filename}{v}.{extension}")
-        df.to_json(path)
-    return path
+        raise FileNotFoundError(f'Standard note for idx {str(idx)} not found in {standard_dir}')
 
-def get_eval_report(path, filename, exclude_self_comparisons=True, add_basenames=True):
-    df = pd.read_json(os.path.join(path, filename))
-    if exclude_self_comparisons:
-        df = df[df['gen_note_path'] != df['standard_note_path']]
-    if add_basenames:
-        df['standard_basename'] = df['standard_note_path'].apply(lambda x:  os.path.basename(x))
-        df['gen_basename'] = df['gen_note_path'].apply(lambda x: os.path.basename(x))
+def get_gen_paths(results_dir_path='results', idxs='all', models='all', prompts='all'):
+    if idxs == 'all':
+        idxs = r'\d+'
+    else:
+        idxs = ('|').join(list(map(str, idxs)))
+    if models == 'all':
+        models = r'.+'
+    elif isinstance(models, list):
+        models = ('|').join(models)
+    if prompts == 'all':
+        prompts = r'g\d+'
+    elif isinstance(prompts, list):
+        prompts = ('|').join(prompts)
+    pattern = re.compile(rf'{results_dir_path}/({idxs})/({models})/({prompts})/(\d+\.\d+)/gen_note.txt')
+    glob_paths = glob(f'{results_dir_path}/**/gen_note.txt', recursive=True)
+    filtered_paths = list(filter(pattern.match, glob_paths))
+    return filtered_paths    
+
+def parse_path(path):
+    pattern = re.compile(rf'(.*)/(\d+)/(.+)/(.+)/(\d+\.\d+)/gen_note.txt')
+    match = pattern.match(path)
+    assert match
+    return {
+        'full_path': path,
+        'root_dir': match[1],
+        'idx': int(match[2]),
+        'model': match[3],
+        'prompt': match[4],
+        'timestamp': match[5]
+    }
+
+def read(path):
+    with open(path, 'r') as file:
+        content = file.read()
+    return content
+
+
+def get_metadata_df(paths):
+    notes = list(map(read, paths))
+    metadata = list(map(parse_path, paths))
+    df = pd.DataFrame.from_records(metadata)
+    df['note'] = notes
     return df
 
-def melt_rouge_scores(df):
-    rouge_types = [col for col in df.columns if re.match(r'rouge-*', col)]
-    other_cols = [col for col in df.columns if col not in rouge_types]
-    melted = df.melt(id_vars=other_cols, value_vars=rouge_types)
-    melted = pd.concat((melted,pd.json_normalize(melted['value'])), axis=1)
-    melted.rename(columns={'variable': 'rouge_type'}, inplace=True)
-    melted.drop(columns=['value'], inplace=True)
-    other_cols.append('rouge_type')
-    melted = melted.melt(id_vars=other_cols, value_vars=['r', 'p', 'f'])
-    melted.rename(columns={'variable': 'metric'}, inplace=True)
-    return melted
 
-def pivot_df(melted_df, pivot_index, aggfunc=None):
-    if aggfunc:
-        melted_df = melted_df.pivot_table(index=pivot_index, columns=['metric'], values=['value'], aggfunc=aggfunc)
+def write_reports(path, df):
+    if os.path.exists(path):
+        existing_report = pd.read_json(path)
+        pd.concat((existing_report, df)).reset_index(drop=True).to_json(path, orient='records', indent=4)
     else:
-        melted_df = melted_df.pivot(index=pivot_index, columns=['metric'], values=['value'])
-    melted_df.columns = melted_df.columns.get_level_values(1)
-    melted_df.columns.names = [None]
-    return melted_df
+        df.to_json(path, orient='records', indent=4)
