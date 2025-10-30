@@ -1,44 +1,47 @@
+import seaborn as sns
 import matplotlib.pyplot as plt
+from utils import search_file_paths, melt_rouge_scores, get_standard_path, parse_path
 import pandas as pd
 import os
-import seaborn as sns
-import re
 
-MODEL_NAME = 'ozwell'
-PROMPT_NAME = 'g2'
-FILE_NAME = 'eval_report'
+RESULTS_DIR = 'results'
+IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
+MODEL_NAMES = ['ozwell'] # list of model names to include in the plot
+PROMPT_NAMES = ['g1'] # list of prompt names to include in the plot
+STANDARDS_AGGR = 'avg' # 'avg' to include averaged standards for each for each idx/model/prompt/timestamp, 'use_set' to uses whatever standards are currently set in 'standards' directory for each idx, or None to plot all standards
+TIMESTAMP_AGGR = 'avg' # 'avg' to average across timestamps for each idx/model/prompt, 'most_recent' to use the most recent timestamp for each idx/model/prompt, or None to plot all timestamps (occurs after standards aggregation)
+X_CATEGORY = 'idx' # 'model', 'prompt', or 'idx' (or 'timestamp' or 'standard_note_path' if not aggregated)
+COLOR_CATEGORY = None # None, 'model', 'prompt', or 'idx' (or 'timestamp' or 'standard_note_path' if not aggregated)
+SAVE_PATH = 'plots/rouge_plot.png'
 
-def plot(path, df, x_col_name='idx', grouping_col_name='standard_note_path', grouping_legend_title='standard note'):
-    assert grouping_col_name in df.columns and x_col_name in df.columns
-    df[grouping_col_name] = df[grouping_col_name].map(lambda x: x.split('/')[-1])
-    for rt in ['rouge-1', 'rouge-2', 'rouge-l']:
-            fig, ax = plt.subplots(3, 1, figsize=(15, 10), layout='constrained')
-            for i,c in enumerate(['f', 'p', 'r']):
-                sns.scatterplot(data=df, x=x_col_name, y=f'{rt}-{c}', hue=grouping_col_name, ax=ax[i])
-                ax[i].legend(loc='lower right', bbox_to_anchor=(1.1, 0), title=grouping_legend_title)
-            title = f'{rt} scores by {x_col_name} and {grouping_legend_title}'
-            if re.search(r'rouge_avgs', FILE_NAME):
-                title = 'avg ' + title
-            fig.suptitle(title, fontsize=16)
-            fig.savefig(os.path.join(path, 'plots',  title.replace(' ', '_') + f'.png'))
-
-def reformated_df(df, rouge_types=['rouge-1', 'rouge-2', 'rouge-l']):
-    rouge_dfs = []
-    for rt in rouge_types:
-        rouge_dfs.append(pd.DataFrame.from_records(df[rt].values).rename(columns={k:f'{rt}-{k}' for k in ['f', 'p', 'r']}))
-    r_df = pd.concat(rouge_dfs, axis=1)
-    cols = [c for c in df.columns if c not in rouge_types]
-    return pd.concat((r_df, df.get(cols)), axis=1)
-    
 
 if __name__ == '__main__':
+    if STANDARDS_AGGR:
+        assert X_CATEGORY != 'standard_note_path', "Cannot use 'standard_note_path' as X_CATEGORY when STANDARDS_AGGR is set"
+        assert COLOR_CATEGORY != 'standard_note_path', "Cannot use 'standard_note_path' as COLOR_CATEGORY when STANDARDS_AGGR is set"
+    if TIMESTAMP_AGGR:
+        assert X_CATEGORY != 'timestamp', "Cannot use 'timestamp' as X_CATEGORY when TIMESTAMP_AGGR is set"
+        assert COLOR_CATEGORY != 'timestamp', "Cannot use 'timestamp' as COLOR_CATEGORY when TIMESTAMP_AGGR is set"
+
+    eval_report_paths = search_file_paths(filename='eval_report.json', results_dir_path=RESULTS_DIR, idxs=IDXS, models=MODEL_NAMES, prompts=PROMPT_NAMES)
+    eval_df = []
+    for path in eval_report_paths:
+        eval_df.append(pd.read_json(path))
+    eval_df = melt_rouge_scores(pd.concat(eval_df)).reset_index(drop=True)
+    if STANDARDS_AGGR == 'avg':
+        eval_df = eval_df.groupby(['idx', 'gen_note_path', 'rouge_type', 'metric'])['value'].mean()
+        eval_df = eval_df.to_frame().reset_index()
+    elif STANDARDS_AGGR == 'use_set':
+        eval_df = eval_df[eval_df['standard_note_path'] == eval_df['idx'].map(get_standard_path)].reset_index(drop=True)
+    eval_df = pd.concat((eval_df, pd.json_normalize(eval_df['gen_note_path'].map(parse_path)).drop(columns=['full_path', 'root_dir', 'idx'])), axis=1)
+    if TIMESTAMP_AGGR == 'avg':
+        eval_df = eval_df.groupby(['idx', 'model', 'prompt', 'rouge_type', 'metric'])['value'].mean()
+        eval_df = eval_df.to_frame().reset_index()
+    elif TIMESTAMP_AGGR == 'most_recent':
+        most_recent_timestamps = eval_df.groupby(['idx', 'model', 'prompt'])['timestamp'].max().to_frame().reset_index()
+        most_recent_timestamps = pd.MultiIndex.from_frame(most_recent_timestamps)
+        eval_df.set_index(['idx', 'model', 'prompt', 'timestamp'], inplace=True)
+        eval_df = eval_df.loc[most_recent_timestamps].reset_index()
     
-    path = os.path.join('expiriments', MODEL_NAME, PROMPT_NAME)
-    df = pd.read_json(os.path.join(path, FILE_NAME + '.json'))
-    if re.search(r'eval_report', FILE_NAME):
-        # exclude comparisons between identical notes
-        df = df[df['standard_note_path'] != df['gen_note_path']].reset_index(drop=True).copy()
-    df = reformated_df(df)
-    plot(path, df)
-    if 'gen_note_path' in df.columns:
-        plot(path, df, grouping_col_name='gen_note_path', grouping_legend_title='generated note')
+    g = sns.catplot(data=eval_df, x=X_CATEGORY, y='value', hue=COLOR_CATEGORY, col='rouge_type', row='metric', dodge=True, legend='full')
+    g.savefig(SAVE_PATH)
