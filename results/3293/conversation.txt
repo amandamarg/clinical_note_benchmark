@@ -1,0 +1,32 @@
+Doctor: Good morning, what brings you here today?
+Patient: Good morning, doctor. I have a mass on my left ring finger that I'm concerned about.
+Doctor: Hmm, can you tell me more about the mass? How long have you had it?
+Patient: I've had it for 7 months now. It appeared suddenly with no history of trauma.
+Doctor: I see. And did you undergo any incision and drainage for the mass 2 months after its appearance?
+Patient: Yes, I did. But there was no improvement.
+Doctor: Okay, and what made you come to see me today?
+Patient: I'm just worried that the mass might be malignant.
+Doctor: I understand. Let's take a look at your medical history. Have you had any past medical or surgical history?
+Patient: No, I haven't.
+Doctor: And what about your family and drug history?
+Patient: They're unremarkable.
+Doctor: Alright. During your assessment, I noticed that the mass is located on the ulnar side of the proximal phalanx of your left ring finger and that it's extensively involved the 4th web space. Is that correct?
+Patient: Yes, that's correct.
+Doctor: And the overlying skin coverage is ulcerative with no active signs of infection, right?
+Patient: Yes, that's correct.
+Doctor: Great. I also noticed that the range of motion of the involved digit is limited, but your neurovascular examination was normal. Is that correct?
+Patient: Yes, that's correct.
+Doctor: Okay. We did a radiologic evaluation of your hand and found a soft tissue swelling with no evidence of bone involvement. And we also did a magnetic resonant evaluation, which showed a mass on the volar aspect of your ring finger encasing about 50% of the flexor tendons of that digit.
+Patient: Hmm, okay.
+Doctor: The MRI also showed that the mass had low signal intensity on T1 and high signal intensity on T2 evaluation with strong enhancement in post contrast evaluation. And our assessment of the neurovascular structures showed partial abutment of the radial sided bundle together with complete encirclement of the ulnar sided neurovascular bundle.
+Patient: Okay.
+Doctor: The surrounding bone was free of any masses and associated mass effect. So, we took you to the OR for exploration and mass excision.
+Patient: Okay.
+Doctor: During the intervention, we used a bruner type incision and explored the subcutaneous mass, which had a fibro-fatty consistency with extensive fascia-like extension to the surrounding soft tissue. And as we suspected, the mass was encircling the ulnar neurovascular bundle with mass abutment over the radial bundle.
+Patient: Hmm, okay.
+Doctor: The mass was dissected freely. And now, I just want to explain to you the possible risks associated with the intervention.
+Patient: Okay.
+Doctor: Do you have any questions for me?
+Patient: No, I don't think so.
+Doctor: Alright. Please follow up with me in two weeks.
+Patient: Okay, thank you, doctor.

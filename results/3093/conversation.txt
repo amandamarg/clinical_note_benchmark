@@ -1,0 +1,20 @@
+1. Doctor: Good morning, Mrs. Susan. How are you feeling today?
+2. Patient: Good morning, doctor. I'm feeling okay, but my pain is still there.
+3. Doctor: I see. Can you tell me more about your pain? Where is it located?
+4. Patient: My pain is all over my body, but it's especially severe in my hands and legs.
+5. Doctor: I see. You mentioned that you had carpal tunnel surgery on your right hand when you were younger. Is that correct?
+6. Patient: Yes, that's right. But the relief was only temporary.
+7. Doctor: I understand. And you also tried different treatments, such as chiropractors and Chinese medicine, but they didn't help much, right?
+8. Patient: Yes, that's correct. I even tried yoga and swimming, but they made my pain worse.
+9. Doctor: I see. And you also had weakness in your legs and difficulty with bladder and bowel control, is that correct?
+10. Patient: Yes, that's right. I would often fall down the stairs because of my legs giving out.
+11. Doctor: I understand. And you had an MRI and emergency surgery to stabilize your cervical spine and relieve spinal cord compression in May 2011, right?
+12. Patient: Yes, that's correct. But when I woke up from the surgery, I was paralyzed on the right side of my body.
+13. Doctor: I see. And you had another surgery in August 2012 for pain relief, but it made your pain worse instead, right?
+14. Patient: Yes, that's correct. I've been receiving weekly injections for pain relief, but they only marginally decrease my pain for a week.
+15. Doctor: I understand. And you're taking high doses of medication for nerve pain relief, but they only provide marginal benefit, right?
+16. Patient: Yes, that's right. And I have areas of heightened sensitivity on my legs where even a bed sheet can cause pain.
+17. Doctor: I see. Based on what you've told me, I think we need to do some further tests to see what's causing your pain.
+18. Patient: Okay. What kind of tests do I need to do?
+19. Doctor: We'll need to do some imaging tests, such as an MRI, to see if there's any spinal cord compression or other issues. And we'll also need to do some nerve tests to see if there's any nerve damage.
+20. Patient: Okay, doctor. When do I need to come back for the results?

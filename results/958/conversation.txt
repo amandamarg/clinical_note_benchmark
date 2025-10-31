@@ -1,0 +1,26 @@
+Doctor: Good morning, sir. How can I help you today?
+Patient: Good morning, doctor. I came here three years ago for my fractured central incisors. I was looking for possible treatments.
+Doctor: Ah, yes. I remember. And what's the problem now?
+Patient: I have pain in my upper left canine.
+Doctor: Hmm, okay. I see. Can you tell me more about the pain? When did it start? How often does it occur?
+Patient: It's been a few weeks now. It hurts when I chew or bite on it.
+Doctor: I see. And did you have any dental problems before the pain started?
+Patient: Yes, I had some decay and fractured teeth.
+Doctor: Okay. And do you have any other symptoms?
+Patient: No, just the pain.
+Doctor: Alright. We did some tests and found that you have a high risk for caries and eccentric bruxism. And you also have partial edentulism in the superior left quadrant.
+Patient: Yes, I remember.
+Doctor: And three years ago, we did some composite fillings for your upper front teeth and restored the posterior superior quadrants with implants.
+Patient: Yes, that's right.
+Doctor: And now, we found new and secondary subgingival caries in your six front teeth. The conservative prognosis is considered poor due to the subgingival depth and extent of decay presented by the lesions from canine to canine.
+Patient: Hmm, okay.
+Doctor: After discussing the treatment options, you decided to replace the residual teeth with a new implant-supported bridge, similar to the recently performed prostheses of the posterior areas that you judged as highly satisfactory.
+Patient: Yes, I remember.
+Doctor: And the treatment was carried out in a staged approach. We first extracted the lateral incisors and placed two immediate implants. And then the four residual teeth were prepared to be used as abutments of a temporary bridge.
+Patient: Okay.
+Doctor: In a further step, the four remaining teeth were also extracted and the initial provisional bridge was replaced by the second provisional screwed on the uncovered implants. Only one out of the four abutment teeth used for the temporization of root canal treatment was needed due to a periapical infection.
+Patient: Ah, I see.
+Doctor: And now, the two implants have osseointegrated well and you can now have a permanent bridge placed.
+Patient: Okay, sounds good.
+Doctor: Great. I will schedule an appointment for you next week. And please keep up with good oral hygiene and regular dental check-ups.
+Patient: Sure, doctor. Thank you.

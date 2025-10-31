@@ -1,0 +1,28 @@
+Doctor: Good morning, how are you feeling today?
+Patient: I'm feeling okay, thank you.
+Doctor: That's great to hear. Can you tell me why you came to see me today?
+Patient: Yes, I have a sensitive mass on my right wrist and it has been bothering me for the past three years.
+Doctor: I see. Can you describe the pain you're feeling? 
+Patient: The pain has been progressively worsening over time and I have developed hypersensitivity to light contact. 
+Doctor: Hmm, okay. Is there any complaint of cold sensitivity to the mass?
+Patient: No, there's no complaint of cold sensitivity to the mass.
+Doctor: Alright. Does the pain occasionally radiate down the ulnar aspect of your wrist?
+Patient: Yes, it does.
+Doctor: I see. Do you have any history of previous trauma to that area?
+Patient: No, I don't have any history of previous trauma to that area. But I do have a history of squamous cell carcinoma on the dorsal-radial aspect of that hand.
+Doctor: Okay. And was that treated?
+Patient: Yes, it was treated. But I developed a reflex sympathetic dystrophy as a result, which caused a delayed recovery in the range of motion.
+Doctor: I see. Did a stellate ganglion block provide relief for your RSD?
+Patient: No, it didn't. But my range of motion has been slowly progressing with home exercises.
+Doctor: Alright. Can you describe what you felt during the physical exam?
+Patient: Yes, during the physical exam, I felt a small round nodule approximately 5 mm x 5 mm on my wrist. It was palpable dorsal to the extensor carpi ulnaris and 1 cm proximal to the ulnar styloid. There was significant point tenderness that did not radiate or display a Tinel’s sign.
+Doctor: I see. And what did the imaging show?
+Patient: The imaging showed no abnormality outside of diffuse osteopenia.
+Doctor: Alright. Based on the location and exam, it's consistent with a neuroma that had evolved from a cutaneous nerve or possibly from the dorsal sensory branch of the ulnar nerve.
+Patient: Hmm, okay.
+Doctor: We took you to the operative theater for a deep dissection and we found a maroon-colored mass approximately 5 mm x 5 mm, connected to a cutaneous nerve branch. The nerve and mass were excised and sent for histopathological review. The ulnar nerve and dorsal sensory branch were visualized and confirmed to have no involvement with the mass.
+Patient: Okay.
+Doctor: At your first postoperative visit, you reported no pain and that you were very satisfied with the results of your surgery. The diagnostic pathological stains were consistent with a glomus tumor. This was confirmed with strong reactivity to immunostaining of type IV collagen and smooth muscle actin.
+Patient: That's great to hear.
+Doctor: Yes, it is. But we need to monitor the situation and make sure there are no complications. Can you come back for a follow-up visit in a week?
+Patient: Of course, I'll be here.

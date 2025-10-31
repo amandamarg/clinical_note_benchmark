@@ -1,0 +1,28 @@
+Doctor: Good morning, how are you doing today?
+Patient: I'm good, thank you.
+Doctor: I understand that you have recently undergone an abdominal ultrasound. Can you tell me more about what happened?
+Patient: Yes, my primary care physician ordered it when my checkup blood test showed a slightly elevated level of liver enzymes with no other lab abnormalities.
+Doctor: I see. And what did the ultrasound show?
+Patient: It showed a right adrenal lesion of 9 cm diameter.
+Doctor: Okay. And after the ultrasound, did you have any other tests done?
+Patient: Yes, I had an abdominal MRI which revealed a soft tissue necrotic encapsulated mass of 10 × 9 cm of right adrenal gland origin.
+Doctor: I see. And were you experiencing any symptoms at that time?
+Patient: No, I was completely asymptomatic and my physical exam was strictly normal.
+Doctor: That's good to hear. And did you have an endocrinological evaluation done?
+Patient: Yes, it was done and showed normal hypothalamic-pituitary-adrenal axis function and no hyper secretion of catecholamines.
+Doctor: I see. And what was the result of the adrenal scan?
+Patient: The adrenal scan showed a well encapsulated 10 × 9 × 7 cm heterogeneous right adrenal mass with areas of necrosis and calcifications without local invasion.
+Doctor: Okay. And what was the decision for the next step?
+Patient: The doctor decided to do a right laparoscopic trans peritoneal adrenalectomy.
+Doctor: I see. And how was the surgery done?
+Patient: The surgery was done under general anesthesia after central and arterial lines insertion, and I was on left decubitus position. 5 trocars were inserted.
+Doctor: Okay. Can you tell me more about the trocars that were inserted?
+Patient: The first 12-mm port was inserted at the lateral border of the rectus abdominis muscle just above the level of the umbilicus to accommodate the camera. Two subcostal 11 mm ports were also placed; one in the midclavicular line and the other in the lateral border of the rectus abdominis muscle. The forth 5-mm subcostal trocar was inserted in the anterior axillary line to retract the liver and the fifth 5 mm one was inserted in the epigastrium and used specially for aspiration and irrigation.
+Doctor: I see. And what happened after the liver retraction?
+Patient: After liver retraction, the peritoneum along the lateral aspect of the IVC was incised to expose the IVC just below its intrahepatic course. The duodenum which was diverted by the mass was mobilized.
+Doctor: I see. And what was the next step?
+Patient: Dissection was next carried inferiorly by incising the peritoneum along the lateral edge of the vena cava to the superior edge of the renal vein. Dissection of the mass was subsequently carried out with special care at the medial aspect where.
+Doctor: I see. Thank you for explaining that to me. Is there anything else you would like to discuss with me today?
+Patient: No, that's all. Thank you, doctor.
+Doctor: You're welcome. I will see you again soon. Take care.
+Patient: Thank you, doctor.

@@ -1,0 +1,33 @@
+Doctor: Good morning, what brings you in today?
+Patient: I came in for an evaluation of my worsening chronic hypertension. I have been on hydrochlorothiazide and Valsartan for 10 years now.
+Doctor: Hmm, I see. And what has changed in your condition?
+Patient: My systolic blood pressure has been exceeding 200 mmHg, and I was treated in the emergency department for headache and malaise.
+Doctor: Okay, I understand. And what happened after that?
+Patient: I was treated and discharged, but I returned to the emergency department 5 days later with some complaints.
+Doctor: What kind of complaints?
+Patient: I was having difficulty finding words, blurred vision, and tingling in my lower extremities.
+Doctor: Alright. And what was your blood pressure on presentation?
+Patient: It was 216/81 mmHg.
+Doctor: I see. And you were admitted. What did the workup demonstrate?
+Patient: They said there was no acute intracranial process or carotid stenosis.
+Doctor: Okay. And what did the Echocardiography show?
+Patient: It showed mild concentric left ventricular hypertrophy with a preserved ejection fraction.
+Doctor: I see. And despite the medical therapy, your blood pressure continued to be refractory, right?
+Patient: Yes, that's correct. I was given five antihypertensive agents, and even an esmolol infusion, but it didn't help.
+Doctor: Hmm. And what did the renal artery ultrasound show?
+Patient: It showed renal artery stenosis with flow at the arterial origin measuring 350 cm/s on the right and 208 cm/s on the left.
+Doctor: I see. And you had no history of kidney disease and no elevation of your creatinine, correct?
+Patient: Yes, that's right.
+Doctor: And Vascular surgery was consulted. Did they find anything on exam?
+Patient: Yes, they found weak but palpable femoral pulses and an audible abdominal aortic bruit. My ankle-brachial index measurements were deferred and I was scheduled for an angiogram.
+Doctor: I see. And you underwent aortography the following day, correct?
+Patient: Yes, that's right.
+Doctor: And what did the selective angiography show?
+Patient: They found the renal arteries to be widely patent, but there was significant stenosis at the distal thoracic aorta extending into the abdominal aorta.
+Doctor: I see. And the degree of stenosis was greater than 90% and the pressure gradient between the upper extremity and intra-aortic measurements exceeded 100 mmHg, correct?
+Patient: Yes, that's what they said.
+Doctor: And a CTA was performed to evaluate the extent of the lesion, right?
+Patient: Yes, that's correct.
+Doctor: And it confirmed a stenosis 1.3 cm proximal to the celiac origin measuring 5 mm at its.
+Patient: Yes, that's what they told me.
+Doctor: Alright, I will consult with the other specialists and we will come up with a plan for you. You need to follow up with us regularly.

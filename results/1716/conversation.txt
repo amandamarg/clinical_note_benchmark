@@ -1,0 +1,27 @@
+Doctor: Good morning, how can I help you today?
+Patient: Hi, I was referred to your clinic for my intractable pain.
+Doctor: Sure, can you tell me more about your pain?
+Patient: I have been suffering from right arm pain and swelling for the past 10 months.
+Doctor: I see. And did you go to the emergency department for this?
+Patient: Yes, I did. They did a computed tomography of my neck with contrast and found two masses in my right axillary and supraclavicular regions.
+Doctor: Hmm, I see. And what was the diagnosis?
+Patient: I was diagnosed with primary mammary carcinoma of the axilla with metastasis.
+Doctor: I see. And what kind of treatment have you received so far?
+Patient: I was evaluated by the oncology and radiation oncology services and underwent multiple rounds of chemotherapy and radiation therapy. But my course of chemotherapy was complicated by thrombocytopenia and metastatic disease progression.
+Doctor: I see. And were you a surgical candidate?
+Patient: No, I was determined to be a non-surgical candidate.
+Doctor: I understand. So, how has your pain been lately?
+Patient: It's been getting worse. I started on opioid therapy, but despite titrating my oral medications, my pain control remained suboptimal.
+Doctor: I see. Can you tell me more about your pain?
+Patient: It's a constant 10/10 pain on my right proximal humerus, right anterior and posterior shoulder, and right supraclavicular region. It's dull, aching, burning, and electric in nature. It's worsened by passive and active range of motion, and at its best, it's a 7/10 with oral medications.
+Doctor: Okay. And have you noticed any other symptoms?
+Patient: Yes, I have. I have progressive weakness of my entire right upper extremity.
+Doctor: I see. And did you have any imaging studies done?
+Patient: Yes, I did. I had a magnetic resonance imaging of my brachial plexus, and it revealed a mass encasing my right brachial plexus at the level of the divisions and cords as well as the right brachial artery.
+Doctor: I see. And did you have any diagnostic brachial plexus block?
+Patient: Yes, I did. It was performed in the hospital due to my functional decline and acute worsening of pain.
+Doctor: I understand. And was the brachial plexus able to be visualized using ultrasonography?
+Patient: No, it wasn't. The tumor effect made it unable to be visualized in the classic supraclavicular area.
+Doctor: I see. I will need to examine you and review your medical records. I will also recommend some tests and treatments to help manage your pain.
+Patient: Okay, thank you.
+Doctor: You're welcome. Please come back to see me in a week, and we will discuss the results and next steps.
