@@ -4,6 +4,10 @@ import time
 import requester
 import pandas as pd
 
+'''
+Run this script to generate clinical notes using a specified model and prompt.
+'''
+
 GENERATE_MODEL_NAME = 'ozwell'
 GENERATE_PROMPT_NAME = 'g1'
 IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
@@ -20,8 +24,6 @@ def generate(df, generator, root='./'):
         gen_note = generator.send(row['conversation'])
         with open(os.path.join(path, "gen_note.txt"), 'w') as f:
             f.write(gen_note)
-        
-
 
 if __name__ == '__main__':
     if GENERATE_MODEL_NAME == 'ozwell':

@@ -9,6 +9,7 @@ import seaborn as sns
 '''
 Run this script to evaluate generated clinical notes against standard notes based on ROUGE scores and AI model evaluations with a specified model and similarity prompt.
 Optionally, standard notes can be cleaned before evaluation.
+***Make sure to set standard notes using set_standards.py before running this script.***
 '''
 IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
 EVAL_MODEL_NAME = 'ozwell'
@@ -48,10 +49,6 @@ class Evaluator:
     
 
 if __name__=='__main__':
-    for i in IDXS: # use reference note as default standard
-        if f'{str(i)}.txt' not in os.listdir('standards'):
-            os.symlink(f'results/{str(i)}/full_note.txt', os.path.join('standards', f'{str(i)}.txt'))
-
     if EVAL_MODEL_NAME == 'ozwell':
         req_eval = requester.OzwellRequester(EVAL_PROMPT)
     else:
