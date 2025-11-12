@@ -34,14 +34,13 @@ Rules:
 tools = [
     {
         "type": "function",
-        "function": {
-            "name": "report_added_doc",
-            "description": "Use ONLY for clinically significant content present in B but not in A.",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "clinical_concept": {"type": "string", "description": "Short title of the finding (e.g., 'New Dx: CHF', 'Increased Lisinopril dose')."},
-                    "category": {"type": "string", "description": "diagnosis|allergy|medication|procedure|imaging|lab|vital|plan|other"},
+        "name": "report_added_doc",
+        "description": "Use ONLY for clinically significant content present in B but not in A.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "clinical_concept": {"type": "string", "description": "Short title of the finding (e.g., 'New Dx: CHF', 'Increased Lisinopril dose')."},
+                "category": {"type": "string", "description": "diagnosis|allergy|medication|procedure|imaging|lab|vital|plan|other"},
                     "severity": {"type": "string", "enum": ["low","moderate","high","critical"]},
                     "confidence": {"type": "number", "minimum": 0, "maximum": 1},
                     "rationale": {"type": "string", "description": "Why this matters clinically; one sentence."},
@@ -63,44 +62,41 @@ tools = [
                         },
                         "required": ["section","snippet_B"]
                     }
-                },
-                "required": ["clinical_concept","category","severity","confidence","rationale","evidence"]
-            }
+            },
+            "required": ["clinical_concept","category","severity","confidence","rationale","evidence"]
         }
     },
     {
         "type": "function",
-        "function": {
-            "name": "report_missing_doc",
-            "description": "Use ONLY for clinically significant content present in A but missing from B.",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "clinical_concept": {"type": "string"},
-                    "category": {"type": "string", "description": "diagnosis|allergy|medication|procedure|imaging|lab|vital|plan|other"},
-                    "severity": {"type": "string", "enum": ["low","moderate","high","critical"]},
-                    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
-                    "rationale": {"type": "string"},
-                    "codes": {
-                        "type": "object",
-                        "properties": {
-                            "ICD10": {"type": "array", "items": {"type": "string"}},
-                            "SNOMED": {"type": "array", "items": {"type": "string"}},
-                            "RxNorm": {"type": "array", "items": {"type": "string"}}
-                        }
-                    },
-                    "evidence": {
-                        "type": "object",
-                        "properties": {
-                            "section": {"type": "string"},
-                            "snippet_A": {"type": "string", "description": "Minimal text from A supporting what is missing in B."},
-                            "offsets_A": {"type": "array", "items": {"type": "integer"}, "description": "[start, end] character offsets in A if known"}
-                        },
-                        "required": ["section","snippet_A"]
+        "name": "report_missing_doc",
+        "description": "Use ONLY for clinically significant content present in A but missing from B.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "clinical_concept": {"type": "string"},
+                "category": {"type": "string", "description": "diagnosis|allergy|medication|procedure|imaging|lab|vital|plan|other"},
+                "severity": {"type": "string", "enum": ["low","moderate","high","critical"]},
+                "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+                "rationale": {"type": "string"},
+                "codes": {
+                    "type": "object",
+                    "properties": {
+                        "ICD10": {"type": "array", "items": {"type": "string"}},
+                        "SNOMED": {"type": "array", "items": {"type": "string"}},
+                        "RxNorm": {"type": "array", "items": {"type": "string"}}
                     }
                 },
-                "required": ["clinical_concept","category","severity","confidence","rationale","evidence"]
-            }
+                "evidence": {
+                    "type": "object",
+                    "properties": {
+                        "section": {"type": "string"},
+                        "snippet_A": {"type": "string", "description": "Minimal text from A supporting what is missing in B."},
+                        "offsets_A": {"type": "array", "items": {"type": "integer"}, "description": "[start, end] character offsets in A if known"}
+                    },
+                    "required": ["section","snippet_A"]
+                }
+            },
+            "required": ["clinical_concept","category","severity","confidence","rationale","evidence"]
         }
     }
 ]
@@ -111,9 +107,9 @@ def compare_documents(doc_a: str, doc_b: str):
         {
             "role": "user",
             "content": [
-                {"type": "text", "text": "Compare Document B to Document A and act per the rules."},
-                {"type": "input_text", "text": doc_a, "mime_type": "text/plain", "name": "Document A"},
-                {"type": "input_text", "text": doc_b, "mime_type": "text/plain", "name": "Document B"},
+                {"type": "input_text", "text": "Compare Document B to Document A and act per the rules."},
+                {"type": "input_text", "text": doc_a},
+                {"type": "input_text", "text": doc_b},
             ]
         }
     ]
@@ -123,9 +119,7 @@ def compare_documents(doc_a: str, doc_b: str):
         model=MODEL,
         input=messages,
         tools=tools,
-        tool_choice="auto",
-        temperature=0.2,  # keep determinate for compliance logs
-        max_output_tokens=800
+        tool_choice="auto"
     )
 
     # Handle tool calls
@@ -133,12 +127,10 @@ def compare_documents(doc_a: str, doc_b: str):
     # The Responses API can return a list of output items; iterate and execute tools accordingly.
     for item in resp.output:
         if item.type == "function_call":
-            fn = item.tool_call.function
-            args = json.loads(fn.arguments or "{}")
-            if fn.name == "report_added_doc":
-                # Execute your downstream side-effect here (DB insert, webhook, etc.)
+            args = json.loads(item.arguments)
+            if item.name == "report_added_doc":
                 added.append(args)
-            elif fn.name == "report_missing_doc":
+            elif item.name == "report_missing_doc":
                 missing.append(args)
 
     # If there were no tool calls, capture any text the model returned
