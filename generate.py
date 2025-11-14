@@ -9,20 +9,22 @@ import json
 Run this script to generate clinical notes using a specified model and prompt.
 '''
 GENERATE_MODEL_NAME = 'ozwell'
-GENERATE_PROMPT_NAME = 'g1'
-IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
-
+GENERATE_PROMPT_NAME = 'g2'
+# IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
+IDXS = [155216]
 def init_dirs(df, root='./'):
     for idx, row in tqdm(df.iterrows(), total=len(df), ncols=50):
         if str(idx) not in os.listdir(os.path.join(root, 'results')):
             os.makedirs(os.path.join(root, 'results', str(idx)))
         for k,v in row.to_dict().items():
-            if k == 'summary' and not os.path.exists(os.path.join(root, 'results', str(idx), f'{k}.json')):
-                with open(os.path.join(root, 'results', str(idx), f'{k}.json'), 'w') as f:
-                    json.dump(v, f)
-            elif not os.path.exists(os.path.join(root, 'results', str(idx), f'{k}.txt')):
-                with open(os.path.join(root, 'results', str(idx), f'{k}.txt'), 'w') as f:
-                    f.write(str(v))
+            if k == 'summary':
+                if not os.path.exists(os.path.join(root, 'results', str(idx), f'{k}.json')):
+                    with open(os.path.join(root, 'results', str(idx), f'{k}.json'), 'w') as f:
+                        json.dump(v, f)
+            else:
+                if not os.path.exists(os.path.join(root, 'results', str(idx), f'{k}.txt')):
+                    with open(os.path.join(root, 'results', str(idx), f'{k}.txt'), 'w') as f:
+                        f.write(str(v))
 
 def generate(df, generator, root='./'):
     df = df.copy()
