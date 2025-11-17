@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/3026/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Computed tomography (CT) scan findings",
+                "category": "imaging",
+                "severity": "low",
+                "confidence": 0.9,
+                "rationale": "CT findings are essential for characterizing the calcification pattern and guiding management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Case Presentation",
+                    "snippet_A": "We performed a computed tomography (CT) scan to examine the pattern and distribution of the calcifications more closely; peripherally distributed calcification was found in the anterior compartment and in the distal part of the deep posterior compartment, and sclerotic changes were found in the tibial and fibular cortex.",
+                    "offsets_A": [
+                        570,
+                        770
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

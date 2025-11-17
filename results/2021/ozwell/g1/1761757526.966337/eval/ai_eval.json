@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/2021/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Hyperechogenic mass adjacent to right axillary aneurysm (48 \u00d7 40 mm)",
+                "category": "imaging",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "An additional mass adjacent to the aneurysm may represent unrelated pathology requiring further evaluation.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Ultrasound Examination",
+                    "snippet_A": "Adjacent to the aneurysm, there was a 48 \u00d7 40 mm hyperechogenic mass not related to the aneurysm.",
+                    "offsets_A": [
+                        210,
+                        275
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

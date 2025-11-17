@@ -1,0 +1,32 @@
+[
+    {
+        "standard_note_path": "results/3931/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Benign adrenal schwannoma",
+                "category": "diagnosis",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Final histopathological diagnosis critical for prognosis and follow-up.",
+                "codes": {
+                    "ICD10": [
+                        "D36.1"
+                    ],
+                    "SNOMED": [
+                        "109979005"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Histology",
+                    "snippet_A": "Thus, the evidences corresponded to a benign schwannoma",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

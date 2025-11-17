@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/958/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Pain in upper left canine",
+                "category": "other",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "New onset dental pain symptom may indicate complication requiring evaluation and alters the clinical management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "History",
+                    "snippet_B": "complaint of pain in the upper left canine, persisting for a few weeks, particularly when chewing or biting.",
+                    "offsets_B": [
+                        0,
+                        80
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

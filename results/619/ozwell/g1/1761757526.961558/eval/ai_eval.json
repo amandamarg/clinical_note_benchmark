@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/619/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Root replacement with 25 mm biological valved-conduit",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Omission may lead to misunderstandings regarding prosthesis type and anticoagulation requirements.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Operative Note",
+                    "snippet_A": "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis",
+                    "offsets_A": [
+                        637,
+                        719
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

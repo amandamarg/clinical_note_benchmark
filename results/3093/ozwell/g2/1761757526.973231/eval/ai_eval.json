@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/3093/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Discontinuation of weekly pain injections and high-dose nerve pain medications",
+                "category": "medication",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Document B indicates ongoing injections and high-dose nerve medications, but Document A reports these were stopped within three months of beginning Qigong, impacting management and potential side effects.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative (Document A)",
+                    "snippet_A": "Within three months of beginning qigong, she was able to stop all medications and injections she was receiving for pain relief.",
+                    "offsets_A": [
+                        632,
+                        721
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

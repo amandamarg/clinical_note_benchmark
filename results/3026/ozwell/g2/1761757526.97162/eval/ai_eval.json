@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/3026/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Calcific myonecrosis",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 1.0,
+                "rationale": "Final diagnosis guides appropriate surgical and antibiotic management",
+                "codes": {
+                    "ICD10": [
+                        "M61.8"
+                    ],
+                    "SNOMED": [
+                        "232798006"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Pathologic evaluation",
+                    "snippet_A": "These findings led to the diagnosis of calcific myonecrosis.",
+                    "offsets_A": [
+                        2560,
+                        2605
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/1834/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Scheduled follow-up visit in one week",
+                "category": "plan",
+                "severity": "low",
+                "confidence": 0.9,
+                "rationale": "Postoperative follow-up planning ensures monitoring of recovery and early detection of complications.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_B": "The patient is scheduled for a follow-up visit in a week.",
+                    "offsets_B": [
+                        297,
+                        344
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

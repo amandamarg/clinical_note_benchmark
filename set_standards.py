@@ -19,5 +19,5 @@ if __name__ == '__main__':
     
     '''
         Example usage for setting a single standard note:
-        set_standard(224, 'results/224/ozwell/g1/1761757526.96988/gen_note.txt')
     '''
+    set_standard(155216, 'results/155216/full_note.txt')

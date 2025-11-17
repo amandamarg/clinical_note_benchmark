@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/1834/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Follow-up visit in one week",
+                "category": "plan",
+                "severity": "low",
+                "confidence": 0.9,
+                "rationale": "Scheduled follow-up is essential to monitor for post-operative complications",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Follow-up",
+                    "snippet_B": "The patient will return in one week for a follow-up visit to ensure there are no complications.",
+                    "offsets_B": [
+                        0,
+                        75
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

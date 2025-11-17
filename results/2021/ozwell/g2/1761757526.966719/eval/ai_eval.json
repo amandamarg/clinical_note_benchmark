@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/2021/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Referral for surgery",
+                "category": "plan",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "The surgical referral for definitive treatment of large, high-risk aneurysms is missing in Document B, potentially delaying necessary intervention.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_A": "so the patient was referred for surgery.",
+                    "offsets_A": [
+                        479,
+                        513
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

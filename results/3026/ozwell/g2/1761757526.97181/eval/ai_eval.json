@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3026/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Imaging findings of calcific mass",
+                "category": "imaging",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Imaging findings (radiographs, CT, bone scan) are critical to confirm the diagnosis of calcific myonecrosis and guide management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Document A Imaging Descriptions",
+                    "snippet_A": "Furthermore, we observed that calcification within the fusiform mass and in the distal part of the deep posterior compartment had increased... CT scan... peripherally distributed calcification... evidence of increased uptake between the tibia and fibula in the delayed bone phase on 3 phases of bone scan",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

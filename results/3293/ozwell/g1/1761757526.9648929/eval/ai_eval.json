@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3293/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Benign myofibroblastic lesion with positive margins",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Provides definitive pathology confirming a benign myofibroblastic proliferation and identifies positive margins, impacting decisions on further management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Histology",
+                    "snippet_B": "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy. The resected margins were however, positive for residual lesion",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

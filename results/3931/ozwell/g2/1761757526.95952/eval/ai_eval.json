@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/3931/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Final pathology: benign schwannoma",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Establishes the definitive benign nature of the adrenal mass, guiding follow-up and prognosis.",
+                "codes": {
+                    "ICD10": [
+                        "D36.1"
+                    ],
+                    "SNOMED": [
+                        "109989005"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Procedure narrative",
+                    "snippet_A": "Thus, the evidences corresponded to a benign schwannoma",
+                    "offsets_A": [
+                        1010,
+                        1055
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

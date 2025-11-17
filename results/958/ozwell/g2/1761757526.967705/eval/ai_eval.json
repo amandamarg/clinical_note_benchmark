@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/958/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Retained root fragments from partial extraction (socket shield)",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Presence of retained root fragments can lead to infection or complicate future surgical interventions and requires monitoring.",
+                "codes": {
+                    "ICD10": [
+                        "Z98.89"
+                    ],
+                    "SNOMED": [
+                        "397193003"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Document A narrative",
+                    "snippet_A": "a section of the buccal part of the root (about the two middle thirds) was left in place and no biomaterial was used at all",
+                    "offsets_A": [
+                        686,
+                        774
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "standard_note_path": "results/3058/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Transitional meningioma",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The final histological diagnosis of transitional meningioma impacts ongoing management, surveillance, and accurate diagnostic coding.",
+                "codes": {
+                    "ICD10": [
+                        "D32.9"
+                    ],
+                    "SNOMED": [
+                        "109946"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Histological examination",
+                    "snippet_A": "The tumor was shown to be a transitional meningioma on histological examination, including immunohistochemical analyses",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

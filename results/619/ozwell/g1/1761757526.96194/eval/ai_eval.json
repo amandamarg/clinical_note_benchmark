@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/619/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Aortic root replacement with 25 mm biological valved-conduit",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Type and size of valved conduit determine anticoagulation requirements and future reoperation risk.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Surgical Procedure",
+                    "snippet_A": "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis, despite the risk of a difficult redo procedure in the future.",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

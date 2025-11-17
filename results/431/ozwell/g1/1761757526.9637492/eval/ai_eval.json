@@ -1,0 +1,10 @@
+[
+    {
+        "standard_note_path": "results/431/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [],
+        "text": "There are no clinically significant differences between Document B and Document A."
+    }
+]

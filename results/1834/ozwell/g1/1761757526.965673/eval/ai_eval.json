@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/1834/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Follow-up visit recommendation",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Ensuring timely follow-up is important to monitor for postoperative complications.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_B": "The patient is advised to return for a follow-up visit in a week to monitor for any complications.",
+                    "offsets_B": [
+                        0,
+                        0
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

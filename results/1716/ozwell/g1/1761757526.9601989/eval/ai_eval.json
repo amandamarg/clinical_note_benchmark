@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/1716/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Right brachial plexus neurolytic block with dehydrated ethanol plan",
+                "category": "procedure",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Planned chemical neurolysis is a significant invasive procedure for pain management that directly affects immediate care.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Document A narrative",
+                    "snippet_A": "the patient elected to proceed to a right brachial plexus nerve block with dehydrated ethanol.",
+                    "offsets_A": [
+                        551,
+                        619
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

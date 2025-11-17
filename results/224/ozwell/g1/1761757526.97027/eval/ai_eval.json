@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/224/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Social skills training initiated",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Outpatient consultation and social skill training are active interventions to support the patient\u2019s caregiving capacity and were omitted from the clinical note.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative A",
+                    "snippet_A": "we initiated consultation and social skill training in our outpatient clinic for the daughter",
+                    "offsets_A": [
+                        377,
+                        446
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

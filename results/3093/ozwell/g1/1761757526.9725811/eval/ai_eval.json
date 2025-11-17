@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3093/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Schedule MRI for spinal cord compression assessment",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.8,
+                "rationale": "New diagnostic imaging is planned in B but not mentioned in A, affecting further management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_B": "1. Schedule imaging tests, including an MRI, to assess for spinal cord compression or other structural issues.",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

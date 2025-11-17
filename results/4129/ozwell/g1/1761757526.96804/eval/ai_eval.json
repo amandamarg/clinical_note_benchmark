@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/4129/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Thoracoabdominal aortic stent placement",
+                "category": "procedure",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Omission of the critical aortic stenting procedure prevents accurate procedural history and may impact future management and surveillance.",
+                "codes": {
+                    "ICD10": [
+                        "I71.4"
+                    ],
+                    "SNOMED": [
+                        "398755005"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Procedure Description",
+                    "snippet_A": "The patient underwent arteriogram; the stenosis was successfully navigated and a Protege 14 \u00d7 40 x 12 mm nitinol stent (Medtronic Vascular, Santa Rosa CA) was delivered followed by a 10 mm postdilation balloon.",
+                    "offsets_A": [
+                        749,
+                        861
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

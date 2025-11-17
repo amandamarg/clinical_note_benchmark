@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/224/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Outpatient consultation and social skill training",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The narrative describes initiating outpatient consultation and social skill training to support the patient\u2019s caregiving ability; omitting this referral may delay essential psychosocial support.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative",
+                    "snippet_A": "we initiated consultation and social skill training in our outpatient clinic for the daughter.",
+                    "offsets_A": [
+                        428,
+                        493
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

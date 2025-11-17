@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/958/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Pain in upper left canine",
+                "category": "other",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "New active symptom requiring evaluation and may alter treatment planning.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Chief Complaint",
+                    "snippet_B": "Chief Complaint: Pain in upper left canine.",
+                    "offsets_B": [
+                        0,
+                        44
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/3931/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Conversion to open surgery via sub-costal incision",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Conversion indicates a change in surgical approach impacting perioperative management and potential complications",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Procedure Details",
+                    "snippet_A": "we decided to convert to open surgery by a sub-costal incision (between two trocars) that allowed us to remove the mass safely",
+                    "offsets_A": [
+                        631,
+                        729
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

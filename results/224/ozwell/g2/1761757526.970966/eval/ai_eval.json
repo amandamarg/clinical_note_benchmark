@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/224/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Father\u2019s visual impairment",
+                "category": "other",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The father\u2019s visual impairment reduces available caregiving support and is essential context for planning additional care resources.",
+                "codes": {
+                    "ICD10": [
+                        "H54.7"
+                    ],
+                    "SNOMED": [
+                        "22298006"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Background narrative",
+                    "snippet_A": "because her father was visually impaired",
+                    "offsets_A": [
+                        74,
+                        107
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

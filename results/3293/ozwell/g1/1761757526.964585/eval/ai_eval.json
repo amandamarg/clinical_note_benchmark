@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3293/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Benign myofibroblastic proliferation lesion with osteoid formation (fasciitis-like), no malignancy",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Pathological findings confirming a benign lesion and excluding malignancy are critical for guiding postoperative management and surveillance.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Surgical Pathology",
+                    "snippet_A": "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy.",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

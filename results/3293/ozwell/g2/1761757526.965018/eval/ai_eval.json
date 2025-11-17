@@ -1,0 +1,33 @@
+[
+    {
+        "standard_note_path": "results/3293/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Histopathology results and margin status",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Absence of detailed histopathology and positive margin status in Document B may delay decisions regarding further excision or adjuvant therapy.",
+                "codes": {
+                    "ICD10": [
+                        "D21.9"
+                    ],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Histological assessment",
+                    "snippet_A": "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy. The resected margins were however, positive for residual lesion",
+                    "offsets_A": [
+                        680,
+                        820
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

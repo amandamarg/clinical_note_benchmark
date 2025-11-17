@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/431/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Preoperative radiological suspicion of invasive sigmoid disease",
+                "category": "imaging",
+                "severity": "moderate",
+                "confidence": 0.8,
+                "rationale": "Omission of imaging finding may obscure the rationale for surgical approach and risk assessment.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative",
+                    "snippet_A": "radiological imaging had initially raised the possibility of invasive disease in view of sigmoid thickening.",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

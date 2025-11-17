@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/3058/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Transitional meningioma diagnosis",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Final pathologic diagnosis is essential for guiding prognosis and further management.",
+                "codes": {
+                    "ICD10": [
+                        "D32.0"
+                    ],
+                    "SNOMED": [
+                        "230690007"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Histological findings",
+                    "snippet_A": "The tumor was shown to be a transitional meningioma on histological examination, including immunohistochemical analyses (Table ).",
+                    "offsets_A": [
+                        980,
+                        1080
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

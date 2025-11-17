@@ -1,0 +1,10 @@
+[
+    {
+        "standard_note_path": "results/562/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [],
+        "text": "I\u2019m missing Document B\u2014could you please provide the text of Document B so I can compare it to Document A?"
+    }
+]

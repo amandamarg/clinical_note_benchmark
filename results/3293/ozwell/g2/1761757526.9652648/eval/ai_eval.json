@@ -1,0 +1,32 @@
+[
+    {
+        "standard_note_path": "results/3293/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Histopathology: benign myofibroblastic proliferation with osteoid formation",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Confirms benign nature of lesion and guides prognosis and further management",
+                "codes": {
+                    "ICD10": [
+                        "D21.1"
+                    ],
+                    "SNOMED": [
+                        "422345003"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Operative Report",
+                    "snippet_B": "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

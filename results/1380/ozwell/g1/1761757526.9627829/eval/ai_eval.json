@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/1380/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Facial asymmetry on right mandibular region",
+                "category": "other",
+                "severity": "low",
+                "confidence": 0.8,
+                "rationale": "Omission of documented facial asymmetry may affect monitoring of resolution or progression of the mandibular swelling.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Initial Narrative",
+                    "snippet_A": "severe swelling and facial asymmetry on the right mandibular molar region",
+                    "offsets_A": [
+                        0,
+                        65
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

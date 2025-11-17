@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/619/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Aortic root replacement with 25 mm biological valved-conduit",
+                "category": "procedure",
+                "severity": "high",
+                "confidence": 0.95,
+                "rationale": "Document B omits mention of the patient receiving a 25 mm biological valved-conduit for root and ascending aortic replacement, a key procedural detail affecting long-term management and anticoagulation planning.",
+                "codes": {
+                    "ICD10": [
+                        "I71.1"
+                    ],
+                    "SNOMED": [
+                        "23859007"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Surgical Procedure",
+                    "snippet_A": "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis",
+                    "offsets_A": [
+                        826,
+                        907
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

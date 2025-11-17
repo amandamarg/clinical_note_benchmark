@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3026/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Elevated inflammatory markers (ESR and CRP)",
+                "category": "lab",
+                "severity": "moderate",
+                "confidence": 0.85,
+                "rationale": "Elevated ESR and CRP indicate active inflammation, guiding diagnostic evaluation and management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Laboratory investigations",
+                    "snippet_B": "Laboratory investigations revealed that the erythrocyte sedimentation rate (ESR) was 69 mm/h and the C-reactive protein (CRP) level was 5.80 mg/dL",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

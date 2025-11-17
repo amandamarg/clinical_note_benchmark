@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/619/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Bioprosthetic valved-conduit aortic root replacement (25 mm)",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Choice of bioprosthetic valved conduit affects need for anticoagulation and future re-operation strategy.",
+                "codes": {
+                    "ICD10": [
+                        "02RF07Z"
+                    ],
+                    "SNOMED": [
+                        "431161000"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Surgical Intervention",
+                    "snippet_A": "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis",
+                    "offsets_A": [
+                        1020,
+                        1110
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

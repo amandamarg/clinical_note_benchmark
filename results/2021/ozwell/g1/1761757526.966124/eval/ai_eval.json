@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/2021/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Incidental hyperechogenic mass 48\u00d740mm adjacent to right axillary artery",
+                "category": "imaging",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Potential neoplastic or lymphatic lesion requiring further evaluation was noted on ultrasound but is omitted in the structured note.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Ultrasound Examination",
+                    "snippet_A": "Adjacent to the aneurysm, there was a 48 \u00d7 40 mm hyperechogenic mass not related to the aneurysm.",
+                    "offsets_A": [
+                        210,
+                        287
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

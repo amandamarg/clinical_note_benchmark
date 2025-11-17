@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3931/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Conversion to open adrenalectomy via sub-costal incision",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Conversion to open surgery significantly affects surgical approach, recovery, and potential complications.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Original Procedure Description",
+                    "snippet_A": "we decided to convert to open surgery by a sub-costal incision (between two trocars) that allowed us to remove the mass safely",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

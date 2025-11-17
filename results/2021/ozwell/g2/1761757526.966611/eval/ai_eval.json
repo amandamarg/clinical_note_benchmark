@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/2021/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Spontaneously healed rupture of right axillary aneurysm",
+                "category": "imaging",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Identification of a healed rupture suggests previous vessel wall compromise and risk for re-rupture, guiding surgical planning.",
+                "codes": {
+                    "ICD10": [
+                        "I72.8"
+                    ],
+                    "SNOMED": [
+                        "161891005"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "CT Angiography",
+                    "snippet_B": "contour irregularities at the distal end of the right-side aneurysm. These latter findings were proposed to be due to a spontaneously healed rupture.",
+                    "offsets_B": [
+                        0,
+                        0
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

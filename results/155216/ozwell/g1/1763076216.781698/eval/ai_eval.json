@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/155216/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Tardive dystonia",
+                "category": "diagnosis",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Document B omits the key diagnosis of tardive dystonia, which is critical for guiding management and explains the patient's movement disorder.",
+                "codes": {
+                    "ICD10": [
+                        "G24.01"
+                    ],
+                    "SNOMED": [
+                        "230572002"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Discussion",
+                    "snippet_A": "Our case is the first case of an affective illness in an adolescent girl developing tardive dystonia on olanzapine.",
+                    "offsets_A": [
+                        1234,
+                        1305
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/1834/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Follow-up visit in one week",
+                "category": "plan",
+                "severity": "low",
+                "confidence": 0.9,
+                "rationale": "Document B adds a specific follow-up schedule which is important for monitoring postoperative recovery and detecting complications.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_B": "The patient is scheduled for a follow-up visit in one week.",
+                    "offsets_B": [
+                        283,
+                        334
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

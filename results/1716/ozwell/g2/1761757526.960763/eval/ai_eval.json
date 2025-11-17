@@ -1,0 +1,36 @@
+[
+    {
+        "standard_note_path": "results/1716/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Current high-dose opioid and adjuvant regimen",
+                "category": "medication",
+                "severity": "moderate",
+                "confidence": 0.8,
+                "rationale": "Precise opioid and adjuvant dosing is necessary to avoid under- or overdosing when adjusting pain management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": [
+                        "7052",
+                        "15951",
+                        "833",
+                        "709366"
+                    ]
+                },
+                "evidence": {
+                    "section": "History of Present Illness",
+                    "snippet_A": "extended release morphine 90 mg two times a day, immediate release morphine 30 mg every 2 to 3 hours, methadone 5 mg daily, and gabapentin 800 mg three times daily",
+                    "offsets_A": [
+                        200,
+                        315
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

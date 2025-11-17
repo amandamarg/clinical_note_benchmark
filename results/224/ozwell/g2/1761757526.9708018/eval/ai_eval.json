@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/224/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Outpatient consultation and social skill training for caregiver",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "These interventions are key to improving communication skills and reducing caregiver stress, directly impacting the effectiveness of home care support.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative",
+                    "snippet_A": "we initiated consultation and social skill training in our outpatient clinic for the daughter",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

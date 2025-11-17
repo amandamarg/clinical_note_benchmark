@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/224/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Outpatient social skill training referral",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Social skill training was initiated as a key intervention to improve the patient's communication and caregiving capabilities in the home care setting but is not reflected in the Plan.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative",
+                    "snippet_A": "we initiated consultation and social skill training in our outpatient clinic for the daughter.",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

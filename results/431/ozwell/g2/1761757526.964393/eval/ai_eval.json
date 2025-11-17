@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/431/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "No scheduled follow-up unless new symptoms",
+                "category": "plan",
+                "severity": "low",
+                "confidence": 0.9,
+                "rationale": "Documenting explicit follow-up instructions impacts patient monitoring and care continuity.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Follow-up",
+                    "snippet_B": "No immediate follow-up required unless the patient experiences new symptoms or has further questions.",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

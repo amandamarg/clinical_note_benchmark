@@ -10,8 +10,8 @@ import re
 import seaborn as sns
 import pandas as pd
 
-# IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
-IDXS = [155216]
+IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
+# IDXS = [155216]
 INCLUDE_INDIV_PLOTS = False # if True, generate and save ROUGE score plots for each evaluation
 CLEAN_NOTES = False
 MODEL = "o4-mini"  # strong tool-calling + reasoning; adjust per your account
@@ -21,7 +21,7 @@ REPORT_NAME = 'eval_report'
 with open('tools.json') as f:
     TOOLS = json.load(f)
 
-with open('prompts/system_prompt.txt') as f:
+with open('prompts/evaluation/system_prompt.txt') as f:
     SYSTEM_PROMPT = f.read()
     
 class Evaluator:
@@ -86,39 +86,25 @@ class Evaluator:
                 "text": text_output.strip() or None
             }
         
-    # def eval(self, gen_note_path, overwrite=False):
-    #     idx = int(gen_note_path.split('/')[-5])
-    #     standard_path = get_standard_path(idx)
-    #     standard_note = read(standard_path)
-    #     gen_note = read(gen_note_path)
-    #     if self.clean_notes:
-    #         standard_note = self.clean_text(standard_note)
-    #         gen_note = self.clean_text(gen_note)
-    #     metadata = {'gen_note_path': gen_note_path, 'gen_note': gen_note, 'standard_note_path': standard_path, 'standard_note': standard_note, 'cleaned': self.clean_notes}
-    #     rouge_scores = self.rouge.get_scores(gen_note, standard_note, avg=False)
-    #     model_eval = self.compare_documents(standard_note, gen_note, include_raw=False)
-    #     return metadata, rouge_scores, model_eval
-        
-    # def get_note_pairs(self, gen_note_path):
-    #     idx = int(gen_note_path.split('/')[-5])
-    #     standard_path = get_standard_path(idx)
-    #     standard_note = read(standard_path)
-    #     gen_note = read(gen_note_path)
-    #     if self.clean_notes:
-    #         standard_note = self.clean_text(standard_note)
-    #         gen_note = self.clean_text(gen_note)
-    #     return standard_note, gen_note
+    def eval(self, gen_path, overwrite=False):
+        idx = int(gen_path.split('/')[-5])
+        standard_path = get_standard_path(idx)
+        standard_note = read(standard_path)
+        gen_note = read(gen_path)
+        eval_dir_path = os.path.join(os.path.dirname(gen_path), 'eval')
+        os.makedirs(eval_dir_path, exist_ok=True)
+        metadata = {'standard_note_path': standard_path, 'cleaned': self.clean_notes}
+        if self.clean_notes:
+            standard_note = self.clean_text(standard_note)
+            gen_note = self.clean_text(gen_note)
+        rouge_scores = self.rouge.get_scores(gen_note, standard_note, avg=False)
+        for key, value in rouge_scores[0].items():
+            report_path = os.path.join(eval_dir_path, f'{key}.json')
+            self.write(report_path, [{**metadata, **value}], overwrite=overwrite)
+        metadata.update({'model': self.model})
+        model_eval = self.compare_documents(standard_note, gen_note, include_raw=False)
+        self.write(os.path.join(eval_dir_path, f'ai_eval.json'),  [{**metadata, **model_eval}], overwrite=overwrite)
     
-    # def ai_eval(self, gen_note_path, overwrite=False):
-    #     standard_note, gen_note = self.get_note_pairs(gen_note_path)
-    #     response = self.compare_documents(standard_note, gen_note, include_raw=False)
-    #     write_reports(os.path.dirname(gen_note_path) + f'/{self.model}_eval.json', response, overwrite=overwrite)
-
-    # def get_rouge(self, gen_note_path, overwrite=False):
-    #     standard_note, gen_note = self.get_note_pairs(gen_note_path)
-    #     rouge_scores = self.rouge.get_scores(gen_note, standard_note, avg=False)
-    #     write_reports(os.path.dirname(gen_note_path) + f'/rouge_scores.json', rouge_scores, overwrite=overwrite)
-
     def write(self, path, data, overwrite=False):
         if os.path.exists(path) and not overwrite:
             with open(path, 'r') as file:
@@ -132,27 +118,6 @@ class Evaluator:
 
 
 if __name__=='__main__':
-    # metadata_df = get_metadata_df(search_file_paths(filename='gen_note.txt', idxs=IDXS, models='ozwell', prompts='all'))
-    # standard_paths = metadata_df['idx'].map(get_standard_path)
-    # gen_note = list(metadata_df['full_path'].map(read))
-    # standard_note = list(map(read, standard_paths))
-    # eval = Evaluator(
-    #     model=MODEL,
-    #     system_prompt=SYSTEM_PROMPT,
-    #     tools=TOOLS,
-    #     clean_notes=CLEAN_NOTES
-    # )
-    # model_responses = eval.ai_eval(standard_note, gen_note)
-    # eval_df = pd.DataFrame(list(zip(metadata_df['idx'], metadata_df['full_path'], gen_note, standard_paths, standard_note, model_responses)), columns=['idx', 'gen_note_path', 'gen_note', 'standard_note_path', 'standard_note', MODEL + '_response'])
-    # rouge_scores = eval.get_rouge(standard_note, gen_note, avg=False)
-    # eval_df = pd.concat((eval_df, pd.DataFrame.from_records(rouge_scores)), axis=1)
-    # for path, df in eval_df.groupby('gen_note_path'):
-    #     write_reports(os.path.dirname(path) + f'/{REPORT_NAME}.json', df, overwrite=OVERWRITE_REPORTS)
-    #     if INCLUDE_INDIV_PLOTS:
-    #         melted = melt_rouge_scores(df)
-    #         g = sns.catplot(melted, col='metric', x='rouge_type', y='value', hue='standard_note_path', dodge=True, legend='full')
-    #         g.savefig(os.path.join(os.path.dirname(path), 'rouge_plot.png'))
-    
     gen_file_paths = search_file_paths(filename='gen_note.txt', idxs=IDXS, models='ozwell', prompts='all')
     eval = Evaluator(
         model=MODEL,
@@ -160,21 +125,5 @@ if __name__=='__main__':
         tools=TOOLS,
         clean_notes=CLEAN_NOTES
     )
-    for gen_path in tqdm(gen_file_paths):
-        idx = int(gen_path.split('/')[-5])
-        standard_path = get_standard_path(idx)
-        standard_note = read(standard_path)
-        gen_note = read(gen_path)
-        if CLEAN_NOTES:
-            standard_note = eval.clean_text(standard_note)
-            gen_note = eval.clean_text(gen_note)
-        rouge_scores = eval.rouge.get_scores(gen_note, standard_note, avg=False)
-        metadata = {'standard_note_path': standard_path, 'cleaned': CLEAN_NOTES}
-        for key, value in rouge_scores[0].items():
-            report_path = os.path.join(os.path.dirname(gen_path), f'{key}.json')
-            eval.write(report_path, [{**metadata, **value}], overwrite=OVERWRITE_REPORTS)
-        metadata.update({'model': eval.model})
-        model_eval = eval.compare_documents(standard_note, gen_note, include_raw=False)
-        eval.write(os.path.join(os.path.dirname(gen_path), f'ai_eval.json'),  [{**metadata, **model_eval}], overwrite=OVERWRITE_REPORTS)
-
-
+    for path in tqdm(gen_file_paths):
+        eval.eval(path, overwrite=OVERWRITE_REPORTS)

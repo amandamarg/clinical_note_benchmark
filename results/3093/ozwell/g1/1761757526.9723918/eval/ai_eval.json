@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/3093/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Ongoing weekly injections and high-dose nerve pain medications",
+                "category": "medication",
+                "severity": "moderate",
+                "confidence": 0.95,
+                "rationale": "Continued use of pain injections and high-dose nerve medications is inconsistent with the patient\u2019s reported cessation of these therapies and may indicate outdated or unnecessary treatment.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Objective",
+                    "snippet_B": "She currently receives weekly injections for pain relief... She is on high doses of medication for nerve pain relief",
+                    "offsets_B": [
+                        100,
+                        180
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

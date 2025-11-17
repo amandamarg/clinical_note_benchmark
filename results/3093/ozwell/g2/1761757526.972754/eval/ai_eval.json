@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/3093/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Qigong therapy with 90% pain improvement and cessation of pain medications/injections",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Omission of a highly effective non-pharmacologic therapy and its dramatic clinical benefit may lead to unnecessary diagnostics and continued medication use.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Document A narrative",
+                    "snippet_A": "She says it gave her a reason to get out of bed and socialize in the very early days of her practice. She is now able to walk with no limitations and her pain has improved by approximately 90%. Within three months of beginning qigong, she was able to stop all medications and injections she was receiving for pain relief.",
+                    "offsets_A": [
+                        1020,
+                        1150
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

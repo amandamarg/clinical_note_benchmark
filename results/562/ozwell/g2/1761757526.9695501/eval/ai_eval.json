@@ -1,0 +1,33 @@
+[
+    {
+        "standard_note_path": "results/562/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Removal of titanium bone plate and screws",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The removal of hardware in an infected area is a significant procedural step impacting infection control and recovery",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [
+                        "17409000"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative",
+                    "snippet_A": "a decision was made to remove them based on the fact that they are present in an infected area",
+                    "offsets_A": [
+                        1000,
+                        1080
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

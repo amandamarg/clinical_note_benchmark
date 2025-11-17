@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/1716/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Chemical neurolytic brachial plexus block with dehydrated ethanol",
+                "category": "procedure",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Omitting the planned neurolytic block could delay critical intervention for intractable pain management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "History of Present Illness",
+                    "snippet_A": "The patient elected to proceed to a right brachial plexus nerve block with dehydrated ethanol.",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

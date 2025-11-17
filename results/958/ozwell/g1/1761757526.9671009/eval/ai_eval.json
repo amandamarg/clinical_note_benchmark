@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/958/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Chief complaint: pain in upper left canine",
+                "category": "other",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "New dental pain may indicate ongoing pathology requiring evaluation",
+                "codes": {
+                    "ICD10": [
+                        "R68.89"
+                    ],
+                    "SNOMED": [
+                        "271807003"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Clinical Note: Chief Complaint",
+                    "snippet_B": "Pain in upper left canine.",
+                    "offsets_B": [
+                        0,
+                        27
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

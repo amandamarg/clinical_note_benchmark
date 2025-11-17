@@ -1,0 +1,30 @@
+[
+    {
+        "standard_note_path": "results/155216/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Tetrabenazine therapy (up to 75 mg/day)",
+                "category": "medication",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Current management of dystonic movements with tetrabenazine is omitted, which could lead to inappropriate continuation of causative agents.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": [
+                        "834346"
+                    ]
+                },
+                "evidence": {
+                    "section": "After the case was seen at our institute",
+                    "snippet_A": "put on tablet tetrabenazine (built up to 75 mg per day in divided doses) with which the patient had started showing some response with an improvement in abnormal movements",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

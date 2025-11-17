@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/958/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Extraction of four remaining anterior teeth",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Omission may lead to misunderstanding of current dentition status and affect planning for prosthesis and hygiene.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Document A",
+                    "snippet_A": "In a further step, the four remaining teeth were also extracted using the SST",
+                    "offsets_A": [
+                        580,
+                        639
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

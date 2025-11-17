@@ -1,0 +1,69 @@
+[
+    {
+        "type": "function",
+        "name": "report_added_doc",
+        "description": "Use ONLY for clinically significant content present in B but not in A.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "clinical_concept": {"type": "string", "description": "Short title of the finding (e.g., 'New Dx: CHF', 'Increased Lisinopril dose')."},
+                "category": {"type": "string", "description": "diagnosis|allergy|medication|procedure|imaging|lab|vital|plan|other"},
+                    "severity": {"type": "string", "enum": ["low","moderate","high","critical"]},
+                    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+                    "rationale": {"type": "string", "description": "Why this matters clinically; one sentence."},
+                    "codes": {
+                        "type": "object",
+                        "description": "If available. Include only what you are confident in.",
+                        "properties": {
+                            "ICD10": {"type": "array", "items": {"type": "string"}},
+                            "SNOMED": {"type": "array", "items": {"type": "string"}},
+                            "RxNorm": {"type": "array", "items": {"type": "string"}}
+                        }
+                    },
+                    "evidence": {
+                        "type": "object",
+                        "properties": {
+                            "section": {"type": "string", "description": "e.g., 'Assessment & Plan', 'Meds'"},
+                            "snippet_B": {"type": "string", "description": "Minimal text from B supporting the finding."},
+                            "offsets_B": {"type": "array", "items": {"type": "integer"}, "description": "[start, end] character offsets in B if known"}
+                        },
+                        "required": ["section","snippet_B"]
+                    }
+            },
+            "required": ["clinical_concept","category","severity","confidence","rationale","evidence"]
+        }
+    },
+    {
+        "type": "function",
+        "name": "report_missing_doc",
+        "description": "Use ONLY for clinically significant content present in A but missing from B.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "clinical_concept": {"type": "string"},
+                "category": {"type": "string", "description": "diagnosis|allergy|medication|procedure|imaging|lab|vital|plan|other"},
+                "severity": {"type": "string", "enum": ["low","moderate","high","critical"]},
+                "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+                "rationale": {"type": "string"},
+                "codes": {
+                    "type": "object",
+                    "properties": {
+                        "ICD10": {"type": "array", "items": {"type": "string"}},
+                        "SNOMED": {"type": "array", "items": {"type": "string"}},
+                        "RxNorm": {"type": "array", "items": {"type": "string"}}
+                    }
+                },
+                "evidence": {
+                    "type": "object",
+                    "properties": {
+                        "section": {"type": "string"},
+                        "snippet_A": {"type": "string", "description": "Minimal text from A supporting what is missing in B."},
+                        "offsets_A": {"type": "array", "items": {"type": "integer"}, "description": "[start, end] character offsets in A if known"}
+                    },
+                    "required": ["section","snippet_A"]
+                }
+            },
+            "required": ["clinical_concept","category","severity","confidence","rationale","evidence"]
+        }
+    }
+]

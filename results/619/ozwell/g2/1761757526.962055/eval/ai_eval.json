@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/619/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Biological valved-conduit aortic root replacement",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Specifies prosthetic valve type and size, which is essential for anticoagulation management and future reoperation planning.",
+                "codes": {
+                    "ICD10": [
+                        "02RF07Z"
+                    ],
+                    "SNOMED": [
+                        "116859003"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Surgical Intervention",
+                    "snippet_A": "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis",
+                    "offsets_A": [
+                        706,
+                        812
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

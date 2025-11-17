@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/4129/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Thoracic/abdominal aortic stent placement",
+                "category": "procedure",
+                "severity": "high",
+                "confidence": 0.95,
+                "rationale": "Omitting the details of the aortic stent deployment omits a critical therapeutic intervention that directly addressed the severe aortic stenosis.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Interventional Procedure",
+                    "snippet_A": "The patient underwent arteriogram; the stenosis was successfully navigated and a Protege 14 \u00d7 40 x 12 mm nitinol stent (Medtronic Vascular, Santa Rosa CA) was delivered followed by a 10 mm postdilation balloon.",
+                    "offsets_A": [
+                        910,
+                        1020
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

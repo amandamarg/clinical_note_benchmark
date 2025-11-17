@@ -1,0 +1,35 @@
+[
+    {
+        "standard_note_path": "results/155216/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Tardive dystonia",
+                "category": "diagnosis",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "The explicit diagnosis of tardive dystonia guides specific management (e.g., discontinuation of offending agent, use of tetrabenazine).",
+                "codes": {
+                    "ICD10": [
+                        "G24.01"
+                    ],
+                    "SNOMED": [
+                        "57951002"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Discussion",
+                    "snippet_A": "Our case is the first case of an affective illness in an adolescent girl developing tardive dystonia on olanzapine.",
+                    "offsets_A": [
+                        1640,
+                        1730
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "standard_note_path": "results/155216/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Current Olanzapine Therapy",
+                "category": "medication",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Continuation of olanzapine contradicts the documented discontinuation due to tardive dystonia and risks worsening dystonic symptoms.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": [
+                        "7052"
+                    ]
+                },
+                "evidence": {
+                    "section": "Patient Information",
+                    "snippet_B": "Current Medication: Olanzapine (2.5-10 mg/day)",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

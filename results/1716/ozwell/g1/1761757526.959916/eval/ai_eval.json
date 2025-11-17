@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/1716/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Current opioid and adjuvant analgesic regimen",
+                "category": "medication",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Omission of the specific opioid and adjuvant dosing regimen may lead to errors in pain management and dosing adjustments.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "History of Present Illness",
+                    "snippet_A": "extended release morphine 90 mg two times a day, immediate release morphine 30 mg every 2 to 3 hours, methadone 5 mg daily, and gabapentin 800 mg three times daily",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3093/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Weekly pain relief injections",
+                "category": "medication",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The patient is currently receiving weekly injections for pain relief, which was not noted in Document A and directly impacts ongoing pain management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Objective",
+                    "snippet_B": "She currently receives weekly injections for pain relief, which provide only marginal benefit for a week.",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/431/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Postoperative follow-up plan",
+                "category": "plan",
+                "severity": "low",
+                "confidence": 0.8,
+                "rationale": "Formal documentation of the follow-up plan guides ongoing surveillance and management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_B": "Continue monitoring for any new symptoms or concerns. Follow-up as needed.",
+                    "offsets_B": []
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

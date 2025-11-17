@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/1380/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Facial asymmetry",
+                "category": "other",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Facial asymmetry is an important physical exam finding reflecting the extent of bone involvement and guides urgency and approach to intervention.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Narrative history",
+                    "snippet_A": "severe swelling and facial asymmetry on the right mandibular molar region",
+                    "offsets_A": [
+                        0,
+                        0
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/3293/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Histopathology results: benign fasciitis-like lesion",
+                "category": "diagnosis",
+                "severity": "moderate",
+                "confidence": 0.95,
+                "rationale": "Confirms benign nature of the lesion, guiding against unnecessary malignant treatments.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Histological assessment",
+                    "snippet_A": "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation ... no evidence of malignancy",
+                    "offsets_A": [
+                        650,
+                        780
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

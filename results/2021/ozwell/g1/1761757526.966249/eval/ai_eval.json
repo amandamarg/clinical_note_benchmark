@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/2021/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Adjacent hyperechogenic mass",
+                "category": "imaging",
+                "severity": "moderate",
+                "confidence": 0.8,
+                "rationale": "An adjacent 48\u00d740 mm hyperechogenic mass could represent pathology (e.g., lymph node or tumor) requiring further evaluation.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Ultrasound Examination",
+                    "snippet_A": "Adjacent to the aneurysm, there was a 48 \u00d7 40 mm hyperechogenic mass not related to the aneurysm.",
+                    "offsets_A": [
+                        159,
+                        247
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

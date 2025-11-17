@@ -1,0 +1,30 @@
+[
+    {
+        "standard_note_path": "results/1380/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Postoperative follow-up findings: resolution of osteomyelitis and bone remodeling",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.8,
+                "rationale": "Omission of four-month postoperative outcome documentation may impede understanding of treatment success and future monitoring needs.",
+                "codes": {
+                    "ICD10": [
+                        "M86.27"
+                    ],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Postoperative exam",
+                    "snippet_A": "The postoperative examination four months later revealed that the bone contours had returned to normal, the asymmetry of the face had disappeared, and the cortical bone thickness had decreased and been remodeled to the previous normal appearance.",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

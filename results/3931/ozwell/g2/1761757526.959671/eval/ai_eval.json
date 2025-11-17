@@ -1,0 +1,33 @@
+[
+    {
+        "standard_note_path": "results/3931/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Conversion to open adrenalectomy",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The intraoperative change from laparoscopic to open surgery impacts postoperative monitoring and potential complications management.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [
+                        "80146002"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Surgical Procedure Details",
+                    "snippet_A": "we decided to convert to open surgery by a sub-costal incision (between two trocars) that allowed us to remove the mass safely",
+                    "offsets_A": [
+                        709,
+                        814
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

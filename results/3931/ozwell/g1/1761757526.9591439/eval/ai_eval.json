@@ -1,0 +1,28 @@
+[
+    {
+        "standard_note_path": "results/3931/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Conversion to open surgery",
+                "category": "procedure",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "Conversion to open surgery indicates increased invasiveness and impacts postoperative management and recovery planning.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Surgical Procedure",
+                    "snippet_A": "we decided to convert to open surgery by a sub-costal incision",
+                    "offsets_A": []
+                }
+            }
+        ],
+        "text": null
+    }
+]

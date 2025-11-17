@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/958/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [
+            {
+                "clinical_concept": "Schedule permanent bridge placement",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The plan to place a permanent prosthetic bridge is new in Document B and is crucial for scheduling and treatment completion.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_B": "Schedule an appointment for the placement of a permanent bridge next week.",
+                    "offsets_B": [
+                        212,
+                        276
+                    ]
+                }
+            }
+        ],
+        "missing": [],
+        "text": null
+    }
+]

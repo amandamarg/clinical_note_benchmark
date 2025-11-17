@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/224/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Outpatient consultation and social skill training",
+                "category": "plan",
+                "severity": "moderate",
+                "confidence": 0.9,
+                "rationale": "The structured interventions (consultation and social skill training) were key to improving the patient's caregiving ability and communication, and omitting them may affect continuity of care.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Original Case Narrative",
+                    "snippet_A": "Therefore, we initiated consultation and social skill training in our outpatient clinic for the daughter.",
+                    "offsets_A": [
+                        268,
+                        338
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]
