@@ -34,18 +34,27 @@ def search_file_paths(filename='gen_note.txt', results_dir_path='results', idxs=
     return filtered_paths
 
 
-def parse_path(path):
-    pattern = re.compile(rf'(.*)/(\d+)/(.+)/(.+)/(\d+\.\d+)/gen_note.txt')
+def parse_path(path, include_full_path=True):
+    pattern = re.compile(rf'(.*)/(\d+)/(.+)/(.+)/(\d+\.\d+)/(.+)')
     match = pattern.match(path)
     assert match
-    return {
-        'full_path': path,
-        'root_dir': match[1],
-        'idx': int(match[2]),
-        'model': match[3],
-        'prompt': match[4],
-        'timestamp': match[5]
-    }
+    if include_full_path:
+        return {
+            'full_path': path,
+            'root_dir': match[1],
+            'idx': int(match[2]),
+            'model': match[3],
+            'prompt': match[4],
+            'timestamp': match[5]
+        }
+    else:
+        return {
+            'root_dir': match[1],
+            'idx': int(match[2]),
+            'model': match[3],
+            'prompt': match[4],
+            'timestamp': match[5]
+        }
 
 def read(path):
     with open(path, 'r') as file:
@@ -61,8 +70,8 @@ def get_metadata_df(paths):
     return df
 
 
-def write_reports(path, df):
-    if os.path.exists(path):
+def write_reports(path, df, overwrite=False):
+    if os.path.exists(path) and not overwrite:
         existing_report = pd.read_json(path)
         pd.concat((existing_report, df)).reset_index(drop=True).to_json(path, orient='records', indent=4)
     else:
@@ -90,3 +99,12 @@ def pivot_df(melted_df, pivot_index, aggfunc=None):
     melted_df.columns.names = [None]
     return melted_df
 
+
+def get_rouge_report(path):
+    path_data = parse_path(path, False)
+    df = pd.read_json(path).melt(id_vars=["standard_note_path", "cleaned"], value_vars=['r', 'p', 'f'], var_name='metric_type', value_name='score')
+    rouge_type = path.split('/')[-1].split('.')[0]
+    df.insert(2, 'rouge_type', rouge_type)
+    df = df.assign(**path_data)
+    df = df.loc[:, list(path_data.keys()) + list(df.columns[:-len(path_data)])] # reorder columns
+    return df
