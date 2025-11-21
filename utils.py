@@ -108,3 +108,10 @@ def get_rouge_report(path):
     df = df.assign(**path_data)
     df = df.loc[:, list(path_data.keys()) + list(df.columns[:-len(path_data)])] # reorder columns
     return df
+
+def get_most_recent_timestamp(root_dir, model, prompt, idx):
+    path = os.path.join(root_dir, str(idx), model, prompt)
+    timestamps = os.listdir(path)
+    timestamps = sorted(timestamps, key=lambda x: float(x), reverse=True)
+    return timestamps[0]
+

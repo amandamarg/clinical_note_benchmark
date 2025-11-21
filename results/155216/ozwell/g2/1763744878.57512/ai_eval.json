@@ -1,0 +1,31 @@
+[
+    {
+        "standard_note_path": "results/155216/full_note.txt",
+        "cleaned": false,
+        "model": "o4-mini",
+        "added": [],
+        "missing": [
+            {
+                "clinical_concept": "Sodium valproate 1000 mg per day",
+                "category": "medication",
+                "severity": "moderate",
+                "confidence": 0.95,
+                "rationale": "Current mood stabilization therapy is missing and necessary for safe ongoing care.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Medication History",
+                    "snippet_A": "She was put on tablet sodium valproate, 1000 mg per day during this period for the stabilization of her mood",
+                    "offsets_A": [
+                        600,
+                        670
+                    ]
+                }
+            }
+        ],
+        "text": null
+    }
+]

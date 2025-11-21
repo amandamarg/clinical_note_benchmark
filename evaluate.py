@@ -10,13 +10,10 @@ import re
 import seaborn as sns
 import pandas as pd
 
-IDXS = [224, 431, 562, 619, 958, 1380, 1716, 1834, 2021, 3026, 3058, 3093, 3293, 3931, 4129] # or 'all'
-# IDXS = [155216]
-INCLUDE_INDIV_PLOTS = False # if True, generate and save ROUGE score plots for each evaluation
+
 CLEAN_NOTES = False
 MODEL = "o4-mini"  # strong tool-calling + reasoning; adjust per your account
 OVERWRITE_REPORTS = True  # if True, overwrite existing evaluation reports
-REPORT_NAME = 'eval_report'
 
 with open('tools.json') as f:
     TOOLS = json.load(f)
@@ -91,19 +88,17 @@ class Evaluator:
         standard_path = get_standard_path(idx)
         standard_note = read(standard_path)
         gen_note = read(gen_path)
-        eval_dir_path = os.path.join(os.path.dirname(gen_path), 'eval')
-        os.makedirs(eval_dir_path, exist_ok=True)
         metadata = {'standard_note_path': standard_path, 'cleaned': self.clean_notes}
         if self.clean_notes:
             standard_note = self.clean_text(standard_note)
             gen_note = self.clean_text(gen_note)
         rouge_scores = self.rouge.get_scores(gen_note, standard_note, avg=False)
         for key, value in rouge_scores[0].items():
-            report_path = os.path.join(eval_dir_path, f'{key}.json')
+            report_path = os.path.join(os.path.dirname(gen_path), f'{key}.json')
             self.write(report_path, [{**metadata, **value}], overwrite=overwrite)
         metadata.update({'model': self.model})
         model_eval = self.compare_documents(standard_note, gen_note, include_raw=False)
-        self.write(os.path.join(eval_dir_path, f'ai_eval.json'),  [{**metadata, **model_eval}], overwrite=overwrite)
+        self.write(os.path.join(os.path.dirname(gen_path), f'ai_eval.json'),  [{**metadata, **model_eval}], overwrite=overwrite)
     
     def write(self, path, data, overwrite=False):
         if os.path.exists(path) and not overwrite:
@@ -118,7 +113,8 @@ class Evaluator:
 
 
 if __name__=='__main__':
-    gen_file_paths = search_file_paths(filename='gen_note.txt', idxs=IDXS, models='ozwell', prompts='all')
+    # gen_file_paths = search_file_paths(filename='gen_note.txt', idxs='all', models='ozwell', prompts='all')
+    gen_file_paths = ['results/155216/ozwell/g2/1763744878.57512/gen_note.txt']
     eval = Evaluator(
         model=MODEL,
         system_prompt=SYSTEM_PROMPT,
