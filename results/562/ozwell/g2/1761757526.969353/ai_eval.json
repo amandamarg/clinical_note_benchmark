@@ -4,7 +4,30 @@
         "cleaned": false,
         "model": "o4-mini",
         "added": [],
-        "missing": [],
-        "text": "I\u2019m missing Document B\u2014could you please provide the text of Document B so I can compare it to Document A?"
+        "missing": [
+            {
+                "clinical_concept": "Removal of titanium bone plate and screws",
+                "category": "procedure",
+                "severity": "high",
+                "confidence": 0.9,
+                "rationale": "Removal of the plated hardware in an infected area is a significant surgical step affecting patient management and outcomes.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [
+                        "387713003"
+                    ],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Operative Note",
+                    "snippet_A": "However, a decision was made to remove them based on the fact that they are present in an infected area.",
+                    "offsets_A": [
+                        1230,
+                        1295
+                    ]
+                }
+            }
+        ],
+        "text": null
     }
 ]

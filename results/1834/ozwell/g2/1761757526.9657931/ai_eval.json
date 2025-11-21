@@ -3,8 +3,26 @@
         "standard_note_path": "results/1834/full_note.txt",
         "cleaned": false,
         "model": "o4-mini",
-        "added": [],
+        "added": [
+            {
+                "clinical_concept": "Scheduled post-operative follow-up",
+                "category": "plan",
+                "severity": "low",
+                "confidence": 0.9,
+                "rationale": "Follow-up appointment ensures monitoring for complications after surgery.",
+                "codes": {
+                    "ICD10": [],
+                    "SNOMED": [],
+                    "RxNorm": []
+                },
+                "evidence": {
+                    "section": "Plan",
+                    "snippet_B": "The patient is scheduled for a follow-up visit in one week.",
+                    "offsets_B": []
+                }
+            }
+        ],
         "missing": [],
-        "text": "It looks like I only have Document A. Could you please provide Document B so I can compare them?"
+        "text": null
     }
 ]

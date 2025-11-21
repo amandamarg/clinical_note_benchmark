@@ -114,7 +114,7 @@ class Evaluator:
 
 if __name__=='__main__':
     # gen_file_paths = search_file_paths(filename='gen_note.txt', idxs='all', models='ozwell', prompts='all')
-    gen_file_paths = ['results/155216/ozwell/g2/1763744878.57512/gen_note.txt']
+    gen_file_paths = ['results/562/ozwell/g2/1761757526.969353/gen_note.txt', 'results/1834/ozwell/g2/1761757526.9657931/gen_note.txt']
     eval = Evaluator(
         model=MODEL,
         system_prompt=SYSTEM_PROMPT,
